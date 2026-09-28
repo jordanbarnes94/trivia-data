@@ -1,0 +1,106 @@
+{
+ "date": "12-31",
+ "died": [
+  {
+   "year": 1775,
+   "year_label": "1775",
+   "name": "Richard Montgomery",
+   "kind": "individual",
+   "desc": "Irish soldier, major general in the Continental Army",
+   "cause": "killed at the Battle of Quebec (1775)",
+   "last_words": "What news from Boston?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Montgomery",
+   "born": "2 December 1738"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Armand Louis de Gontaut",
+   "kind": "individual",
+   "desc": "French soldier and politician",
+   "cause": "prior to execution by guillotine",
+   "last_words": "I have been unfaithful to God, to my Order, to my King; I die full of faith and repentance.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Armand_Louis_de_Gontaut",
+   "born": "13 April 1747"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Julius Peter Garesché",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 41-year-old American professional soldier was killed on the first day of the Battle of Stones River when a cannonball decapitated him.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Julius_Peter_Garesché",
+   "born": "26 April 1821"
+  },
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "Fredrika Bremer",
+   "kind": "individual",
+   "desc": "Swedish writer and feminist reformer",
+   "cause": null,
+   "last_words": "Ah! my child, let us speak of Christ's love-the best, the highest love!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fredrika_Bremer",
+   "born": "17 August 1801"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "Aleksis Kivi",
+   "kind": "individual",
+   "desc": "Finnish author and poet",
+   "cause": null,
+   "last_words": "I live.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aleksis_Kivi",
+   "born": "10 October 1834"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Samuel Wardell",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The lamplighter in Flatbush, Brooklyn, New York, had attached a 10 lb rock to his alarm clock, which would crash to the floor and awaken him. On Christmas Eve, he rearranged his furniture for a party, but forgot to change his room back afterwards. When the alarm mechanism went off the next morning, the rock fell on his head and killed him.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Oliver L. Austin",
+   "kind": "individual",
+   "desc": "American ornithologist",
+   "cause": "to his wife",
+   "last_words": "I think I'll go now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oliver_L._Austin",
+   "born": "24 May 1903"
+  }
+ ],
+ "born": [
+  {
+   "year": 225,
+   "year_label": "225",
+   "name": "Saint Lawrence",
+   "kind": "individual",
+   "desc": "Christian deacon",
+   "cause": "while being burned alive on a gridiron",
+   "last_words": "I am roasted,-now turn me, and eat me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saint_Lawrence",
+   "died": "10 August 258"
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "John Denver",
+   "kind": "individual",
+   "desc": "American singer-songwriter",
+   "cause": "asking if he had transmitted a four-digit code properly prior to crash of his experimental Rutan Long-EZ aircraft",
+   "last_words": "Do you have it now?",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Denver",
+   "died": "12 October 1997"
+  }
+ ]
+}

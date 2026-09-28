@@ -1,0 +1,84 @@
+{
+ "date": "07-15",
+ "died": [
+  {
+   "year": 1291,
+   "year_label": "1291",
+   "name": "Rudolf I of Germany",
+   "kind": "individual",
+   "desc": null,
+   "cause": "he was buried at Speyer Cathedral",
+   "last_words": "I am on the way to Spires to visit the kings, my predecessors.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany",
+   "born": "1 May 1218"
+  },
+  {
+   "year": 1685,
+   "year_label": "1685",
+   "name": "James Scott, 1st Duke of Monmouth",
+   "kind": "individual",
+   "desc": "illegitimate son of Charles II of England",
+   "cause": "to Jack Ketch, his executioner. Ketch was nervous and took several blows to behead Scott",
+   "last_words": "There are six guineas for you, and do not hack me as you did my Lord Russell. I have heard that you struck him three or four times. My servant will give you more gold if you do your work well.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Scott,_1st_Duke_of_Monmouth",
+   "born": "9 April 1649"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "Anton Chekhov",
+   "kind": "individual",
+   "desc": "Russian author and playwright",
+   "cause": "to his wife, Olga",
+   "last_words": "It's a long time since I drank champagne.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anton_Chekhov",
+   "born": "29 January 1860"
+  },
+  {
+   "year": 1974,
+   "year_label": "1974",
+   "name": "Christine Chubbuck",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 29-year-old American news anchor from Hudson, Ohio, shot herself in the head on live television at the start of Suncoast Digest, a local newscast for WXLT-TV in Sarasota, Florida, after reading some of the area's breaking news headlines. Chubbuck was the first person to take their own life on live television.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Christine_Chubbuck",
+   "born": "24 August 1944"
+  }
+ ],
+ "born": [
+  {
+   "year": 1837,
+   "year_label": "1837",
+   "name": "Stephanie of Hohenzollern-Sigmaringen",
+   "kind": "individual",
+   "desc": "queen consort of Portugal",
+   "cause": null,
+   "last_words": "Comfort my Peter.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_of_Hohenzollern-Sigmaringen",
+   "died": "17 July 1859"
+  },
+  {
+   "year": 1856,
+   "year_label": "1856",
+   "name": "Charles Frohman",
+   "kind": "individual",
+   "desc": "American theater manager and producer",
+   "cause": "paraphrasing Peter Pan prior to dying in the sinking of the RMS Lusitania",
+   "last_words": "Why fear death? Death is only a beautiful adventure.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Frohman",
+   "died": "7 May 1915"
+  },
+  {
+   "year": 1956,
+   "year_label": "1956",
+   "name": "Ian Curtis",
+   "kind": "individual",
+   "desc": "English musician",
+   "cause": "written on a note before hanging himself",
+   "last_words": "At this very moment, I wish I were dead. I just can't cope anymore.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ian_Curtis",
+   "died": "18 May 1980"
+  }
+ ]
+}

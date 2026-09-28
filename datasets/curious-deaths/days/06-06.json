@@ -1,0 +1,194 @@
+{
+ "date": "06-06",
+ "died": [
+  {
+   "year": 1799,
+   "year_label": "1799",
+   "name": "Patrick Henry",
+   "kind": "individual",
+   "desc": "American attorney, politician and orator",
+   "cause": null,
+   "last_words": "Doctor, I wish you to observe how real and beneficial the religion of Christ is to a man about to die.... I am, however, much consoled by reflecting that the religion of Christ has, from its first appearance in the world, been attacked in vain by all the wits, philosophers, and wise ones, aided by every power of man, and its triumphs have been complete.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Henry",
+   "born": "29 May 1736"
+  },
+  {
+   "year": 1832,
+   "year_label": "1832",
+   "name": "Jeremy Bentham",
+   "kind": "individual",
+   "desc": "English philosopher, jurist and social reformer",
+   "cause": "to one of his disciples",
+   "last_words": "I now feel that I am dying. Our care must be to minimize the pain. Do not let any of the servants come into the room, and keep away the youths. It will be distressing to them, and they can be of no service. Yet I must not be alone, and you will remain with me, and you only, and then we shall have reduced the pain to the least possible amount.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Bentham",
+   "born": "15 February 1748"
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Camillo Benso, Count of Cavour",
+   "kind": "individual",
+   "desc": "Italian statesman, Prime Minister of Italy",
+   "cause": "to Victor Emmanuel II of Italy, who had said he would see him tomorrow",
+   "last_words": "No, Your Majesty, to-morrow you will not see me here.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Camillo_Benso,_Count_of_Cavour",
+   "born": "10 August 1810"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Turner Ashby",
+   "kind": "individual",
+   "desc": "Confederate cavalry commander of the American Civil War",
+   "cause": "before being killed at Harrisonburg, Virginia",
+   "last_words": "Charge Men! For God's sake charge!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Turner_Ashby",
+   "born": "23 October 1828"
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "name": "Archduchess Mathilda of Austria",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 18-year-old daughter of Archduke Albrecht, Duke of Teschen set her dress on fire while trying to hide a cigarette from her father, who had forbidden her to smoke.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Archduchess_Mathilda_of_Austria",
+   "born": "25 January 1849"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Fred C. Roberts",
+   "kind": "individual",
+   "desc": "English physician and medical missionary",
+   "cause": "dying in Tientsin, China",
+   "last_words": "Enough, Enough.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fred_C._Roberts",
+   "born": "9 September 1862"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Carl Jung",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Swiss psychiatrist and psychoanalyst",
+   "last_words": "Let's have a really good red wine tonight.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Carl_Jung",
+   "born": "26 July 1875"
+  },
+  {
+   "year": 1968,
+   "year_label": "1968",
+   "name": "Robert F. Kennedy",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "speaking to medical attendants who lifted him onto a stretcher several minutes after he was fatally shot and lost consciousness shortly thereafter",
+   "last_words": "Don't lift me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+   "born": "20 November 1925"
+  },
+  {
+   "year": 1972,
+   "year_label": "1972",
+   "name": "Huguette Gaulin",
+   "kind": "individual",
+   "desc": "Canadian Novelist",
+   "cause": "who committed suicide by burning herself",
+   "last_words": "You have destroyed the beauty of the world!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Huguette_Gaulin",
+   "born": null
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Feltus Taylor",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "right before his execution",
+   "last_words": "I want to tell you, Keith, and the Ponsano family that I always regretted what I've done. It was my own doing. After this is over with, I hope you can find the peace to move on.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Feltus_Taylor",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1646,
+   "year_label": "1646",
+   "name": "Hortense Mancini",
+   "kind": "individual",
+   "desc": "Duchesse de Mazarin, niece of Cardinal Mazarin and mistress of Charles II of England",
+   "cause": "dying in financial ruin",
+   "last_words": "Debt!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hortense_Mancini",
+   "died": "2 July 1699"
+  },
+  {
+   "year": 1755,
+   "year_label": "1755",
+   "name": "Nathan Hale",
+   "kind": "individual",
+   "desc": "American soldier and spy",
+   "cause": "before being hanged by the British for his involvement in the American Revolutionary War",
+   "last_words": "I only regret that I have but one life to give for my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Hale",
+   "died": "22 September 1776"
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Robert Falcon Scott",
+   "kind": "individual",
+   "desc": "Royal Navy officer and Antarctic explorer",
+   "cause": "final diary entry on doomed Terra Nova Expedition",
+   "last_words": "Last Entry - For God's sake look after our people",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott",
+   "died": "29 March 1912"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "Italo Balbo",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 44-year-old governor of Italian Libya and marshal of the Regia Aeronautica was flying his personal Savoia-Marchetti SM.79 when the Libyan airfield at Tobruk was attacked by a squad of British planes. He was killed by friendly fire from Italian anti-aircraft batteries on the ground.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Italo_Balbo",
+   "died": "28 June 1940"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Jack Youll",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "prior to being killed in action at the Battle of Vittorio Veneto during World War I",
+   "last_words": "It's all right Cowling; we've got them stone cold.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Youll",
+   "died": "27 October 1918"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Isaiah Berlin",
+   "kind": "individual",
+   "desc": "Russian-British philosopher",
+   "cause": "to a nurse",
+   "last_words": "And where do you come from?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaiah_Berlin",
+   "died": "5 November 1997"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Neville Heath",
+   "kind": "individual",
+   "desc": "English murderer",
+   "cause": "when he was offered a drink prior to his execution by hanging",
+   "last_words": "You might make that a double.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Neville_Heath",
+   "died": "16 October 1946"
+  }
+ ]
+}

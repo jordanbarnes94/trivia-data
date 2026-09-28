@@ -1,0 +1,139 @@
+{
+ "date": "03-02",
+ "died": [
+  {
+   "year": 1617,
+   "year_label": "1617",
+   "name": "Robert Abbot",
+   "kind": "individual",
+   "desc": "Anglican clergyman and academic",
+   "cause": null,
+   "last_words": "Come Lord Jesu, come quickly, finish in me the work that Thou has begun; into Thy hands, O Lord, I commend my spirit, for Thou has redeemed me. O God of truth, save me Thy servant, who hopes and confides in Thee alone; let Thy mercy, O Lord, be shewn unto me; in Thee have I trusted, O Lord, let me not be confounded for ever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Abbot_(bishop)",
+   "born": null
+  },
+  {
+   "year": 1791,
+   "year_label": "1791",
+   "name": "John Wesley",
+   "kind": "individual",
+   "desc": "English cleric and theologian, founder of Methodism",
+   "cause": null,
+   "last_words": "The best of all is, God is with us.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley",
+   "born": "17 June 1703"
+  },
+  {
+   "year": 1871,
+   "year_label": "1871",
+   "name": "James Osgood Andrew",
+   "kind": "individual",
+   "desc": "American bishop of the Methodist Episcopal Church, South",
+   "cause": null,
+   "last_words": "God bless you all!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Osgood_Andrew",
+   "born": "3 May 1794"
+  },
+  {
+   "year": 1930,
+   "year_label": "1930",
+   "name": "D. H. Lawrence",
+   "kind": "individual",
+   "desc": "English writer and poet",
+   "cause": null,
+   "last_words": "I think it is time for morphine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/D._H._Lawrence",
+   "born": "11 September 1885"
+  },
+  {
+   "year": 1995,
+   "year_label": "1995",
+   "name": "Vivian MacKerrell",
+   "kind": "individual",
+   "desc": "British actor",
+   "cause": null,
+   "last_words": "Give me a fucking pre-med you fuckers, I'm a personal friend of Sir Lancelot Spratt.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vivian_MacKerrell",
+   "born": "23 May 1944"
+  }
+ ],
+ "born": [
+  {
+   "year": 1481,
+   "year_label": "1481",
+   "name": "Franz von Sickingen",
+   "kind": "individual",
+   "desc": "German knight and Protestant leader",
+   "cause": "when his chaplain asked if he wanted to confess prior to his death defending his castle",
+   "last_words": "I have already confessed my sins to God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franz_von_Sickingen",
+   "died": "7 May 1523"
+  },
+  {
+   "year": 1760,
+   "year_label": "1760",
+   "name": "Camille Desmoulins",
+   "kind": "individual",
+   "desc": "French journalist and politician",
+   "cause": "looking at the axe prior to execution by guillotine",
+   "last_words": "Behold, then, the recompense reserved for the first apostle of liberty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Camille_Desmoulins",
+   "died": "5 April 1794"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Sam Houston",
+   "kind": "individual",
+   "desc": "American soldier and politician",
+   "cause": "to his wife, Margaret Lea Houston",
+   "last_words": "Texas! Texas! Margaret.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Houston",
+   "died": "26 July 1863"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "Pope Pius XII",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic prelate and Pope",
+   "cause": null,
+   "last_words": "Pray. Pray that this regrettable situation for the Church may end.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_XII",
+   "died": "9 October 1958"
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Moe Berg",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": "to his nurse",
+   "last_words": "How did the Mets do today?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moe_Berg",
+   "died": "29 May 1972"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "Dr. Seuss",
+   "kind": "individual",
+   "desc": "American children's author, political cartoonist, illustrator, poet, animator, and filmmaker",
+   "cause": null,
+   "last_words": "Yes. I'm not going to die tomorrow.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dr._Seuss",
+   "died": "24 September 1991"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Desi Arnaz",
+   "kind": "individual",
+   "desc": "Cuban-American bandleader, actor and film and television producer",
+   "cause": "over the phone to his former wife, Lucille Ball",
+   "last_words": "I love you too, honey. Good luck with your show.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Desi_Arnaz",
+   "died": "2 December 1986"
+  }
+ ]
+}

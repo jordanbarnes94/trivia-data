@@ -1,0 +1,95 @@
+{
+ "date": "09-19",
+ "died": [
+  {
+   "year": 1692,
+   "year_label": "1692",
+   "name": "Giles Corey",
+   "kind": "individual",
+   "desc": "English-born American farmer",
+   "cause": "before being pressed to death during the Salem witch trials",
+   "last_words": "More weight.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giles_Corey",
+   "born": null
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "James A. Garfield",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to General David G. Swaim",
+   "last_words": "Oh, Swaim, this terrible pain. Press your hand on it. Oh, Swaim. Oh, Swaim, can't you stop this?",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_A._Garfield",
+   "born": "19 November 1831"
+  },
+  {
+   "year": 1905,
+   "year_label": "1905",
+   "name": "Thomas John Barnardo",
+   "kind": "individual",
+   "desc": "Irish-born British philanthropist, founder of the Barnardo's charity",
+   "cause": "to his wife",
+   "last_words": "Syrie, my head is so heavy. Let me rest it on your face.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_John_Barnardo",
+   "born": "4 July 1845"
+  },
+  {
+   "year": 1968,
+   "year_label": "1968",
+   "name": "Red Foley",
+   "kind": "individual",
+   "desc": "American country music singer",
+   "cause": null,
+   "last_words": "I'm awful tired now, Hank. I've got to go to bed.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Red_Foley",
+   "born": "17 June 1910"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "John William Rook",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "Freedom. Freedom at last, man. It's been a real good one.",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_North_Carolina",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 86,
+   "year_label": "86",
+   "name": "Antoninus Pius",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "giving the password for the night-watch",
+   "last_words": "Equanimity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antoninus_Pius",
+   "died": "7 March 161"
+  },
+  {
+   "year": 1587,
+   "year_label": "1587",
+   "name": "Robert Sanderson",
+   "kind": "individual",
+   "desc": "English theologian and casuist",
+   "cause": null,
+   "last_words": "My heart is fixed, O God! my heart is fixed where true joy is to be found.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Sanderson_(theologian)",
+   "died": "29 January 1663"
+  },
+  {
+   "year": 1792,
+   "year_label": "1792",
+   "name": "William Backhouse Astor Sr.",
+   "kind": "individual",
+   "desc": "American business magnate",
+   "cause": null,
+   "last_words": "I might have lived another year if I had not caught this cold, but I am satisfied to go now. I am eighty-four years old-long past the allotted time of man-and at my age, life becomes a burden.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Backhouse_Astor_Sr.",
+   "died": "24 November 1875"
+  }
+ ]
+}

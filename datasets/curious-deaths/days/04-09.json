@@ -1,0 +1,117 @@
+{
+ "date": "04-09",
+ "died": [
+  {
+   "year": 1626,
+   "year_label": "1626",
+   "name": "Francis Bacon",
+   "kind": "individual",
+   "desc": "English philosopher and statesman",
+   "cause": "John Aubrey reported in Brief Lives that the English philosopher and statesman died of pneumonia after stuffing a chicken carcass with snow to learn whether it could preserve meat.",
+   "last_words": "Thy creatures, O Lord, have been my books, but Thy Holy Scriptures much more. I have sought Thee in the fields and gardens, but I have found Thee, O God, in Thy Sanctuary-Thy Temple.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon",
+   "born": "22 January 1561"
+  },
+  {
+   "year": 1747,
+   "year_label": "1747",
+   "name": "Simon Fraser, 11th Lord Lovat",
+   "kind": "individual",
+   "desc": null,
+   "cause": "quoting a line of Horace when executed by beheading as a Jacobite rebel",
+   "last_words": "Dulce et decorum est pro patria mori.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Simon_Fraser,_11th_Lord_Lovat",
+   "born": null
+  },
+  {
+   "year": 1864,
+   "year_label": "1864",
+   "name": "Lewis Benedict",
+   "kind": "individual",
+   "desc": "American politician and Union colonel of the American Civil War",
+   "cause": "before being killed at the Battle of Pleasant Hill",
+   "last_words": "Colonel, rally your men and advance as soon as possible.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Benedict",
+   "born": "2 September 1817"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Dante Gabriel Rossetti",
+   "kind": "individual",
+   "desc": "English poet, translator and artist",
+   "cause": null,
+   "last_words": "Then you really think I am dying? At last you think so. But I was right from the first.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti",
+   "born": "12 May 1828"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Zip the Pinhead",
+   "kind": "individual",
+   "desc": "American freak show performer",
+   "cause": null,
+   "last_words": "Well, we fooled 'em for a long time, didn't we?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zip_the_Pinhead",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1336,
+   "year_label": "1336",
+   "name": "Timur",
+   "kind": "individual",
+   "desc": "Turco-Mongol conqueror, founder of the Timurid Empire",
+   "cause": null,
+   "last_words": "Never yet has death been frightened away by screaming.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timur",
+   "died": "19 February 1405"
+  },
+  {
+   "year": 1649,
+   "year_label": "1649",
+   "name": "James Scott, 1st Duke of Monmouth",
+   "kind": "individual",
+   "desc": "illegitimate son of Charles II of England",
+   "cause": "to Jack Ketch, his executioner. Ketch was nervous and took several blows to behead Scott",
+   "last_words": "There are six guineas for you, and do not hack me as you did my Lord Russell. I have heard that you struck him three or four times. My servant will give you more gold if you do your work well.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Scott,_1st_Duke_of_Monmouth",
+   "died": "15 July 1685"
+  },
+  {
+   "year": 1758,
+   "year_label": "1758",
+   "name": "Fisher Ames",
+   "kind": "individual",
+   "desc": "member of the U.S. House of Representatives",
+   "cause": null,
+   "last_words": "I have peace of mind. It may arise from stupidity, but I think it is founded on a belief of the Gospel. My hope is in the mercy of God through Jesus Christ.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fisher_Ames",
+   "died": "4 July 1808"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "Charles Baudelaire",
+   "kind": "individual",
+   "desc": "French poet",
+   "cause": null,
+   "last_words": "Holy name!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Baudelaire",
+   "died": "31 August 1867"
+  },
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "Milburn G. Apt",
+   "kind": "individual",
+   "desc": "American test pilot",
+   "cause": "final radio transmission while losing control of Bell X-2",
+   "last_words": "There she goes!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Milburn_G._Apt",
+   "died": "27 September 1956"
+  }
+ ]
+}

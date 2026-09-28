@@ -1,0 +1,150 @@
+{
+ "date": "05-18",
+ "died": [
+  {
+   "year": 1160,
+   "year_label": "1160",
+   "name": "Eric the Holy",
+   "kind": "individual",
+   "desc": "Swedish king",
+   "cause": "just before being decapitated by his successor Magnus Henriksson",
+   "last_words": "Let us complete the Service of Offering, the rest of Holy Mass I will celebrate elsewhere!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eric_the_Holy",
+   "born": null
+  },
+  {
+   "year": 1812,
+   "year_label": "1812",
+   "name": "John Bellingham",
+   "kind": "individual",
+   "desc": "English merchant, assassin of Spencer Perceval",
+   "cause": "prior to hanging",
+   "last_words": "I thank God for having enabled me to meet my fate with so much fortitude and resignation.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Bellingham",
+   "born": null
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "Maltbie Davenport Babcock",
+   "kind": "individual",
+   "desc": "American clergyman and writer",
+   "cause": "to hospital superintendent and nurse, explaining his method of suicide while suffering from brucellosis",
+   "last_words": "I have swallowed corrosive sublimate.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maltbie_Davenport_Babcock",
+   "born": "3 August 1858"
+  },
+  {
+   "year": 1911,
+   "year_label": "1911",
+   "name": "Gustav Mahler",
+   "kind": "individual",
+   "desc": "Austrian composer and conductor",
+   "cause": null,
+   "last_words": "Mozart! Mozart!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Mahler",
+   "born": "7 July 1860"
+  },
+  {
+   "year": 1955,
+   "year_label": "1955",
+   "name": "Mary McLeod Bethune",
+   "kind": "individual",
+   "desc": "American educator, stateswoman and civil rights activist",
+   "cause": null,
+   "last_words": "Life is wonderful. I am wonderful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_McLeod_Bethune",
+   "born": "10 July 1875"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "David A. Johnston",
+   "kind": "individual",
+   "desc": "American volcanologist",
+   "cause": "reporting the 1980 eruption of Mount St. Helens from observation post",
+   "last_words": "Vancouver! Vancouver! This is it!",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_A._Johnston",
+   "born": "18 December 1949"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "Ian Curtis",
+   "kind": "individual",
+   "desc": "English musician",
+   "cause": "written on a note before hanging himself",
+   "last_words": "At this very moment, I wish I were dead. I just can't cope anymore.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ian_Curtis",
+   "born": "15 July 1956"
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "William Saroyan",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": null,
+   "last_words": "It's the most beautiful time in my life – and death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Saroyan",
+   "born": "31 August 1908"
+  }
+ ],
+ "born": [
+  {
+   "year": 1662,
+   "year_label": "1662",
+   "name": "George Smalridge",
+   "kind": "individual",
+   "desc": "Bishop of Bristol",
+   "cause": null,
+   "last_words": "God be thanked, I have had a very good night.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Smalridge",
+   "died": "27 September 1719"
+  },
+  {
+   "year": 1692,
+   "year_label": "1692",
+   "name": "Joseph Butler",
+   "kind": "individual",
+   "desc": "English Anglican bishop and theologian",
+   "cause": "referring to John 6:37",
+   "last_words": "I have often read and thought of that scripture, but never till this moment did I feel its full power, and now I die happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Butler",
+   "died": "16 June 1752"
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Nicholas II of Russia",
+   "kind": "individual",
+   "desc": "last Emperor of Russia",
+   "cause": "quoting Jesus to Yakov Yurovsky upon being informed he and his family were to be put to death",
+   "last_words": "You know not what you do.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_II_of_Russia",
+   "died": "17 July 1918"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Thomas Midgley Jr.",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 55-year-old American chemical engineer, best known for inventing leaded gasoline and chlorofluorocarbon gas, contracted polio in 1941, which left him severely disabled, leading him to devise an elaborate system of ropes and pulleys to lift himself out of bed. In 1944, he became entangled in the device and died of strangulation.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
+   "died": "2 November 1944"
+  },
+  {
+   "year": 1955,
+   "year_label": "1955",
+   "name": "Vincent Chin",
+   "kind": "individual",
+   "desc": "Chinese-American draftsman",
+   "cause": "just after being beaten with a baseball bat by Chrysler plant supervisor Ronald Ebens. Chin died four days later at Henry Ford Hospital",
+   "last_words": "It's not fair.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Vincent_Chin",
+   "died": "19 June 1982"
+  }
+ ]
+}

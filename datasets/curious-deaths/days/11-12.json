@@ -1,0 +1,106 @@
+{
+ "date": "11-12",
+ "died": [
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "Stephen Gardiner",
+   "kind": "individual",
+   "desc": "English bishop and politician",
+   "cause": null,
+   "last_words": "Like Peter, I have erred, unlike Peter, I have not wept.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Gardiner",
+   "born": null
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Jean Sylvain Bailly",
+   "kind": "individual",
+   "desc": "French astronomer, mathematician and politician",
+   "cause": "to a heckler who asked if he was trembling as he approached the guillotine",
+   "last_words": "Yes my friend, but it's from the cold.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean_Sylvain_Bailly",
+   "born": "15 September 1736"
+  },
+  {
+   "year": 1819,
+   "year_label": "1819",
+   "name": "Jesse Appleton",
+   "kind": "individual",
+   "desc": "second president of Bowdoin College and father of First Lady of the United States Jane Pierce",
+   "cause": null,
+   "last_words": "Glory to God in the highest. The whole earth shall be filled with his glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Appleton",
+   "born": "17 November 1772"
+  },
+  {
+   "year": 1958,
+   "year_label": "1958",
+   "name": "James Michael Curley",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "to his son while being wheeled out of surgery",
+   "last_words": "I wish to announce the first plank in my campaign for reelection...we're going to have the floors in this goddamned hospital smoothed out!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Michael_Curley",
+   "born": "20 November 1874"
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "William Holden",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 63-year-old American actor slipped on a rug in his apartment while intoxicated, gashed his head open on a bedside table and bled to death without calling for help. His body was discovered four days later.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Holden",
+   "born": "17 April 1918"
+  }
+ ],
+ "born": [
+  {
+   "year": 1615,
+   "year_label": "1615",
+   "name": "Richard Baxter",
+   "kind": "individual",
+   "desc": "English Puritan church leader, poet, hymnodist and theologian",
+   "cause": null,
+   "last_words": "Death, death. O I thank Him, I thank Him. The Lord teach you to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Baxter",
+   "died": "8 December 1691"
+  },
+  {
+   "year": 1774,
+   "year_label": "1774",
+   "name": "Charles Bell",
+   "kind": "individual",
+   "desc": "Scottish physician, artist and philosophical theologian",
+   "cause": "to his wife",
+   "last_words": "Hold me in your arms.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Bell",
+   "died": "28 April 1842"
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "Ben Travers",
+   "kind": "individual",
+   "desc": "English writer",
+   "cause": null,
+   "last_words": "This is where the real fun starts.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ben_Travers",
+   "died": "18 December 1980"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Christian Marty",
+   "kind": "individual",
+   "desc": null,
+   "cause": "pilot of Air France Flight 4590, shortly before crashing",
+   "last_words": "\"No time, no.\" (\"Pas le temps, non.\")",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christian_Marty",
+   "died": "25 July 2000"
+  }
+ ]
+}

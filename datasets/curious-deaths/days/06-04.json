@@ -1,0 +1,106 @@
+{
+ "date": "06-04",
+ "died": [
+  {
+   "year": 1798,
+   "year_label": "1798",
+   "name": "Giacomo Casanova",
+   "kind": "individual",
+   "desc": "Italian adventurer and author",
+   "cause": null,
+   "last_words": "I have lived as a philosopher. I die as a Christian.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Casanova",
+   "born": "2 April 1725"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "James Lawrence",
+   "kind": "individual",
+   "desc": "United States naval officer",
+   "cause": "mortally wounded by British fire. His words became a popular naval battle cry",
+   "last_words": "Don't give up the ship. Fight her till she sinks.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Lawrence",
+   "born": "1 October 1781"
+  },
+  {
+   "year": 1830,
+   "year_label": "1830",
+   "name": "Antonio José de Sucre",
+   "kind": "individual",
+   "desc": "Venezuelan independence leader and President of Peru and Bolivia",
+   "cause": "after being shot while riding in the jungle of Colombia. He was said to be an educated gentleman who had never cursed until that day",
+   "last_words": "Fuck, a bullet wound!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antonio_José_de_Sucre",
+   "born": "3 February 1795"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Frank Hayes",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 22-year-old Irish jockey died of a heart attack mid-race in Elmont, New York, and collapsed on the horse, which nonetheless crossed the finish line first, still carrying his body.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frank_Hayes_(jockey)",
+   "born": null
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Wilhelm II",
+   "kind": "individual",
+   "desc": "the last German Emperor",
+   "cause": "dying of a pulmonary embolism at Huis Doorn",
+   "last_words": "It's coming to an end for me, I'm sinking, I'm sinking!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor",
+   "born": "27 January 1859"
+  }
+ ],
+ "born": [
+  {
+   "year": 1751,
+   "year_label": "1751",
+   "name": "John Scott, 1st Earl of Eldon",
+   "kind": "individual",
+   "desc": "British barrister and politician",
+   "cause": null,
+   "last_words": "It matters not where I am going whether the weather be cold or hot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Scott,_1st_Earl_of_Eldon",
+   "died": "13 January 1838"
+  },
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "Tsuyoshi Inukai",
+   "kind": "individual",
+   "desc": "former Prime Minister of Japan",
+   "cause": "assassinated by Taku Mikami",
+   "last_words": "″Well, wait, you'll understand once we talk. It's day, you need not shoot me.″",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tsuyoshi_Inukai",
+   "died": "15 May 1932"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Arthur Barker",
+   "kind": "individual",
+   "desc": "American criminal",
+   "cause": "shot while attempting to escape from Alcatraz Federal Penitentiary",
+   "last_words": "I'm all shot to hell!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Barker",
+   "died": "13 January 1939"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Victor Prather",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 34-year-old U.S. Navy flight surgeon drowned at the end of the record-setting Strato-Lab V balloon flight when he slipped from the rescue sling during recovery operations in the Gulf of Mexico and his pressure suit filled with water.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Victor_Prather",
+   "died": "4 May 1961"
+  }
+ ]
+}

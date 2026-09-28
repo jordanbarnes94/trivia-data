@@ -1,0 +1,117 @@
+{
+ "date": "04-11",
+ "died": [
+  {
+   "year": 1447,
+   "year_label": "1447",
+   "name": "Henry Beaufort",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Cardinal, Bishop of Winchester",
+   "last_words": "Will not all my riches save me? What, is there no bribing death?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Beaufort",
+   "born": null
+  },
+  {
+   "year": 1554,
+   "year_label": "1554",
+   "name": "Thomas Wyatt the Younger",
+   "kind": "individual",
+   "desc": "English politician and leader of Wyatt's rebellion",
+   "cause": "exculpating Princess Elizabeth and Edward Courtenay, 1st Earl of Devon, prior to execution by beheading for treason",
+   "last_words": "What I then said I unsay now; and what I now say is the truth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Wyatt_the_Younger",
+   "born": "20 September 1521"
+  },
+  {
+   "year": 1734,
+   "year_label": "1734",
+   "name": "Thomas Fantet de Lagny",
+   "kind": "individual",
+   "desc": "French mathematician",
+   "cause": "responding to the question \"What is the square of 12?\" on his deathbed",
+   "last_words": "One hundred and forty-four.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Fantet_de_Lagny",
+   "born": "7 November 1660"
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Rowland Hill",
+   "kind": "individual",
+   "desc": "English preacher, evangelical and vaccination advocate",
+   "cause": "quoting 1 Peter 3:18",
+   "last_words": "Christ also hath once suffered for sins, the just for the unjust, that he might bring us unto God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rowland_Hill_(preacher)",
+   "born": "23 August 1744"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "Charles Reade",
+   "kind": "individual",
+   "desc": "English novelist and dramatist",
+   "cause": "referring to 2 Corinthians 12:1-4, which he had been discussing with a relative",
+   "last_words": "Amazing, amazing glory! I am having Paul's understanding.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Reade",
+   "born": "8 June 1814"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Luther Burbank",
+   "kind": "individual",
+   "desc": "American botanist",
+   "cause": null,
+   "last_words": "I don't feel good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Luther_Burbank",
+   "born": "7 March 1849"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Jessica Dubroff",
+   "kind": "individual",
+   "desc": "seven-year-old American pilot trainee",
+   "cause": "before dying in an aircraft crash. Pilots at the airport later testified that the weather was unsuitable for flight",
+   "last_words": "Mom, do you hear the rain? Do you hear the rain? Mom, I just want to take off in the plane.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Dubroff",
+   "born": "5 May 1988"
+  }
+ ],
+ "born": [
+  {
+   "year": 1492,
+   "year_label": "1492",
+   "name": "Margaret of Valois-Angoulême",
+   "kind": "individual",
+   "desc": "Queen of Navarre",
+   "cause": null,
+   "last_words": "Farewell, and remember me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Valois-Angoulême",
+   "died": "21 December 1549"
+  },
+  {
+   "year": 1744,
+   "year_label": "1744",
+   "name": "José Anastácio da Cunha",
+   "kind": "individual",
+   "desc": "Portuguese mathematician and poet",
+   "cause": "recorded by Domingos de Sousa Coutinho",
+   "last_words": "Je craîndrais de ne pas mépriser assez la vie - some dreams of humanity qui me déchirent plutôt qu'ils me consolent...",
+   "wikipedia": "https://en.wikipedia.org/wiki/José_Anastácio_da_Cunha",
+   "died": "1 January 1787"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Alfredo Rampi",
+   "kind": "individual",
+   "desc": "Italian child",
+   "cause": "moments before he died after falling in a well",
+   "last_words": "Mama!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfredo_Rampi",
+   "died": "13 June 1981"
+  }
+ ]
+}

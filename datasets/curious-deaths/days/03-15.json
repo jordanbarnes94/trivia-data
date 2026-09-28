@@ -1,0 +1,95 @@
+{
+ "date": "03-15",
+ "died": [
+  {
+   "year": -44,
+   "year_label": "44 BC",
+   "name": "Julius Caesar",
+   "kind": "individual",
+   "desc": "Roman dictator",
+   "cause": "discovering that his stepson Brutus was among his murderers",
+   "last_words": "You too, my child?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julius_Caesar",
+   "born": null
+  },
+  {
+   "year": 1673,
+   "year_label": "1673",
+   "name": "Salvator Rosa",
+   "kind": "individual",
+   "desc": "Italian artist and poet",
+   "cause": "when asked how he was",
+   "last_words": "Bad, bad! To judge by what I now endure, the hand of death grasps me sharply.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Salvator_Rosa",
+   "born": "20 June 1615"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Burton Abbott",
+   "kind": "individual",
+   "desc": "American convicted rapist and murderer",
+   "cause": "to prison physician Dr. David Schmidt prior to execution by gas chamber",
+   "last_words": "I can't admit it, Doc. Think of what that would do to my mother. She could not take it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Burton_Abbott",
+   "born": "8 February 1928"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Victor Feguer",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "requesting his last meal prior to execution by hanging",
+   "last_words": "An olive, with a pit...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Victor_Feguer",
+   "born": null
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Ruppert L. Sargent",
+   "kind": "individual",
+   "desc": "United States Army officer and Medal of Honor recipient",
+   "cause": "prior to falling on two grenades during the Vietnam War",
+   "last_words": "Grenades. Grenades.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ruppert_L._Sargent",
+   "born": "6 January 1938"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Timothy Gribble",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "before his execution",
+   "last_words": "I just want you to know from the bottom of my heart that I am truly sorry. I mean it. I'm not saying it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Gribble",
+   "born": "23 August 1963"
+  }
+ ],
+ "born": [
+  {
+   "year": 1767,
+   "year_label": "1767",
+   "name": "Andrew Jackson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "What is the matter with my dear children? Have I alarmed you? Oh, do not cry. Be good children and we will all meet in Heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+   "died": "8 June 1845"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Jean Brillant",
+   "kind": "individual",
+   "desc": "VC , Canadian Expeditionary Force officer",
+   "cause": "fatally wounded by enemy machine-gun fire during World War I",
+   "last_words": "I am through. Take charge of the company. I won't be here long.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean_Brillant",
+   "died": "10 August 1918"
+  }
+ ]
+}

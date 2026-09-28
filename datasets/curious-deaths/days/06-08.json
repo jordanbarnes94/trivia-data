@@ -1,0 +1,183 @@
+{
+ "date": "06-08",
+ "died": [
+  {
+   "year": 597,
+   "year_label": "597",
+   "name": "Columba",
+   "kind": "individual",
+   "desc": "Irish abbot and missionary evangelist",
+   "cause": "ceasing to transcribe a Psalter",
+   "last_words": "Here must I stop. What follows, let Baithen write.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Columba",
+   "born": "7 December 521"
+  },
+  {
+   "year": 632,
+   "year_label": "632",
+   "name": "Muhammad",
+   "kind": "individual",
+   "desc": "Prophet of God in Islam",
+   "cause": null,
+   "last_words": "Oh God, the Friend Most High!\" or \"The prayer, the prayer! And fear Allah with regard to those whom your right hands possess",
+   "wikipedia": "https://en.wikipedia.org/wiki/Muhammad",
+   "born": "20 April 571"
+  },
+  {
+   "year": 1376,
+   "year_label": "1376",
+   "name": "Edward the Black Prince",
+   "kind": "individual",
+   "desc": "heir to the English throne",
+   "cause": null,
+   "last_words": "I give thee thanks, O God, for all thy benefits, and with all the pains of my soul I humbly beseech thy mercy to give me remission of those sins I have wickedly committed against thee; and of all mortal men whom willingly or ignorantly I have offended, with all my heart I desire forgiveness.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
+   "born": "15 June 1330"
+  },
+  {
+   "year": 1727,
+   "year_label": "1727",
+   "name": "August Hermann Francke",
+   "kind": "individual",
+   "desc": "German Lutheran clergyman and theologian",
+   "cause": "when his wife asked if his Savior was still with him",
+   "last_words": "Yes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/August_Hermann_Francke",
+   "born": "22 March 1663"
+  },
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "Louis XVII",
+   "kind": "individual",
+   "desc": "pretender to the French throne",
+   "cause": "dying in prison custody at the age of 10",
+   "last_words": "I have something to tell you...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVII",
+   "born": "27 March 1785"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Thomas Paine",
+   "kind": "individual",
+   "desc": "English-born American political activist and theorist, philosopher and revolutionary",
+   "cause": null,
+   "last_words": "Taking a leap into the dark. O mystery!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Paine",
+   "born": "29 January 1737"
+  },
+  {
+   "year": 1845,
+   "year_label": "1845",
+   "name": "Andrew Jackson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "What is the matter with my dear children? Have I alarmed you? Oh, do not cry. Be good children and we will all meet in Heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
+   "born": "15 March 1767"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "George Sand",
+   "kind": "individual",
+   "desc": "French novelist",
+   "cause": null,
+   "last_words": "Farewell, I am going to die. Goodbye Lina, goodbye Maurice, goodbye Lolo, good ...",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Sand",
+   "born": "1 July 1804"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Gerard Manley Hopkins",
+   "kind": "individual",
+   "desc": "SJ]], English poet and priest",
+   "cause": null,
+   "last_words": "I am so happy, so happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins",
+   "born": "28 July 1844"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Emily Davison",
+   "kind": "individual",
+   "desc": null,
+   "cause": "On 4 June 1913, the 40-year-old suffragette from London was mortally injured at the Epsom Derby when she ran onto the racetrack wearing a suffragette flag and was run over by Anmer, George V's horse, which jockey Herbert Jones was riding. She suffered a fractured skull, a concussion, and internal injuries and died in the Epsom Cottage Hospital 4 days later.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Emily_Davison",
+   "born": "11 October 1867"
+  },
+  {
+   "year": 1966,
+   "year_label": "1966",
+   "name": "Joseph A. Walker and Carl Cross",
+   "kind": "group",
+   "desc": null,
+   "cause": "Astronaut and NASA test pilot Walker, flying a Lockheed F-104N Starfighter, and North American Aviation test pilot Cross, co-piloting a North American XB-70 Valkyrie bomber, were killed in a mid-air collision during a publicity photo shoot of multiple aircraft with General Electric engines flying in formation near Edwards Air Force Base. With the Valkyrie in a spin, pilot Alvin S. White ejected and survived, but centrifugal force prevented Cross' ejection seat from retracting into the escape capsule.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_A._Walker",
+   "born": null
+  },
+  {
+   "year": 1997,
+   "year_label": "1997",
+   "name": "Karen Wetterhahn",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 48-year-old chemistry professor at Dartmouth College died ten months after a few drops of dimethylmercury (an organomercury compound and one of the strongest-known neurotoxins) landed on her protective gloves. Although she had been following the required procedures, it permeated the gloves and her skin within seconds.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Karen_Wetterhahn",
+   "born": "16 October 1948"
+  }
+ ],
+ "born": [
+  {
+   "year": 1784,
+   "year_label": "1784",
+   "name": "Marie-Antoine Carême",
+   "kind": "individual",
+   "desc": "French chef",
+   "cause": "to a pupil",
+   "last_words": "My boy, the quenelles de sole were splendid, but the peas were poor. You should shake the pan gently, all the time, like this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marie-Antoine_Carême",
+   "died": "12 January 1833"
+  },
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "Charles Reade",
+   "kind": "individual",
+   "desc": "English novelist and dramatist",
+   "cause": "referring to 2 Corinthians 12:1-4, which he had been discussing with a relative",
+   "last_words": "Amazing, amazing glory! I am having Paul's understanding.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Reade",
+   "died": "11 April 1884"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Ernst Enno",
+   "kind": "individual",
+   "desc": "Estonian writer",
+   "cause": "to his wife",
+   "last_words": "Ella, Ella! Everything is utterly different!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Enno",
+   "died": "7 March 1934"
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Lena Baker",
+   "kind": "individual",
+   "desc": "African American maid",
+   "cause": "prior to execution by electrocution for the murder of her employer. She received a full and unconditional pardon in 2005",
+   "last_words": "What I done, I did in self-defense, or I would have been killed myself. Where I was I could not overcome it. God has forgiven me. I have nothing against anyone. I picked cotton for Mr. Pritchett, and he has been good to me. I am ready to go. I am one in the number. I am ready to meet my God. I have a very strong conscience.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lena_Baker",
+   "died": "5 March 1945"
+  }
+ ]
+}

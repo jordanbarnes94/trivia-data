@@ -1,0 +1,95 @@
+{
+ "date": "10-27",
+ "died": [
+  {
+   "year": 1553,
+   "year_label": "1553",
+   "name": "Michael Servetus",
+   "kind": "individual",
+   "desc": "Spanish theologian, physician and humanist",
+   "cause": "while being burned at the stake for heresy on a pyre of his own books",
+   "last_words": "Jesus, Son of the eternal God, have mercy on me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Servetus",
+   "born": "29 September 1511"
+  },
+  {
+   "year": 1605,
+   "year_label": "1605",
+   "name": "Akbar",
+   "kind": "individual",
+   "desc": "third Mughal emperor",
+   "cause": "to his nobles and his son, Jahangir; he then asked their forgiveness if he had ever wronged them",
+   "last_words": "I cannot bear that any misunderstanding should subsist between you and those who have for so many years shared in my toils and been the companions of my glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Akbar",
+   "born": "15 October 1542"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Jack Youll",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "prior to being killed in action at the Battle of Vittorio Veneto during World War I",
+   "last_words": "It's all right Cowling; we've got them stone cold.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Youll",
+   "born": "6 June 1897"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Tony Morabito",
+   "kind": "individual",
+   "desc": "founder of the San Francisco 49ers",
+   "cause": "to the priest who gave him final absolution",
+   "last_words": "Thank you father.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tony_Morabito",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1728,
+   "year_label": "1728",
+   "name": "James Cook",
+   "kind": "individual",
+   "desc": "British explorer and Royal Navy captain",
+   "cause": "after being mortally wounded by a native Hawaiian",
+   "last_words": "Take me to the boats.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Cook",
+   "died": "14 February 1779"
+  },
+  {
+   "year": 1797,
+   "year_label": "1797",
+   "name": "Andrew Combe",
+   "kind": "individual",
+   "desc": "Scottish physician and phrenologist",
+   "cause": null,
+   "last_words": "Happy, happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Combe",
+   "died": "9 August 1847"
+  },
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Theodore Roosevelt",
+   "kind": "individual",
+   "desc": "president of the United States and Medal of Honor recipient",
+   "cause": "to family servant James E. Amos",
+   "last_words": "Please put out that light, James.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+   "died": "6 January 1919"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Fritz Sauckel",
+   "kind": "individual",
+   "desc": "German Nazi politician",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "I am dying innocent. The sentence is wrong. God protect Germany and make Germany great again. Long live Germany! God protect my family.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fritz_Sauckel",
+   "died": "16 October 1946"
+  }
+ ]
+}

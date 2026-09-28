@@ -1,0 +1,106 @@
+{
+ "date": "06-11",
+ "died": [
+  {
+   "year": -323,
+   "year_label": "323 BC",
+   "name": "Alexander the Great",
+   "kind": "individual",
+   "desc": "conqueror and king of Macedonia",
+   "cause": "when asked to whom his vast empire should belong after his death",
+   "last_words": "To the strongest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_the_Great",
+   "born": "20 July 356 BC"
+  },
+  {
+   "year": 1709,
+   "year_label": "1709",
+   "name": "Marcello d'Aste",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic cardinal",
+   "cause": null,
+   "last_words": "I wish to die sitting, in tribute to the most worshipful will of my good and precious Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marcello_d'Aste",
+   "born": "21 July 1657"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "Robert E. Howard",
+   "kind": "individual",
+   "desc": "American author and creator of Conan the Barbarian",
+   "cause": "his suicide note, a quotation from \"The House of Cæsar\" by Viola Garvin",
+   "last_words": "All fled, all done, so lift me on the pyre. The feast is over, and the lamps expire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Howard",
+   "born": "22 January 1906"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Thích Quảng Đức",
+   "kind": "individual",
+   "desc": "Vietnamese Mahayana Buddhist monk",
+   "cause": "prior to self-immolation",
+   "last_words": "vi \"Nam mô A Di Đà Phật\" homage to Amitābha",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thích_Quảng_Đức",
+   "born": null
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "John Wayne",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his daughter, Aissa Wayne, who had asked if he knew who she was",
+   "last_words": "Of course I know who you are. You're my girl. I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne",
+   "born": "26 May 1907"
+  }
+ ],
+ "born": [
+  {
+   "year": 1741,
+   "year_label": "1741",
+   "name": "Joseph Warren",
+   "kind": "individual",
+   "desc": "American physician and Patriot",
+   "cause": "mortally wounded at the Battle of Bunker Hill",
+   "last_words": "I am a dead man: fight on, my brave fellows, for the salvation of your country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Warren",
+   "died": "17 June 1775"
+  },
+  {
+   "year": 1864,
+   "year_label": "1864",
+   "name": "Richard Strauss",
+   "kind": "individual",
+   "desc": "German composer and conductor",
+   "cause": "holding a copy of Mozart's Clarinet Concerto",
+   "last_words": "I would give anything just to have written this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Strauss",
+   "died": "8 September 1949"
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Bartolomeo Vanzetti",
+   "kind": "individual",
+   "desc": "Italian immigrant anarchist",
+   "cause": "prior to execution by electrocution",
+   "last_words": "I wish to forgive some people for what they are now doing to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bartolomeo_Vanzetti",
+   "died": "23 August 1927"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Vince Lombardi",
+   "kind": "individual",
+   "desc": "American football coach",
+   "cause": "to his wife",
+   "last_words": "Happy anniversary. I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vince_Lombardi",
+   "died": "3 September 1970"
+  }
+ ]
+}

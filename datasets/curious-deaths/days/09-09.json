@@ -1,0 +1,84 @@
+{
+ "date": "09-09",
+ "died": [
+  {
+   "year": 1087,
+   "year_label": "1087",
+   "name": "William the Conqueror",
+   "kind": "individual",
+   "desc": "King of England",
+   "cause": "after hearing bell ringing Prime",
+   "last_words": "\"I treated the native inhabitants of the kingdom with unreasonable severity, cruelly oppressed high and low, unjustly disinherited many, and caused the death of thousands by starvation and war, especially in Yorkshire....In mad fury I descended on the English of the north like a raging lion, and ordered that their homes and crops with all their equipment and furnishings should be burnt at once and their great flocks and herds of sheep and cattle slaughtered everywhere. So I chastised a great multitude of men and women with the lash of starvation and, alas! was the cruel murderer of many thousands, both young and old, of this fair people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+   "born": "8 November 1028"
+  },
+  {
+   "year": 1583,
+   "year_label": "1583",
+   "name": "Humphrey Gilbert",
+   "kind": "individual",
+   "desc": "English adventurer and explorer",
+   "cause": "prior to sinking of HMS Squirrel with all hands",
+   "last_words": "We are as neare to Heaven by sea as by land.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
+   "born": null
+  },
+  {
+   "year": 1921,
+   "year_label": "1921",
+   "name": "Virginia Rappe",
+   "kind": "individual",
+   "desc": "American model and silent film actress",
+   "cause": null,
+   "last_words": "I'm dying, I'm dying...he hurt me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Rappe",
+   "born": "7 July 1891"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Roger Baldwin and Peter Holmes",
+   "kind": "group",
+   "desc": null,
+   "cause": "After a bell dive while working in saturation aboard the semi-submersible drill rig Waage Drill II in the North Sea, British commercial divers Baldwin, 24, and Holmes, 29, died of hyperthermia due to a large amount of helium being pumped into the diving chamber complex in response to an apparent pressure leak. The supervisor had mistakenly been monitoring the pressure in the diving bell rather than in the chamber complex.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Waage_Drill_II_diving_accident",
+   "born": null
+  },
+  {
+   "year": 1976,
+   "year_label": "1976",
+   "name": "Mao Zedong",
+   "kind": "individual",
+   "desc": "Chinese statesman and revolutionary",
+   "cause": null,
+   "last_words": "I feel ill. Call the doctors.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mao_Zedong",
+   "born": "26 December 1893"
+  }
+ ],
+ "born": [
+  {
+   "year": 1585,
+   "year_label": "1585",
+   "name": "Cardinal Richelieu",
+   "kind": "individual",
+   "desc": "French clergyman and statesman",
+   "cause": "when asked whether he pardoned his enemies",
+   "last_words": "Absolutely, and I pray God to condemn me, if I have had any other aim than the welfare of God and the state.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Richelieu",
+   "died": "4 December 1642"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Fred C. Roberts",
+   "kind": "individual",
+   "desc": "English physician and medical missionary",
+   "cause": "dying in Tientsin, China",
+   "last_words": "Enough, Enough.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fred_C._Roberts",
+   "died": "6 June 1894"
+  }
+ ]
+}

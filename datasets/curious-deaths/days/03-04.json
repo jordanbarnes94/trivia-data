@@ -1,0 +1,139 @@
+{
+ "date": "03-04",
+ "died": [
+  {
+   "year": 1193,
+   "year_label": "1193",
+   "name": "Saladin",
+   "kind": "individual",
+   "desc": "first sultan of Egypt and Syria",
+   "cause": null,
+   "last_words": "When I am buried, carry my winding-sheet on the point of a spear, and say these words: Behold the spoils which Saladin carries with him! Of all his victories, realms, and riches, nothing remains to him but this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saladin",
+   "born": null
+  },
+  {
+   "year": 1852,
+   "year_label": "1852",
+   "name": "Nikolai Gogol",
+   "kind": "individual",
+   "desc": "Russian author of Ukrainian origin",
+   "cause": "in delirium",
+   "last_words": "Give me! Give me! Come on, give me! The ladder! Quick, pass me the ladder!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Gogol",
+   "born": "19 March 1809"
+  },
+  {
+   "year": 1852,
+   "year_label": "1852",
+   "name": "Daniel Webster",
+   "kind": "individual",
+   "desc": "American statesman",
+   "cause": null,
+   "last_words": "'I still live!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Webster",
+   "born": "18 January 1782"
+  },
+  {
+   "year": 1864,
+   "year_label": "1864",
+   "name": "Thomas Starr King",
+   "kind": "individual",
+   "desc": "American Universalist and Unitarian minister and orator",
+   "cause": "when his young son was brought to see him",
+   "last_words": "Dear little fellow-he is a beautiful boy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Starr_King",
+   "born": "17 December 1824"
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Amos Bronson Alcott",
+   "kind": "individual",
+   "desc": "American teacher, writer, philosopher and reformer",
+   "cause": "to his daughter, Louisa May Alcott",
+   "last_words": "I am going up. Come with me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Amos_Bronson_Alcott",
+   "born": "29 November 1799"
+  },
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "Archibald Anderson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 19-year-old was bathing in the Yarra River when a tooth plate fell out and got lodged in his throat, choking him to death.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Leonard Warren",
+   "kind": "individual",
+   "desc": "American operatic baritone",
+   "cause": "performing in La Forza del Destino at the Metropolitan Opera before dying on stage",
+   "last_words": "He is safe! He is safe! Oh, joy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Warren",
+   "born": "21 April 1911"
+  },
+  {
+   "year": 1990,
+   "year_label": "1990",
+   "name": "Hank Gathers",
+   "kind": "individual",
+   "desc": "American basketball player",
+   "cause": "after collapsing during game",
+   "last_words": "I don't want to lay down.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hank_Gathers",
+   "born": "11 February 1967"
+  }
+ ],
+ "born": [
+  {
+   "year": 1702,
+   "year_label": "1702",
+   "name": "Jack Sheppard",
+   "kind": "individual",
+   "desc": "English thief and prison escapee",
+   "cause": "prior to execution by hanging",
+   "last_words": "I have ever cherished an honest pride; never have I stooped to friendship with Jonathan Wild, or with any of his detestable thief-takers; and though an undutiful son, I never damned my mother's eyes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Sheppard",
+   "died": "16 November 1724"
+  },
+  {
+   "year": 1780,
+   "year_label": "1780",
+   "name": "Robert Emmet",
+   "kind": "individual",
+   "desc": "Irish Republican and Irish nationalist patriot, orator and rebel leader",
+   "cause": "during execution by hanging for treason. The executioner carried out the hanging in the middle of Emmet's attempt to say \"Not yet\" for the third time",
+   "last_words": "Not yet. Not yet. Not-",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Emmet",
+   "died": "20 September 1803"
+  },
+  {
+   "year": 1800,
+   "year_label": "1800",
+   "name": "William Price",
+   "kind": "individual",
+   "desc": "Welsh physician",
+   "cause": null,
+   "last_words": "Bring me a glass of Champagne.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Price_(physician)",
+   "died": "23 January 1893"
+  },
+  {
+   "year": 1857,
+   "year_label": "1857",
+   "name": "Gustav Kobbé",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 61-year-old author and music critic was sailing in Great South Bay, New York, when he noticed a low-flying seaplane heading toward him. Kobbé attempted to get into the water, but the plane crashed into the mast of Kobbé's boat, splitting his head open.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Kobbé",
+   "died": "27 July 1918"
+  }
+ ]
+}

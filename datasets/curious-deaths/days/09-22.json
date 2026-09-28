@@ -1,0 +1,84 @@
+{
+ "date": "09-22",
+ "died": [
+  {
+   "year": 1776,
+   "year_label": "1776",
+   "name": "Nathan Hale",
+   "kind": "individual",
+   "desc": "American soldier and spy",
+   "cause": "before being hanged by the British for his involvement in the American Revolutionary War",
+   "last_words": "I only regret that I have but one life to give for my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nathan_Hale",
+   "born": "6 June 1755"
+  }
+ ],
+ "born": [
+  {
+   "year": 1601,
+   "year_label": "1601",
+   "name": "Anne of Austria",
+   "kind": "individual",
+   "desc": "former Queen of France",
+   "cause": "looking at her formerly beautiful hands",
+   "last_words": "Monsieur de Montaigu, consider what I owe to God, the favor He has shown me, and the great indulgence for which I am beholden to Him. Observe how they are swelled; time to depart.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anne_of_Austria",
+   "died": "20 January 1666"
+  },
+  {
+   "year": 1694,
+   "year_label": "1694",
+   "name": "Philip Stanhope, 4th Earl of Chesterfield",
+   "kind": "individual",
+   "desc": "British statesman and diplomat",
+   "cause": "asking a servant to seat his godson, Solomon Dayrolles",
+   "last_words": "Give Dayrolles a chair.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Stanhope,_4th_Earl_of_Chesterfield",
+   "died": "24 March 1773"
+  },
+  {
+   "year": 1870,
+   "year_label": "1870",
+   "name": "Doc Powers",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 38-year-old American Major League Baseball player ran into a wall while chasing a foul ball during a Boston Red Sox-Philadelphia Athletics game at Philadelphia's Shibe Park, on 12 April 1909. He died from internal injuries and gangrene two weeks later.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Doc_Powers",
+   "died": "26 April 1909"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Wilhelm Keitel",
+   "kind": "individual",
+   "desc": "German field marshal",
+   "cause": "during his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "Deutschland über alles!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Keitel",
+   "died": "16 October 1946"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "Henry Segrave",
+   "kind": "individual",
+   "desc": "British land speed and water speed record pioneer",
+   "cause": "mortally injured in crash of Miss England II. He was asking his wife about the fates of his chief engineer (who was killed) and his mechanic (who survived), and whether they had broken the water speed record (they had)",
+   "last_words": "How are the lads? Did we do it?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Segrave",
+   "died": "13 June 1930"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Hans Scholl",
+   "kind": "individual",
+   "desc": "co-founder of White Rose resistance movement",
+   "cause": "a moment before he was beheaded by guillotine",
+   "last_words": "Long live freedom!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hans_Scholl",
+   "died": "22 February 1943"
+  }
+ ]
+}

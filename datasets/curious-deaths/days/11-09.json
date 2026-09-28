@@ -1,0 +1,73 @@
+{
+ "date": "11-09",
+ "died": [
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "Robert Blum",
+   "kind": "individual",
+   "desc": "German democratic politician and revolutionist",
+   "cause": "prior to execution by firing squad",
+   "last_words": "I am ready-let there be no mistake and no delay.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Blum",
+   "born": "10 November 1807"
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "Charles de Gaulle",
+   "kind": "individual",
+   "desc": "French statesman",
+   "cause": "pointing at his neck seconds before he unexpectedly died from an aneurysm",
+   "last_words": "I feel pain here.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
+   "born": "22 November 1890"
+  }
+ ],
+ "born": [
+  {
+   "year": 1834,
+   "year_label": "1834",
+   "name": "Kondō Isami",
+   "kind": "individual",
+   "desc": "Japanese samurai, Tennen Rishin-ryū master, and Shinsengumi commander",
+   "cause": "just before his execution",
+   "last_words": "I have been a great trouble.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kondō_Isami",
+   "died": "17 May 1868"
+  },
+  {
+   "year": 1841,
+   "year_label": "1841",
+   "name": "Edward VII",
+   "kind": "individual",
+   "desc": "king of the United Kingdom",
+   "cause": "on being told by his son that one of his horses had won a race",
+   "last_words": "Yes, I have heard of it. I am very glad.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_VII",
+   "died": "6 May 1910"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "Noel Godfrey Chavasse",
+   "kind": "individual",
+   "desc": "VC1 MC, British Army officer",
+   "cause": "mortally wounded at the Battle of Passchendaele in World War I. He was reminding a nurse of their earlier conversation about contacting his father and fiancée and about his younger brother, who was missing in action",
+   "last_words": "Do not forget what I have told you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Noel_Godfrey_Chavasse",
+   "died": "4 August 1917"
+  },
+  {
+   "year": 1934,
+   "year_label": "1934",
+   "name": "Carl Sagan",
+   "kind": "individual",
+   "desc": "American astronomer and scientist",
+   "cause": "while talking to his wife Ann on a hospital bed",
+   "last_words": "Goodbye, Ann.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Carl_Sagan",
+   "died": "20 December 1996"
+  }
+ ]
+}

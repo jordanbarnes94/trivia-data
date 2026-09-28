@@ -1,0 +1,95 @@
+{
+ "date": "08-27",
+ "died": [
+  {
+   "year": 1635,
+   "year_label": "1635",
+   "name": "Lope de Vega",
+   "kind": "individual",
+   "desc": "Spanish playwright",
+   "cause": null,
+   "last_words": "All right then, I'll say it. Dante makes me sick.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lope_de_Vega",
+   "born": "25 November 1562"
+  },
+  {
+   "year": 1782,
+   "year_label": "1782",
+   "name": "John Laurens",
+   "kind": "individual",
+   "desc": "American soldier, statesman and abolitionist",
+   "cause": "prior to death at the Battle of the Combahee River",
+   "last_words": "Charge!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Laurens",
+   "born": "28 October 1754"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Gracie Allen",
+   "kind": "individual",
+   "desc": "American vaudevillian and comedian",
+   "cause": null,
+   "last_words": "I'm sorry, boys, I'm all wet.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gracie_Allen",
+   "born": "26 July 1895"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "Louis Mountbatten, 1st Earl Mountbatten of Burma",
+   "kind": "individual",
+   "desc": "British Royal Navy officer and statesman",
+   "cause": "prior to death in IRA bombing of his fishing boat",
+   "last_words": "Do you really think the IRA would think me a worthwhile target?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma",
+   "born": "25 June 1900"
+  }
+ ],
+ "born": [
+  {
+   "year": 1770,
+   "year_label": "1770",
+   "name": "Georg Wilhelm Friedrich Hegel",
+   "kind": "individual",
+   "desc": "German philosopher",
+   "cause": null,
+   "last_words": "Only one man ever understood me. And he really didn't understand me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+   "died": "14 November 1831"
+  },
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "name": "Hiram Gregory Berry",
+   "kind": "individual",
+   "desc": "American politician and Union general of the American Civil War",
+   "cause": "mortally wounded at the Battle of Chancellorsville",
+   "last_words": "I am dying, carry me to the rear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hiram_Gregory_Berry",
+   "died": "3 May 1863"
+  },
+  {
+   "year": 1871,
+   "year_label": "1871",
+   "name": "Theodore Dreiser",
+   "kind": "individual",
+   "desc": "American novelist",
+   "cause": null,
+   "last_words": "Shakespeare, I come.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Dreiser",
+   "died": "28 December 1945"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Lyndon B. Johnson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "referring to his Secret Service agent. By the time Mike arrived, Johnson had already died",
+   "last_words": "Send Mike immediately.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+   "died": "22 January 1973"
+  }
+ ]
+}

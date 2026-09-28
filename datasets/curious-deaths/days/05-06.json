@@ -1,0 +1,95 @@
+{
+ "date": "05-06",
+ "died": [
+  {
+   "year": 1757,
+   "year_label": "1757",
+   "name": "Kurt Christoph Graf von Schwerin",
+   "kind": "individual",
+   "desc": "Prussian Generalfeldmarschall",
+   "cause": "just before being fatally struck by enemy fire at the Battle of Prague (1757)",
+   "last_words": "Let all brave Prussians follow me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Christoph_Graf_von_Schwerin",
+   "born": "26 October 1684"
+  },
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "Alexander von Humboldt",
+   "kind": "individual",
+   "desc": "German polymath",
+   "cause": null,
+   "last_words": "How grand those rays! They seem to beckon earth to heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
+   "born": "14 September 1769"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "Judah P. Benjamin",
+   "kind": "individual",
+   "desc": "American and Confederate politician and English barrister after the American Civil War",
+   "cause": "in a letter",
+   "last_words": "What I require is warmth-will it never come?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Judah_P._Benjamin",
+   "born": "6 August 1811"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Edward VII",
+   "kind": "individual",
+   "desc": "king of the United Kingdom",
+   "cause": "on being told by his son that one of his horses had won a race",
+   "last_words": "Yes, I have heard of it. I am very glad.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_VII",
+   "born": "9 November 1841"
+  }
+ ],
+ "born": [
+  {
+   "year": 1683,
+   "year_label": "1683",
+   "name": "Jonathan Wild",
+   "kind": "individual",
+   "desc": "London organized crime figure",
+   "cause": "prior to execution by hanging",
+   "last_words": "Lord Jesus, receive my soul!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Wild",
+   "died": "24 May 1725"
+  },
+  {
+   "year": 1758,
+   "year_label": "1758",
+   "name": "Maximilien Robespierre",
+   "kind": "individual",
+   "desc": "French lawyer and statesman",
+   "cause": "when blamed for the death of Georges Danton",
+   "last_words": "Cowards! Why did you not defend him?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+   "died": "28 July 1794"
+  },
+  {
+   "year": 1856,
+   "year_label": "1856",
+   "name": "Sigmund Freud",
+   "kind": "individual",
+   "desc": "Austrian neurologist, founder of psychoanalysis",
+   "cause": null,
+   "last_words": "The meager satisfaction that man can extract from reality leaves him starving.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Freud",
+   "died": "23 September 1939"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "Rudolph Valentino",
+   "kind": "individual",
+   "desc": "Italian actor",
+   "cause": "to a nurse",
+   "last_words": "Don't pull down the blinds. I want the sunlight to greet me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rudolph_Valentino",
+   "died": "23 August 1926"
+  }
+ ]
+}

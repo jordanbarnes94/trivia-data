@@ -1,0 +1,139 @@
+{
+ "date": "04-26",
+ "died": [
+  {
+   "year": 1589,
+   "year_label": "1589",
+   "name": "Andrew Perne",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Vice-Chancellor of Cambridge University and Dean of Ely was known for his frequent religious conversions to match the established faith of the time in England. He reportedly died due to having heard the jester of Queen Elizabeth I make a joke about his uncertain spiritual state, referring to him as \"one that is neither heaven nor earth, but hangs betwixt both\".",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Perne",
+   "born": null
+  },
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "John Wilkes Booth",
+   "kind": "individual",
+   "desc": "American actor and assassin of Abraham Lincoln",
+   "cause": "after being fatally shot by Boston Corbett",
+   "last_words": "Tell mother, tell mother, I died for my country...useless...useless...",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
+   "born": "10 May 1838"
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "Tom Ketchum",
+   "kind": "individual",
+   "desc": "American outlaw and cowboy",
+   "cause": "executed by hanging for attempted train robbery",
+   "last_words": "Goodbye. Please dig my grave very deep. All right; hurry up.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Ketchum",
+   "born": "31 October 1863"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Doc Powers",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 38-year-old American Major League Baseball player ran into a wall while chasing a foul ball during a Boston Red Sox-Philadelphia Athletics game at Philadelphia's Shibe Park, on 12 April 1909. He died from internal injuries and gangrene two weeks later.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Doc_Powers",
+   "born": "22 September 1870"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Bobby Leach",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The American stunt performer died after a botched amputation of the infected leg which he had broken after slipping on an orange peel. He had gone over Niagara Falls in a barrel 15 years earlier.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Leach",
+   "born": null
+  },
+  {
+   "year": 1984,
+   "year_label": "1984",
+   "name": "Robert M. Bond",
+   "kind": "individual",
+   "desc": "United States Air Force lieutenant general",
+   "cause": "prior to failed ejection from Mikoyan-Gurevich MiG-23 jet fighter-bomber",
+   "last_words": "I've got to get out, I'm out of control.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_M._Bond",
+   "born": "16 December 1929"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Lucille Ball",
+   "kind": "individual",
+   "desc": "American actress, television producer and studio executive",
+   "cause": "when asked if she wanted anything",
+   "last_words": "My Florida water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucille_Ball",
+   "born": "6 August 1911"
+  }
+ ],
+ "born": [
+  {
+   "year": 121,
+   "year_label": "121",
+   "name": "Marcus Aurelius",
+   "kind": "individual",
+   "desc": "Roman emperor and philosopher",
+   "cause": null,
+   "last_words": "Go to the rising sun, for I am setting. Think more of death than of me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+   "died": "17 March 180"
+  },
+  {
+   "year": 1785,
+   "year_label": "1785",
+   "name": "John James Audubon",
+   "kind": "individual",
+   "desc": "American ornithologist, naturalist and painter",
+   "cause": "speaking to his friend William Bakewell while suffering from senility",
+   "last_words": "Yes, yes, Billy! You go down that side on Long Pond, and I'll go this side, and we'll get the ducks.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_James_Audubon",
+   "died": "27 January 1851"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "Julius Peter Garesché",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 41-year-old American professional soldier was killed on the first day of the Battle of Stones River when a cannonball decapitated him.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Julius_Peter_Garesché",
+   "died": "31 December 1862"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Ludwig Wittgenstein",
+   "kind": "individual",
+   "desc": "Austrian philosopher",
+   "cause": "upon being told that his close friends would come to visit him the next day",
+   "last_words": "Tell them I've had a wonderful life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+   "died": "29 April 1951"
+  },
+  {
+   "year": 1940,
+   "year_label": "1940",
+   "name": "Stone Johnson",
+   "kind": "individual",
+   "desc": "Kansas City Chiefs running back",
+   "cause": "after suffering fractured vertebra in neck during kickoff return on 30 August 1963",
+   "last_words": "Oh my God, oh my God! Where's my head, where's my head?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stone_Johnson",
+   "died": "8 September 1963"
+  }
+ ]
+}

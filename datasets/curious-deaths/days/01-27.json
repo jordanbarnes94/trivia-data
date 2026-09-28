@@ -1,0 +1,150 @@
+{
+ "date": "01-27",
+ "died": [
+  {
+   "year": 1733,
+   "year_label": "1733",
+   "name": "Thomas Woolston",
+   "kind": "individual",
+   "desc": "English theologian",
+   "cause": "dying while imprisoned for blasphemy",
+   "last_words": "This is a struggle which all men must go through, and which I bear not only with patience, but with willingness.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Woolston",
+   "born": null
+  },
+  {
+   "year": 1844,
+   "year_label": "1844",
+   "name": "William Gadsby",
+   "kind": "individual",
+   "desc": "English Baptist pastor",
+   "cause": "raising his hand before the word \"forever\"",
+   "last_words": "I shall soon be with Him. Victory, victory, victory forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Gadsby",
+   "born": "3 January 1773"
+  },
+  {
+   "year": 1851,
+   "year_label": "1851",
+   "name": "John James Audubon",
+   "kind": "individual",
+   "desc": "American ornithologist, naturalist and painter",
+   "cause": "speaking to his friend William Bakewell while suffering from senility",
+   "last_words": "Yes, yes, Billy! You go down that side on Long Pond, and I'll go this side, and we'll get the ducks.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_James_Audubon",
+   "born": "26 April 1785"
+  },
+  {
+   "year": 1857,
+   "year_label": "1857",
+   "name": "Edward Alderson",
+   "kind": "individual",
+   "desc": "English lawyer and judge",
+   "cause": "when asked how he felt",
+   "last_words": "The worse, the better for me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Alderson_(judge)",
+   "born": null
+  },
+  {
+   "year": 1940,
+   "year_label": "1940",
+   "name": "Isaac Babel",
+   "kind": "individual",
+   "desc": "Russian author",
+   "cause": "prior to execution by firing squad on fabricated charges of terrorism and espionage",
+   "last_words": "I am only asking for one thing-let me finish my work.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Babel",
+   "born": "30 June 1894"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Gus Grissom",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "during Apollo 1 launch rehearsal test moments before a deadly fire broke out",
+   "last_words": "How are we going to get to the moon if we can't talk between two or three buildings?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gus_Grissom",
+   "born": "3 April 1926"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Roger B. Chaffee",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "reporting that a fire had broken out during Apollo 1 launch rehearsal test",
+   "last_words": "We've got a bad fire! Let's get out... We're burning up!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roger_B._Chaffee",
+   "born": "15 February 1935"
+  }
+ ],
+ "born": [
+  {
+   "year": 1756,
+   "year_label": "1756",
+   "name": "Wolfgang Amadeus Mozart",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": null,
+   "last_words": "The taste of death is upon my lips... I feel something, that is not of this earth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+   "died": "5 December 1791"
+  },
+  {
+   "year": 1757,
+   "year_label": "1757",
+   "name": "Gomes Freire de Andrade",
+   "kind": "individual",
+   "desc": "Portuguese military officer",
+   "cause": "sentenced to death after being accused of leading a conspiracy against the country's British military government in the name of King John VI",
+   "last_words": "I have always loved the Fatherland and I was never a traitor. Forgive me, all; and you soldiers, who have always been my people, keep serving the Fatherland as always the Portuguese have.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gomes_Freire_de_Andrade",
+   "died": "18 October 1817"
+  },
+  {
+   "year": 1832,
+   "year_label": "1832",
+   "name": "Lewis Carroll",
+   "kind": "individual",
+   "desc": "English mathematician and novelist",
+   "cause": null,
+   "last_words": "Take away these pillows, I won't need them any longer.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Carroll",
+   "died": "14 January 1898"
+  },
+  {
+   "year": 1834,
+   "year_label": "1834",
+   "name": "Dmitri Mendeleev",
+   "kind": "individual",
+   "desc": "Russian chemist",
+   "cause": null,
+   "last_words": "Doctor, you have science, I have faith.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
+   "died": "2 February 1907"
+  },
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "Wilhelm II",
+   "kind": "individual",
+   "desc": "the last German Emperor",
+   "cause": "dying of a pulmonary embolism at Huis Doorn",
+   "last_words": "It's coming to an end for me, I'm sinking, I'm sinking!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor",
+   "died": "4 June 1941"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Stjepan Filipović",
+   "kind": "individual",
+   "desc": "Yugoslav communist",
+   "cause": "seconds before execution by hanging",
+   "last_words": "\"Death to fascism! Freedom to the people!\" (Smrt fašizmu, sloboda narodu!)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stjepan_Filipović",
+   "died": "22 May 1942"
+  }
+ ]
+}

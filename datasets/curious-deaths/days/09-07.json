@@ -1,0 +1,84 @@
+{
+ "date": "09-07",
+ "died": [
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Hannah More",
+   "kind": "individual",
+   "desc": "English religious writer and philanthropist",
+   "cause": null,
+   "last_words": "Patty, Joy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hannah_More",
+   "born": "2 February 1745"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "John Greenleaf Whittier",
+   "kind": "individual",
+   "desc": "American Quaker poet and abolitionist",
+   "cause": "when his niece asked if he knew her",
+   "last_words": "I have known thee all the time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Greenleaf_Whittier",
+   "born": "17 December 1807"
+  },
+  {
+   "year": 1978,
+   "year_label": "1978",
+   "name": "Keith Moon",
+   "kind": "individual",
+   "desc": "English drummer for the rock band the Who",
+   "cause": "to his girlfriend Annette Walter-Lax",
+   "last_words": "If you don't like it, you can fuck off!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Keith_Moon",
+   "born": "23 August 1946"
+  }
+ ],
+ "born": [
+  {
+   "year": 1533,
+   "year_label": "1533",
+   "name": "Elizabeth I",
+   "kind": "individual",
+   "desc": "queen regnant of England",
+   "cause": null,
+   "last_words": "All my possessions for a moment of time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
+   "died": "24 March 1603"
+  },
+  {
+   "year": 1805,
+   "year_label": "1805",
+   "name": "Samuel Wilberforce",
+   "kind": "individual",
+   "desc": "Anglican bishop",
+   "cause": null,
+   "last_words": "There is no such thing as sudden death to a Christian.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Wilberforce",
+   "died": "19 July 1873"
+  },
+  {
+   "year": 1819,
+   "year_label": "1819",
+   "name": "Thomas A. Hendricks",
+   "kind": "individual",
+   "desc": "Vice President of the United States",
+   "cause": null,
+   "last_words": "At rest at last. Now I am free from pain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_A._Hendricks",
+   "died": "25 November 1885"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Eric \"Eazy-E\" Wright",
+   "kind": "individual",
+   "desc": "American rapper who propelled West Coast rap and gangsta rap by leading the group N.W.A and its label, Ruthless Records",
+   "cause": "written as part of his final message to his fans while dying of AIDS. He slipped into a coma not long afterwards and died on March 26",
+   "last_words": "Now, I'm in the biggest fight of my life and it ain't easy. But I want to say much love to those who have been down with me and thanks for all your support. Just remember, It's your real time and your real life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eazy-E",
+   "died": "16 March 1995"
+  }
+ ]
+}

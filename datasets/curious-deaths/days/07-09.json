@@ -1,0 +1,62 @@
+{
+ "date": "07-09",
+ "died": [
+  {
+   "year": 1797,
+   "year_label": "1797",
+   "name": "Edmund Burke",
+   "kind": "individual",
+   "desc": "Irish statesman and philosopher",
+   "cause": null,
+   "last_words": "God bless you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Burke",
+   "born": "12 January 1729"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Zachary Taylor",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "dying in office The 12th President of the United States died of diarrhea and dysentery 5 days after consuming raw cherries and iced milk at a 4th of July event at the site of the Washington Monument. Persistent speculation that Taylor was poisoned would lead to the exhumation of some of his remains in 1991, but scientific testing found no evidence of poison.",
+   "last_words": "I am about to die. I expect the summons soon. I have endeavored to discharge all my official duties faithfully. I regret nothing, but am sorry that I am about to leave my friends.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+   "born": "24 November 1784"
+  },
+  {
+   "year": 1993,
+   "year_label": "1993",
+   "name": "Garry Hoy",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 39-year-old lawyer from Toronto fell to his death from the 24th floor of the Toronto-Dominion Centre while demonstrating that its windows were \"unbreakable\". He threw himself against one, which, true to his assertion, did not break, but instead popped out of its frame.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Garry_Hoy",
+   "born": "28 January 1954"
+  },
+  {
+   "year": 1994,
+   "year_label": "1994",
+   "name": "Jeremy T. Brenno",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 16-year-old from Gloversville, New York, was playing golf when he hit a bench out of frustration with his club. This caused the club's shaft to break and pierce Brenno's heart, killing him.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "Cromwell Dixon",
+   "kind": "individual",
+   "desc": "American aviator",
+   "cause": "as his biplane crashed sideways",
+   "last_words": "Here I go. Here I go. Here I go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cromwell_Dixon",
+   "died": "2 October 1911"
+  }
+ ]
+}

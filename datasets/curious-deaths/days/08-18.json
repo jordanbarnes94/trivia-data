@@ -1,0 +1,95 @@
+{
+ "date": "08-18",
+ "died": [
+  {
+   "year": 1227,
+   "year_label": "1227",
+   "name": "Genghis Khan",
+   "kind": "individual",
+   "desc": "warlord and khan of Mongolia",
+   "cause": null,
+   "last_words": "Let not my end disarm you, and on no account weep or keen for me, lest the enemy be warned of my death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Genghis_Khan",
+   "born": "31 May 1162"
+  },
+  {
+   "year": 1503,
+   "year_label": "1503",
+   "name": "Pope Alexander VI",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "All right, all right, I'm coming. Wait a moment.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Alexander_VI",
+   "born": "1 January 1431"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Honoré de Balzac",
+   "kind": "individual",
+   "desc": "French novelist and playwright",
+   "cause": "written across the bottom of a letter from his wife",
+   "last_words": "I can no longer read or write. De Balzac.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Honoré_de_Balzac",
+   "born": "20 May 1799"
+  },
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "François Xavier Aubry",
+   "kind": "individual",
+   "desc": "French Canadian merchant and explorer",
+   "cause": "mortally wounded in saloon fight by Richard Hanson Weightman",
+   "last_words": "Let me bleed.",
+   "wikipedia": "https://en.wikipedia.org/wiki/François_Xavier_Aubry",
+   "born": "3 December 1824"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Alexandru Șerbănescu",
+   "kind": "individual",
+   "desc": "Second World War Romanian fighter ace",
+   "cause": "crashing after being shot down",
+   "last_words": "I'm going down...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexandru_Șerbănescu",
+   "born": "17 May 1912"
+  },
+  {
+   "year": 1992,
+   "year_label": "1992",
+   "name": "Chris McCandless",
+   "kind": "individual",
+   "desc": "American hiker",
+   "cause": "final note written before dying of starvation",
+   "last_words": "I HAVE HAD A HAPPY LIFE AND THANK THE LORD. GOODBYE AND MAY GOD BLESS ALL!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chris_McCandless",
+   "born": "12 February 1968"
+  },
+  {
+   "year": 1995,
+   "year_label": "1995",
+   "name": "Sylvester Lewis Adams",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I'm the happiest man in the world! I'm not afraid to die! I'm not crazy! I'm going to be reaching that white house tonight!",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_South_Carolina",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1774,
+   "year_label": "1774",
+   "name": "Meriwether Lewis",
+   "kind": "individual",
+   "desc": "American explorer",
+   "cause": "apparent suicide/possible murder",
+   "last_words": "I am not coward, but I am so strong. It is hard to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Meriwether_Lewis",
+   "died": "11 October 1809"
+  }
+ ]
+}

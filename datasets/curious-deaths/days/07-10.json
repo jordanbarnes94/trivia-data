@@ -1,0 +1,106 @@
+{
+ "date": "07-10",
+ "died": [
+  {
+   "year": 138,
+   "year_label": "138",
+   "name": "Hadrian",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": null,
+   "last_words": "O my poor soul, whither art thou going?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hadrian",
+   "born": "24 January 76"
+  },
+  {
+   "year": 1559,
+   "year_label": "1559",
+   "name": "Henry II of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": "On 30 June 1559, a tournament was held near Place des Vosges to celebrate the Peace of Cateau-Cambrésis with the French king's longtime enemies, the Habsburgs of Austria, and to celebrate the marriage of his daughter Elisabeth of Valois to King Philip II of Spain. During a jousting match, Henry, wearing the colors of his mistress Diane de Poitiers, was wounded in the eye by a fragment of the splintered lance of Gabriel Montgomery, captain of the King's Scottish Guard. Despite the efforts of royal surgeons Ambroise Paré and Andreas Vesalius, the court doctors ultimately \"advocated a wait-and-see strategy\"; as a result, the king's untreated eye and brain damage led to his death by sepsis ten days later. His death played a significant role in the decline of jousting as a sport, particularly in France.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_II_of_France",
+   "born": "31 March 1519"
+  },
+  {
+   "year": 1584,
+   "year_label": "1584",
+   "name": "William the Silent",
+   "kind": "individual",
+   "desc": "Prince of Orange",
+   "cause": "assassinated by Balthasar Gérard",
+   "last_words": "God have mercy upon me, and upon this poor nation.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_the_Silent",
+   "born": "24 April 1533"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Mel Blanc",
+   "kind": "individual",
+   "desc": "American voice actor and radio personality",
+   "cause": "spoken in the voice of Yosemite Sam to his son Noel",
+   "last_words": "I love you, Noel.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mel_Blanc",
+   "born": "30 May 1908"
+  }
+ ],
+ "born": [
+  {
+   "year": 1509,
+   "year_label": "1509",
+   "name": "John Calvin",
+   "kind": "individual",
+   "desc": "French theologian and Protestant reformer, principal developer of Calvinism",
+   "cause": null,
+   "last_words": "Thou, Lord, bruisest me; but I am abundantly satisfied, since it is from thy hand.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Calvin",
+   "died": "27 May 1564"
+  },
+  {
+   "year": 1792,
+   "year_label": "1792",
+   "name": "Frederick Marryat",
+   "kind": "individual",
+   "desc": "Royal Navy officer and novelist",
+   "cause": null,
+   "last_words": "It is now half-past nine. World, adieu!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Marryat",
+   "died": "9 August 1848"
+  },
+  {
+   "year": 1871,
+   "year_label": "1871",
+   "name": "Marcel Proust",
+   "kind": "individual",
+   "desc": "French novelist",
+   "cause": "to his brother, who asked if he was hurting him",
+   "last_words": "Yes, my dear Robert, you are.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Proust",
+   "died": "18 November 1922"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Mary McLeod Bethune",
+   "kind": "individual",
+   "desc": "American educator, stateswoman and civil rights activist",
+   "cause": null,
+   "last_words": "Life is wonderful. I am wonderful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_McLeod_Bethune",
+   "died": "18 May 1955"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Montserrat Grases",
+   "kind": "individual",
+   "desc": "Spanish Catholic laywoman and venerable",
+   "cause": null,
+   "last_words": "Little Virgin: How much I love You! When are You coming for me?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Montserrat_Grases",
+   "died": "26 March 1959"
+  }
+ ]
+}

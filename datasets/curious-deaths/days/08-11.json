@@ -1,0 +1,73 @@
+{
+ "date": "08-11",
+ "died": [
+  {
+   "year": 1778,
+   "year_label": "1778",
+   "name": "Augustus Toplady",
+   "kind": "individual",
+   "desc": "Anglican cleric and hymn writer, author of \"Rock of Ages\"",
+   "cause": null,
+   "last_words": "No mortal man can live after the glories which God has manifested to my soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Augustus_Toplady",
+   "born": "4 November 1740"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Richard Monckton Milnes, 1st Baron Houghton",
+   "kind": "individual",
+   "desc": "FRS, English poet and politician",
+   "cause": null,
+   "last_words": "My exit is the result of too many entrées.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Monckton_Milnes,_1st_Baron_Houghton",
+   "born": "19 June 1809"
+  }
+ ],
+ "born": [
+  {
+   "year": 1722,
+   "year_label": "1722",
+   "name": "Richard Brocklesby",
+   "kind": "individual",
+   "desc": "English physician",
+   "cause": "as his servants dressed him for bed",
+   "last_words": "What an idle piece of ceremony this buttoning and unbuttoning is to me, now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Brocklesby",
+   "died": "11 December 1797"
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Robert G. Ingersoll",
+   "kind": "individual",
+   "desc": "American lawyer, free thought writer and orator",
+   "cause": "when his wife asked him how he felt",
+   "last_words": "O, better.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_G._Ingersoll",
+   "died": "21 July 1899"
+  },
+  {
+   "year": 1837,
+   "year_label": "1837",
+   "name": "Sadi Carnot",
+   "kind": "individual",
+   "desc": "President of France",
+   "cause": "mortally wounded by assassin, to Dr. Antonin Poncet, who told him his friends were there",
+   "last_words": "I am grateful for your presence.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sadi_Carnot_(statesman)",
+   "died": "25 June 1894"
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Emil Zsigmondy",
+   "kind": "individual",
+   "desc": "Austrian mountain climber",
+   "cause": "referring to route on south face of the Meije prior to falling to his death",
+   "last_words": "It doesn't seem to go!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emil_Zsigmondy",
+   "died": "6 August 1885"
+  }
+ ]
+}

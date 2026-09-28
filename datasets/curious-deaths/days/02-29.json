@@ -1,0 +1,29 @@
+{
+ "date": "02-29",
+ "died": [
+  {
+   "year": 1528,
+   "year_label": "1528",
+   "name": "Patrick Hamilton",
+   "kind": "individual",
+   "desc": "Scottish churchman",
+   "cause": "while being burned at the stake",
+   "last_words": "How long, Lord, shall darkness cover this land? How long wilt thou suffer this tyranny of men? Lord Jesus, receive my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Hamilton_(martyr)",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1724,
+   "year_label": "1724",
+   "name": "Eva Marie Veigel",
+   "kind": "individual",
+   "desc": "Viennese dancer and wife of David Garrick",
+   "cause": "telling a servant to put down a cup of tea prior to dying at age 98",
+   "last_words": "Put it down, hussy! Do you think I cannot help myself?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eva_Marie_Veigel",
+   "died": "16 October 1822"
+  }
+ ]
+}

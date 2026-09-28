@@ -1,0 +1,106 @@
+{
+ "date": "06-30",
+ "died": [
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Charles J. Guiteau",
+   "kind": "individual",
+   "desc": "assassin of President James A. Garfield",
+   "cause": "at the conclusion of reading his poem \"I am Going to the Lordy\" prior to his hanging",
+   "last_words": "Glory hallelujah! I am going to the Lordy! I come! Ready! Go!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_J._Guiteau",
+   "born": "8 September 1841"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Georgy Dobrovolsky",
+   "kind": "individual",
+   "desc": "Soviet cosmonaut",
+   "cause": "prior to fatal reentry of Soyuz 11",
+   "last_words": "I am beginning the descent procedure.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgy_Dobrovolsky",
+   "born": "1 June 1928"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Vladislav Volkov",
+   "kind": "individual",
+   "desc": "Soviet cosmonaut",
+   "cause": "final transmission from Soyuz 11 prior to fatal reentry",
+   "last_words": "Prepare cognac, see you tomorrow!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vladislav_Volkov",
+   "born": "23 November 1935"
+  }
+ ],
+ "born": [
+  {
+   "year": 1470,
+   "year_label": "1470",
+   "name": "Charles VIII of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The French king died as a result of striking his head on the lintel of a door while on his way to watch a game of real tennis.",
+   "last_words": "I hope never again to commit a mortal sin, nor even a venial one, if I can help it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_VIII_of_France",
+   "died": "7 April 1498"
+  },
+  {
+   "year": 1801,
+   "year_label": "1801",
+   "name": "Frédéric Bastiat",
+   "kind": "individual",
+   "desc": "French economist and writer",
+   "cause": null,
+   "last_words": "I am not able to explain myself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frédéric_Bastiat",
+   "died": "24 December 1850"
+  },
+  {
+   "year": 1803,
+   "year_label": "1803",
+   "name": "Thomas Lovell Beddoes",
+   "kind": "individual",
+   "desc": "English poet, dramatist and physician",
+   "cause": "concluding his suicide note",
+   "last_words": "I am food for what I am good for-worms. I ought to have been among other things a good poet. Life was too great a bore on one peg & that a bad one.-Buy for Dr. Ecklin above mentioned Reade's best stomach pump.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Lovell_Beddoes",
+   "died": "26 January 1849"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "Louis B. Mayer",
+   "kind": "individual",
+   "desc": "Canadian-American film producer, co-founder of Metro-Goldwyn-Mayer",
+   "cause": null,
+   "last_words": "Nothing matters. Nothing matters.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_B._Mayer",
+   "died": "29 October 1957"
+  },
+  {
+   "year": 1891,
+   "year_label": "1891",
+   "name": "Stanley Spencer",
+   "kind": "individual",
+   "desc": "CBE RA, English painter",
+   "cause": "to a nurse who had given him an injection",
+   "last_words": "Beautifully done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Spencer",
+   "died": "14 December 1959"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Isaac Babel",
+   "kind": "individual",
+   "desc": "Russian author",
+   "cause": "prior to execution by firing squad on fabricated charges of terrorism and espionage",
+   "last_words": "I am only asking for one thing-let me finish my work.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Babel",
+   "died": "27 January 1940"
+  }
+ ]
+}

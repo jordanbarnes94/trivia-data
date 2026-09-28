@@ -1,0 +1,106 @@
+{
+ "date": "08-21",
+ "died": [
+  {
+   "year": 1693,
+   "year_label": "1693",
+   "name": "Patrick Sarsfield, 1st Earl of Lucan",
+   "kind": "individual",
+   "desc": "Irish soldier",
+   "cause": "mortally wounded at the Battle of Landen",
+   "last_words": "Oh, that this were for Ireland.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Sarsfield,_1st_Earl_of_Lucan",
+   "born": null
+  },
+  {
+   "year": 1762,
+   "year_label": "1762",
+   "name": "Mary Wortley Montagu",
+   "kind": "individual",
+   "desc": "English traveler",
+   "cause": null,
+   "last_words": "It has all been most interesting.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Wortley_Montagu",
+   "born": "15 May 1689"
+  },
+  {
+   "year": 1823,
+   "year_label": "1823",
+   "name": "Markos Botsaris",
+   "kind": "individual",
+   "desc": "Greek general, hero of the Greek War of Independence",
+   "cause": "killed in action in attack on Karpenisi",
+   "last_words": "To die for liberty is a pleasure and not a pain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Markos_Botsaris",
+   "born": null
+  },
+  {
+   "year": 1940,
+   "year_label": "1940",
+   "name": "Leon Trotsky",
+   "kind": "individual",
+   "desc": "Soviet revolutionary",
+   "cause": "to his wife, Natalia Sedova, while being prepared for surgery after being mortally wounded by assassin Ramón Mercader The 60-year-old Russian socialist and revolutionary was murdered in his villa in Mexico by Spanish-born NKVD agent Ramón Mercader with an ice axe.",
+   "last_words": "I feel this time they have succeeded. I do not want them to undress me. I want you to undress me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leon_Trotsky",
+   "born": "26 October 1879"
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "Sobhuza II",
+   "kind": "individual",
+   "desc": "King of Swaziland, longest verifiably-reigning monarch in recorded history",
+   "cause": "to his minister of health after halting a meeting",
+   "last_words": "I am going.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sobhuza_II",
+   "born": "22 July 1899"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Ninoy Aquino",
+   "kind": "individual",
+   "desc": "Filipino politician",
+   "cause": "moments just arrived in the Philippines after his 3-year self-exile along with his brother-in-law Ken Kashiwahara by his side, prior to his assassination at Manila International Airport",
+   "last_words": "Though God slay me, I will trust Him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
+   "born": "27 November 1932"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "Victims of the Lake Nyos disaster",
+   "kind": "group",
+   "desc": null,
+   "cause": "At Lake Nyos, northwestern Cameroon, a limnic eruption of unknown cause released about 100,000–300,000 tons of carbon dioxide (CO2) from the lake's bed. The gas cloud initially rose at nearly 100 km/h and then, being heavier than air, descended onto nearby villages, suffocating people and livestock within 25 km of the lake, resulting in the death of 1,746 people and 3,500 livestock.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "William Barksdale",
+   "kind": "individual",
+   "desc": "Confederate general of the American Civil War",
+   "cause": "to a Union surgeon after being mortally wounded at the Battle of Gettysburg",
+   "last_words": "Tell my wife I am shot, but we fought like hell.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Barksdale",
+   "died": "3 July 1863"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "Aubrey Beardsley",
+   "kind": "individual",
+   "desc": "English illustrator and author",
+   "cause": null,
+   "last_words": "I am imploring you – burn all the indecent poems and drawings.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aubrey_Beardsley",
+   "died": "16 March 1898"
+  }
+ ]
+}

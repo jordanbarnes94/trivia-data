@@ -1,0 +1,84 @@
+{
+ "date": "12-09",
+ "died": [
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "Almeida Garrett",
+   "kind": "individual",
+   "desc": "Portuguese author",
+   "cause": "addressing his friend Francisco",
+   "last_words": "I no longer see you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Almeida_Garrett",
+   "born": "4 February 1799"
+  }
+ ],
+ "born": [
+  {
+   "year": 1594,
+   "year_label": "1594",
+   "name": "Gustavus Adolphus of Sweden",
+   "kind": "individual",
+   "desc": null,
+   "cause": "mortally wounded at the Battle of Lützen (1632)",
+   "last_words": "I have enough, brother; try to save your own life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden",
+   "died": "16 November 1632"
+  },
+  {
+   "year": 1608,
+   "year_label": "1608",
+   "name": "John Milton",
+   "kind": "individual",
+   "desc": "English poet and intellectual",
+   "cause": null,
+   "last_words": "Death is the great key that opens the palace of Eternity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Milton",
+   "died": "8 November 1674"
+  },
+  {
+   "year": 1731,
+   "year_label": "1731",
+   "name": "Edward Thurlow, 1st Baron Thurlow",
+   "kind": "individual",
+   "desc": "British lawyer and politician",
+   "cause": null,
+   "last_words": "I'll be shot if I don't believe I'm dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Thurlow,_1st_Baron_Thurlow",
+   "died": "12 September 1806"
+  },
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "Joel Chandler Harris",
+   "kind": "individual",
+   "desc": "American author and folklorist",
+   "cause": "on being asked how he felt",
+   "last_words": "I am about the extent of a tenth of a gnat's eyebrow better.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joel_Chandler_Harris",
+   "died": "3 July 1908"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Emma Abbott",
+   "kind": "individual",
+   "desc": "American operatic soprano",
+   "cause": "dying of pneumonia",
+   "last_words": "I am not afraid to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emma_Abbott",
+   "died": "5 January 1891"
+  },
+  {
+   "year": 1864,
+   "year_label": "1864",
+   "name": "Breaker Morant",
+   "kind": "individual",
+   "desc": "Anglo-Australian military officer and war criminal",
+   "cause": "to his firing squad",
+   "last_words": "Shoot straight, you bastards. Don't make a mess of it!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Breaker_Morant",
+   "died": "27 February 1902"
+  }
+ ]
+}

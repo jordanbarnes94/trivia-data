@@ -1,0 +1,95 @@
+{
+ "date": "10-26",
+ "died": [
+  {
+   "year": 899,
+   "year_label": "899",
+   "name": "Alfred the Great",
+   "kind": "individual",
+   "desc": "king of the Anglo-Saxons",
+   "cause": "to his son, Edward the Elder",
+   "last_words": "Thou my dear son, set thee now beside me, and I will deliver thee true instructions. My son, I feel that my hour is coming. My countenance is wan. My days are almost done. We must now part. I shall to another world, and thou shalt be left alone in all my wealth. I pray thee (for thou art my dear child) strive to be a father, and a lord to thy people. Be thou the children's father, and the widow's friend. Comfort thou the poor, and shelter the weak; and, with all thy might, right that which is wrong. And, son, govern thyself, by law; then shall the Lord love thee, and God above all things shall be thy reward. Call thou upon him to advise thee in all thy need, and so shall he help thee, the better to compass that which thou wouldest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_the_Great",
+   "born": null
+  },
+  {
+   "year": 1843,
+   "year_label": "1843",
+   "name": "Alden Bradford",
+   "kind": "individual",
+   "desc": "American politician, clergyman and author",
+   "cause": null,
+   "last_words": "Peace!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alden_Bradford",
+   "born": "19 November 1765"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "Park Chung Hee",
+   "kind": "individual",
+   "desc": "3rd President of South Korea",
+   "cause": "in response to Cha Ji Cheol and a woman next to him asking if he was all right after being shot by Kim Jae-gyu, prior to being fatally shot in the head",
+   "last_words": "Yes, I am fine...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Park_Chung_Hee",
+   "born": "14 November 1917"
+  }
+ ],
+ "born": [
+  {
+   "year": 1684,
+   "year_label": "1684",
+   "name": "Kurt Christoph Graf von Schwerin",
+   "kind": "individual",
+   "desc": "Prussian Generalfeldmarschall",
+   "cause": "just before being fatally struck by enemy fire at the Battle of Prague (1757)",
+   "last_words": "Let all brave Prussians follow me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Christoph_Graf_von_Schwerin",
+   "died": "6 May 1757"
+  },
+  {
+   "year": 1759,
+   "year_label": "1759",
+   "name": "Georges Danton",
+   "kind": "individual",
+   "desc": "leading figure in the French Revolution",
+   "cause": "prior to execution by guillotine",
+   "last_words": "Show my head to the people. It is worth seeing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georges_Danton",
+   "died": "5 April 1794"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Leon Trotsky",
+   "kind": "individual",
+   "desc": "Soviet revolutionary",
+   "cause": "to his wife, Natalia Sedova, while being prepared for surgery after being mortally wounded by assassin Ramón Mercader The 60-year-old Russian socialist and revolutionary was murdered in his villa in Mexico by Spanish-born NKVD agent Ramón Mercader with an ice axe.",
+   "last_words": "I feel this time they have succeeded. I do not want them to undress me. I want you to undress me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leon_Trotsky",
+   "died": "21 August 1940"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Mohammad Reza Pahlavi",
+   "kind": "individual",
+   "desc": "last Shah of Iran",
+   "cause": "before slipping into a coma",
+   "last_words": "\"Iran is Iran.\" (repeatedly)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi",
+   "died": "27 July 1980"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Marc Lépine",
+   "kind": "individual",
+   "desc": "Canadian perpetrator of the École Polytechnique massacre",
+   "cause": "in which he killed fourteen women, before fatally shooting himself",
+   "last_words": "Ah, shit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marc_Lépine",
+   "died": "6 December 1989"
+  }
+ ]
+}

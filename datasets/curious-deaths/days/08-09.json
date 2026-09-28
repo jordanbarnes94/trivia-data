@@ -1,0 +1,128 @@
+{
+ "date": "08-09",
+ "died": [
+  {
+   "year": 1847,
+   "year_label": "1847",
+   "name": "Andrew Combe",
+   "kind": "individual",
+   "desc": "Scottish physician and phrenologist",
+   "cause": null,
+   "last_words": "Happy, happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Combe",
+   "born": "27 October 1797"
+  },
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "Frederick Marryat",
+   "kind": "individual",
+   "desc": "Royal Navy officer and novelist",
+   "cause": null,
+   "last_words": "It is now half-past nine. World, adieu!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Marryat",
+   "born": "10 July 1792"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Richard Corfield",
+   "kind": "individual",
+   "desc": "British colonial police officer",
+   "cause": "killed in action at the Battle of Dul Madoba",
+   "last_words": "Leave me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Corfield",
+   "born": "27 April 1882"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "George Appel",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "Well folks, you'll soon see a baked apple.",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_New_York",
+   "born": null
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "Paul Anlauf",
+   "kind": "individual",
+   "desc": "German police captain",
+   "cause": "assassinated by members of the Communist Party of Germany including Erich Mielke",
+   "last_words": "So long...Goodbye...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul_Anlauf",
+   "born": null
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Edith Stein",
+   "kind": "individual",
+   "desc": "German Jewish philosopher and Discalced Carmelite nun",
+   "cause": "to her sister Rosa prior to their deportation to the Auschwitz concentration camp, where they were killed in a mass gas chamber",
+   "last_words": "Come, we are going for our people!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edith_Stein",
+   "born": "12 October 1891"
+  },
+  {
+   "year": 1969,
+   "year_label": "1969",
+   "name": "C. F. Powell",
+   "kind": "individual",
+   "desc": "FRS, British physicist",
+   "cause": "before dying in Casargo, Italy on balcony with scenic view",
+   "last_words": "How nice, if I were to die now I would be happy...",
+   "wikipedia": "https://en.wikipedia.org/wiki/C._F._Powell",
+   "born": "5 December 1903"
+  },
+  {
+   "year": 1969,
+   "year_label": "1969",
+   "name": "Sharon Tate",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": "confirmed by confessed murderer Susan Atkins (one of the members of the Manson family led by Charles Manson) during the murders to be among the pregnant actress' last words",
+   "last_words": "Please - please don't kill me. I don't want to die. I want to live. I want to have my baby. I want to have my baby.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Tate",
+   "born": "24 January 1943"
+  }
+ ],
+ "born": [
+  {
+   "year": 1788,
+   "year_label": "1788",
+   "name": "Adoniram Judson",
+   "kind": "individual",
+   "desc": "American Congregationalist and Particular Baptist missionary",
+   "cause": "dying at sea in the Bay of Bengal. Judson was buried at sea",
+   "last_words": "Brother Ranney, will you bury me? bury me?-quick! quick! Take care of poor mistress.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Adoniram_Judson",
+   "died": "12 April 1850"
+  },
+  {
+   "year": 1845,
+   "year_label": "1845",
+   "name": "André Bessette",
+   "kind": "individual",
+   "desc": "C.S.C., Canadian Roman Catholic lay brother",
+   "cause": null,
+   "last_words": "My God, how it hurts! Oh I suffer!",
+   "wikipedia": "https://en.wikipedia.org/wiki/André_Bessette",
+   "died": "6 January 1937"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Philip Larkin",
+   "kind": "individual",
+   "desc": "English poet and novelist",
+   "cause": "to his nurse",
+   "last_words": "I am going to the inevitable.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Larkin",
+   "died": "2 December 1985"
+  }
+ ]
+}

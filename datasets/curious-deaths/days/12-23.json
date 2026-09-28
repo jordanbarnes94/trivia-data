@@ -1,0 +1,40 @@
+{
+ "date": "12-23",
+ "died": [
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "Charlie Bowdre",
+   "kind": "individual",
+   "desc": "American cowboy and outlaw, associate of Billy the Kid",
+   "cause": "shot dead in an ambush",
+   "last_words": "I wish...I wish...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Bowdre",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1722,
+   "year_label": "1722",
+   "name": "John Brown of Haddington",
+   "kind": "individual",
+   "desc": "Scottish minister and author",
+   "cause": null,
+   "last_words": "My Christ.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_of_Haddington",
+   "died": "19 June 1787"
+  },
+  {
+   "year": 1805,
+   "year_label": "1805",
+   "name": "Joseph Smith",
+   "kind": "individual",
+   "desc": "founder of Mormonism",
+   "cause": "before falling from a window during his murder",
+   "last_words": "O Lord my God!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Smith",
+   "died": "27 June 1844"
+  }
+ ]
+}

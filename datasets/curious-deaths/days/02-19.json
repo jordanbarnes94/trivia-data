@@ -1,0 +1,128 @@
+{
+ "date": "02-19",
+ "died": [
+  {
+   "year": 1405,
+   "year_label": "1405",
+   "name": "Timur",
+   "kind": "individual",
+   "desc": "Turco-Mongol conqueror, founder of the Timurid Empire",
+   "cause": null,
+   "last_words": "Never yet has death been frightened away by screaming.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timur",
+   "born": "9 April 1336"
+  },
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "Thomas de Mahy, Marquis de Favras",
+   "kind": "individual",
+   "desc": null,
+   "cause": "upon reading his death warrant",
+   "last_words": "I see that you have made three spelling mistakes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_de_Mahy,_Marquis_de_Favras",
+   "born": "26 March 1744"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Frederick Funston",
+   "kind": "individual",
+   "desc": "United States Army general and Medal of Honor recipient",
+   "cause": "while listening to an orchestra play \"The Blue Danube\" waltz in the lobby of The St. Anthony Hotel in San Antonio, Texas. He then collapsed from a heart attack",
+   "last_words": "How beautiful it all is.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Funston",
+   "born": "11 September 1865"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "John Basilone",
+   "kind": "individual",
+   "desc": "United States Marine Corps Gunnery Sergeant and Medal of Honor recipient",
+   "cause": "prior to being killed at the Battle of Iwo Jima",
+   "last_words": "C'mon you guys! Let's get these guns off the beach.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Basilone",
+   "born": "4 November 1916"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "André Gide",
+   "kind": "individual",
+   "desc": "French author",
+   "cause": null,
+   "last_words": "It is well.",
+   "wikipedia": "https://en.wikipedia.org/wiki/André_Gide",
+   "born": "22 November 1869"
+  },
+  {
+   "year": 1994,
+   "year_label": "1994",
+   "name": "Derek Jarman",
+   "kind": "individual",
+   "desc": "English film director, stage designer and author",
+   "cause": null,
+   "last_words": "I want the world to be filled with white fluffy duckies.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Derek_Jarman",
+   "born": "31 January 1942"
+  },
+  {
+   "year": 1994,
+   "year_label": "1994",
+   "name": "Gloria Ramirez",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 31-year-old died from kidney failure related to her cervical cancer at the emergency room of Riverside General Hospital in Riverside, California. While treating her, several of the hospital staff became ill, suffering from loss of consciousness, shortness of breath, and muscle spasms. Shortly before dying, she was allegedly covered with an oily sheen, which smelled of fruit and garlic.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Gloria_Ramirez",
+   "born": "11 January 1963"
+  }
+ ],
+ "born": [
+  {
+   "year": 1473,
+   "year_label": "1473",
+   "name": "Nicolaus Copernicus",
+   "kind": "individual",
+   "desc": "mathematician and astronomer",
+   "cause": "paraphrasing Luke 2:29 KJV",
+   "last_words": "Now, O Lord, set thy servant free.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
+   "died": "24 May 1543"
+  },
+  {
+   "year": 1594,
+   "year_label": "1594",
+   "name": "Henry Frederick, Prince of Wales",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when asked if he was in pain",
+   "last_words": "I would say 'somewhat,' but I cannot utter it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Frederick,_Prince_of_Wales",
+   "died": "6 November 1612"
+  },
+  {
+   "year": 1717,
+   "year_label": "1717",
+   "name": "David Garrick",
+   "kind": "individual",
+   "desc": "English actor, playwright, theatre manager and producer",
+   "cause": null,
+   "last_words": "Oh, dear!",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Garrick",
+   "died": "20 January 1779"
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "José Abad Santos",
+   "kind": "individual",
+   "desc": "fifth Chief Justice of the Philippines, Acting President of the Commonwealth of the Philippines",
+   "cause": "bidding farewell to his son Pepito prior to execution by occupying Japanese forces. Abad Santos subsequently refused to be blindfolded for his execution and he declined the final cigarette which was offered to him",
+   "last_words": "Take good care of your mother, your brother, and sisters. Tell them to live up to our name. God bless you, my son.",
+   "wikipedia": "https://en.wikipedia.org/wiki/José_Abad_Santos",
+   "died": "2 May 1942"
+  }
+ ]
+}

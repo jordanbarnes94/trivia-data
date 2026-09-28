@@ -1,0 +1,73 @@
+{
+ "date": "06-29",
+ "died": [
+  {
+   "year": 1520,
+   "year_label": "1520",
+   "name": "Moctezuma II",
+   "kind": "individual",
+   "desc": "Huey Tlatoani or Emperor of the Aztec Empire",
+   "cause": "to Hernán Cortés (calling him by the name of his interpreter, La Malinche)",
+   "last_words": "I confide to your care my beloved children, the most precious jewels I can leave you. The great monarch beyond the ocean will interest himself to see that they come into their inheritance, if you present before him their just claims. I know your master will do this, if for no other reason, then for the kindness I have shown the Spaniards, though it has occasioned my ruin. For all my misfortunes, Malinche, I bear you no ill will.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moctezuma_II",
+   "born": null
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Elizabeth Barrett Browning",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "It is beautiful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning",
+   "born": "6 March 1806"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Jayne Mansfield, Samuel Brody, and Ronnie Harrison",
+   "kind": "group",
+   "desc": null,
+   "cause": "The 34-year-old American actress and Playboy model died when the driver of her 1966 Buick Electra 225 crashed into a tractor which had abruptly stopped to make way for an approaching mosquito insecticide fog-spraying truck, which released clouds of insecticide that obscured the tractor. Brody, her lover, and Harrison, the driver, also died, but her children, including Mariska Hargitay, who was 3 years old at the time, survived. Many people speculated that the accident was the result of a Satanic curse.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jayne_Mansfield",
+   "born": null
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev",
+   "kind": "group",
+   "desc": null,
+   "cause": "The Soviet cosmonauts died when their Soyuz 11 spacecraft depressurized during preparations for re-entry. They are the only reported human deaths outside the Earth's atmosphere.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgy_Dobrovolsky",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1620,
+   "year_label": "1620",
+   "name": "Masaniello",
+   "kind": "individual",
+   "desc": "Italian fisherman and revolutionary leader",
+   "cause": "to his assassins",
+   "last_words": "Ungrateful traitors!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Masaniello",
+   "died": "16 July 1647"
+  },
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "Ludwig Beck",
+   "kind": "individual",
+   "desc": "German general",
+   "cause": "trying unsuccessfully to shoot himself after the failure of the 20 July plot. A soldier then shot and killed him",
+   "last_words": "If it doesn't work this time, then please help me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Beck",
+   "died": "20 July 1944"
+  }
+ ]
+}

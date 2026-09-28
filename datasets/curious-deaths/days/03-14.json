@@ -1,0 +1,106 @@
+{
+ "date": "03-14",
+ "died": [
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Karl Marx",
+   "kind": "individual",
+   "desc": "political theorist",
+   "cause": "when asked by his housekeeper about his last words",
+   "last_words": "Go on, get out! Last words are for fools who haven't said enough!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karl_Marx",
+   "born": "5 May 1818"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "William Richard Cotter",
+   "kind": "individual",
+   "desc": "VC, British Army soldier",
+   "cause": "mortally wounded during World War I",
+   "last_words": "Goodbye, God bless you all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Richard_Cotter",
+   "born": null
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "George Eastman",
+   "kind": "individual",
+   "desc": "American entrepreneur",
+   "cause": "as his suicide note, before shooting himself in the chest",
+   "last_words": "To my friends / My work is done / Why wait? / G.E.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Eastman",
+   "born": "12 July 1854"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Edward Abbey",
+   "kind": "individual",
+   "desc": "American author, essayist and environmental advocate",
+   "cause": null,
+   "last_words": "I did what I could.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Abbey",
+   "born": "29 January 1927"
+  }
+ ],
+ "born": [
+  {
+   "year": 1782,
+   "year_label": "1782",
+   "name": "Thomas Hart Benton",
+   "kind": "individual",
+   "desc": "United States Senator from Missouri",
+   "cause": null,
+   "last_words": "I am comfortable and content.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hart_Benton_(politician)",
+   "died": "10 April 1858"
+  },
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "Josephine",
+   "kind": "individual",
+   "desc": "Queen of Sweden and Norway",
+   "cause": null,
+   "last_words": "I am so happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Josephine_of_Leuchtenberg",
+   "died": "7 June 1876"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Casey Jones",
+   "kind": "individual",
+   "desc": "American railroader",
+   "cause": "to his fireman shortly before his passenger train collided with a stalled freight train",
+   "last_words": "Jump, Sim, while you have the time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Casey_Jones",
+   "died": "30 April 1900"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Albert Einstein",
+   "kind": "individual",
+   "desc": "German physicist",
+   "cause": "declining surgery the day before his death",
+   "last_words": "I want to go when I want. It is tasteless to prolong life artificially. I have done my share, it is time to go. I will do it elegantly.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein",
+   "died": "18 April 1955"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "John Amery",
+   "kind": "individual",
+   "desc": "British fascist",
+   "cause": "to his executioner, Albert Pierrepoint, prior to hanging for high treason",
+   "last_words": "Oh Pierrepoint.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Amery",
+   "died": "19 December 1945"
+  }
+ ]
+}

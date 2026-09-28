@@ -1,0 +1,117 @@
+{
+ "date": "03-21",
+ "died": [
+  {
+   "year": 1556,
+   "year_label": "1556",
+   "name": "Thomas Cranmer",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "alluding to Acts 7:56 KJV prior to execution by burning",
+   "last_words": "Lord Jesus, receive my spirit... I see the heavens open and Jesus standing at the right hand of God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cranmer",
+   "born": "2 July 1489"
+  },
+  {
+   "year": 1656,
+   "year_label": "1656",
+   "name": "James Ussher",
+   "kind": "individual",
+   "desc": "Church of Ireland Archbishop of Armagh and Primate of All Ireland",
+   "cause": null,
+   "last_words": "O Lord, forgive me specially my sins of omission.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Ussher",
+   "born": "4 January 1581"
+  },
+  {
+   "year": 1804,
+   "year_label": "1804",
+   "name": "Louis Antoine, Duke of Enghien",
+   "kind": "individual",
+   "desc": null,
+   "cause": "prior to execution by firing squad",
+   "last_words": "I die for my king and for France.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Antoine,_Duke_of_Enghien",
+   "born": "2 August 1772"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Wilfrith Elstob",
+   "kind": "individual",
+   "desc": "VC DSO MC, British Army officer",
+   "cause": "in response to enemy demand to surrender on the first day of the German spring offensive during World War I",
+   "last_words": "Never.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilfrith_Elstob",
+   "born": "8 September 1888"
+  }
+ ],
+ "born": [
+  {
+   "year": 1685,
+   "year_label": "1685",
+   "name": "Johann Sebastian Bach",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": null,
+   "last_words": "Don't cry for me, for I go where music is born.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+   "died": "28 July 1750"
+  },
+  {
+   "year": 1763,
+   "year_label": "1763",
+   "name": "Jean Paul",
+   "kind": "individual",
+   "desc": "German Romantic writer",
+   "cause": "touching a wreath of flowers he had been given. Jean Paul had lost his senses of sight and smell before his death",
+   "last_words": "My beautiful flowers, my lovely flowers!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean_Paul",
+   "died": "14 November 1825"
+  },
+  {
+   "year": 1768,
+   "year_label": "1768",
+   "name": "Joseph Fourier",
+   "kind": "individual",
+   "desc": "French mathematician and physicist",
+   "cause": "calling to his physician, who had stepped out of the room",
+   "last_words": "Quick, quick! some vinegar! I am fainting.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Fourier",
+   "died": "16 May 1830"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Sir Andrew Agnew, 7th Baronet",
+   "kind": "individual",
+   "desc": "Scottish politician",
+   "cause": null,
+   "last_words": "Did the doctors really say I was not to get up?-If they said so, then I won't get up; but I feel well.-No, I will keep them [the pillows] as the doctors left them.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sir_Andrew_Agnew,_7th_Baronet",
+   "died": "28 April 1849"
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "name": "Florenz Ziegfeld Jr.",
+   "kind": "individual",
+   "desc": "American Broadway impresario",
+   "cause": null,
+   "last_words": "Curtain! Fast music! Lights! Ready for the last finale! Great! The show looks good. The show looks good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Florenz_Ziegfeld_Jr.",
+   "died": "22 July 1932"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Ayrton Senna",
+   "kind": "individual",
+   "desc": "Brazilian Formula One driver",
+   "cause": "prior to fatal crash at 1994 San Marino Grand Prix",
+   "last_words": "The car seems OK ...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+   "died": "1 May 1994"
+  }
+ ]
+}

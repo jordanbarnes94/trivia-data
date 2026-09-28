@@ -1,0 +1,61 @@
+{
+ "date": "01-19",
+ "died": [],
+ "born": [
+  {
+   "year": 1798,
+   "year_label": "1798",
+   "name": "Auguste Comte",
+   "kind": "individual",
+   "desc": "French philosopher",
+   "cause": null,
+   "last_words": "What an irreparable loss!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Auguste_Comte",
+   "died": "5 September 1857"
+  },
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "Robert E. Lee",
+   "kind": "individual",
+   "desc": "United States and Confederate States soldier and general",
+   "cause": null,
+   "last_words": "Tell Hill he must come up! Strike the tent!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Lee",
+   "died": "12 October 1870"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Edgar Allan Poe",
+   "kind": "individual",
+   "desc": "American writer",
+   "cause": null,
+   "last_words": "Lord, help my poor soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+   "died": "7 October 1849"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Alexander Woollcott",
+   "kind": "individual",
+   "desc": "American critic and radio personality",
+   "cause": null,
+   "last_words": "I have no need of your Goddamned sympathy – I want to be entertained by some of your grosser reminiscences.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Woollcott",
+   "died": "23 January 1943"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Habibullāh Kalakāni",
+   "kind": "individual",
+   "desc": "claimant of the titles of King and Emir of Afghanistan",
+   "cause": "prior to execution",
+   "last_words": "I have nothing to ask God, he has given me everything I desired. God has made me King.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Habibullāh_Kalakāni",
+   "died": "1 November 1929"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "date": "04-14",
+ "died": [
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "William Farr",
+   "kind": "individual",
+   "desc": "British epidemiologist",
+   "cause": null,
+   "last_words": "Lord, receive my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Farr",
+   "born": "30 November 1807"
+  },
+  {
+   "year": 1934,
+   "year_label": "1934",
+   "name": "Karl Dane",
+   "kind": "individual",
+   "desc": "Danish-American comedian and actor",
+   "cause": "wrote it on his suicide note",
+   "last_words": "To Frances and all my friends-goodbye",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karl_Dane",
+   "born": "12 October 1886"
+  }
+ ],
+ "born": [
+  {
+   "year": 1578,
+   "year_label": "1578",
+   "name": "Philip III of Spain",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Oh, would to God I had never reigned! Oh, that those years I have spent in my kingdom I had lived a solitary life in the wilderness! Oh, that I had lived alone with God! How much more secure should I now have died! With how much more confidence should I have gone to the throne of God! What doth all my glory profit, but that I have so much the more torment in my death?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_III_of_Spain",
+   "died": "31 March 1621"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Maury Henry Biddle Paul",
+   "kind": "individual",
+   "desc": "American journalist and society columnist",
+   "cause": null,
+   "last_words": "Oh Mother, how beautiful it is!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maury_Henry_Biddle_Paul",
+   "died": "17 July 1942"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "William D. Hawkins",
+   "kind": "individual",
+   "desc": "United States Marine Corps officer and Medal of Honor recipient",
+   "cause": "mortally wounded at the Battle of Tarawa",
+   "last_words": "Boys, I sure hate to leave you like this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_D._Hawkins",
+   "died": "21 November 1943"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Lance Sijan",
+   "kind": "individual",
+   "desc": "United States Air Force fighter pilot and Medal of Honor recipient",
+   "cause": "dying in Hỏa Lò Prison during the Vietnam War",
+   "last_words": "Dad! Dad! Where are you? I need you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lance_Sijan",
+   "died": "22 January 1968"
+  }
+ ]
+}

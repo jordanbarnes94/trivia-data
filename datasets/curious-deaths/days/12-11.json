@@ -1,0 +1,73 @@
+{
+ "date": "12-11",
+ "died": [
+  {
+   "year": 1582,
+   "year_label": "1582",
+   "name": "Fernando Álvarez de Toledo, 3rd Duke of Alba",
+   "kind": "individual",
+   "desc": null,
+   "cause": "on learning that the King was to visit him",
+   "last_words": "Too late.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Álvarez_de_Toledo,_3rd_Duke_of_Alba",
+   "born": "29 October 1507"
+  },
+  {
+   "year": 1797,
+   "year_label": "1797",
+   "name": "Richard Brocklesby",
+   "kind": "individual",
+   "desc": "English physician",
+   "cause": "as his servants dressed him for bed",
+   "last_words": "What an idle piece of ceremony this buttoning and unbuttoning is to me, now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Brocklesby",
+   "born": "11 August 1722"
+  },
+  {
+   "year": 1950,
+   "year_label": "1950",
+   "name": "John U. D. Page",
+   "kind": "individual",
+   "desc": "United States Army officer and Medal of Honor recipient",
+   "cause": "prior to being killed in action during the Battle of Chosin Reservoir in the Korean War",
+   "last_words": "Get back ... I'll cover you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_U._D._Page",
+   "born": "8 February 1904"
+  }
+ ],
+ "born": [
+  {
+   "year": 1475,
+   "year_label": "1475",
+   "name": "Pope Leo X",
+   "kind": "individual",
+   "desc": null,
+   "cause": "rumored to have died by poison",
+   "last_words": "I have been murdered; no remedy can prevent my speedy death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Leo_X",
+   "died": "1 December 1521"
+  },
+  {
+   "year": 1803,
+   "year_label": "1803",
+   "name": "Hector Berlioz",
+   "kind": "individual",
+   "desc": "French composer",
+   "cause": null,
+   "last_words": "One thousand greetings to Balakirev.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hector_Berlioz",
+   "died": "8 March 1869"
+  },
+  {
+   "year": 1822,
+   "year_label": "1822",
+   "name": "George David Cummins",
+   "kind": "individual",
+   "desc": "American Anglican bishop, founder of the Reformed Episcopal Church",
+   "cause": null,
+   "last_words": "Jesus! precious Saviour!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_David_Cummins",
+   "died": "26 June 1876"
+  }
+ ]
+}

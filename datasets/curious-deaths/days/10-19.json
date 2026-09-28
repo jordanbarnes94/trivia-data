@@ -1,0 +1,84 @@
+{
+ "date": "10-19",
+ "died": [
+  {
+   "year": 1745,
+   "year_label": "1745",
+   "name": "Jonathan Swift",
+   "kind": "individual",
+   "desc": "Anglo-Irish author and cleric",
+   "cause": "referring to George Frideric Handel, who had come to visit him",
+   "last_words": "Ah! A German and a genius! A prodigy-admit him!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift",
+   "born": "30 November 1667"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Józef Poniatowski",
+   "kind": "individual",
+   "desc": "Polish general and Marshal of the Empire",
+   "cause": "While he was covering the French Army's retreat during the Battle of Leipzig, French forces prematurely blew up the only bridge over the White Elster before Poniatowski could reach it",
+   "last_words": "Gentlemen, it behoves us now to die with honour.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Józef_Poniatowski",
+   "born": "7 May 1763"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "François-Joseph Talma",
+   "kind": "individual",
+   "desc": "French actor",
+   "cause": null,
+   "last_words": "Voltaire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/François-Joseph_Talma",
+   "born": "15 January 1763"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "Robert Hugh Benson",
+   "kind": "individual",
+   "desc": "AFSC KC*SG KGCHS, English Roman Catholic priest and author",
+   "cause": null,
+   "last_words": "Arthur, don't look at me! Nurse stand between my brother and me.... Jesus, Mary and Joseph, I give you my heart and my soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hugh_Benson",
+   "born": "18 November 1871"
+  }
+ ],
+ "born": [
+  {
+   "year": 1735,
+   "year_label": "1735",
+   "name": "John Adams",
+   "kind": "individual",
+   "desc": "Founding Father and second president of the United States",
+   "cause": "unaware that Jefferson had died earlier that same day",
+   "last_words": "Thomas Jefferson survives.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Adams",
+   "died": "4 July 1826"
+  },
+  {
+   "year": 1870,
+   "year_label": "1870",
+   "name": "Matangini Hazra",
+   "kind": "individual",
+   "desc": "Indian revolutionary",
+   "cause": "repeatedly chanting words from protest song while being shot by British Indian police at the age of 72",
+   "last_words": "I bow to thee, Mother.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Matangini_Hazra",
+   "died": "29 September 1942"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Ronald Clark O'Bryan",
+   "kind": "individual",
+   "desc": "American optician who killed his son with poisoned Halloween candy for life insurance money",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "What is about to transpire in a few moments is wrong! However, we as human beings do make mistakes and errors. This execution is one of those wrongs yet doesn't mean our whole system of justice is wrong. Therefore, I would forgive all who have taken part in any way in my death. Also, to anyone I have offended in any way during my 39 years, I pray and ask your forgiveness, just as I forgive anyone who offended me in any way. And I pray and ask God's forgiveness for all of us respectively as human beings. To my loved ones, I extend my undying love. To those close to me, know in your hearts I love you one and all. God bless you all and may God's best blessings be always yours. Ronald C. O'Bryan. P.S. During my time here, I have been treated well by all T.D.C. personnel.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Clark_O'Bryan",
+   "died": "31 March 1984"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "date": "05-09",
+ "died": [
+  {
+   "year": 1672,
+   "year_label": "1672",
+   "name": "François de La Mothe Le Vayer",
+   "kind": "individual",
+   "desc": "French writer",
+   "cause": "to physician and traveler François Bernier, who had come to say goodbye to him",
+   "last_words": "Well, my friend, what news from the Great Mogul?",
+   "wikipedia": "https://en.wikipedia.org/wiki/François_de_La_Mothe_Le_Vayer",
+   "born": "1 August 1588"
+  },
+  {
+   "year": 1760,
+   "year_label": "1760",
+   "name": "Nicolaus Zinzendorf",
+   "kind": "individual",
+   "desc": "German religious and social reformer and bishop of the Moravian Church",
+   "cause": "to his son-in-law",
+   "last_words": "Now, my dear son, I am going to the Saviour. I am ready; I am quite resigned to the will of my Lord. If He is no longer willing to make use of me here I am quite ready to go to Him, for there is nothing more in my way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Zinzendorf",
+   "born": "26 May 1700"
+  },
+  {
+   "year": 1805,
+   "year_label": "1805",
+   "name": "Friedrich Schiller",
+   "kind": "individual",
+   "desc": "German writer, philosopher and physician",
+   "cause": null,
+   "last_words": "Many things are growing clearer and clearer to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
+   "born": "10 November 1759"
+  },
+  {
+   "year": 1864,
+   "year_label": "1864",
+   "name": "General John Sedgwick",
+   "kind": "individual",
+   "desc": "Union general of the American Civil War",
+   "cause": "at the Battle of Spotsylvania Court House shortly before being shot and killed by enemy fire shortly before being shot in the head by a Confederate sharpshooter",
+   "last_words": "They couldn't hit an elephant at this distance...",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Sedgwick",
+   "born": "13 September 1813"
+  },
+  {
+   "year": 1911,
+   "year_label": "1911",
+   "name": "Sigmund Neuberger",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 40-year-old German magician, better known as \"The Great Lafayette\", was so devastated by the death of his pet dog Beauty that he arranged burial for her with the Edinburgh City Council at Piershill Cemetery, under the condition that he would also be buried next to her when he died. Lafayette reportedly proclaimed that he would not live much longer after Beauty's death. Four days later, he was performing at the Empire Palace Theatre in Edinburgh, Scotland, when a fire broke out and engulfed the stage within minutes. The audience, thinking that this was all part of the illusion, did not evacuate until the theatre manager signaled for the orchestra to play God Save the King. Two days after the fire, Lafayette's body double was misidentified as Lafayette himself until his real body was identified a day later and was buried per his wishes. Other than Lafayette, ten other people also died in the disaster.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Neuberger",
+   "born": "25 February 1871"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "Albert A. Michelson",
+   "kind": "individual",
+   "desc": "American physicist",
+   "cause": "writing in a scientific log",
+   "last_words": "The following is a report on the measurement of the velocity of light made at the Irvine Ranch, near Santa Ana, California, during the period of September 1929 to-.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_A._Michelson",
+   "born": "19 December 1852"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Jack Holland",
+   "kind": "individual",
+   "desc": "American college football player and boxer",
+   "cause": "while leaving ring after loss to Tony Marullo; he then collapsed from a cerebral hemorrhage",
+   "last_words": "I butted him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Holland_(boxer)",
+   "born": null
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Zygmunt Pawlaczyk",
+   "kind": "individual",
+   "desc": "the captain of LOT Polish Airlines Flight 5055",
+   "cause": "to air traffic control as the plane crashed into the ground",
+   "last_words": "Goodnight! Goodbye! Bye, we perish!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zygmunt_Pawlaczyk",
+   "born": "19 April 1928"
+  },
+  {
+   "year": 1992,
+   "year_label": "1992",
+   "name": "Ramon Prado Jr.",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 3-year-old boy from Santa Ana was killed when a rear tire of the minibus on which he was riding blew out, causing its steel treads to burst through the floor of the bus, snatch him from the arms of his mother and throw him onto Interstate 5 in Oceanside, California, where he was struck by the bus and at least one other vehicle.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1738,
+   "year_label": "1738",
+   "name": "John Wolcot",
+   "kind": "individual",
+   "desc": "English satirist",
+   "cause": "when asked, \"Is there anything I can do for you?\"",
+   "last_words": "Give me back my youth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wolcot",
+   "died": "14 January 1819"
+  },
+  {
+   "year": 1800,
+   "year_label": "1800",
+   "name": "John Brown",
+   "kind": "individual",
+   "desc": "American abolitionist",
+   "cause": "final written words prior to execution by hanging",
+   "last_words": "I, John Brown, am now quite certain that the crimes of this guilty land will never be purged away but with Blood. I had, as I now think, vainly flattered myself that without very much bloodshed it might be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_(abolitionist)",
+   "died": "2 December 1859"
+  },
+  {
+   "year": 1860,
+   "year_label": "1860",
+   "name": "J. M. Barrie",
+   "kind": "individual",
+   "desc": "Scottish novelist and playwright",
+   "cause": null,
+   "last_words": "I can't sleep.",
+   "wikipedia": "https://en.wikipedia.org/wiki/J._M._Barrie",
+   "died": "19 June 1937"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Anton Cermak",
+   "kind": "individual",
+   "desc": "Mayor of Chicago",
+   "cause": "in hospital after being wounded in assassination attempt on Franklin D. Roosevelt; last reported words",
+   "last_words": "Take that tent thing off me and give me something to drink. Quit shooting that stuff into my arm and leave me alone. I'm going to get well.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anton_Cermak",
+   "died": "6 March 1933"
+  },
+  {
+   "year": 1921,
+   "year_label": "1921",
+   "name": "Sophie Scholl",
+   "kind": "individual",
+   "desc": "member of White Rose anti-Nazi resistance movement, sister of Hans Scholl",
+   "cause": "before she was taken for beheading by guillotine",
+   "last_words": "How can we expect righteousness to prevail when there is hardly anyone willing to give himself up individually to a righteous cause... It is such a splendid sunny day, and I have to go. But how many have to die on the battlefield in these days, how many young, promising lives. What does my death matter if by our acts thousands are warned and alerted. Among the student body there will certainly be a revolt.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Scholl",
+   "died": "22 February 1943"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "date": "07-14",
+ "died": [
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Germaine de Staël",
+   "kind": "individual",
+   "desc": "French woman of letters and political theorist",
+   "cause": null,
+   "last_words": "I have loved God, my father, and liberty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Germaine_de_Staël",
+   "born": "22 April 1766"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "August Neander",
+   "kind": "individual",
+   "desc": "German theologian and church historian",
+   "cause": null,
+   "last_words": "I am weary; I will now go to sleep. Good night!",
+   "wikipedia": "https://en.wikipedia.org/wiki/August_Neander",
+   "born": "17 January 1789"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Billy the Kid",
+   "kind": "individual",
+   "desc": "American outlaw and gunfighter",
+   "cause": "entering a dark bedroom whereupon sheriff Pat Garrett shot him after recognizing his voice",
+   "last_words": "Who is it? Who is it?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Billy_the_Kid",
+   "born": "23 November 1859"
+  }
+ ],
+ "born": [
+  {
+   "year": 1602,
+   "year_label": "1602",
+   "name": "Cardinal Mazarin",
+   "kind": "individual",
+   "desc": "Italian cardinal, diplomat and politician",
+   "cause": null,
+   "last_words": "O, my poor soul, what is to become of thee? Whither wilt thou go?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Mazarin",
+   "died": "9 March 1661"
+  },
+  {
+   "year": 1804,
+   "year_label": "1804",
+   "name": "Ludwig von Benedek",
+   "kind": "individual",
+   "desc": "Austrian general",
+   "cause": "writing to his wife",
+   "last_words": "Relieved to hear that you feel better. I had a very bad night-am now stronger. Your poor Louis.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_von_Benedek",
+   "died": "27 April 1881"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Harold Davidson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 62-year-old defrocked Anglican vicar died while re-enacting the story of Daniel in the Lions' Den at a sideshow in Skegness, by entering a cage containing two lions, which then mauled and fatally injured him; his death may have also been contributed to by being accidentally poisoned with insulin by a doctor who wrongly believed Davidson to be a diabetic.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Harold_Davidson",
+   "died": "30 July 1937"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Martha Mansfield",
+   "kind": "individual",
+   "desc": null,
+   "cause": "While the 24-year-old American film actress was on location in San Antonio, Texas filming the American Civil War drama The Warrens of Virginia, a lit match was carelessly tossed by a crew member, which ignited the hoop skirts and ruffles of her Civil War costume. Co-star Wilfred Lytell and a chauffeur were able to extinguish the flames and rush her to a hospital, where she died the following day from her injuries.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Martha_Mansfield",
+   "died": "30 November 1923"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "date": "02-09",
+ "died": [
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "John Hooper",
+   "kind": "individual",
+   "desc": "Anglican Bishop of Gloucester and Worcester, Protestant martyr",
+   "cause": "refusing a pardon prior to burning at the stake for heresy",
+   "last_words": "If you love my soul, away with it!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Hooper_(bishop)",
+   "born": null
+  },
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "Rowland Taylor",
+   "kind": "individual",
+   "desc": "English Protestant martyr",
+   "cause": "while being burned at the stake for heresy",
+   "last_words": "Merciful Father of heaven, for Jesus Christ my Savior's sake, receive my soul into Thy hand.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rowland_Taylor",
+   "born": "6 October 1510"
+  },
+  {
+   "year": 1619,
+   "year_label": "1619",
+   "name": "Lucilio Vanini",
+   "kind": "individual",
+   "desc": "Italian philosopher, physician and freethinker",
+   "cause": "prior to execution by strangling and burning for atheism and blasphemy",
+   "last_words": "They sweat in extremes, for fear of the unwarlike; I am dying undisturbed",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucilio_Vanini",
+   "born": null
+  },
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "George Lippard",
+   "kind": "individual",
+   "desc": "American author, social activist and labor organizer",
+   "cause": "to his physician",
+   "last_words": "Is this death?",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Lippard",
+   "born": "10 April 1822"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "Jules Michelet",
+   "kind": "individual",
+   "desc": "French historian",
+   "cause": "rambling before his death",
+   "last_words": "Linen, doctor? You speak of linen? Do you know what linen is? The linen of the peasant, of the worker? Linen is a great thing. I want to make a book of it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jules_Michelet",
+   "born": "22 August 1798"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Osamu Tezuka",
+   "kind": "individual",
+   "desc": "Japanese cartoonist",
+   "cause": "to a nurse who tried to take away his drawing equipment",
+   "last_words": "I'm begging you, let me work!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Tezuka",
+   "born": "3 November 1928"
+  }
+ ],
+ "born": [
+  {
+   "year": 1758,
+   "year_label": "1758",
+   "name": "Richard Burke Jr.",
+   "kind": "individual",
+   "desc": "English barrister and Member of Parliament",
+   "cause": "quoting the Morning Hymn from Paradise Lost to his father, Edmund Burke; he then died in his father's arms",
+   "last_words": "His praise, ye winds, that from four quarters blow, / Blow soft or loud; and wave your tops, ye pines, / With every plant, in sign of worship, wave.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Burke_Jr.",
+   "died": "2 August 1794"
+  },
+  {
+   "year": 1773,
+   "year_label": "1773",
+   "name": "William Henry Harrison",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to his doctor but possibly intended for John Tyler, his vice-president and successor The 9th President of the United States died a month after his inauguration from an illness (possibly pneumonia or enteric fever) that developed after he stood in the rain to deliver his 2-hour-long inaugural address, the longest by any U.S. President. Medical treatments Harrison received in the last week of his life included opium, castor oil and leeches. Harrison remains the U.S. President to have served the shortest term in office and was the first President to die in office.",
+   "last_words": "Sir, I wish you to understand the true principles of the government. I wish them carried out. I ask nothing more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
+   "died": "4 April 1841"
+  },
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "Samuel J. Tilden",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "suffering from thirst",
+   "last_words": "Water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_J._Tilden",
+   "died": "4 August 1886"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Alban Berg",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": "to his wife, who had asked him to relax",
+   "last_words": "But I have so little time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alban_Berg",
+   "died": "24 December 1935"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Brendan Behan",
+   "kind": "individual",
+   "desc": "Irish writer",
+   "cause": "to his wife Beatrice",
+   "last_words": "You made one mistake. You married me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Behan",
+   "died": "20 March 1964"
+  }
+ ]
+}

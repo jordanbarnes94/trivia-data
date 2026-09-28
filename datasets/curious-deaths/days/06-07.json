@@ -1,0 +1,84 @@
+{
+ "date": "06-07",
+ "died": [
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Patrick Brontë",
+   "kind": "individual",
+   "desc": "Irish Anglican priest and author, father of Charlotte, Branwell, Emily and Anne Brontë",
+   "cause": null,
+   "last_words": "While there is life there is will.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Brontë",
+   "born": "17 March 1777"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "Josephine",
+   "kind": "individual",
+   "desc": "Queen of Sweden and Norway",
+   "cause": null,
+   "last_words": "I am so happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Josephine_of_Leuchtenberg",
+   "born": "14 March 1807"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Dorothy Parker",
+   "kind": "individual",
+   "desc": "American writer and wit",
+   "cause": null,
+   "last_words": "Excuse my dust.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Parker",
+   "born": "22 August 1893"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Bryan Loudermilk",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 28-year-old father of three was found pinned beneath a rear tire of his car at his trailer home in Okeechobee, Florida. He was initially conscious, albeit unable to feel his legs before dying of traumatic asphyxia at a hospital the same day. He had willingly laid down in a shallow ditch and allowed an unidentified woman to park the car on his torso to fulfill a crush fetish, unsuccessfully using a pillow and a wooden board as cushioning. The death was deemed accidental. It was later found that Loudermilk and his wife Stephanie Tongkeamha had previously produced and sold several pornographic crushing videos in which the latter killed mice and rabbits by stepping on them.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1532,
+   "year_label": "1532",
+   "name": "Amy Robsart",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 28-year-old wife of Robert Dudley, Earl of Leicester was found dead by a staircase with two wounds on her head and a broken neck. Theories suggest she threw herself down the stairs.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Amy_Robsart",
+   "died": "8 September 1560"
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Alice Moore Hubbard",
+   "kind": "individual",
+   "desc": "American feminist and writer",
+   "cause": "on her husband being asked \"What are you going to do?\" prior to the sinking of the RMS Lusitania",
+   "last_words": "There does not seem to be anything to do.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alice_Moore_Hubbard",
+   "died": "7 May 1915"
+  },
+  {
+   "year": 1947,
+   "year_label": "1947",
+   "name": "Thurman Munson",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": "trapped in crashed plane, to his two passengers, who survived",
+   "last_words": "Are you guys okay?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thurman_Munson",
+   "died": "2 August 1979"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "date": "06-09",
+ "died": [
+  {
+   "year": 68,
+   "year_label": "68",
+   "name": "Nero",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "to a soldier trying to save him after his suicide",
+   "last_words": "Too late; is this your fidelity?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nero",
+   "born": "15 December 37"
+  },
+  {
+   "year": 1870,
+   "year_label": "1870",
+   "name": "Charles Dickens",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "to his sister-in-law Georgina Hogarth, who had suggested he lie down after he suffered a stroke",
+   "last_words": "Yes. On the ground.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens",
+   "born": "7 February 1812"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Max Aitken, 1st Baron Beaverbrook",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Canadian-British newspaper publisher, at his 85th birthday party held 15 days before his death",
+   "last_words": "This is my final word. It is time for me to become an apprentice once more. I have not settled in which direction.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Max_Aitken,_1st_Baron_Beaverbrook",
+   "born": "25 May 1879"
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Lee Han-yeol",
+   "kind": "individual",
+   "desc": "South Korean student activist",
+   "cause": "to his classmates at a demonstration before being shot by a tear gas container. Fell into a coma and never regained consciousness before his death on 5 July",
+   "last_words": "I have to go to City Hall tomorrow.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lee_Han-yeol",
+   "born": null
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Franco Brun",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 22-year-old inmate from Toronto being held at the Metro Toronto East Detention Centre in Scarborough, Ontario, died while trying to swallow a pocket-size Bible.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1640,
+   "year_label": "1640",
+   "name": "Leopold I, Holy Roman Emperor",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Let me die to the sound of sweet music.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leopold_I,_Holy_Roman_Emperor",
+   "died": "5 May 1705"
+  },
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Johnny Ace",
+   "kind": "individual",
+   "desc": "American rhythm-and-blues singer and musician",
+   "cause": "American musician, playing with a .32 caliber revolver",
+   "last_words": "I'll show you that it won't shoot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Ace",
+   "died": "25 December 1954"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "date": "06-24",
+ "died": [
+  {
+   "year": 79,
+   "year_label": "79",
+   "name": "Vespasian",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "ironically alluding to the Roman practice of posthumously deifying former emperors, before he collapsed and died when attempting to stand up",
+   "last_words": "Woe, I think I'm turning into a god... An emperor should die on his feet.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vespasian",
+   "born": "17 November 9"
+  },
+  {
+   "year": 1643,
+   "year_label": "1643",
+   "name": "John Hampden",
+   "kind": "individual",
+   "desc": "English landowner and politician",
+   "cause": "mortally wounded at the Battle of Chalgrove Field six days before his death",
+   "last_words": "O Lord, save my country! O Lord, be merciful to-",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Hampden",
+   "born": null
+  },
+  {
+   "year": 1696,
+   "year_label": "1696",
+   "name": "Philip Henry",
+   "kind": "individual",
+   "desc": "English Nonconformist clergyman and diarist",
+   "cause": "quoting 1 Corinthians 15:55",
+   "last_words": "O death, where is thy-",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Henry",
+   "born": "24 August 1631"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Grover Cleveland",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to his wife Frances",
+   "last_words": "I have tried so hard to do right.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Grover_Cleveland",
+   "born": "18 March 1837"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "Jerome Bowden",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "My name is Jerome Bowden, and I would just like to state that my execution is about to be carried out. And I would like to thank the people at this institution for taking such good care of me in the way that they did. And I hope that by my execution being carried out, that it may bring some light to this thing that is wrong. And I would like to have a final prayer with Chaplain Lizzel if that is possible. Thank you very much.",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Georgia_(U.S._state)",
+   "born": null
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Jackie Gleason",
+   "kind": "individual",
+   "desc": "American actor, comedian, writer, composer, and conductor",
+   "cause": null,
+   "last_words": "I always knew what I was doing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Gleason",
+   "born": "26 February 1916"
+  },
+  {
+   "year": 1997,
+   "year_label": "1997",
+   "name": "Brian Keith",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his wife Victoria",
+   "last_words": "Forgive me, but I don't want to live anymore. The pain is too bad. There's no point in trying to prolong this agony.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brian_Keith",
+   "born": "14 November 1921"
+  }
+ ],
+ "born": [
+  {
+   "year": 1182,
+   "year_label": "1182",
+   "name": "Francis of Assisi",
+   "kind": "individual",
+   "desc": "Italian Catholic friar",
+   "cause": null,
+   "last_words": "I have sinned against my brother, the ass.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+   "died": "3 October 1226"
+  },
+  {
+   "year": 1542,
+   "year_label": "1542",
+   "name": "John of the Cross",
+   "kind": "individual",
+   "desc": "Spanish Catholic priest and mystic",
+   "cause": "dying at the stroke of midnight",
+   "last_words": "It is time for Matins.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross",
+   "died": "14 December 1591"
+  },
+  {
+   "year": 1741,
+   "year_label": "1741",
+   "name": "Alexander Adam",
+   "kind": "individual",
+   "desc": "Scottish teacher",
+   "cause": "imagining himself still at work",
+   "last_words": "It grows dark, boys, you may go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Adam",
+   "died": "18 December 1809"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Henry Ward Beecher",
+   "kind": "individual",
+   "desc": "American clergyman",
+   "cause": null,
+   "last_words": "Now comes the mystery.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Ward_Beecher",
+   "died": "8 March 1887"
+  }
+ ]
+}

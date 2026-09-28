@@ -1,0 +1,84 @@
+{
+ "date": "07-12",
+ "died": [
+  {
+   "year": 1536,
+   "year_label": "1536",
+   "name": "Erasmus",
+   "kind": "individual",
+   "desc": "Dutch Catholic priest and humanist scholar",
+   "cause": null,
+   "last_words": "Lord! Lord! make an end! make an end!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Erasmus",
+   "born": "28 October 1466"
+  },
+  {
+   "year": 1804,
+   "year_label": "1804",
+   "name": "Alexander Hamilton",
+   "kind": "individual",
+   "desc": "American statesman",
+   "cause": "addressing his wife after being mortally shot by his rival Aaron Burr in a duel",
+   "last_words": "Remember, my Eliza, you are a Christian. Alexander's other final words were \"If they break this Union, They will break my heart\" (as per Ron Chernow's biography on Alexander Hamilton)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
+   "born": "11 January 1757"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "Samuel Appleton",
+   "kind": "individual",
+   "desc": "American merchant and philanthropist",
+   "cause": "to his wife",
+   "last_words": "I will now try to sleep.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Appleton_(merchant)",
+   "born": "22 June 1766"
+  }
+ ],
+ "born": [
+  {
+   "year": 1712,
+   "year_label": "1712",
+   "name": "Sir Francis Bernard, 1st Baronet",
+   "kind": "individual",
+   "desc": "British colonial administrator",
+   "cause": "dying after epileptic seizure",
+   "last_words": "Never fear; if you will but have patience I don't doubt we shall get through; but take care how you ever get in such a scrape again.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sir_Francis_Bernard,_1st_Baronet",
+   "died": "16 June 1779"
+  },
+  {
+   "year": 1803,
+   "year_label": "1803",
+   "name": "Thomas Guthrie",
+   "kind": "individual",
+   "desc": "Scottish divine and philanthropist",
+   "cause": null,
+   "last_words": "Stand up for Jesus in all circumstances.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Guthrie",
+   "died": "24 February 1873"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Claude Bernard",
+   "kind": "individual",
+   "desc": "French physiologist",
+   "cause": "when a cover was placed to warm his feet",
+   "last_words": "This time it will serve me for the voyage from which there is no return, the voyage of eternity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Claude_Bernard",
+   "died": "10 February 1878"
+  },
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "George Eastman",
+   "kind": "individual",
+   "desc": "American entrepreneur",
+   "cause": "as his suicide note, before shooting himself in the chest",
+   "last_words": "To my friends / My work is done / Why wait? / G.E.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Eastman",
+   "died": "14 March 1932"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "date": "12-30",
+ "died": [
+  {
+   "year": 1568,
+   "year_label": "1568",
+   "name": "Roger Ascham",
+   "kind": "individual",
+   "desc": "English scholar and didactic writer",
+   "cause": null,
+   "last_words": "I desire to die and be with Christ.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roger_Ascham",
+   "born": null
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "José Rizal",
+   "kind": "individual",
+   "desc": "Filipino nationalist, ophthalmologist and polymath",
+   "cause": "quoting Jesus prior to execution by firing squad for rebellion, sedition and conspiracy",
+   "last_words": "It is done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/José_Rizal",
+   "born": "19 June 1861"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Grigori Rasputin",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 47-year-old Russian mystic died of three gunshot wounds, one of which was a close-range shot to his forehead. Little is certain about his death beyond this, and the circumstances of his death have been the subject of considerable speculation. According to his murderer himself, Prince Felix Yusupov, Grigori Rasputin consumed tea, cakes, and wine which had been laced with cyanide but he did not appear to be affected by it. He was then shot once in the chest and believed to be dead but, after a while, he leapt up and attacked Yusupov, who freed himself and fled. Rasputin followed and made it into the courtyard before being shot again, and collapsing into a snowbank. The conspirators then wrapped his body and dropped it into the Malaya Nevka River.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Grigori_Rasputin",
+   "born": "9 January 1869"
+  }
+ ],
+ "born": [
+  {
+   "year": 39,
+   "year_label": "39",
+   "name": "Titus",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": null,
+   "last_words": "I have made but one mistake.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Titus",
+   "died": "13 September 81"
+  },
+  {
+   "year": 1847,
+   "year_label": "1847",
+   "name": "John Peter Altgeld",
+   "kind": "individual",
+   "desc": "20th Governor of Illinois",
+   "cause": "greeting a visitor",
+   "last_words": "How do you do, Cushing? I am glad to see you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Peter_Altgeld",
+   "died": "12 March 1902"
+  }
+ ]
+}

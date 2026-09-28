@@ -1,0 +1,84 @@
+{
+ "date": "04-17",
+ "died": [
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "Benjamin Franklin",
+   "kind": "individual",
+   "desc": "American statesman and scientist",
+   "cause": "complaining about the difficulty of assuming a more comfortable position on his deathbed",
+   "last_words": "A dying man can do nothing easy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+   "born": "17 January 1706"
+  },
+  {
+   "year": 1825,
+   "year_label": "1825",
+   "name": "Henry Fuseli",
+   "kind": "individual",
+   "desc": "Swiss painter, draughtsman and writer on art",
+   "cause": "anticipating the arrival of a friend",
+   "last_words": "Is Lawrence come-is Lawrence come?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Fuseli",
+   "born": "7 February 1741"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "Thomas Gold Appleton",
+   "kind": "individual",
+   "desc": "American writer, artist and art patron, brother-in-law of Henry Wadsworth Longfellow",
+   "cause": null,
+   "last_words": "How interesting this all is! It will be a new experience.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gold_Appleton",
+   "born": "31 March 1812"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Hannie Schaft",
+   "kind": "individual",
+   "desc": "Dutch Resistance Fighter",
+   "cause": "mocking her two executioners after the first shot grazed off her",
+   "last_words": "I shoot better!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hannie_Schaft",
+   "born": "16 September 1920"
+  }
+ ],
+ "born": [
+  {
+   "year": 1818,
+   "year_label": "1818",
+   "name": "Alexander II of Russia",
+   "kind": "individual",
+   "desc": null,
+   "cause": "bleeding to death after being wounded by nihilist bomb",
+   "last_words": "I am sweeping through the gates, washed in the blood of the Lamb.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_II_of_Russia",
+   "died": "13 March 1881"
+  },
+  {
+   "year": 1837,
+   "year_label": "1837",
+   "name": "J. P. Morgan",
+   "kind": "individual",
+   "desc": "American financier and banker",
+   "cause": null,
+   "last_words": "Don't baby me so!",
+   "wikipedia": "https://en.wikipedia.org/wiki/J._P._Morgan",
+   "died": "31 March 1913"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "William Holden",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 63-year-old American actor slipped on a rug in his apartment while intoxicated, gashed his head open on a bedside table and bled to death without calling for help. His body was discovered four days later.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Holden",
+   "died": "12 November 1981"
+  }
+ ]
+}

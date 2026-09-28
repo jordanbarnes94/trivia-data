@@ -1,0 +1,62 @@
+{
+ "date": "09-18",
+ "died": [
+  {
+   "year": 1783,
+   "year_label": "1783",
+   "name": "Leonhard Euler",
+   "kind": "individual",
+   "desc": "Swiss mathematician and scientist",
+   "cause": null,
+   "last_words": "I die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+   "born": "15 April 1707"
+  },
+  {
+   "year": 1830,
+   "year_label": "1830",
+   "name": "William Hazlitt",
+   "kind": "individual",
+   "desc": "English essayist and critic",
+   "cause": null,
+   "last_words": "Well, I've had a happy life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Hazlitt",
+   "born": "10 April 1778"
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "Jimi Hendrix",
+   "kind": "individual",
+   "desc": "American musician, singer, and songwriter",
+   "cause": "to his manager, Chas Chandler, in an answering machine message he left for him",
+   "last_words": "I need help bad, man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
+   "born": "27 November 1942"
+  }
+ ],
+ "born": [
+  {
+   "year": 1709,
+   "year_label": "1709",
+   "name": "Samuel Johnson",
+   "kind": "individual",
+   "desc": "English writer",
+   "cause": "to Miss Morris, a young woman",
+   "last_words": "God bless you, my dear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Johnson",
+   "died": "13 December 1784"
+  },
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "J. D. Tippit",
+   "kind": "individual",
+   "desc": "American police officer",
+   "cause": "over his police radio shortly before being shot and killed, less than one hour after the Kennedy assassination",
+   "last_words": "10–4.",
+   "wikipedia": "https://en.wikipedia.org/wiki/J._D._Tippit",
+   "died": "22 November 1963"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "date": "04-02",
+ "died": [
+  {
+   "year": 1791,
+   "year_label": "1791",
+   "name": "Honoré Gabriel Riqueti, comte de Mirabeau",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Let me die to the sound of delicious music.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Honoré_Gabriel_Riqueti,_comte_de_Mirabeau",
+   "born": "9 March 1749"
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Buddy Rich",
+   "kind": "individual",
+   "desc": "American jazz drummer and bandleader",
+   "cause": "to a nurse who asked him, \"Is there anything you can't take?\" He then died during surgery",
+   "last_words": "Yeah, country music.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Buddy_Rich",
+   "born": "30 September 1917"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Ivan Lester McGuire",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 35-year-old veteran skydiver from Durham, North Carolina, was recording a jump by an instructor and student from the Franklin County Sports Parachute Center in Louisburg, North Carolina, when he jumped from a plane without a parachute. Focused on the recording process, he apparently forgot to put one on, and his camera equipment may have been mistaken by others in the plane for one. The tape from his helmet camera was partially recovered.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1725,
+   "year_label": "1725",
+   "name": "Giacomo Casanova",
+   "kind": "individual",
+   "desc": "Italian adventurer and author",
+   "cause": null,
+   "last_words": "I have lived as a philosopher. I die as a Christian.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Casanova",
+   "died": "4 June 1798"
+  },
+  {
+   "year": 1743,
+   "year_label": "1743",
+   "name": "Thomas Jefferson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "talking to his doctor",
+   "last_words": "No, doctor, nothing more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+   "died": "4 July 1826"
+  },
+  {
+   "year": 1805,
+   "year_label": "1805",
+   "name": "Hans Christian Andersen",
+   "kind": "individual",
+   "desc": "Danish children's author",
+   "cause": null,
+   "last_words": "Don't ask me how I am! I understand nothing more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
+   "died": "4 August 1875"
+  },
+  {
+   "year": 1840,
+   "year_label": "1840",
+   "name": "Émile Zola",
+   "kind": "individual",
+   "desc": "French novelist, playwright and journalist",
+   "cause": "dying of carbon monoxide poisoning from an improperly ventilated chimney",
+   "last_words": "I feel sick. The dog is sick, too. We are both ill. It must be something we have eaten.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Émile_Zola",
+   "died": "29 September 1902"
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "Marvin Gaye",
+   "kind": "individual",
+   "desc": "American singer",
+   "cause": "moments before being shot to death by his father",
+   "last_words": "Mother, I'm going to get my things and get out of this house. Father hates me and I'm never coming back.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Gaye",
+   "died": "1 April 1984"
+  }
+ ]
+}

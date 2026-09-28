@@ -1,0 +1,40 @@
+{
+ "date": "06-23",
+ "died": [
+  {
+   "year": 1959,
+   "year_label": "1959",
+   "name": "Boris Vian",
+   "kind": "individual",
+   "desc": "French polymath",
+   "cause": "while watching film adaptation of his novel I Spit on Your Graves",
+   "last_words": "These guys are supposed to be American? My ass!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boris_Vian",
+   "born": "10 March 1920"
+  }
+ ],
+ "born": [
+  {
+   "year": 1763,
+   "year_label": "1763",
+   "name": "Empress Joséphine",
+   "kind": "individual",
+   "desc": "former wife of Napoleon",
+   "cause": "looking at a picture of her former husband, who was exiled to the island of Elba at the time",
+   "last_words": "L'Isle d'Elbe-Napoleon-",
+   "wikipedia": "https://en.wikipedia.org/wiki/Empress_Joséphine",
+   "died": "29 May 1814"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Rolf Mützelburg",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 29-year-old commander of German submarine U-203 died during a World War II patrol southwest of the Azores when he dived from the sub's conning tower to swim in the ocean. The boat lurched suddenly, and Mützelburg's head and shoulder struck the sub.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Rolf_Mützelburg",
+   "died": "11 September 1942"
+  }
+ ]
+}

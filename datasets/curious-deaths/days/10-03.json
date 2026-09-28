@@ -1,0 +1,73 @@
+{
+ "date": "10-03",
+ "died": [
+  {
+   "year": -42,
+   "year_label": "42 BC",
+   "name": "Gaius Cassius Longinus",
+   "kind": "individual",
+   "desc": "Roman senator and general, one of Julius Caesar's assassins",
+   "cause": "erroneously believing his comrade Titinius had been captured by Mark Antony's forces at the Battle of Philippi. Cassius then killed himself",
+   "last_words": "Through too much fondness of life, I have lived to endure the sight of my friend taken by the enemy before my face.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+   "born": null
+  },
+  {
+   "year": 610,
+   "year_label": "610",
+   "name": "Phocas",
+   "kind": "individual",
+   "desc": "Eastern Roman emperor",
+   "cause": "to his successor Heraclius before being executed",
+   "last_words": "Will you govern it any better?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Phocas",
+   "born": null
+  },
+  {
+   "year": 1226,
+   "year_label": "1226",
+   "name": "Francis of Assisi",
+   "kind": "individual",
+   "desc": "Italian Catholic friar",
+   "cause": null,
+   "last_words": "I have sinned against my brother, the ass.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
+   "born": "24 June 1182"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "William Morris",
+   "kind": "individual",
+   "desc": "British textile designer, poet and socialist",
+   "cause": "to his family doctor",
+   "last_words": "I want to get mumbo-jumbo out of the world.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Morris",
+   "born": "24 March 1834"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Miguel Bombarda",
+   "kind": "individual",
+   "desc": "Portuguese psychiatrist",
+   "cause": "after being shot by a mental patient",
+   "last_words": "To die this way is stupid... And it would please so many scoundrels!... This very night, Magalhães, I could have died for the Republic!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Bombarda",
+   "born": "6 March 1851"
+  }
+ ],
+ "born": [
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Eleonora Duse",
+   "kind": "individual",
+   "desc": "Italian actress",
+   "cause": null,
+   "last_words": "We must stir ourselves. Move on! Work, work! Cover me! Must move on! Must work! Cover me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eleonora_Duse",
+   "died": "21 April 1924"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "date": "07-19",
+ "died": [
+  {
+   "year": 1810,
+   "year_label": "1810",
+   "name": "Louise of Mecklenburg-Strelitz",
+   "kind": "individual",
+   "desc": "Queen of Prussia",
+   "cause": null,
+   "last_words": "I am a queen, but I have not the power to move my arms.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louise_of_Mecklenburg-Strelitz",
+   "born": "10 March 1776"
+  },
+  {
+   "year": 1811,
+   "year_label": "1811",
+   "name": "Raphaël Bienvenu Sabatier",
+   "kind": "individual",
+   "desc": "French anatomist and surgeon",
+   "cause": "to his son",
+   "last_words": "Contemplate the state in which I am fallen, and learn to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Raphaël_Bienvenu_Sabatier",
+   "born": "11 October 1732"
+  },
+  {
+   "year": 1838,
+   "year_label": "1838",
+   "name": "Christmas Evans",
+   "kind": "individual",
+   "desc": "Welsh nonconformist minister",
+   "cause": null,
+   "last_words": "I am about to leave you. I have labored in the sanctuary fifty-three years, and this is my comfort and confidence, that I have never labored without blood in the vessel. Goodbye! Drive on!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christmas_Evans",
+   "born": null
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Okita Sōji",
+   "kind": "individual",
+   "desc": "Japanese samurai and Shinsengumi captain",
+   "cause": "referencing his failure to kill a stray cat over previous days, as he died of tuberculosis",
+   "last_words": "I'll bet that cat is here.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Okita_Sōji",
+   "born": null
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Samuel Wilberforce",
+   "kind": "individual",
+   "desc": "Anglican bishop",
+   "cause": null,
+   "last_words": "There is no such thing as sudden death to a Christian.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Wilberforce",
+   "born": "7 September 1805"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "Stefan Stambolov",
+   "kind": "individual",
+   "desc": "Prime Minister of Bulgaria",
+   "cause": "mortally wounded by assassins",
+   "last_words": "God protect Bulgaria.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Stambolov",
+   "born": "30 January 1854"
+  }
+ ],
+ "born": [
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Jerry Smith",
+   "kind": "individual",
+   "desc": "American professional football player who was a tight end for the National Football League",
+   "cause": "dying of AIDS",
+   "last_words": "Every important thing a man searches for in his life, I found in Coach Lombardi. He made us men.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Smith_(tight_end)",
+   "died": "15 October 1986"
+  }
+ ]
+}

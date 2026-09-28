@@ -1,0 +1,161 @@
+{
+ "date": "09-14",
+ "died": [
+  {
+   "year": 258,
+   "year_label": "258",
+   "name": "Cyprian",
+   "kind": "individual",
+   "desc": "Christian bishop of Carthage and martyr",
+   "cause": "sentenced to death by beheading",
+   "last_words": "God be thanked.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cyprian",
+   "born": null
+  },
+  {
+   "year": 407,
+   "year_label": "407",
+   "name": "John Chrysostom",
+   "kind": "individual",
+   "desc": "Early Church Father and Archbishop of Constantinople",
+   "cause": "while traveling deeper into exile",
+   "last_words": "Glory to God for all things! Amen.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Chrysostom",
+   "born": null
+  },
+  {
+   "year": 1759,
+   "year_label": "1759",
+   "name": "Louis-Joseph de Montcalm",
+   "kind": "individual",
+   "desc": "French general",
+   "cause": "on being told the wound he had received at the Battle of the Plains of Abraham was mortal",
+   "last_words": "So much the better. I am happy that I shall not live to see the surrender of Quebec. I have much business that must be attended to of greater moment than your ruined garrison and this wretched country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm",
+   "born": "28 February 1712"
+  },
+  {
+   "year": 1836,
+   "year_label": "1836",
+   "name": "Aaron Burr",
+   "kind": "individual",
+   "desc": "vice president of the United States",
+   "cause": null,
+   "last_words": "Madame.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Burr",
+   "born": "6 February 1756"
+  },
+  {
+   "year": 1852,
+   "year_label": "1852",
+   "name": "Arthur Wellesley",
+   "kind": "individual",
+   "desc": "1st Duke of Wellington",
+   "cause": "upon being asked if he would like a sip of tea by his valet",
+   "last_words": "Yes, if you please.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
+   "born": "1 May 1769"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Charles Lennox Richardson",
+   "kind": "individual",
+   "desc": "English merchant",
+   "cause": "prior to death in the Namamugi Incident",
+   "last_words": "I know how to deal with these people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lennox_Richardson",
+   "born": "16 April 1834"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Jesse L. Reno",
+   "kind": "individual",
+   "desc": "Union general of the American Civil War",
+   "cause": "mortally wounded at the Battle of South Mountain",
+   "last_words": "Yes, yes, I'm dead-good-by!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesse_L._Reno",
+   "born": "20 April 1823"
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "William McKinley",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "dying after being shot on 6 September",
+   "last_words": "Goodbye, all, goodbye. It is God's way. His will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_McKinley",
+   "born": "29 January 1843"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Isadora Duncan",
+   "kind": "individual",
+   "desc": "American/French dancer",
+   "cause": "just before dying in freak car accident The 50-year-old American dancer broke her neck in Nice, when her long scarf became entangled in the open-spoked wheel and rear axle of the Amilcar CGSS automobile in which she was riding.",
+   "last_words": "Farewell, my friends. I go to glory!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isadora_Duncan",
+   "born": "26 May 1877"
+  }
+ ],
+ "born": [
+  {
+   "year": 1486,
+   "year_label": "1486",
+   "name": "Heinrich Cornelius Agrippa",
+   "kind": "individual",
+   "desc": "German polymath and occultist",
+   "cause": "to his black dog (allegedly his familiar)",
+   "last_words": "Begone thou wretched beast, which hast utterly undone me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa",
+   "died": "18 February 1535"
+  },
+  {
+   "year": 1547,
+   "year_label": "1547",
+   "name": "Johan van Oldenbarnevelt",
+   "kind": "individual",
+   "desc": "Dutch statesman",
+   "cause": "to his executioner",
+   "last_words": "Make it short. Make it short.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johan_van_Oldenbarnevelt",
+   "died": "13 May 1619"
+  },
+  {
+   "year": 1769,
+   "year_label": "1769",
+   "name": "Alexander von Humboldt",
+   "kind": "individual",
+   "desc": "German polymath",
+   "cause": null,
+   "last_words": "How grand those rays! They seem to beckon earth to heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
+   "died": "6 May 1859"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Margaret Sanger",
+   "kind": "individual",
+   "desc": "American birth control activist",
+   "cause": null,
+   "last_words": "A party! Let's have a party.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Sanger",
+   "died": "6 September 1966"
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "Stanley Ketchel",
+   "kind": "individual",
+   "desc": "American professional boxer nicknamed \"The Michigan Assassin\"",
+   "cause": "before succumbing to wounds sustained during an armed robbery turned shooting",
+   "last_words": "I'm so tired. Take me home to mother.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Ketchel",
+   "died": "15 October 1910"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "date": "02-18",
+ "died": [
+  {
+   "year": 1478,
+   "year_label": "1478",
+   "name": "George Plantagenet, Duke of Clarence",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 1st Duke of Clarence was allegedly executed by drowning in a barrel of Malmsey wine, apparently his own choice once he accepted he was to be killed.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Plantagenet,_Duke_of_Clarence",
+   "born": "21 October 1449"
+  },
+  {
+   "year": 1535,
+   "year_label": "1535",
+   "name": "Heinrich Cornelius Agrippa",
+   "kind": "individual",
+   "desc": "German polymath and occultist",
+   "cause": "to his black dog (allegedly his familiar)",
+   "last_words": "Begone thou wretched beast, which hast utterly undone me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa",
+   "born": "14 September 1486"
+  },
+  {
+   "year": 1546,
+   "year_label": "1546",
+   "name": "Martin Luther",
+   "kind": "individual",
+   "desc": "German theologian who started the Protestant Reformation",
+   "cause": null,
+   "last_words": "We are beggars, this is true.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther",
+   "born": "10 November 1483"
+  },
+  {
+   "year": 1564,
+   "year_label": "1564",
+   "name": "Michelangelo",
+   "kind": "individual",
+   "desc": "Italian artist and poet",
+   "cause": null,
+   "last_words": "I'm still learning.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michelangelo",
+   "born": "6 March 1475"
+  },
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Lavinia Fisher",
+   "kind": "individual",
+   "desc": "American alleged serial killer",
+   "cause": "prior to execution by hanging",
+   "last_words": "If any of you have a message for the devil, give it to me, for I am about to meet him!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lavinia_Fisher",
+   "born": null
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "John Bartholomew Gough",
+   "kind": "individual",
+   "desc": "American temperance orator",
+   "cause": "The inaudible final word may have been \"clean\"",
+   "last_words": "Young man, keep your record-",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Bartholomew_Gough",
+   "born": "22 August 1817"
+  }
+ ],
+ "born": [
+  {
+   "year": 1516,
+   "year_label": "1516",
+   "name": "Mary I",
+   "kind": "individual",
+   "desc": "of England",
+   "cause": "French forces had captured Calais from England earlier that year",
+   "last_words": "After I am dead, you will find Calais written upon my heart.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_I",
+   "died": "17 November 1558"
+  },
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "George Peabody",
+   "kind": "individual",
+   "desc": "American financier and philanthropist",
+   "cause": null,
+   "last_words": "It is a great mystery, but I shall know all soon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Peabody",
+   "died": "4 November 1869"
+  },
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Lewis Armistead",
+   "kind": "individual",
+   "desc": "Confederate brigadier general of the American Civil War",
+   "cause": "prior to being mortally wounded at the Battle of Gettysburg",
+   "last_words": "Give them the cold steel, boys.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Armistead",
+   "died": "5 July 1863"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "O. O. McIntyre",
+   "kind": "individual",
+   "desc": "American newspaper columnist",
+   "cause": "to his wife",
+   "last_words": "Snooks, will you please turn this way? I like to look at your face.",
+   "wikipedia": "https://en.wikipedia.org/wiki/O._O._McIntyre",
+   "died": "14 February 1938"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "George Gipp",
+   "kind": "individual",
+   "desc": "American college football player",
+   "cause": "to Knute Rockne while dying of pneumonia",
+   "last_words": "Some day, when things look real tough for Notre Dame [Notre Dame Fighting Irish football], ask the boys to go out there and win one for the Gipper.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Gipp",
+   "died": "14 December 1920"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Amir-Abbas Hoveyda",
+   "kind": "individual",
+   "desc": "Prime Minister of Iran",
+   "cause": "during execution after the Iranian Revolution",
+   "last_words": "It wasn't supposed to end like this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Amir-Abbas_Hoveyda",
+   "died": "7 April 1979"
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Eddie Slovik",
+   "kind": "individual",
+   "desc": "American soldier",
+   "cause": "to the attending military chaplain, before his execution for desertion",
+   "last_words": "Okay, Father. I'll pray that you don't follow me too soon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Slovik",
+   "died": "31 January 1945"
+  }
+ ]
+}

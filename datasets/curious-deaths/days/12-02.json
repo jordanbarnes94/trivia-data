@@ -1,0 +1,73 @@
+{
+ "date": "12-02",
+ "died": [
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "John Brown",
+   "kind": "individual",
+   "desc": "American abolitionist",
+   "cause": "final written words prior to execution by hanging",
+   "last_words": "I, John Brown, am now quite certain that the crimes of this guilty land will never be purged away but with Blood. I had, as I now think, vainly flattered myself that without very much bloodshed it might be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_(abolitionist)",
+   "born": "9 May 1800"
+  },
+  {
+   "year": 1985,
+   "year_label": "1985",
+   "name": "Philip Larkin",
+   "kind": "individual",
+   "desc": "English poet and novelist",
+   "cause": "to his nurse",
+   "last_words": "I am going to the inevitable.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Larkin",
+   "born": "9 August 1922"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "Desi Arnaz",
+   "kind": "individual",
+   "desc": "Cuban-American bandleader, actor and film and television producer",
+   "cause": "over the phone to his former wife, Lucille Ball",
+   "last_words": "I love you too, honey. Good luck with your show.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Desi_Arnaz",
+   "born": "2 March 1917"
+  }
+ ],
+ "born": [
+  {
+   "year": 1738,
+   "year_label": "1738",
+   "name": "Richard Montgomery",
+   "kind": "individual",
+   "desc": "Irish soldier, major general in the Continental Army",
+   "cause": "killed at the Battle of Quebec (1775)",
+   "last_words": "What news from Boston?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Montgomery",
+   "died": "31 December 1775"
+  },
+  {
+   "year": 1825,
+   "year_label": "1825",
+   "name": "Emperor Pedro II of Brazil",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "May God grant me these last wishes-peace and prosperity for Brazil.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil",
+   "died": "5 December 1891"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "John Barbirolli",
+   "kind": "individual",
+   "desc": "British conductor",
+   "cause": "to his wife after awakening during the night",
+   "last_words": "Anyway, I can get a good rest in the morning. There's no rehearsal till three.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Barbirolli",
+   "died": "29 July 1970"
+  }
+ ]
+}

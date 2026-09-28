@@ -1,0 +1,40 @@
+{
+ "date": "11-26",
+ "died": [
+  {
+   "year": 1978,
+   "year_label": "1978",
+   "name": "Tony Prangley",
+   "kind": "individual",
+   "desc": "British commercial diver",
+   "cause": "prior to anchor chain severing diving bell connections to MS Star Canopus, causing bell containing Prangley and fellow diver Michael Ward to plummet to the sea floor",
+   "last_words": "All stop.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tony_Prangley",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1731,
+   "year_label": "1731",
+   "name": "William Cowper",
+   "kind": "individual",
+   "desc": "English poet and hymnodist",
+   "cause": "to an attendant who offered him refreshments",
+   "last_words": "What can it signify?",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Cowper",
+   "died": "25 April 1800"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Charles M. Schulz",
+   "kind": "individual",
+   "desc": "American cartoonist",
+   "cause": "to his son Monte",
+   "last_words": "Keep going, finish your book.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_M._Schulz",
+   "died": "12 February 2000"
+  }
+ ]
+}

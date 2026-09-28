@@ -1,0 +1,117 @@
+{
+ "date": "04-03",
+ "died": [
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Jesse James",
+   "kind": "individual",
+   "desc": "American outlaw",
+   "cause": "examining a picture on his wall before being murdered by Robert Ford",
+   "last_words": "That picture is awful dusty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesse_James",
+   "born": "5 September 1847"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Johannes Brahms",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": "after being given a glass of wine",
+   "last_words": "Ah, that tastes nice. Thank you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Brahms",
+   "born": "7 May 1833"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Wilson Mizner",
+   "kind": "individual",
+   "desc": "American playwright and entrepreneur",
+   "cause": "to a priest at his deathbed",
+   "last_words": "Why should I talk to you? I've just been talking to your boss.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilson_Mizner",
+   "born": "19 May 1876"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Graham Greene",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "to his companion Yvonne Cloetta",
+   "last_words": "Will it be an interesting experience? Will I find out what lies beyond the barrier? Why does it take so long to come?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Graham_Greene",
+   "born": "2 October 1904"
+  }
+ ],
+ "born": [
+  {
+   "year": 1593,
+   "year_label": "1593",
+   "name": "George Herbert",
+   "kind": "individual",
+   "desc": "Welsh-born poet, orator, and priest of the Church of England",
+   "cause": null,
+   "last_words": "I am now ready to die. Lord, forsake me not, now my strength faileth me; but grant me mercy for the merits of my Jesus. And now Lord-Lord, now receive my soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Herbert",
+   "died": "1 March 1633"
+  },
+  {
+   "year": 1764,
+   "year_label": "1764",
+   "name": "John Abernethy",
+   "kind": "individual",
+   "desc": "English surgeon",
+   "cause": null,
+   "last_words": "Is there anybody in the room?",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Abernethy_(surgeon)",
+   "died": "20 April 1831"
+  },
+  {
+   "year": 1783,
+   "year_label": "1783",
+   "name": "Washington Irving",
+   "kind": "individual",
+   "desc": "American writer and diplomat",
+   "cause": null,
+   "last_words": "Well, I must arrange my pillows for another night – when will this end!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Washington_Irving",
+   "died": "28 November 1859"
+  },
+  {
+   "year": 1828,
+   "year_label": "1828",
+   "name": "Lucky Baldwin",
+   "kind": "individual",
+   "desc": "California businessman",
+   "cause": "repeating his lifelong catchphrase",
+   "last_words": "By gad, I'm not licked yet.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Baldwin",
+   "died": "1 March 1909"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "St John Philby",
+   "kind": "individual",
+   "desc": "British Arabist and intelligence officer",
+   "cause": null,
+   "last_words": "I am so bored.",
+   "wikipedia": "https://en.wikipedia.org/wiki/St_John_Philby",
+   "died": "30 September 1960"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Gus Grissom",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "during Apollo 1 launch rehearsal test moments before a deadly fire broke out",
+   "last_words": "How are we going to get to the moon if we can't talk between two or three buildings?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gus_Grissom",
+   "died": "27 January 1967"
+  }
+ ]
+}

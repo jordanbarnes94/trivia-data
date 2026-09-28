@@ -1,0 +1,106 @@
+{
+ "date": "12-17",
+ "died": [
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Kaspar Hauser",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Tired-very tired-a long journey-to take.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kaspar_Hauser",
+   "born": "30 April 1812"
+  },
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Frederick W. Adams",
+   "kind": "individual",
+   "desc": "American physician, author and violin maker",
+   "cause": null,
+   "last_words": "If there is a Christian's God, I am not afraid to trust myself in his hands.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_W._Adams",
+   "born": "27 December 1786"
+  },
+  {
+   "year": 1860,
+   "year_label": "1860",
+   "name": "Desideria",
+   "kind": "individual",
+   "desc": "Queen of Sweden and Norway",
+   "cause": "after collapsing in a staircase of Stockholm Palace",
+   "last_words": "I'm choking.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Désirée_Clary",
+   "born": "8 November 1777"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Harold Holt",
+   "kind": "individual",
+   "desc": "17th Prime Minister of Australia",
+   "cause": "he would subsequently disappear while swimming at Cheviot Beach, Victoria prior to disappearing while swimming at Cheviot Beach",
+   "last_words": "I know this beach like the back of my hand.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harold_Holt",
+   "born": "5 August 1908"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Harold Holt",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 59-year-old Prime Minister of Australia disappeared, presumed drowned, while swimming at Cheviot Beach near Portsea, Victoria. He was \"simply one of the number of ordinary Australians who drown each year through poor judgment or bad luck\"; his drowning has been described as \"not unusual\", and as \"an ordinary death, a shockingly banal one that still befalls dozens every summer.\" Holt's disappearance gave rise to a variety of unfounded conspiracy theories.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Disappearance_of_Harold_Holt",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "Benjamin Franklin Butler",
+   "kind": "individual",
+   "desc": "Attorney General of the United States",
+   "cause": "quoting Isaiah 26:3",
+   "last_words": "I have peace, perfect peace. 'Thou wilt keep him in perfect peace whose mind is stayed on thee.'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin_Butler_(lawyer)",
+   "died": "8 November 1858"
+  },
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "John Greenleaf Whittier",
+   "kind": "individual",
+   "desc": "American Quaker poet and abolitionist",
+   "cause": "when his niece asked if he knew her",
+   "last_words": "I have known thee all the time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Greenleaf_Whittier",
+   "died": "7 September 1892"
+  },
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "name": "Thomas Starr King",
+   "kind": "individual",
+   "desc": "American Universalist and Unitarian minister and orator",
+   "cause": "when his young son was brought to see him",
+   "last_words": "Dear little fellow-he is a beautiful boy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Starr_King",
+   "died": "4 March 1864"
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Ryu Gwansun",
+   "kind": "individual",
+   "desc": "Korean independence activist",
+   "cause": "writing in prison before being tortured and beaten to death by Japanese prison officers",
+   "last_words": "Even if my fingernails are torn out, my nose and ears are ripped apart, and my legs and arms are crushed, this physical pain does not compare to the pain of losing my nation. My only remorse is not being able to do more than dedicating my life to my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ryu_Gwansun",
+   "died": "20 September 1920"
+  }
+ ]
+}

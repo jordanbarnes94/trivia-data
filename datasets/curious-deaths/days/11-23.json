@@ -1,0 +1,84 @@
+{
+ "date": "11-23",
+ "died": [
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Miguel Pro",
+   "kind": "individual",
+   "desc": "Mexican Jesuit Catholic priest",
+   "cause": "prior to execution by firing squad on false charges of sedition",
+   "last_words": "Long live Christ the King!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Pro",
+   "born": "13 January 1891"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Jimmy Ferrozzo",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The bouncer at the Condor Club in San Francisco died while engaging in sexual intercourse with his girlfriend, Theresa Hill, on a grand piano that was lowered from the ceiling by a hydraulic motor. He accidentally activated the lifting mechanism which pinned him against the ceiling, leading to his suffocation. Hill survived the accident.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Ferrozzo",
+   "born": null
+  },
+  {
+   "year": 1990,
+   "year_label": "1990",
+   "name": "Roald Dahl",
+   "kind": "individual",
+   "desc": "British author",
+   "cause": "after a nurse pricked him with a needle",
+   "last_words": "Ow, fuck!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roald_Dahl",
+   "born": "13 September 1916"
+  }
+ ],
+ "born": [
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "Billy the Kid",
+   "kind": "individual",
+   "desc": "American outlaw and gunfighter",
+   "cause": "entering a dark bedroom whereupon sheriff Pat Garrett shot him after recognizing his voice",
+   "last_words": "Who is it? Who is it?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Billy_the_Kid",
+   "died": "14 July 1881"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Boris Karloff",
+   "kind": "individual",
+   "desc": "English actor",
+   "cause": "before dying of pneumonia",
+   "last_words": "Walter Pidgeon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boris_Karloff",
+   "died": "2 February 1969"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Vladislav Volkov",
+   "kind": "individual",
+   "desc": "Soviet cosmonaut",
+   "cause": "final transmission from Soyuz 11 prior to fatal reentry",
+   "last_words": "Prepare cognac, see you tomorrow!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vladislav_Volkov",
+   "died": "30 June 1971"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Thomas J. Grasso",
+   "kind": "individual",
+   "desc": "American double murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I did not get my Spaghetti-Os. I got spaghetti. I want the press to know this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Grasso",
+   "died": "20 March 1995"
+  }
+ ]
+}

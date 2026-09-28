@@ -1,0 +1,95 @@
+{
+ "date": "11-15",
+ "died": [
+  {
+   "year": 1787,
+   "year_label": "1787",
+   "name": "Christoph Willibald Gluck",
+   "kind": "individual",
+   "desc": "composer of Italian and French opera",
+   "cause": "when asked whether a tenor or a bass should sing the role of Christ in The Last Judgement",
+   "last_words": "If you wait a little, I shall be able to tell you from personal experience.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+   "born": "2 July 1714"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "Maria II",
+   "kind": "individual",
+   "desc": "queen regnant of Portugal",
+   "cause": "addressing her surgeon during her eleventh childbirth",
+   "last_words": "Teixeira? If I am in danger, tell me; do not deceive me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maria_II_of_Portugal",
+   "born": "4 April 1819"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Empress Dowager Cixi",
+   "kind": "individual",
+   "desc": "de facto ruler of China",
+   "cause": null,
+   "last_words": "Never again allow a woman to hold the supreme power in the State... [and] be careful not to allow eunuchs to meddle in government affairs.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Empress_Dowager_Cixi",
+   "born": "29 November 1835"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "Harry Turner",
+   "kind": "individual",
+   "desc": "Canton Professionals center",
+   "cause": "to Canton manager Jack Cusack, after suffering fractured back and severed spinal cord while tackling the Akron Indians' Joe Collins",
+   "last_words": "I know I must go, but I'm satisfied, for we beat Peggy Parratt.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harry_Turner_(American_football)",
+   "born": "5 March 1887"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Michael J. Adams",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "prior to crash of North American X-15 spaceplane",
+   "last_words": "I'm in a spin.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_J._Adams",
+   "born": "5 May 1930"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "John Le Mesurier",
+   "kind": "individual",
+   "desc": "English actor",
+   "cause": null,
+   "last_words": "It's all been rather lovely.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Le_Mesurier",
+   "born": "5 April 1912"
+  }
+ ],
+ "born": [
+  {
+   "year": 1797,
+   "year_label": "1797",
+   "name": "Thurlow Weed",
+   "kind": "individual",
+   "desc": "American newspaper publisher and politician",
+   "cause": null,
+   "last_words": "I want to go home.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thurlow_Weed",
+   "died": "22 November 1882"
+  },
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "Claus von Stauffenberg",
+   "kind": "individual",
+   "desc": "German army officer",
+   "cause": "before being executed by the Nazis for his involvement in the failed 20 July plot",
+   "last_words": "Long live our sacred Germany!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Claus_von_Stauffenberg",
+   "died": "21 July 1944"
+  }
+ ]
+}

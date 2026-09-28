@@ -1,0 +1,172 @@
+{
+ "date": "11-24",
+ "died": [
+  {
+   "year": 1572,
+   "year_label": "1572",
+   "name": "John Knox",
+   "kind": "individual",
+   "desc": "founder of the Presbyterian Church of Scotland",
+   "cause": null,
+   "last_words": "Now it is come.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Knox",
+   "born": null
+  },
+  {
+   "year": 1742,
+   "year_label": "1742",
+   "name": "Andrew Bradford",
+   "kind": "individual",
+   "desc": "American newspaper printer and publisher",
+   "cause": null,
+   "last_words": "Oh Lord! Forgive the errata!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bradford",
+   "born": null
+  },
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "Joseph Brant",
+   "kind": "individual",
+   "desc": "Mohawk military and political leader",
+   "cause": "to his adopted nephew John Norton",
+   "last_words": "Have pity on the poor Indians; if you can get any influence with the great, endeavor to do them all the good you can.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Brant",
+   "born": null
+  },
+  {
+   "year": 1857,
+   "year_label": "1857",
+   "name": "Henry Havelock",
+   "kind": "individual",
+   "desc": "KCB, British Army general",
+   "cause": null,
+   "last_words": "Come, my son, and see how a Christian can die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Havelock",
+   "born": "5 April 1795"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "William Backhouse Astor Sr.",
+   "kind": "individual",
+   "desc": "American business magnate",
+   "cause": null,
+   "last_words": "I might have lived another year if I had not caught this cold, but I am satisfied to go now. I am eighty-four years old-long past the allotted time of man-and at my age, life becomes a burden.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Backhouse_Astor_Sr.",
+   "born": "19 September 1792"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Erskine Childers",
+   "kind": "individual",
+   "desc": "English-born Irish writer",
+   "cause": "facing a firing squad",
+   "last_words": "Take a step or two closer, lads. It will be easier that way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Erskine_Childers_(author)",
+   "born": "25 June 1870"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Lee Harvey Oswald",
+   "kind": "individual",
+   "desc": "accused of killing Kennedy and Tippit",
+   "cause": "shortly before he was shot by Jack Ruby The 24-year old assassin of President John F. Kennedy was being led through the basement of the Dallas Police Headquarters to be transferred to the county jail when he was shot at point-blank range by local nightclub owner Jack Ruby. The entire incident was filmed and broadcast live by NBC, making it the first death and first murder to occur on a live television broadcast.",
+   "last_words": "I want to see the American Civil Liberties Union.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald",
+   "born": "18 October 1939"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Freddie Mercury",
+   "kind": "individual",
+   "desc": "British lead vocalist of Queen",
+   "cause": "to his assistant Peter Freestone, before he slipped into a coma and died shortly thereafter",
+   "last_words": "Thank you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+   "born": "5 September 1946"
+  }
+ ],
+ "born": [
+  {
+   "year": 1713,
+   "year_label": "1713",
+   "name": "Laurence Sterne",
+   "kind": "individual",
+   "desc": "Anglo-Irish novelist and Anglican cleric",
+   "cause": null,
+   "last_words": "Now it has come.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Sterne",
+   "died": "18 March 1768"
+  },
+  {
+   "year": 1784,
+   "year_label": "1784",
+   "name": "Zachary Taylor",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "dying in office The 12th President of the United States died of diarrhea and dysentery 5 days after consuming raw cherries and iced milk at a 4th of July event at the site of the Washington Monument. Persistent speculation that Taylor was poisoned would lead to the exhumation of some of his remains in 1991, but scientific testing found no evidence of poison.",
+   "last_words": "I am about to die. I expect the summons soon. I have endeavored to discharge all my official duties faithfully. I regret nothing, but am sorry that I am about to leave my friends.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+   "died": "9 July 1850"
+  },
+  {
+   "year": 1784,
+   "year_label": "1784",
+   "name": "Moses Montefiore",
+   "kind": "individual",
+   "desc": "FRS, British financier, banker and philanthropist",
+   "cause": "dying at age 100",
+   "last_words": "Thank God! Thank Heaven!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moses_Montefiore",
+   "died": "28 July 1885"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "Henry Thomas Buckle",
+   "kind": "individual",
+   "desc": "English historian and author",
+   "cause": null,
+   "last_words": "Poor little boys!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Thomas_Buckle",
+   "died": "29 May 1862"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "Alben W. Barkley",
+   "kind": "individual",
+   "desc": "vice-president of the United States",
+   "cause": "alluding to Psalms 84:10 just before dying of a heart attack while giving keynote address at the 1956 Washington and Lee Mock Convention",
+   "last_words": "I am wiling to be a junior. I am glad to sit in the back row, for I had rather be a servant in the house of the Lord than to sit in the seats of the mighty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alben_W._Barkley",
+   "died": "30 April 1956"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Lucky Luciano",
+   "kind": "individual",
+   "desc": "Italian-American gangster",
+   "cause": "after meeting with a producer about a proposed film based on his life",
+   "last_words": "Tell Georgie I want to get in the movies one way or another.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Luciano",
+   "died": "26 January 1962"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Ted Bundy",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "Give my love to my family and friends.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ted_Bundy",
+   "died": "24 January 1989"
+  }
+ ]
+}

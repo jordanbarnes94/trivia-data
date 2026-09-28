@@ -1,0 +1,62 @@
+{
+ "date": "01-02",
+ "died": [
+  {
+   "year": 1948,
+   "year_label": "1948",
+   "name": "Vicente Huidobro",
+   "kind": "individual",
+   "desc": "Chilean poet",
+   "cause": "after regaining consciousness, he confessed to his loved ones that he was afraid and made his friend Henriette Petit cry when he stared at her and shouted this expression",
+   "last_words": "You ass-face!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Huidobro",
+   "born": "10 January 1893"
+  }
+ ],
+ "born": [
+  {
+   "year": 1727,
+   "year_label": "1727",
+   "name": "James Wolfe",
+   "kind": "individual",
+   "desc": "British Army general",
+   "cause": "mortally wounded at the Battle of the Plains of Abraham, on learning that the French forces were fleeing",
+   "last_words": "Go, one of you, to Colonel Burton; tell him to march Webb's regiment down to Charles River, to cut off their retreat from the bridge. Now, God be praised, I will die in peace!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Wolfe",
+   "died": "13 September 1759"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Thérèse of Lisieux",
+   "kind": "individual",
+   "desc": "French Catholic Carmelite nun and mystic",
+   "cause": null,
+   "last_words": "My God, I love You!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thérèse_of_Lisieux",
+   "died": "30 September 1897"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Gordon Flowerdew",
+   "kind": "individual",
+   "desc": "VC, Canadian Expeditionary Force officer",
+   "cause": "mortally wounded at the Battle of Moreuil Wood in World War I",
+   "last_words": "Carry on boys. We have won.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Flowerdew",
+   "died": "31 March 1918"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "Folke Bernadotte",
+   "kind": "individual",
+   "desc": "Swedish nobleman and diplomat",
+   "cause": "on being wished good luck by a journalist prior to his assassination",
+   "last_words": "I'll need it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Folke_Bernadotte",
+   "died": "17 September 1948"
+  }
+ ]
+}

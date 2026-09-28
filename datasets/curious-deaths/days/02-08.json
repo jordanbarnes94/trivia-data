@@ -1,0 +1,128 @@
+{
+ "date": "02-08",
+ "died": [
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "Laurence Saunders",
+   "kind": "individual",
+   "desc": "English Protestant martyr",
+   "cause": "kissing the stake at which he was to be burned",
+   "last_words": "Welcome the cross of Christ! welcome everlasting life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Saunders",
+   "born": null
+  },
+  {
+   "year": 1587,
+   "year_label": "1587",
+   "name": "Mary, Queen of Scots",
+   "kind": "individual",
+   "desc": null,
+   "cause": "quoting Jesus prior to execution by beheading after being found guilty for plotting to assassinate her first cousin once removed, Elizabeth I of England The 44-year-old queen of Scotland was told that she was to be executed for plotting the assassination of her cousin, Queen Elizabeth I. However, when the executioner, only known as Bull, prepared to chop off her head with an axe, the first blow did not kill Mary. It only hit her head. The second blow severed her neck, but the tendon was still left. The executioner later pulled off Mary's head only to reveal that her hair was a wig.",
+   "last_words": "O Lord, into Thy hands I commend my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",
+   "born": "8 December 1542"
+  },
+  {
+   "year": 1676,
+   "year_label": "1676",
+   "name": "Alexis of Russia",
+   "kind": "individual",
+   "desc": "Russian Tsar",
+   "cause": null,
+   "last_words": "I would never have married had I known that my time would be so brief. If I had known that, I would not have taken upon myself double tears.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexis_of_Russia",
+   "born": "19 March 1629"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Bob Collins",
+   "kind": "individual",
+   "desc": "American radio disc jockey",
+   "cause": "final radio transmission during 2000 Zion mid-air collision",
+   "last_words": "Five zula alpha just had a midair. Both planes are going down in the, ah, one mile to the, ah, two miles to the west of the power plant.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bob_Collins_(broadcaster)",
+   "born": "28 February 1942"
+  }
+ ],
+ "born": [
+  {
+   "year": 1404,
+   "year_label": "1404",
+   "name": "Constantine XI",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Byzantine Empire, before charging into Ottoman lines during the Fall of Constantinople, he was never seen again",
+   "last_words": "God forbid that I should live as an Emperor without an Empire. As my city falls, I will fall with it. Whosoever wishes to escape, let him save himself if he can, and whoever is ready to face death, let him follow me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Constantine_XI",
+   "died": "29 May 1453"
+  },
+  {
+   "year": 1552,
+   "year_label": "1552",
+   "name": "Agrippa d'Aubigné",
+   "kind": "individual",
+   "desc": "French poet, soldier, propagandist and chronicler",
+   "cause": null,
+   "last_words": "It comes at last, the happy day: Let thanks be given to God in heaven, while we learn pleasure in His way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Agrippa_d'Aubigné",
+   "died": "29 April 1630"
+  },
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "name": "Barnard Elliott Bee Jr.",
+   "kind": "individual",
+   "desc": "Confederate general of the American Civil War",
+   "cause": "before being mortally wounded at the First Battle of Bull Run. His last words gave rise to the nickname of Thomas J. \"Stonewall\" Jackson",
+   "last_words": "There is Jackson standing like a stone wall! Rally behind the Virginians. Let us determine to die here and we will conquer. Follow me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Barnard_Elliott_Bee_Jr.",
+   "died": "22 July 1861"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Thomas Selfridge",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Thomas Selfridge and Orville Wright were presenting the 1908 Wright Military Flyer to the US Army Signal Corps Division at Fort Myer. The plane made 41⁄2 rounds around the Fort before running into problems and crashing. Selfridge fractured his skull and died three hours later, becoming the first person to die in the crash of a powered aircraft.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Selfridge",
+   "died": "17 September 1908"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "John U. D. Page",
+   "kind": "individual",
+   "desc": "United States Army officer and Medal of Honor recipient",
+   "cause": "prior to being killed in action during the Battle of Chosin Reservoir in the Korean War",
+   "last_words": "Get back ... I'll cover you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_U._D._Page",
+   "died": "11 December 1950"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Burton Abbott",
+   "kind": "individual",
+   "desc": "American convicted rapist and murderer",
+   "cause": "to prison physician Dr. David Schmidt prior to execution by gas chamber",
+   "last_words": "I can't admit it, Doc. Think of what that would do to my mother. She could not take it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Burton_Abbott",
+   "died": "15 March 1957"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "James Dean",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his friend Rolf Wütherich, moments before the car crash",
+   "last_words": "That guy's gotta stop... He'll see us.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Dean",
+   "died": "30 September 1955"
+  }
+ ]
+}

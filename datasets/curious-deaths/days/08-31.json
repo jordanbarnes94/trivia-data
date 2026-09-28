@@ -1,0 +1,84 @@
+{
+ "date": "08-31",
+ "died": [
+  {
+   "year": 1688,
+   "year_label": "1688",
+   "name": "John Bunyan",
+   "kind": "individual",
+   "desc": "English writer and preacher",
+   "cause": null,
+   "last_words": "Take me, for I come to Thee.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Bunyan",
+   "born": "28 November 1628"
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "name": "Charles Baudelaire",
+   "kind": "individual",
+   "desc": "French poet",
+   "cause": null,
+   "last_words": "Holy name!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Baudelaire",
+   "born": "9 April 1821"
+  },
+  {
+   "year": 1997,
+   "year_label": "1997",
+   "name": "Diana",
+   "kind": "individual",
+   "desc": "former princess consort of Charles, Prince of Wales",
+   "cause": "shortly after being fatally injured in a car accident",
+   "last_words": "My God, what's happened?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",
+   "born": "1 July 1961"
+  }
+ ],
+ "born": [
+  {
+   "year": 12,
+   "year_label": "12",
+   "name": "Caligula",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "after being fatally stabbed",
+   "last_words": "I am still alive!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Caligula",
+   "died": "24 January 41"
+  },
+  {
+   "year": 1851,
+   "year_label": "1851",
+   "name": "Robert Emmet Odlum",
+   "kind": "individual",
+   "desc": "American swimming instructor",
+   "cause": "after being fatally injured in dive off Brooklyn Bridge; a friend falsely reassured him that the fluid was only brandy",
+   "last_words": "Am I spitting blood?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Emmet_Odlum",
+   "died": "19 May 1885"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "William Saroyan",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": null,
+   "last_words": "It's the most beautiful time in my life – and death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Saroyan",
+   "died": "18 May 1981"
+  },
+  {
+   "year": 1948,
+   "year_label": "1948",
+   "name": "Robert Nairac",
+   "kind": "individual",
+   "desc": "GC, British Army intelligence officer",
+   "cause": "abducted and shot to death by the Provisional Irish Republican Army. His last words were addressed to one of his abductors, who posed as a priest in an attempt to gain information through Nairac's confession",
+   "last_words": "Bless me, Father, for I have sinned.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Nairac",
+   "died": "15 May 1977"
+  }
+ ]
+}

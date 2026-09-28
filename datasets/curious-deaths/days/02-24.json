@@ -1,0 +1,117 @@
+{
+ "date": "02-24",
+ "died": [
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "John Yates Beall",
+   "kind": "individual",
+   "desc": "Confederate privateer",
+   "cause": "hanged as a spy by the Union during the American Civil War",
+   "last_words": "I protest against this execution. It is absolute murder-brutal murder. I die in the service and defense of my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Yates_Beall",
+   "born": "1 January 1835"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Thomas Guthrie",
+   "kind": "individual",
+   "desc": "Scottish divine and philanthropist",
+   "cause": null,
+   "last_words": "Stand up for Jesus in all circumstances.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Guthrie",
+   "born": "12 July 1803"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "John Bachman",
+   "kind": "individual",
+   "desc": "American Lutheran minister, social activist and naturalist",
+   "cause": "referring to a relative",
+   "last_words": "I love her-I love you all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Bachman",
+   "born": "4 February 1790"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Unknown man",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 32-year-old was driving a pick-up truck near Vacaville, California, when a motorist driving the opposite direction collided with a 750 lb cow that had stepped onto the road. The cow was sent airborne and struck the windshield of the pick-up driver, who died from massive head trauma. A third car crashed into the cow carcass, but was unharmed.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1500,
+   "year_label": "1500",
+   "name": "Charles V, Holy Roman Emperor",
+   "kind": "individual",
+   "desc": null,
+   "cause": "looking at a crucifix",
+   "last_words": "Now, Lord, I go! Ay, Jesus!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
+   "died": "21 September 1558"
+  },
+  {
+   "year": 1693,
+   "year_label": "1693",
+   "name": "James Quin",
+   "kind": "individual",
+   "desc": null,
+   "cause": "English actor",
+   "last_words": "I could wish this tragic scene were over, but I hope to go through it with becoming dignity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Quin",
+   "died": "21 January 1766"
+  },
+  {
+   "year": 1811,
+   "year_label": "1811",
+   "name": "Edward Dickinson Baker",
+   "kind": "individual",
+   "desc": "United States Senator and Union colonel of the American Civil War",
+   "cause": "pointing to a Confederate horseman who had been struck by gunfire at the Battle of Ball's Bluff. Baker was then himself shot four times. He was the only sitting United States Senator ever killed in a military engagement",
+   "last_words": "See, he falls.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_D._Baker",
+   "died": "21 October 1861"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Enrico Caruso",
+   "kind": "individual",
+   "desc": "Italian operatic tenor",
+   "cause": "dying of peritonitis",
+   "last_words": "Doro, I can't breathe!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Caruso",
+   "died": "2 August 1921"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "Murray Hudson",
+   "kind": "individual",
+   "desc": "GC, New Zealand infantry sergeant",
+   "cause": "to a soldier who froze with an armed grenade; the grenade exploded as Hudson tried to release it, killing both men",
+   "last_words": "Throw it, just throw it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Murray_Hudson",
+   "died": "13 February 1974"
+  },
+  {
+   "year": 1953,
+   "year_label": "1953",
+   "name": "Anatoli Kozhemyakin",
+   "kind": "individual",
+   "desc": "Soviet footballer",
+   "cause": "trying to exit a stuck elevator before it began moving, crushing him to death",
+   "last_words": "I don't want my jeans to get dirty...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anatoli_Kozhemyakin",
+   "died": "13 October 1974"
+  }
+ ]
+}

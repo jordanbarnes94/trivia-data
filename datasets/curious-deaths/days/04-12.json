@@ -1,0 +1,139 @@
+{
+ "date": "04-12",
+ "died": [
+  {
+   "year": 1678,
+   "year_label": "1678",
+   "name": "Mary Rich, Countess of Warwick",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Well, ladies, if I were one hour in heaven, I would not be again with you, as much as I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Rich,_Countess_of_Warwick",
+   "born": "8 November 1625"
+  },
+  {
+   "year": 1704,
+   "year_label": "1704",
+   "name": "Jacques-Bénigne Bossuet",
+   "kind": "individual",
+   "desc": "French bishop and theologian",
+   "cause": null,
+   "last_words": "Thy will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jacques-Bénigne_Bossuet",
+   "born": "27 September 1627"
+  },
+  {
+   "year": 1782,
+   "year_label": "1782",
+   "name": "Pietro Metastasio",
+   "kind": "individual",
+   "desc": "Italian poet and librettist",
+   "cause": "after receiving Viaticum",
+   "last_words": "I offer to Thee, O Lord, Thy own Son, who already has given the pledge of love, inclosed in this thin emblem; turn on Him thine eyes; oh! behold whom I offer to Thee and then desist, O Lord! if thou canst desist from mercy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Metastasio",
+   "born": "3 January 1698"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Adoniram Judson",
+   "kind": "individual",
+   "desc": "American Congregationalist and Particular Baptist missionary",
+   "cause": "dying at sea in the Bay of Bengal. Judson was buried at sea",
+   "last_words": "Brother Ranney, will you bury me? bury me?-quick! quick! Take care of poor mistress.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Adoniram_Judson",
+   "born": "9 August 1788"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Clara Barton",
+   "kind": "individual",
+   "desc": "American nurse and founder of the American Red Cross",
+   "cause": null,
+   "last_words": "Let me go! Let me go!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clara_Barton",
+   "born": "25 December 1821"
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Maj. Kenneth D. McCullar",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 27-year-old member of the 64th Bombardment Squadron was taking off for a night mission in New Guinea when he struck something with his bomber, referred to in reports as a \"brush kangaroo\" or \"baby kangaroo\" and later found to be a wallaby. The bomber crashed on takeoff, which detonated its load of bombs, killing McCullar and the rest of the bomber's crew.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_D._McCullar",
+   "born": null
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Franklin D. Roosevelt",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "before dying of intracerebral hemorrhage",
+   "last_words": "I have a terrific headache.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+   "born": "30 January 1882"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Josephine Baker",
+   "kind": "individual",
+   "desc": "French-American dancer and singer",
+   "cause": null,
+   "last_words": "Oh, you young people act like old men. You are no fun.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Baker",
+   "born": "3 June 1906"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Abbie Hoffman",
+   "kind": "individual",
+   "desc": "American political and social activist",
+   "cause": "in note written prior to phenobarbital overdose",
+   "last_words": "It's too late. We can't win, they've gotten too powerful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abbie_Hoffman",
+   "born": "30 November 1936"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "John Lewis",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 64-year-old businessman from Minsterworth, attempted to light a bonfire with gasoline, but inadvertently set his clothes on fire. He then ran to the River Severn, jumped in, and eventually drowned. His body was not found until 30 April 1999.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "Eben Byers",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 51-year-old American socialite and industrialist died after drinking excessive quantities of Radithor, a patent medicine that contained 2 microcuries of radium. He drank a total of around 1400 doses, which concentrated in his bones, continually irradiating him. By 1931, his bones were reportedly disintegrating and his jaw had been removed; he died the next year.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Eben_Byers",
+   "died": "31 March 1932"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "Tiny Tim",
+   "kind": "individual",
+   "desc": "American musician, ukulele player and musical archivist",
+   "cause": "to his wife after she asked if he was alright, right before collapsing on stage during a performance of \"Tip-Toe Through the Tulips\"",
+   "last_words": "No, I'm not!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tiny_Tim_(musician)",
+   "died": "30 November 1996"
+  }
+ ]
+}

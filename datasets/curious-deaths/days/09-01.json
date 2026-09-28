@@ -1,0 +1,84 @@
+{
+ "date": "09-01",
+ "died": [
+  {
+   "year": 1159,
+   "year_label": "1159",
+   "name": "Pope Adrian IV",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The only Englishman to serve as Pope reportedly died after choking on a fly while drinking spring water.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Adrian_IV",
+   "born": null
+  },
+  {
+   "year": 1715,
+   "year_label": "1715",
+   "name": "Louis XIV",
+   "kind": "individual",
+   "desc": "king of France",
+   "cause": null,
+   "last_words": "I'm going, but the State will always remain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XIV",
+   "born": "5 September 1638"
+  },
+  {
+   "year": 1776,
+   "year_label": "1776",
+   "name": "Ludwig Christoph Heinrich Hölty",
+   "kind": "individual",
+   "desc": "German poet",
+   "cause": null,
+   "last_words": "I am very ill. Send for Zimmermann. In fact, I think I'll die today.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Christoph_Heinrich_Hölty",
+   "born": "21 December 1748"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "Anthony T. Kahoʻohanohano",
+   "kind": "individual",
+   "desc": "United States Army soldier and Medal of Honor recipient",
+   "cause": "prior to being killed in action in the Korean War",
+   "last_words": "I've got your back.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_T._Kahoʻohanohano",
+   "born": null
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Captain Chun Byung-in",
+   "kind": "individual",
+   "desc": "pilot of Korean Air Lines Flight 007",
+   "cause": "as it was being shot by Soviet Air Defense Forces due to a navigational error when it entered onto a restricted airspace over Soviet Union",
+   "last_words": "Korean Air flight zero zero seven, we are experiencing rapid decompression descend to eleven thousand.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1703,
+   "year_label": "1703",
+   "name": "William Battie",
+   "kind": "individual",
+   "desc": "English psychiatrist",
+   "cause": "to his caretaker",
+   "last_words": "Young man, you have heard, no doubt, how great are the terrors of death. This night will probably afford you some experience; but you may learn, and may you profit by the example, that a conscientious endeavor to perform his duty through life will ever close a Christian's eyes with comfort and tranquility!",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Battie",
+   "died": "13 June 1776"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "Ben L. Salomon",
+   "kind": "individual",
+   "desc": "United States Army dental officer and Medal of Honor recipient",
+   "cause": "preparing to cover evacuation of wounded from aid station with M1917 Browning machine gun during the Battle of Saipan",
+   "last_words": "I'm going to hold these guys off as long as I can. I'll see you later.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ben_L._Salomon",
+   "died": "7 July 1944"
+  }
+ ]
+}

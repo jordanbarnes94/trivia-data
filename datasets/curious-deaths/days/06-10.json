@@ -1,0 +1,61 @@
+{
+ "date": "06-10",
+ "died": [
+  {
+   "year": 1190,
+   "year_label": "1190",
+   "name": "Frederick Barbarossa",
+   "kind": "individual",
+   "desc": null,
+   "cause": "While leading the German army on the Third Crusade, the Holy Roman Emperor unexpectedly drowned while bathing in the Saleph.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
+   "born": null
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "James A. Moon",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 37-year-old blacksmith, self-proclaimed inventor, and American Civil War veteran killed himself with a makeshift guillotine.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Arthur Gary Bishop",
+   "kind": "individual",
+   "desc": "American convicted sex offender and serial killer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I want to offer again my most profound and heartfelt apologies to my victims' families. I am truly sorry. I have tried my best to empathize with their grief and devastation and I hope they come to know of my concerns and prayers for them.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Gary_Bishop",
+   "born": "29 September 1952"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Jon Desborough",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 41-year-old geography and physical education teacher died due to a chest infection a month after being impaled in the eye with the blunt end of a javelin during an athletics session at the Liverpool College in Mossley Hill, Liverpool. It is believed that he had lost his footing while retrieving the javelin. He remained in a coma until his death.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Hafez al-Assad",
+   "kind": "individual",
+   "desc": "President of Syria",
+   "cause": "to Émile Lahoud, the President of Lebanon",
+   "last_words": "Our destiny is to build a better future for our countries, a safe future for our children. We have to give them something better than we inherited.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hafez_al-Assad",
+   "born": "6 October 1930"
+  }
+ ],
+ "born": []
+}

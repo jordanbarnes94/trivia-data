@@ -1,0 +1,106 @@
+{
+ "date": "02-05",
+ "died": [
+  {
+   "year": 664,
+   "year_label": "664",
+   "name": "Xuanzang",
+   "kind": "individual",
+   "desc": "Chinese Buddhist monk, scholar, traveler and translator",
+   "cause": null,
+   "last_words": "I desire that whatever merits I may have gained by good works may fall upon other people. May I be born again with them in the heaven of the blessed, be admitted to the family of Mi-le, and serve the Buddha of the future, who is full of kindness and affection. When I descend again upon earth, to pass through other forms of existence, I desire at every new birth to fulfill my duties toward Buddha, and arrive at the end to the highest perfect intelligence.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Xuanzang",
+   "born": "6 April 602"
+  },
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "William Cullen",
+   "kind": "individual",
+   "desc": "Scottish physician, chemist and agriculturalist",
+   "cause": null,
+   "last_words": "I wish I had the power of writing, for then I would describe to you how pleasant a thing it is to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Cullen",
+   "born": "15 April 1710"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Thomas Carlyle",
+   "kind": "individual",
+   "desc": "Scottish philosopher and author",
+   "cause": null,
+   "last_words": "So this is death ... well ...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Carlyle",
+   "born": "4 December 1795"
+  },
+  {
+   "year": 1921,
+   "year_label": "1921",
+   "name": "Thomas Lynn Bradford",
+   "kind": "individual",
+   "desc": null,
+   "cause": "In an attempt to ascertain the existence of an afterlife, the 48-year-old spiritualist committed suicide by inert gas asphyxiation. Two spiritualists later claimed to have talked with his ghost.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Lynn_Bradford",
+   "born": null
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Edith Ewing Bouvier Beale",
+   "kind": "individual",
+   "desc": "American socialite",
+   "cause": "to her daughter, Edith Bouvier Beale, referring to the documentary Grey Gardens",
+   "last_words": "There's nothing more to say. It's all in the film.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edith_Ewing_Bouvier_Beale",
+   "born": "5 October 1895"
+  }
+ ],
+ "born": [
+  {
+   "year": 1837,
+   "year_label": "1837",
+   "name": "Dwight L. Moody",
+   "kind": "individual",
+   "desc": "American evangelist and publisher",
+   "cause": null,
+   "last_words": "I see earth receding; Heaven is opening; God is calling me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dwight_L._Moody",
+   "died": "22 December 1899"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "John Carradine",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "dying in Milan, Italy",
+   "last_words": "Oh, to die in Italy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Carradine",
+   "died": "27 November 1988"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Jacob Veldhuyzen van Zanten",
+   "kind": "individual",
+   "desc": "pilot of KLM Flight 4805",
+   "cause": "shortly before colliding with Pan Am Flight 1736",
+   "last_words": "Oh yes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Veldhuyzen_van_Zanten",
+   "died": "27 March 1977"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Terry Melvin Sims",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "before his execution",
+   "last_words": "I love my family. I love all my friends and my rabbi",
+   "wikipedia": "https://en.wikipedia.org/wiki/Terry_Melvin_Sims",
+   "died": "23 February 2000"
+  }
+ ]
+}

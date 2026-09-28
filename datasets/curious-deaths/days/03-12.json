@@ -1,0 +1,84 @@
+{
+ "date": "03-12",
+ "died": [
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "John Peter Altgeld",
+   "kind": "individual",
+   "desc": "20th Governor of Illinois",
+   "cause": "greeting a visitor",
+   "last_words": "How do you do, Cushing? I am glad to see you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Peter_Altgeld",
+   "born": "30 December 1847"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Friedrich Fromm",
+   "kind": "individual",
+   "desc": "German general",
+   "cause": "prior to being executed as part of the post-conspiracy purge after the failure of the 20 July plot",
+   "last_words": "I die, because it was ordered. I had always wanted only the best for Germany.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Fromm",
+   "born": "8 October 1888"
+  }
+ ],
+ "born": [
+  {
+   "year": 1743,
+   "year_label": "1743",
+   "name": "John Heckewelder",
+   "kind": "individual",
+   "desc": "American missionary for the Moravian Church",
+   "cause": null,
+   "last_words": "Golgotha, Gethsemene.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Heckewelder",
+   "died": "21 January 1823"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Jane Delano",
+   "kind": "individual",
+   "desc": "American nurse, founder of the American Red Cross Nursing Service",
+   "cause": "dying while on a Red Cross mission in France",
+   "last_words": "I must get back to my work.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jane_Delano",
+   "died": "15 April 1919"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Gabriele D'Annunzio",
+   "kind": "individual",
+   "desc": "Italian author and soldier",
+   "cause": "to his chauffeur",
+   "last_words": "Stop-I turn home... I'm bored... I'm bored.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gabriele_D'Annunzio",
+   "died": "1 March 1938"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "Wilhelm Frick",
+   "kind": "individual",
+   "desc": "German politician of the Nazi Party",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "Long live eternal Germany.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Frick",
+   "died": "16 October 1946"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Vaslav Nijinsky",
+   "kind": "individual",
+   "desc": "Polish ballet dancer and choreographer",
+   "cause": null,
+   "last_words": "Mama!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vaslav_Nijinsky",
+   "died": "8 April 1950"
+  }
+ ]
+}

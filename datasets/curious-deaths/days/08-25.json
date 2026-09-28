@@ -1,0 +1,62 @@
+{
+ "date": "08-25",
+ "died": [
+  {
+   "year": 1270,
+   "year_label": "1270",
+   "name": "Louis IX of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "I will enter thy house. I will worship in Thy sanctuary.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+   "born": "25 April 1214"
+  },
+  {
+   "year": 1984,
+   "year_label": "1984",
+   "name": "Truman Capote",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": "He had been separated from his mother for several years during his childhood",
+   "last_words": "Mama- Mama- Mama.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Truman_Capote",
+   "born": "30 September 1924"
+  }
+ ],
+ "born": [
+  {
+   "year": 1744,
+   "year_label": "1744",
+   "name": "Johann Gottfried Herder",
+   "kind": "individual",
+   "desc": "German philosopher, theologian, poet and literary critic",
+   "cause": null,
+   "last_words": "Refresh me with a great thought.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottfried_Herder",
+   "died": "18 December 1803"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Louis Barthou",
+   "kind": "individual",
+   "desc": "French Minister of Foreign Affairs",
+   "cause": "killed by police gunfire during the response to Alexander I of Yugoslavia's assassination",
+   "last_words": "I suffer terribly. I am thirsty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Barthou",
+   "died": "9 October 1934"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Leonard Bernstein",
+   "kind": "individual",
+   "desc": "American composer and conductor",
+   "cause": "on receiving an injection",
+   "last_words": "What is this?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+   "died": "14 October 1990"
+  }
+ ]
+}

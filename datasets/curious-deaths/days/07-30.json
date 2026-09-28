@@ -1,0 +1,106 @@
+{
+ "date": "07-30",
+ "died": [
+  {
+   "year": 1540,
+   "year_label": "1540",
+   "name": "Robert Barnes",
+   "kind": "individual",
+   "desc": "English reformer and Protestant martyr",
+   "cause": "while being burned at the stake for heresy",
+   "last_words": "I trust in no good works that ever I did, but only in the death of Christ. I do not doubt but through Him to inherit the kingdom of Heaven. But imagine not that I speak against good works, for they are to be done, and verily they that do them not shall never enter into the kingdom of God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Barnes_(martyr)",
+   "born": null
+  },
+  {
+   "year": 1718,
+   "year_label": "1718",
+   "name": "William Penn",
+   "kind": "individual",
+   "desc": "English writer and religious thinker, founder of the Province of Pennsylvania",
+   "cause": null,
+   "last_words": "To be like Christ is to be a Christian.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Penn",
+   "born": "14 October 1644"
+  },
+  {
+   "year": 1771,
+   "year_label": "1771",
+   "name": "Thomas Gray",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "Molly, I shall die!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gray",
+   "born": "26 December 1716"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "Otto von Bismarck",
+   "kind": "individual",
+   "desc": "German statesman",
+   "cause": "writing on a piece of paper with unknown meaning",
+   "last_words": "House.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
+   "born": "1 April 1815"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Charles Becker",
+   "kind": "individual",
+   "desc": "American police officer",
+   "cause": "prior to execution by electrocution for murder",
+   "last_words": "Oh, Lord, I proclaim to the world that I am innocent of this crime.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Becker",
+   "born": "26 July 1870"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Harold Davidson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 62-year-old defrocked Anglican vicar died while re-enacting the story of Daniel in the Lions' Den at a sideshow in Skegness, by entering a cage containing two lions, which then mauled and fatally injured him; his death may have also been contributed to by being accidentally poisoned with insulin by a doctor who wrongly believed Davidson to be a diabetic.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Harold_Davidson",
+   "born": "14 July 1875"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Victims of the sinking of the USS Indianapolis (CA-35)",
+   "kind": "group",
+   "desc": null,
+   "cause": "After completing the classified mission of delivering a component for the Little Boy atomic bomb, the American heavy cruiser was sunk by the Imperial Japanese Navy submarine I-58. Of 1,195 crewmen aboard, about 300 went down with the ship. The remaining 890 faced hypothermia, dehydration, saltwater poisoning, and shark attacks while stranded in the open ocean for four days, with few lifeboats and almost no food or water. Only 316 survived the sinking; no U.S. warship sunk at sea has lost more sailors.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/USS_Indianapolis_(CA-35)",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1818,
+   "year_label": "1818",
+   "name": "Emily Brontë",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "to her sister Charlotte",
+   "last_words": "If you will send for a doctor I will see him now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emily_Brontë",
+   "died": "19 December 1848"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "D. N. Aidit",
+   "kind": "individual",
+   "desc": "Indonesian communist and Communist Party of Indonesia leader",
+   "cause": "prior to being summarily executed by Jasir Hadibroto and other executioners from the army. It was said that his last words were 30 minutes of inflaming speech against the army, resulting in the executioners shortly firing lethal shots after he shouted \"Long live, PKI!\"",
+   "last_words": "I am the only one who held the largest responsibility of the failed G30S and supported by other PKI members and mass organizations under the PKI [...] Rather I am being captured, better you kill me...! [...] Long live, PKI!",
+   "wikipedia": "https://en.wikipedia.org/wiki/D._N._Aidit",
+   "died": "22 November 1965"
+  }
+ ]
+}

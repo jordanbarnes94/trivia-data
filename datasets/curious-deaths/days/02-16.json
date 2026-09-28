@@ -1,0 +1,73 @@
+{
+ "date": "02-16",
+ "died": [
+  {
+   "year": 1905,
+   "year_label": "1905",
+   "name": "Jay Cooke",
+   "kind": "individual",
+   "desc": "American financier",
+   "cause": "having overheard a prayer for the dead",
+   "last_words": "That was the right prayer.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jay_Cooke",
+   "born": "10 August 1821"
+  }
+ ],
+ "born": [
+  {
+   "year": 1497,
+   "year_label": "1497",
+   "name": "Philip Melanchthon",
+   "kind": "individual",
+   "desc": "German Lutheran reformer",
+   "cause": "when asked if he wanted anything",
+   "last_words": "Nothing else but heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Melanchthon",
+   "died": "19 April 1560"
+  },
+  {
+   "year": 1519,
+   "year_label": "1519",
+   "name": "Gaspard II de Coligny",
+   "kind": "individual",
+   "desc": "Admiral of France",
+   "cause": "in response to one of his assassins asking, \"Art thou Coligny?\"",
+   "last_words": "I am he; respect my gray hairs, young man!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gaspard_II_de_Coligny",
+   "died": "24 August 1572"
+  },
+  {
+   "year": 1838,
+   "year_label": "1838",
+   "name": "Henry Adams",
+   "kind": "individual",
+   "desc": "American historian and descendant of two U.S. Presidents",
+   "cause": "to his secretary companion the day before he died",
+   "last_words": "Dear child, keep me alive.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Adams",
+   "died": "27 March 1918"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Hawthorne C. Gray",
+   "kind": "individual",
+   "desc": "American aeronaut",
+   "cause": "final journal entry during balloon altitude record attempt",
+   "last_words": "Sky deep blue, sun very bright, sand [buoyancy compensator] all gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hawthorne_C._Gray",
+   "died": "4 November 1927"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Valentin Bondarenko",
+   "kind": "individual",
+   "desc": "Soviet cosmonaut",
+   "cause": "fatally burned in altitude chamber fire",
+   "last_words": "Too much pain....Do something, please...to kill the pain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Valentin_Bondarenko",
+   "died": "23 March 1961"
+  }
+ ]
+}

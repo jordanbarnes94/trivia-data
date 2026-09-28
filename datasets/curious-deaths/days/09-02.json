@@ -1,0 +1,106 @@
+{
+ "date": "09-02",
+ "died": [
+  {
+   "year": 1791,
+   "year_label": "1791",
+   "name": "Frantisek Kotzwara",
+   "kind": "individual",
+   "desc": null,
+   "cause": "While in London, the 61-year-old Czech violinist visited a prostitute named Susannah Hill and requested his neck be tied with a noose around a door knob. He died after the sexual intercourse of erotic asphyxiation.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frantisek_Kotzwara",
+   "born": null
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Richard Annesley West",
+   "kind": "individual",
+   "desc": "VC DSO1 MC, British Army officer",
+   "cause": "killed in action during World War I",
+   "last_words": "Stick it, men; show them fight, and for God's sake put up a good fight.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Annesley_West",
+   "born": "26 September 1878"
+  },
+  {
+   "year": 1973,
+   "year_label": "1973",
+   "name": "J. R. R. Tolkien",
+   "kind": "individual",
+   "desc": "English writer and academic",
+   "cause": "postscript of letter to his daughter Priscilla",
+   "last_words": "It is stuffy, sticky, and rainy here at present – but forecasts are more favourable.",
+   "wikipedia": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+   "born": "3 January 1892"
+  },
+  {
+   "year": 1998,
+   "year_label": "1998",
+   "name": "Captain Urs Zimmermann",
+   "kind": "individual",
+   "desc": "pilot of Swissair Flight 111",
+   "cause": "as it was diverted to Halifax, Nova Scotia after declaring an emergency following electrical fire before losing control and rapid descent",
+   "last_words": "And we are declaring emergency now, Swissair one eleven!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Swissair_Flight_111",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1726,
+   "year_label": "1726",
+   "name": "John Howard",
+   "kind": "individual",
+   "desc": "English philanthropist and prison reformer",
+   "cause": "dying of typhus contracted on a prison visit in Kherson",
+   "last_words": "Suffer no pomp at my funeral, nor monumental inscription where I am laid. Lay me quietly in the earth and put a sun-dial over my grave, and let me be forgotten.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Howard_(prison_reformer)",
+   "died": "20 January 1790"
+  },
+  {
+   "year": 1740,
+   "year_label": "1740",
+   "name": "Johann Georg Jacobi",
+   "kind": "individual",
+   "desc": "German poet",
+   "cause": "referring to a poem for New Year's Day that he had completed on New Year's Eve; he in fact lived 5 more days",
+   "last_words": "I shall not in fact see the new year which I have just commemorated.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Georg_Jacobi",
+   "died": "4 January 1814"
+  },
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Lewis Benedict",
+   "kind": "individual",
+   "desc": "American politician and Union colonel of the American Civil War",
+   "cause": "before being killed at the Battle of Pleasant Hill",
+   "last_words": "Colonel, rally your men and advance as soon as possible.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Benedict",
+   "died": "9 April 1864"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "An Jung-geun",
+   "kind": "individual",
+   "desc": "Korean independence fighter and assassin of Ito Hirobumi",
+   "cause": "before being executed",
+   "last_words": "When the day comes that I hear of Korea's independence in heaven, I will dance and shout 'Hurrah!'",
+   "wikipedia": "https://en.wikipedia.org/wiki/An_Jung-geun",
+   "died": "26 March 1910"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Christina Marie Riggs",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "prior to execution by lethal injection for killing her two young children",
+   "last_words": "There is no way words can express how sorry I am for taking the lives of my babies. Now I can be with my babies, as I always intended. I love you my babies.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christina_Marie_Riggs",
+   "died": "2 May 2000"
+  }
+ ]
+}

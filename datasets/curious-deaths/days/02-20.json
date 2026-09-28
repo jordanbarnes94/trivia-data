@@ -1,0 +1,95 @@
+{
+ "date": "02-20",
+ "died": [
+  {
+   "year": 1258,
+   "year_label": "1258",
+   "name": "Al-Musta'sim",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The last Abbasid Caliph of Baghdad was executed by his Mongol captors by being rolled up in a rug and then trampled by horses.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Al-Musta'sim",
+   "born": null
+  },
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "Joseph II, Holy Roman Emperor",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Let my epitaph be, 'Here lies Joseph, who was unsuccessful in all his undertakings.'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor",
+   "born": "13 March 1741"
+  },
+  {
+   "year": 1810,
+   "year_label": "1810",
+   "name": "Andreas Hofer",
+   "kind": "individual",
+   "desc": "leader of the Tyrolean Rebellion",
+   "cause": "to his firing squad",
+   "last_words": "I will not kneel. Fire!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Hofer",
+   "born": "22 November 1767"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "William Broughton",
+   "kind": "individual",
+   "desc": "Anglican Bishop of Australia",
+   "cause": null,
+   "last_words": "Let the earth be filled with His glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Broughton_(bishop)",
+   "born": "22 May 1788"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Percy Grainger",
+   "kind": "individual",
+   "desc": "Australian-American composer",
+   "cause": "to his wife Ella",
+   "last_words": "You're the only one I like.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Percy_Grainger",
+   "born": "8 July 1882"
+  }
+ ],
+ "born": [
+  {
+   "year": 1719,
+   "year_label": "1719",
+   "name": "Joseph Bellamy",
+   "kind": "individual",
+   "desc": "American Congregationalist pastor, author, educator and theologian",
+   "cause": "when asked what he would do in Hell if God sent him there",
+   "last_words": "I will tell them for ever that Jesus is precious.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Bellamy",
+   "died": "6 March 1790"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Pedro Muñoz Seca",
+   "kind": "individual",
+   "desc": "Spanish comic playwright",
+   "cause": "to his firing squad during the Paracuellos massacres",
+   "last_words": "I am starting to believe you are not intending to count me among your friends!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Muñoz_Seca",
+   "died": "28 November 1936"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Kurt Cobain",
+   "kind": "individual",
+   "desc": "American musician",
+   "cause": "closing his suicide note",
+   "last_words": "I don't have the passion anymore, and so remember, it's better to burn out than to fade away. Peace, love, empathy. Kurt Cobain. Frances and Courtney, I'll be at your altar. Please keep going Courtney, for Frances. For her life, which will be so much happier without me. I LOVE YOU, I LOVE YOU!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Cobain",
+   "died": "5 April 1994"
+  }
+ ]
+}

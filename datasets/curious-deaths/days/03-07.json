@@ -1,0 +1,117 @@
+{
+ "date": "03-07",
+ "died": [
+  {
+   "year": 161,
+   "year_label": "161",
+   "name": "Antoninus Pius",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "giving the password for the night-watch",
+   "last_words": "Equanimity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antoninus_Pius",
+   "born": "19 September 86"
+  },
+  {
+   "year": 1274,
+   "year_label": "1274",
+   "name": "Thomas Aquinas",
+   "kind": "individual",
+   "desc": "Italian dominican theologian and philosopher",
+   "cause": "as he received his last rites",
+   "last_words": "I have written and taught much about this very holy Body, and about the other sacraments in the faith of Christ, and about the Holy Roman Church, to whose correction I expose and submit everything I have written.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+   "born": null
+  },
+  {
+   "year": 1778,
+   "year_label": "1778",
+   "name": "Nicholas Biddle",
+   "kind": "individual",
+   "desc": "Continental Navy captain",
+   "cause": "wounded in battle between USS Randolph and HMS Yarmouth. While the surgeon was treating Biddle, the Randolph exploded, killing all but four crewmembers",
+   "last_words": "Bring me a chair; carry me forward; and there the surgeon will dress my wound.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Biddle_(naval_officer)",
+   "born": "10 September 1750"
+  },
+  {
+   "year": 1934,
+   "year_label": "1934",
+   "name": "Ernst Enno",
+   "kind": "individual",
+   "desc": "Estonian writer",
+   "cause": "to his wife",
+   "last_words": "Ella, Ella! Everything is utterly different!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Enno",
+   "born": "8 June 1875"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Wyndham Lewis",
+   "kind": "individual",
+   "desc": "English writer and painter",
+   "cause": "when asked on his deathbed about his bowels",
+   "last_words": "Mind your business!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wyndham_Lewis",
+   "born": "18 November 1882"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Lowell Fulson",
+   "kind": "individual",
+   "desc": "American blues guitarist and songwriter",
+   "cause": null,
+   "last_words": "Don't mess with my money.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lowell_Fulson",
+   "born": "31 March 1921"
+  }
+ ],
+ "born": [
+  {
+   "year": 1671,
+   "year_label": "1671",
+   "name": "Rob Roy MacGregor",
+   "kind": "individual",
+   "desc": "Scottish outlaw and folk hero",
+   "cause": null,
+   "last_words": "Now all is over-let the piper play Ha til mi tulidh [we return no more].",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rob_Roy_MacGregor",
+   "died": "28 December 1734"
+  },
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "John Howard Raymond",
+   "kind": "individual",
+   "desc": "American educator",
+   "cause": null,
+   "last_words": "How easy - how easy - how easy to glide from work here to the work --",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Howard_Raymond",
+   "died": "14 August 1878"
+  },
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "name": "Luther Burbank",
+   "kind": "individual",
+   "desc": "American botanist",
+   "cause": null,
+   "last_words": "I don't feel good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Luther_Burbank",
+   "died": "11 April 1926"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Maurice Ravel",
+   "kind": "individual",
+   "desc": "French composer",
+   "cause": "referring to the bandages on his head after brain surgery",
+   "last_words": "I look like a Moor.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Ravel",
+   "died": "28 December 1937"
+  }
+ ]
+}

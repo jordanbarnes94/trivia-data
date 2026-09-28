@@ -1,0 +1,40 @@
+{
+ "date": "08-08",
+ "died": [
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "Thomas De Quincey",
+   "kind": "individual",
+   "desc": "English essayist",
+   "cause": "to a vision of his dead sister",
+   "last_words": "Sister! sister! sister!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_De_Quincey",
+   "born": "15 August 1785"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Edward H. Ahrens",
+   "kind": "individual",
+   "desc": "United States Marine Raider",
+   "cause": "found mortally wounded during the Guadalcanal campaign surrounded by 13 dead Japanese soldiers",
+   "last_words": "The bastards tried to come over me last night – I guess they didn't know I was a Marine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_H._Ahrens",
+   "born": "4 November 1919"
+  }
+ ],
+ "born": [
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Oswald Samson",
+   "kind": "individual",
+   "desc": "English cricketer",
+   "cause": "fatally wounded during World War I",
+   "last_words": "I am sorry to have been so much trouble; I shall never forget what you have done for me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oswald_Samson",
+   "died": "17 September 1918"
+  }
+ ]
+}

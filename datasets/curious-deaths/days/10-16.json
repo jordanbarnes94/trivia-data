@@ -1,0 +1,304 @@
+{
+ "date": "10-16",
+ "died": [
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "Nicholas Ridley",
+   "kind": "individual",
+   "desc": "Bishop of London",
+   "cause": "While burning at the stake for heresy, only his lower limbs burned away",
+   "last_words": "Let the flames come near me. I cannot burn! I cannot burn!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Ridley_(martyr)",
+   "born": null
+  },
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "Hugh Latimer",
+   "kind": "individual",
+   "desc": "former Bishop of Worcester",
+   "cause": "to Nicholas Ridley while they were burning at the stake for heresy",
+   "last_words": "Be of good comfort, Master Ridley, and play the man; we shall this day light such a candle by God's grace in England as (I trust) shall never be put out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Latimer",
+   "born": null
+  },
+  {
+   "year": 1628,
+   "year_label": "1628",
+   "name": "François de Malherbe",
+   "kind": "individual",
+   "desc": "French poet, critic and translator",
+   "cause": "listening on his deathbed to his confessor describing the glories of heaven",
+   "last_words": "Hold your tongue; your wretched style only makes me out of conceit with them.",
+   "wikipedia": "https://en.wikipedia.org/wiki/François_de_Malherbe",
+   "born": null
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Marie Antoinette",
+   "kind": "individual",
+   "desc": "queen of France",
+   "cause": "apologizing to her executioner for stepping on his foot prior to her execution by guillotine",
+   "last_words": "Pardon me, sir. I did not do it on purpose.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+   "born": "2 November 1755"
+  },
+  {
+   "year": 1822,
+   "year_label": "1822",
+   "name": "Eva Marie Veigel",
+   "kind": "individual",
+   "desc": "Viennese dancer and wife of David Garrick",
+   "cause": "telling a servant to put down a cup of tea prior to dying at age 98",
+   "last_words": "Put it down, hussy! Do you think I cannot help myself?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eva_Marie_Veigel",
+   "born": "29 February 1724"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Neville Heath",
+   "kind": "individual",
+   "desc": "English murderer",
+   "cause": "when he was offered a drink prior to his execution by hanging",
+   "last_words": "You might make that a double.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Neville_Heath",
+   "born": "6 June 1917"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Joachim von Ribbentrop",
+   "kind": "individual",
+   "desc": "German politician, Minister of Foreign Affairs of Nazi Germany",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "God protect Germany. May I say something else? My last wish is that Germany realize its entity and that an understanding be reached between the East and the West. I wish peace to the world.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop",
+   "born": "30 April 1893"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Wilhelm Keitel",
+   "kind": "individual",
+   "desc": "German field marshal",
+   "cause": "during his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "Deutschland über alles!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Keitel",
+   "born": "22 September 1882"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Ernst Kaltenbrunner",
+   "kind": "individual",
+   "desc": "Austrian SS official, major perpetrator of The Holocaust",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "I have loved my German people and my fatherland with a warm heart. I have done my duty by the laws of my people and I am sorry my people were led this time by men who were not soldiers and that crimes were committed of which I had no knowledge. Germany, good luck.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Kaltenbrunner",
+   "born": "4 October 1903"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Alfred Rosenberg",
+   "kind": "individual",
+   "desc": "Baltic German Nazi theorist and ideologue",
+   "cause": "when asked if he had anything to say prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "No.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Rosenberg",
+   "born": "12 January 1893"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Hans Frank",
+   "kind": "individual",
+   "desc": "German politician and lawyer",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "I am thankful for the kind of treatment during my captivity and I ask God to accept me with mercy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hans_Frank",
+   "born": "23 May 1900"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Wilhelm Frick",
+   "kind": "individual",
+   "desc": "German politician of the Nazi Party",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "Long live eternal Germany.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Frick",
+   "born": "12 March 1877"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Julius Streicher",
+   "kind": "individual",
+   "desc": "Nazi politician, founder and publisher of Der Stürmer",
+   "cause": "prior to his execution by hanging for crimes against humanity (Nuremberg executions)",
+   "last_words": "Heil Hitler, this is my Purim Fest in 1946! I am going to God. The Bolsheviks will hang you one day!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julius_Streicher",
+   "born": "12 February 1885"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Fritz Sauckel",
+   "kind": "individual",
+   "desc": "German Nazi politician",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "I am dying innocent. The sentence is wrong. God protect Germany and make Germany great again. Long live Germany! God protect my family.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fritz_Sauckel",
+   "born": "27 October 1894"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Alfred Jodl",
+   "kind": "individual",
+   "desc": "German Generaloberst",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "My greetings to you, my Germany.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Jodl",
+   "born": "10 May 1890"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Arthur Seyss-Inquart",
+   "kind": "individual",
+   "desc": "Austrian Nazi politician, Reichskommissar of the occupied Netherlands",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "I hope that this execution is the last act of the tragedy of the Second World War and that the lesson taken from this world war will be that peace and understanding should exist between peoples. I believe in Germany.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Seyss-Inquart",
+   "born": "22 July 1892"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "George Hennard",
+   "kind": "individual",
+   "desc": "perpetrator of the Luby's shooting",
+   "cause": "to first responders before committing suicide",
+   "last_words": "No, I'm going to kill more people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Hennard",
+   "born": "15 October 1956"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Sharon Lopatka",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 35-year-old exchanged emails with her killer, Robert Glass, in which she said she wanted to be \"tortured to death\"-an apparent case of consensual homicide.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Killing_of_Sharon_Lopatka",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1708,
+   "year_label": "1708",
+   "name": "Albrecht von Haller",
+   "kind": "individual",
+   "desc": "Swiss anatomist and physiologist",
+   "cause": "to his friend Dr. Rosselet",
+   "last_words": "My friend, the artery ceases to beat.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albrecht_von_Haller",
+   "died": "12 December 1777"
+  },
+  {
+   "year": 1758,
+   "year_label": "1758",
+   "name": "Noah Webster",
+   "kind": "individual",
+   "desc": "American lexicographer and textbook pioneer",
+   "cause": null,
+   "last_words": "I have struggled with many difficulties. Some I have been able to overcome and by some I have been overcome. I have made many mistakes but I love my country and have labored for the youth of my country, and I trust no precept of mine has taught any dear youth to sin.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Noah_Webster",
+   "died": "28 May 1843"
+  },
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "Oscar Wilde",
+   "kind": "individual",
+   "desc": "Irish playwright",
+   "cause": null,
+   "last_words": "My wallpaper and I are fighting a duel to the death. One or the other of us has to go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+   "died": "30 November 1900"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Kaʻiulani",
+   "kind": "individual",
+   "desc": "last heir apparent to the throne of the Hawaiian Kingdom",
+   "cause": "She may have said \"Mama\", \"Papa\" or \"Koa\" (a nickname for her cousin)",
+   "last_words": "(One word - uncertain)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kaʻiulani",
+   "died": "6 March 1899"
+  },
+  {
+   "year": 1878,
+   "year_label": "1878",
+   "name": "Franz Reichelt",
+   "kind": "individual",
+   "desc": "Austro-Hungarian born French tailor and inventor",
+   "cause": "prior to leaping from Eiffel Tower in fatal test of \"parachute suit\" The 33-year-old tailor and inventor leaped from the Eiffel Tower wearing a parachute made from cloth, his own invention, and fell 57 m to his death. He was asked by friends and authorities to use a dummy for the feat, but declined, saying \"I intend to prove the worth of my invention\". His impact crater was 15 cm deep.",
+   "last_words": "See you soon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franz_Reichelt",
+   "died": "4 February 1912"
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Eugene O'Neill",
+   "kind": "individual",
+   "desc": "American playwright",
+   "cause": "to his wife Carlotta Monterey",
+   "last_words": "I knew it! I knew it! Born in a hotel room and, goddamn it, dying in a hotel room.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eugene_O'Neill",
+   "died": "27 November 1953"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Michael Collins",
+   "kind": "individual",
+   "desc": "Irish revolutionary, soldier and politician",
+   "cause": "mortally wounded in anti-Treaty IRA ambush",
+   "last_words": "Forgive them. Bury me in Glasnevin with the boys.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Collins_(Irish_leader)",
+   "died": "22 August 1922"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "Donald E. Montgomery",
+   "kind": "individual",
+   "desc": "American economist",
+   "cause": "calling police before committing suicide",
+   "last_words": "I have laid my papers on a bed for my daughters. I have left the door open for the police to enter. I am going to shoot myself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Donald_E._Montgomery",
+   "died": "11 October 1957"
+  },
+  {
+   "year": 1948,
+   "year_label": "1948",
+   "name": "Karen Wetterhahn",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 48-year-old chemistry professor at Dartmouth College died ten months after a few drops of dimethylmercury (an organomercury compound and one of the strongest-known neurotoxins) landed on her protective gloves. Although she had been following the required procedures, it permeated the gloves and her skin within seconds.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Karen_Wetterhahn",
+   "died": "8 June 1997"
+  }
+ ]
+}

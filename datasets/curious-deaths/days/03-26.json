@@ -1,0 +1,150 @@
+{
+ "date": "03-26",
+ "died": [
+  {
+   "year": 1805,
+   "year_label": "1805",
+   "name": "William Woodville",
+   "kind": "individual",
+   "desc": "English physician and botanist",
+   "cause": "to a carpenter he had summoned to measure him for his coffin; final recorded words",
+   "last_words": "I shall not live more than two days, therefore make haste.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Woodville",
+   "born": null
+  },
+  {
+   "year": 1827,
+   "year_label": "1827",
+   "name": "Ludwig van Beethoven",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": "being informed that his publisher had gifted him 12 bottles of wine",
+   "last_words": "Pity, pity - too late!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+   "born": "16 December 1770"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "Walt Whitman",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": "to nurse \"Warry\" Fritzinger",
+   "last_words": "Warry, shift!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walt_Whitman",
+   "born": "31 May 1819"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Harry C. Egbert",
+   "kind": "individual",
+   "desc": "United States Army officer",
+   "cause": "to General Loyd Wheaton after being mortally wounded during the Battle of Malinta in the Philippine–American War",
+   "last_words": "Good-by, General; I'm done. I'm too old.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harry_C._Egbert",
+   "born": "3 January 1839"
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Cecil Rhodes",
+   "kind": "individual",
+   "desc": "British businessman and politician",
+   "cause": null,
+   "last_words": "So little done, so much to do.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Rhodes",
+   "born": "5 July 1853"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "An Jung-geun",
+   "kind": "individual",
+   "desc": "Korean independence fighter and assassin of Ito Hirobumi",
+   "cause": "before being executed",
+   "last_words": "When the day comes that I hear of Korea's independence in heaven, I will dance and shout 'Hurrah!'",
+   "wikipedia": "https://en.wikipedia.org/wiki/An_Jung-geun",
+   "born": "2 September 1879"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Sarah Bernhardt",
+   "kind": "individual",
+   "desc": "French actress",
+   "cause": null,
+   "last_words": "How slow my death agony is.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+   "born": "23 October 1844"
+  },
+  {
+   "year": 1959,
+   "year_label": "1959",
+   "name": "Montserrat Grases",
+   "kind": "individual",
+   "desc": "Spanish Catholic laywoman and venerable",
+   "cause": null,
+   "last_words": "Little Virgin: How much I love You! When are You coming for me?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Montserrat_Grases",
+   "born": "10 July 1941"
+  },
+  {
+   "year": 1973,
+   "year_label": "1973",
+   "name": "Noël Coward",
+   "kind": "individual",
+   "desc": "English playwright, composer and performer",
+   "cause": "to Graham Payn, his life partner, and Cole Lesley, his secretary, while going to bed the night before he died",
+   "last_words": "Good night my darlings. I'll see you tomorrow.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Noël_Coward",
+   "born": "16 December 1899"
+  }
+ ],
+ "born": [
+  {
+   "year": 1744,
+   "year_label": "1744",
+   "name": "Thomas de Mahy, Marquis de Favras",
+   "kind": "individual",
+   "desc": null,
+   "cause": "upon reading his death warrant",
+   "last_words": "I see that you have made three spelling mistakes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_de_Mahy,_Marquis_de_Favras",
+   "died": "19 February 1790"
+  },
+  {
+   "year": 1762,
+   "year_label": "1762",
+   "name": "Edward Nares",
+   "kind": "individual",
+   "desc": "English historian, theologian and writer",
+   "cause": null,
+   "last_words": "Good-bye.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Nares",
+   "died": "23 July 1841"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Edward Bellamy",
+   "kind": "individual",
+   "desc": "American author, journalist and political activist",
+   "cause": null,
+   "last_words": "What can happen to me? I can only die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Bellamy",
+   "died": "22 May 1898"
+  },
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "A. E. Housman",
+   "kind": "individual",
+   "desc": "English classical scholar and poet",
+   "cause": "to his doctor, who had just told a risqué joke",
+   "last_words": "Indeed – very good. I shall – have to repeat – that – on the Golden Floor.",
+   "wikipedia": "https://en.wikipedia.org/wiki/A._E._Housman",
+   "died": "30 April 1936"
+  }
+ ]
+}

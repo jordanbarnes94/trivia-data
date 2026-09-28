@@ -1,0 +1,95 @@
+{
+ "date": "09-27",
+ "died": [
+  {
+   "year": 1719,
+   "year_label": "1719",
+   "name": "George Smalridge",
+   "kind": "individual",
+   "desc": "Bishop of Bristol",
+   "cause": null,
+   "last_words": "God be thanked, I have had a very good night.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Smalridge",
+   "born": "18 May 1662"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Jorge Chávez",
+   "kind": "individual",
+   "desc": "Peruvian aviator",
+   "cause": "after being fatally injured in airplane crash",
+   "last_words": "Higher. Always higher.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Chávez",
+   "born": "13 June 1887"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Douglas Albert Munro",
+   "kind": "individual",
+   "desc": "United States Coast Guardsman and Medal of Honor recipient",
+   "cause": "to his friend Raymond Evans after using his Higgins boat to direct fire away from evacuating American troops",
+   "last_words": "Did they get off?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Albert_Munro",
+   "born": "11 October 1919"
+  },
+  {
+   "year": 1956,
+   "year_label": "1956",
+   "name": "Milburn G. Apt",
+   "kind": "individual",
+   "desc": "American test pilot",
+   "cause": "final radio transmission while losing control of Bell X-2",
+   "last_words": "There she goes!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Milburn_G._Apt",
+   "born": "9 April 1924"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Mark Frechette",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 27-year-old American-Canadian film actor, known for playing the lead role in the 1970 film Zabriskie Point, died while in prison for bank robbery when a barbell fell on his neck while he was weightlifting.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mark_Frechette",
+   "born": "4 December 1947"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "Cliff Burton",
+   "kind": "individual",
+   "desc": "American musician",
+   "cause": "in a farewell exchange with Anthrax bassist Frank Bello the night before being killed in a tour bus accident in Sweden",
+   "last_words": "Maybe I will.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cliff_Burton",
+   "born": "10 February 1962"
+  }
+ ],
+ "born": [
+  {
+   "year": 1627,
+   "year_label": "1627",
+   "name": "Jacques-Bénigne Bossuet",
+   "kind": "individual",
+   "desc": "French bishop and theologian",
+   "cause": null,
+   "last_words": "Thy will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jacques-Bénigne_Bossuet",
+   "died": "12 April 1704"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Karl Gravell",
+   "kind": "individual",
+   "desc": "GC, Royal Canadian Air Force Leading Aircraftman",
+   "cause": "after unsuccessful attempt to rescue Flying Officer James Robinson from wreckage of crashed Tiger Moth",
+   "last_words": "Did I get Jimmy out?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karl_Gravell",
+   "died": "10 November 1941"
+  }
+ ]
+}

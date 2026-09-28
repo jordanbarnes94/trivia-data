@@ -1,0 +1,95 @@
+{
+ "date": "05-21",
+ "died": [
+  {
+   "year": 1542,
+   "year_label": "1542",
+   "name": "Hernando de Soto",
+   "kind": "individual",
+   "desc": "Spanish explorer and conquistador",
+   "cause": "naming his successor",
+   "last_words": "Luis de Moscoso.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hernando_de_Soto",
+   "born": null
+  },
+  {
+   "year": 1650,
+   "year_label": "1650",
+   "name": "James Graham, 1st Marquess of Montrose",
+   "kind": "individual",
+   "desc": null,
+   "cause": "prior to execution by hanging, beheading and quartering",
+   "last_words": "The covenant which I took, I own it and adhere to it. Bishops, I do not care for them. I never intended to advance their interests.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Graham,_1st_Marquess_of_Montrose",
+   "born": "25 October 1612"
+  },
+  {
+   "year": 1690,
+   "year_label": "1690",
+   "name": "John Eliot",
+   "kind": "individual",
+   "desc": "Puritan missionary to the American Indians, founder of Roxbury Latin School",
+   "cause": null,
+   "last_words": "O, come in glory! I have long waited for Thy coming. Let no dark cloud rest on the work of the Indians. Let it live when I am dead. Welcome joy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Eliot_(missionary)",
+   "born": "5 August 1604"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Jane Addams",
+   "kind": "individual",
+   "desc": "American settlement and temperance activist, social worker and author",
+   "cause": "when her physician asked if she wanted some water",
+   "last_words": "Always, always. Water for me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jane_Addams",
+   "born": "6 September 1860"
+  },
+  {
+   "year": 1985,
+   "year_label": "1985",
+   "name": "Jason Findley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 17-year-old, from Piscataway, New Jersey, was electrocuted during a thunderstorm when a lightning strike caused an electrical surge to shoot through the wire of a telephone the boy was holding and enter his left ear, causing his heart to stop beating.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Rajiv Gandhi",
+   "kind": "individual",
+   "desc": "former Prime Minister of India",
+   "cause": "spoken to a policewoman at his assassination",
+   "last_words": "Don't worry. Relax.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rajiv_Gandhi",
+   "born": "20 August 1944"
+  }
+ ],
+ "born": [
+  {
+   "year": 1688,
+   "year_label": "1688",
+   "name": "Alexander Pope",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I am dying, sir, of a hundred good symptoms.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pope",
+   "died": "30 May 1744"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Raymond Hamilton",
+   "kind": "individual",
+   "desc": "member of Barrow Gang",
+   "cause": "before dying in the electric chair",
+   "last_words": "Well, goodbye all",
+   "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Hamilton",
+   "died": "10 May 1935"
+  }
+ ]
+}

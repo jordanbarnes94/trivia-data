@@ -1,0 +1,62 @@
+{
+ "date": "07-05",
+ "died": [
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Lewis Armistead",
+   "kind": "individual",
+   "desc": "Confederate brigadier general of the American Civil War",
+   "cause": "prior to being mortally wounded at the Battle of Gettysburg",
+   "last_words": "Give them the cold steel, boys.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Armistead",
+   "born": "18 February 1817"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Cecil Pugh",
+   "kind": "individual",
+   "desc": "GC, MA, Congregational Church minister",
+   "cause": "asking to be lowered into the hold of the sinking SS Anselm, where injured airmen were trapped. Pugh then prayed with the men until the ship sank",
+   "last_words": "My love of God is greater than my fear of death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Pugh",
+   "born": "2 November 1898"
+  },
+  {
+   "year": 1974,
+   "year_label": "1974",
+   "name": "John Dimmer",
+   "kind": "individual",
+   "desc": null,
+   "cause": "While working in saturation aboard oil platform Sedco 135F in the British Sector of the North Sea, the 27-year-old British commercial diver suffered a pneumothorax during decompression. The diving supervisor recognized Dimmer's condition, but the onshore physician consulted by the platform incorrectly diagnosed Dimmer as suffering from pneumonia. As a result, decompression continued, and Dimmer's pneumothorax proved fatal.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1810,
+   "year_label": "1810",
+   "name": "P. T. Barnum",
+   "kind": "individual",
+   "desc": "American showman",
+   "cause": "when asked if he wanted a drink of water",
+   "last_words": "Yes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/P._T._Barnum",
+   "died": "7 April 1891"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "Cecil Rhodes",
+   "kind": "individual",
+   "desc": "British businessman and politician",
+   "cause": null,
+   "last_words": "So little done, so much to do.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Rhodes",
+   "died": "26 March 1902"
+  }
+ ]
+}

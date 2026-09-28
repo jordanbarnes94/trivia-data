@@ -1,0 +1,95 @@
+{
+ "date": "12-20",
+ "died": [
+  {
+   "year": 1803,
+   "year_label": "1803",
+   "name": "Samuel Hopkins",
+   "kind": "individual",
+   "desc": "American Congregationalist theologian and abolitionist",
+   "cause": null,
+   "last_words": "My anchor is well cast, and my ship, though weather-beaten, will outride the storm.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Hopkins_(theologian)",
+   "born": "17 September 1721"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Guglielmo Oberdan",
+   "kind": "individual",
+   "desc": "Italian irredentist",
+   "cause": "executed at Trieste after a failed attempt to assassinate Austrian Emperor Franz Joseph",
+   "last_words": "Viva Italia!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Guglielmo_Oberdan",
+   "born": "1 February 1858"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Laurie Show",
+   "kind": "individual",
+   "desc": "American high school student",
+   "cause": "after being stabbed by her two classmates at her home on the hands of her mother and died shortly thereafter",
+   "last_words": "Michelle did it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Laurie_Show",
+   "born": null
+  },
+  {
+   "year": 1995,
+   "year_label": "1995",
+   "name": "Captain Nicholas Tafuri",
+   "kind": "individual",
+   "desc": "pilot of American Airlines Flight 965",
+   "cause": "on a last recorded transmission to air traffic controllers in Colombia, it was due to land at Alfonso Bonilla Aragón International Airport in Cali prior to the crash",
+   "last_words": "Okay. Report Tuluá, twenty-one miles and five thousand feet, American nine six five.",
+   "wikipedia": "https://en.wikipedia.org/wiki/American_Airlines_Flight_965",
+   "born": null
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Carl Sagan",
+   "kind": "individual",
+   "desc": "American astronomer and scientist",
+   "cause": "while talking to his wife Ann on a hospital bed",
+   "last_words": "Goodbye, Ann.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Carl_Sagan",
+   "born": "9 November 1934"
+  }
+ ],
+ "born": [
+  {
+   "year": 1537,
+   "year_label": "1537",
+   "name": "John III",
+   "kind": "individual",
+   "desc": "King of Sweden",
+   "cause": null,
+   "last_words": "I know that my Redeemer liveth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_III_of_Sweden",
+   "died": "17 November 1592"
+  },
+  {
+   "year": 1828,
+   "year_label": "1828",
+   "name": "Isaac E. Avery",
+   "kind": "individual",
+   "desc": "Confederate officer of the American Civil War",
+   "cause": "written on scrap of paper after being mortally wounded at the Battle of Gettysburg",
+   "last_words": "Tell father that I died with my face to the enemy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_E._Avery",
+   "died": "3 July 1863"
+  },
+  {
+   "year": 1905,
+   "year_label": "1905",
+   "name": "Albert Dekker",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 62-year-old American actor and politician was found dead kneeling naked in his bathtub with a noose wrapped around his neck, a dirty hypodermic needle in each arm, a scarf over his eyes, a ball in his mouth secured to his head with wire, his wrists in handcuffs, and leather belts and thongs around his torso, one of them tied to a rope around Dekker's ankles. There were vulgar phrases and drawings in lipstick all over his body. His death was ruled an accidental case of erotic asphyxiation.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_Dekker",
+   "died": "5 May 1968"
+  }
+ ]
+}

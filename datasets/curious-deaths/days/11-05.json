@@ -1,0 +1,95 @@
+{
+ "date": "11-05",
+ "died": [
+  {
+   "year": 1678,
+   "year_label": "1678",
+   "name": "Giovan Battista Nani",
+   "kind": "individual",
+   "desc": "Venetian ambassador, librarian and historian",
+   "cause": null,
+   "last_words": "How beautiful!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giovan_Battista_Nani",
+   "born": "30 August 1616"
+  },
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "George Cathcart",
+   "kind": "individual",
+   "desc": "British general and diplomat",
+   "cause": "prior to his death at the Battle of Inkerman",
+   "last_words": "I fear we are in a mess.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Cathcart",
+   "born": "12 May 1794"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "George M. Cohan",
+   "kind": "individual",
+   "desc": "American entertainer",
+   "cause": "referring to his wife",
+   "last_words": "Look after Agnes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_M._Cohan",
+   "born": "3 July 1878"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Johnny Horton",
+   "kind": "individual",
+   "desc": "American country, honky tonk and rockabilly musician",
+   "cause": "to his manager Tillman Franks shortly before he was killed in a car accident",
+   "last_words": "Tillman, you know, God has been very good to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Horton",
+   "born": "30 April 1925"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Truls Hellevik",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 34-year-old Norwegian diver was explosively dismembered in a diving bell accident on the North Sea Byford Dolphin drilling rig. Three other divers, 35-year-old Edwin Arthur Coward, 38-year-old Roy P. Lucas and 29-year-old Bjørn Giæver Bergersen, and 32-year-old dive tender William Crammond, were also killed. Crammond opened the clamp before Hellevik could close the chamber door. The nine-atmosphere air pressure explosively decompressed, instantly forcing Hellevik's body through a 60 cm opening, fragmenting it into numerous pieces. The other tender, Martin Saunders, was severely injured.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1997,
+   "year_label": "1997",
+   "name": "Isaiah Berlin",
+   "kind": "individual",
+   "desc": "Russian-British philosopher",
+   "cause": "to a nurse",
+   "last_words": "And where do you come from?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaiah_Berlin",
+   "born": "6 June 1909"
+  }
+ ],
+ "born": [
+  {
+   "year": 1798,
+   "year_label": "1798",
+   "name": "Marie-Caroline of Bourbon-Two Sicilies, Duchess of Berry",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Is not this dying with true courage and true greatness?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marie-Caroline_of_Bourbon-Two_Sicilies,_Duchess_of_Berry",
+   "died": "16 April 1870"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Jon-Erik Hexum",
+   "kind": "individual",
+   "desc": "American actor and model",
+   "cause": "prior to dying by accidental self-inflicted blank cartridge gunshot to the head The 26-year-old American actor died after playing a simulated Russian roulette with a .44 Magnum pistol loaded with blanks. They contained paper wadding and when he pulled the trigger against his temple, the wadding was propelled with a force that broke his skull, causing massive brain bleeding.",
+   "last_words": "Can you believe this crap?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jon-Erik_Hexum",
+   "died": "18 October 1984"
+  }
+ ]
+}

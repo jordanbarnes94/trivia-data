@@ -1,0 +1,95 @@
+{
+ "date": "05-01",
+ "died": [
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Tom Dula",
+   "kind": "individual",
+   "desc": "former Confederate soldier",
+   "cause": "prior to execution by hanging for the murder of Laura Foster",
+   "last_words": "Gentlemen, do you see this hand? Does it tremble? I never hurt a hair of that girl's head.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Dula",
+   "born": "22 June 1846"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "David Livingstone",
+   "kind": "individual",
+   "desc": "Scottish physician, explorer and Christian missionary",
+   "cause": null,
+   "last_words": "Build me a hut to die in. I am going home.",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Livingstone",
+   "born": "19 March 1813"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "Antonín Dvořák",
+   "kind": "individual",
+   "desc": "Czech composer",
+   "cause": null,
+   "last_words": "I feel a bit dizzy, I think I'll go and lie down.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antonín_Dvořák",
+   "born": "8 September 1841"
+  },
+  {
+   "year": 1994,
+   "year_label": "1994",
+   "name": "Ayrton Senna",
+   "kind": "individual",
+   "desc": "Brazilian Formula One driver",
+   "cause": "prior to fatal crash at 1994 San Marino Grand Prix",
+   "last_words": "The car seems OK ...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ayrton_Senna",
+   "born": "21 March 1960"
+  }
+ ],
+ "born": [
+  {
+   "year": 1218,
+   "year_label": "1218",
+   "name": "Rudolf I of Germany",
+   "kind": "individual",
+   "desc": null,
+   "cause": "he was buried at Speyer Cathedral",
+   "last_words": "I am on the way to Spires to visit the kings, my predecessors.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_I_of_Germany",
+   "died": "15 July 1291"
+  },
+  {
+   "year": 1672,
+   "year_label": "1672",
+   "name": "Joseph Addison",
+   "kind": "individual",
+   "desc": "English writer and politician",
+   "cause": "to his stepson, Edward Rich, 7th Earl of Warwick",
+   "last_words": "See in what peace a Christian can die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Addison",
+   "died": "17 June 1719"
+  },
+  {
+   "year": 1769,
+   "year_label": "1769",
+   "name": "Arthur Wellesley",
+   "kind": "individual",
+   "desc": "1st Duke of Wellington",
+   "cause": "upon being asked if he would like a sip of tea by his valet",
+   "last_words": "Yes, if you please.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Wellesley,_1st_Duke_of_Wellington",
+   "died": "14 September 1852"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "Sidónio Pais",
+   "kind": "individual",
+   "desc": "Portuguese politician, military officer, and diplomat",
+   "cause": "according to reporter Reinaldo Ferreira",
+   "last_words": "I die well! Save the Fatherland!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sidónio_Pais",
+   "died": "14 December 1918"
+  }
+ ]
+}

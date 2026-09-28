@@ -1,0 +1,227 @@
+{
+ "date": "03-01",
+ "died": [
+  {
+   "year": 1244,
+   "year_label": "1244",
+   "name": "Gruffudd ap Llywelyn ab Iorwerth",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The first-born son of Llywelyn the Great died while attempting to lower himself from the Tower of London in an escape attempt. The rope, made out of sheets and other fabrics, snapped, and his neck was broken in the fall, according to English monk and chronicler, Matthew Paris.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gruffudd_ap_Llywelyn_ab_Iorwerth",
+   "born": null
+  },
+  {
+   "year": 1539,
+   "year_label": "1539",
+   "name": "Thomas Forret",
+   "kind": "individual",
+   "desc": "vicar of Dollar, Clackmannanshire, burned for heresy",
+   "cause": "quoting Psalm 51",
+   "last_words": "God be merciful to me, a sinner; Lord Jesus receive my spirit! Miserere mei Deus secundum magnam misericordiam tuam.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Forret",
+   "born": null
+  },
+  {
+   "year": 1546,
+   "year_label": "1546",
+   "name": "George Wishart",
+   "kind": "individual",
+   "desc": "Scottish Protestant reformer and martyr",
+   "cause": "kissing one of his executioners on the cheek after the man asked for his forgiveness",
+   "last_words": "Lo! here is a token that I forgive thee; my heart, do thine office.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Wishart",
+   "born": null
+  },
+  {
+   "year": 1633,
+   "year_label": "1633",
+   "name": "George Herbert",
+   "kind": "individual",
+   "desc": "Welsh-born poet, orator, and priest of the Church of England",
+   "cause": null,
+   "last_words": "I am now ready to die. Lord, forsake me not, now my strength faileth me; but grant me mercy for the merits of my Jesus. And now Lord-Lord, now receive my soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Herbert",
+   "born": "3 April 1593"
+  },
+  {
+   "year": 1870,
+   "year_label": "1870",
+   "name": "Francisco Solano López",
+   "kind": "individual",
+   "desc": "2nd president of Paraguay",
+   "cause": "after his last stand in the Battle of Cerro Corá",
+   "last_words": "I die for my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Solano_López",
+   "born": "24 July 1826"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Lucky Baldwin",
+   "kind": "individual",
+   "desc": "California businessman",
+   "cause": "repeating his lifelong catchphrase",
+   "last_words": "By gad, I'm not licked yet.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Baldwin",
+   "born": "3 April 1828"
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Joseph Trumpeldor",
+   "kind": "individual",
+   "desc": "Jewish Zionist activist",
+   "cause": "after being mortally wounded at the Battle of Tel Hai during the Battle of Tel Hai",
+   "last_words": "\"Never mind, it is good to die for our country.\" (\"אין דבר, טוב למות בעד ארצנו\")",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Trumpeldor",
+   "born": "21 November 1880"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "Gabriele D'Annunzio",
+   "kind": "individual",
+   "desc": "Italian author and soldier",
+   "cause": "to his chauffeur",
+   "last_words": "Stop-I turn home... I'm bored... I'm bored.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gabriele_D'Annunzio",
+   "born": "12 March 1863"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Harlon Block",
+   "kind": "individual",
+   "desc": "United States Marine Corps corporal",
+   "cause": "mortally wounded at the Battle of Iwo Jima",
+   "last_words": "They killed me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harlon_Block",
+   "born": "6 November 1924"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Lothar Sieber",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 22-year-old Luftwaffe test pilot died while making the only manned test flight of the Bachem Ba 349 Natter vertical take-off bomber. On his fatal flight, Sieber became the first human to fly a vertically-launched rocket.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lothar_Sieber",
+   "born": "7 April 1922"
+  }
+ ],
+ "born": [
+  {
+   "year": 1769,
+   "year_label": "1769",
+   "name": "François Séverin Marceau",
+   "kind": "individual",
+   "desc": "French general of the Revolutionary Wars",
+   "cause": "to General Jean-Baptiste Jourdan when mortally wounded at the Battle of Limburg (1796)",
+   "last_words": "General, why do you shed tears? I am happy to die for my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/François_Séverin_Marceau",
+   "died": "21 September 1796"
+  },
+  {
+   "year": 1800,
+   "year_label": "1800",
+   "name": "James Cameron",
+   "kind": "individual",
+   "desc": "Union colonel of the American Civil War",
+   "cause": "before being mortally wounded at the First Battle of Bull Run",
+   "last_words": "Scots, follow me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Cameron_(Union_colonel)",
+   "died": "21 July 1861"
+  },
+  {
+   "year": 1810,
+   "year_label": "1810",
+   "name": "Frédéric Chopin",
+   "kind": "individual",
+   "desc": "Polish composer and pianist",
+   "cause": "asked by his physician if he was suffering",
+   "last_words": "Not yet.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frédéric_Chopin",
+   "died": "17 October 1849"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Michael F. Farley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 58-year-old U.S. Representative and Gore–McLemore resolution supporter died of anthrax he contracted from his shaving brush.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_F._Farley",
+   "died": "8 October 1921"
+  },
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "Lytton Strachey",
+   "kind": "individual",
+   "desc": "English writer and critic",
+   "cause": null,
+   "last_words": "If this is dying, then I don't think much of it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lytton_Strachey",
+   "died": "21 January 1932"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "Ryūnosuke Akutagawa",
+   "kind": "individual",
+   "desc": "Japanese writer",
+   "cause": "excerpt from his suicide note",
+   "last_words": "Probably no one who attempts suicide-is fully aware of all his motives, which are usually too complex. At least in my case it is prompted by a vague sense of anxiety-about my own future. - As for my vague sense of anxiety about my own future, I think I analyzed it all in 'A Fool's Life,' except for a social factor, namely the shadow of feudalism cast over my life. This I omitted purposely, not at all certain that I could really clarify the social context in which I lived. - P.S. Reading a life of Empedocles, I felt how old is this desire to make a god of oneself. This letter, so far as I am conscious, never attempts this. On the contrary, I consider myself one of the most common humans. You may recall those days of twenty years ago when we discussed 'Empedocles on Etna'-under the linden trees. In those days I was one who wished to make a god of myself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ryūnosuke_Akutagawa",
+   "died": "24 July 1927"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "Norman F. Baesall",
+   "kind": "individual",
+   "desc": "U.S. Army Air Force lieutenant colonel",
+   "cause": "in response to Glenn Miller asking where the parachutes were prior to flight from RAF Twinwood Farm to Paris. The plane disappeared while flying over the English Channel",
+   "last_words": "What's the matter Miller, do you want to live forever?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Miller",
+   "died": "15 December 1944"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Yitzhak Rabin",
+   "kind": "individual",
+   "desc": "Israeli Prime Minister",
+   "cause": "prior to his assassination",
+   "last_words": "This rally must send a message to the Israeli people, to the Jewish people around the world, to the many people in the Arab world, and indeed to the entire world, that the Israeli people want peace, support peace. For this, I thank you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
+   "died": "4 November 1995"
+  },
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Georgi Markov",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Bulgarian dissident writer was poisoned on a London street via a micro-engineered pellet containing ricin, fired into his leg from an umbrella wielded by an assassin associated with the Bulgarian Secret Service. Markov died four days later in hospital. No one was ever charged with the assassination.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgi_Markov",
+   "died": "11 September 1978"
+  },
+  {
+   "year": 1950,
+   "year_label": "1950",
+   "name": "Daniel Hittle",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "prior to his execution",
+   "last_words": "Sant Ajaib Singh. That's it",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Hittle",
+   "died": "6 December 2000"
+  }
+ ]
+}

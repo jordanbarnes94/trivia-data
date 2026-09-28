@@ -1,0 +1,139 @@
+{
+ "date": "10-15",
+ "died": [
+  {
+   "year": 961,
+   "year_label": "961",
+   "name": "Abd al-Rahman III",
+   "kind": "individual",
+   "desc": "first Caliph of Córdoba",
+   "cause": null,
+   "last_words": "I have now reigned above fifty years in victory or peace; beloved by my subjects, dreaded by my enemies, and respected by my allies. Riches and honors, power and pleasure, have waited on my call, nor does any earthly blessing appear to have been wanting to my felicity. In this situation, I have diligently numbered the days of pure and genuine happiness which have fallen to my lot: they amount to Fourteen:-O man! place not thy confidence in this present world!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abd_al-Rahman_III",
+   "born": "7 January 891"
+  },
+  {
+   "year": 1582,
+   "year_label": "1582",
+   "name": "Teresa of Ávila",
+   "kind": "individual",
+   "desc": "Spanish Carmelite nun, mystic and author",
+   "cause": "last words uncertain",
+   "last_words": "Over my spirit flash and float in divine radiancy the bright and glorious visions of the world to which I go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_Ávila",
+   "born": "28 March 1515"
+  },
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Tadeusz Kościuszko",
+   "kind": "individual",
+   "desc": "Polish-Lithuanian military engineer, statesman, and military leader",
+   "cause": null,
+   "last_words": "An end of Poland.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tadeusz_Kościuszko",
+   "born": "4 February 1746"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Stanley Ketchel",
+   "kind": "individual",
+   "desc": "American professional boxer nicknamed \"The Michigan Assassin\"",
+   "cause": "before succumbing to wounds sustained during an armed robbery turned shooting",
+   "last_words": "I'm so tired. Take me home to mother.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Ketchel",
+   "born": "14 September 1886"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Ralph Hemingway",
+   "kind": "individual",
+   "desc": "English cricketer",
+   "cause": "fatally wounded during World War I",
+   "last_words": "I led them to the end, they wavered I tried to keep them together.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Hemingway",
+   "born": "15 December 1877"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Mata Hari",
+   "kind": "individual",
+   "desc": "Dutch exotic dancer and courtesan",
+   "cause": "prior to execution by French firing squad for spying for Germany during World War I",
+   "last_words": "It is unbelievable.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mata_Hari",
+   "born": "7 August 1876"
+  },
+  {
+   "year": 1940,
+   "year_label": "1940",
+   "name": "Lluís Companys",
+   "kind": "individual",
+   "desc": "President of the Government of Catalonia",
+   "cause": "prior to execution by firing squad",
+   "last_words": "For Catalonia!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lluís_Companys",
+   "born": "21 June 1882"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "Jerry Smith",
+   "kind": "individual",
+   "desc": "American professional football player who was a tight end for the National Football League",
+   "cause": "dying of AIDS",
+   "last_words": "Every important thing a man searches for in his life, I found in Coach Lombardi. He made us men.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Smith_(tight_end)",
+   "born": "19 July 1943"
+  }
+ ],
+ "born": [
+  {
+   "year": -70,
+   "year_label": "70 BC",
+   "name": "Virgil",
+   "kind": "individual",
+   "desc": "Roman poet",
+   "cause": null,
+   "last_words": "Death twitches my ear. 'Live,' he says. 'I am coming.'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Virgil",
+   "died": "21 September 19 BC"
+  },
+  {
+   "year": 1542,
+   "year_label": "1542",
+   "name": "Akbar",
+   "kind": "individual",
+   "desc": "third Mughal emperor",
+   "cause": "to his nobles and his son, Jahangir; he then asked their forgiveness if he had ever wronged them",
+   "last_words": "I cannot bear that any misunderstanding should subsist between you and those who have for so many years shared in my toils and been the companions of my glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Akbar",
+   "died": "27 October 1605"
+  },
+  {
+   "year": 1772,
+   "year_label": "1772",
+   "name": "Paul-Thérèse-David d'Astros",
+   "kind": "individual",
+   "desc": "French Roman Catholic cardinal and archbishop",
+   "cause": null,
+   "last_words": "Neither life nor death, nor any being can separate us from Him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul-Thérèse-David_d'Astros",
+   "died": "29 September 1851"
+  },
+  {
+   "year": 1956,
+   "year_label": "1956",
+   "name": "George Hennard",
+   "kind": "individual",
+   "desc": "perpetrator of the Luby's shooting",
+   "cause": "to first responders before committing suicide",
+   "last_words": "No, I'm going to kill more people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Hennard",
+   "died": "16 October 1991"
+  }
+ ]
+}

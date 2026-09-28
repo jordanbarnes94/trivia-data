@@ -1,0 +1,117 @@
+{
+ "date": "08-22",
+ "died": [
+  {
+   "year": 1485,
+   "year_label": "1485",
+   "name": "Richard III of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when deserted by his best troops at the Battle of Bosworth Field",
+   "last_words": "Treason! treason!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_III_of_England",
+   "born": "2 October 1452"
+  },
+  {
+   "year": 1532,
+   "year_label": "1532",
+   "name": "William Warham",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "when a servant told him he had thirty pounds left",
+   "last_words": "That is enough to last till I get to Heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Warham",
+   "born": null
+  },
+  {
+   "year": 1650,
+   "year_label": "1650",
+   "name": "Eusebius Andrews",
+   "kind": "individual",
+   "desc": "English royalist",
+   "cause": "prior to execution by beheading for treason",
+   "last_words": "Lord Jesus, receive me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_Andrews_(Royalist)",
+   "born": null
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Unknown Iraqi male",
+   "kind": "individual",
+   "desc": null,
+   "cause": "At around 8:30pm, a shower of meteorites fell \"like rain\" on a village in Sulaymaniyah (then part of the Ottoman Empire). One man was paralyzed and another died. His death is considered the only credible case of death-by-meteorite.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Michael Collins",
+   "kind": "individual",
+   "desc": "Irish revolutionary, soldier and politician",
+   "cause": "mortally wounded in anti-Treaty IRA ambush",
+   "last_words": "Forgive them. Bury me in Glasnevin with the boys.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Collins_(Irish_leader)",
+   "born": "16 October 1890"
+  }
+ ],
+ "born": [
+  {
+   "year": 1798,
+   "year_label": "1798",
+   "name": "Jules Michelet",
+   "kind": "individual",
+   "desc": "French historian",
+   "cause": "rambling before his death",
+   "last_words": "Linen, doctor? You speak of linen? Do you know what linen is? The linen of the peasant, of the worker? Linen is a great thing. I want to make a book of it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jules_Michelet",
+   "died": "9 February 1874"
+  },
+  {
+   "year": 1800,
+   "year_label": "1800",
+   "name": "Edward Bouverie Pusey",
+   "kind": "individual",
+   "desc": "English churchman, Regius Professor of Hebrew at the University of Oxford",
+   "cause": null,
+   "last_words": "My God!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Bouverie_Pusey",
+   "died": "16 September 1882"
+  },
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "John Bartholomew Gough",
+   "kind": "individual",
+   "desc": "American temperance orator",
+   "cause": "The inaudible final word may have been \"clean\"",
+   "last_words": "Young man, keep your record-",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Bartholomew_Gough",
+   "died": "18 February 1886"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Alexander Bogdanov",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 54-year-old Soviet polymath and pioneer of blood transfusion died after exchanging his blood with his student who suffered from malaria and tuberculosis, presumably due to hemolytic transfusion reaction. Bogdanov's hypotheses were that the younger man's blood would rejuvenate his own aging body, and that his own blood, which he believed was resistant to tuberculosis, would treat the student's disease. The student injected with his blood made a complete recovery.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Bogdanov",
+   "died": "7 April 1928"
+  },
+  {
+   "year": 1893,
+   "year_label": "1893",
+   "name": "Dorothy Parker",
+   "kind": "individual",
+   "desc": "American writer and wit",
+   "cause": null,
+   "last_words": "Excuse my dust.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Parker",
+   "died": "7 June 1967"
+  }
+ ]
+}

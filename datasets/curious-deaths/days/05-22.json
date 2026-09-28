@@ -1,0 +1,128 @@
+{
+ "date": "05-22",
+ "died": [
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Victor Hugo",
+   "kind": "individual",
+   "desc": "French novelist",
+   "cause": null,
+   "last_words": "This is the fight of day and night. I see black light.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Victor_Hugo",
+   "born": "26 February 1802"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "Edward Bellamy",
+   "kind": "individual",
+   "desc": "American author, journalist and political activist",
+   "cause": null,
+   "last_words": "What can happen to me? I can only die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Bellamy",
+   "born": "26 March 1850"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Anton Gag",
+   "kind": "individual",
+   "desc": "Sudeten-American painter and studio photographer",
+   "cause": "to his daughter Wanda",
+   "last_words": "What Papa couldn't do, Wanda will have to finish.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anton_Gag",
+   "born": "12 June 1859"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Stjepan Filipović",
+   "kind": "individual",
+   "desc": "Yugoslav communist",
+   "cause": "seconds before execution by hanging",
+   "last_words": "\"Death to fascism! Freedom to the people!\" (Smrt fašizmu, sloboda narodu!)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stjepan_Filipović",
+   "born": "27 January 1916"
+  },
+  {
+   "year": 1949,
+   "year_label": "1949",
+   "name": "James Forrestal",
+   "kind": "individual",
+   "desc": "United States Secretary of Defense",
+   "cause": "his suicide note, a quotation from the play Ajax by Sophocles",
+   "last_words": "Frenzy hath seized thy dearest son, / Who from thy shores in glory came / The first in valor and in fame; / Thy deeds that he hath done / Seem hostile all to hostile eyes.... / Better to die, and sleep / The never waking sleep, than linger on, / And dare to live, when the soul's life is gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Forrestal",
+   "born": "15 February 1892"
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "Boris Sagal",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 57-year-old Ukrainian-American film director died while shooting the TV miniseries World War III in Portland, Oregon, after he walked into the tail rotor blades of a helicopter and was partially decapitated.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Boris_Sagal",
+   "born": "18 October 1923"
+  }
+ ],
+ "born": [
+  {
+   "year": 1788,
+   "year_label": "1788",
+   "name": "William Broughton",
+   "kind": "individual",
+   "desc": "Anglican Bishop of Australia",
+   "cause": null,
+   "last_words": "Let the earth be filled with His glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Broughton_(bishop)",
+   "died": "20 February 1853"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Richard Wagner",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": null,
+   "last_words": "I feel very badly.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner",
+   "died": "13 February 1883"
+  },
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "Arthur Conan Doyle",
+   "kind": "individual",
+   "desc": "British physician, author and spiritualist",
+   "cause": "spoken to his wife in their garden; he proceeded to clutch his chest and die",
+   "last_words": "You are wonderful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
+   "died": "7 July 1930"
+  },
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "Hergé",
+   "kind": "individual",
+   "desc": "Belgian cartoonist",
+   "cause": null,
+   "last_words": "I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hergé",
+   "died": "3 March 1983"
+  },
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "Laurence Olivier",
+   "kind": "individual",
+   "desc": "English actor and director",
+   "cause": "to a nurse when she spilled water on him while moistening his lips",
+   "last_words": "This isn't Hamlet, you know, it's not meant to go into the bloody ear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Olivier",
+   "died": "11 July 1989"
+  }
+ ]
+}

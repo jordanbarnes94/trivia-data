@@ -1,0 +1,95 @@
+{
+ "date": "12-22",
+ "died": [
+  {
+   "year": 69,
+   "year_label": "69",
+   "name": "Vitellius",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "prior to his killing on the Gemonian stairs",
+   "last_words": "And yet I was once our emperor.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vitellius",
+   "born": "24 September 15"
+  },
+  {
+   "year": 1585,
+   "year_label": "1585",
+   "name": "Vittoria Accoramboni",
+   "kind": "individual",
+   "desc": "Italian noblewoman",
+   "cause": "kneeling before a crucifix",
+   "last_words": "Jesus! I pardon you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vittoria_Accoramboni",
+   "born": "15 February 1557"
+  },
+  {
+   "year": 1666,
+   "year_label": "1666",
+   "name": "Hugh Mackail",
+   "kind": "individual",
+   "desc": "Scottish martyr",
+   "cause": "prior to execution by hanging",
+   "last_words": "And now I begin my intercourse with God, which shall never be broken off. Farewell, father and mother, friends and relations; farewell, the world and all delights; farewell, sun, moon and stars! Welcome, God and Father; welcome, sweet Jesus Christ, the mediator of the new covenant; welcome, blessed Spirit of grace, the God of all consolation; welcome, glory; welcome, eternal life; and welcome, death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Mackail",
+   "born": null
+  },
+  {
+   "year": 1870,
+   "year_label": "1870",
+   "name": "Gustavo Adolfo Bécquer",
+   "kind": "individual",
+   "desc": "Spanish Romanticist poet and writer",
+   "cause": "in a delirium from fever",
+   "last_words": "All mortal!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustavo_Adolfo_Bécquer",
+   "born": "17 February 1836"
+  },
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "George Eliot",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": null,
+   "last_words": "Tell them I have a great pain in my left side.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Eliot",
+   "born": "22 November 1819"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Dwight L. Moody",
+   "kind": "individual",
+   "desc": "American evangelist and publisher",
+   "cause": null,
+   "last_words": "I see earth receding; Heaven is opening; God is calling me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dwight_L._Moody",
+   "born": "5 February 1837"
+  }
+ ],
+ "born": [
+  {
+   "year": 1768,
+   "year_label": "1768",
+   "name": "John Crome",
+   "kind": "individual",
+   "desc": "English landscape artist",
+   "cause": null,
+   "last_words": "Hobbema, my dear Hobbema, how I have loved you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Crome",
+   "died": "22 April 1821"
+  },
+  {
+   "year": 1789,
+   "year_label": "1789",
+   "name": "Ann Hasseltine Judson",
+   "kind": "individual",
+   "desc": "American foreign missionary",
+   "cause": "dying of smallpox in Amherst, Burma",
+   "last_words": "I feel quite well, only very weak.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ann_Hasseltine_Judson",
+   "died": "24 October 1826"
+  }
+ ]
+}

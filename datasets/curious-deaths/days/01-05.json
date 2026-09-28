@@ -1,0 +1,150 @@
+{
+ "date": "01-05",
+ "died": [
+  {
+   "year": 1891,
+   "year_label": "1891",
+   "name": "Emma Abbott",
+   "kind": "individual",
+   "desc": "American operatic soprano",
+   "cause": "dying of pneumonia",
+   "last_words": "I am not afraid to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emma_Abbott",
+   "born": "9 December 1850"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Ernest Shackleton",
+   "kind": "individual",
+   "desc": "Anglo-Irish Antarctic Explorer",
+   "cause": null,
+   "last_words": "You are always wanting me to give up things, what is it I ought to give up?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+   "born": "15 February 1874"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Calvin Coolidge",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to a carpenter working on his house",
+   "last_words": "Good morning, Robert.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
+   "born": "4 July 1872"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Clyde Smith",
+   "kind": "individual",
+   "desc": "Australian rules footballer and police constable",
+   "cause": "accidentally shot by police colleague",
+   "last_words": "What happened? It got me in the thigh.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clyde_Smith_(footballer)",
+   "born": "28 January 1901"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Pete Maravich",
+   "kind": "individual",
+   "desc": "American basketball player",
+   "cause": "before dying of an undiagnosed heart defect during a pickup game in Pasadena, California before dying of undiagnosed heart defect during pickup game",
+   "last_words": "I feel great.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pete_Maravich",
+   "born": "22 June 1947"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Richard Versalle",
+   "kind": "individual",
+   "desc": "American operatic tenor",
+   "cause": "performing in The Makropulos Case at the Metropolitan Opera before dying on stage",
+   "last_words": "You only live so long.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Versalle",
+   "born": "3 December 1933"
+  }
+ ],
+ "born": [
+  {
+   "year": 1779,
+   "year_label": "1779",
+   "name": "Stephen Decatur",
+   "kind": "individual",
+   "desc": "United States naval officer",
+   "cause": "mortally wounded in duel with James Barron",
+   "last_words": "I am mortally wounded ... I think.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Decatur",
+   "died": "22 March 1820"
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "Edmund Ruffin",
+   "kind": "individual",
+   "desc": "Virginia planter and enslaver",
+   "cause": "conclusion of final diary entry before suicide",
+   "last_words": "And now with my latest writing and utterance, and with what will be near my latest breath, I here repeat and would willingly proclaim my unmitigated hatred to yankee rule – to all political, social and business connections with Yankees, and the perfidious, malignant and vile Yankee race.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Ruffin",
+   "died": "18 June 1865"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "Konrad Adenauer",
+   "kind": "individual",
+   "desc": "Chancellor of West Germany",
+   "cause": null,
+   "last_words": "No reason to weep.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Adenauer",
+   "died": "19 April 1967"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Major Lloyd W. Williams",
+   "kind": "individual",
+   "desc": "United States Marine Corps officer",
+   "cause": "to his approaching medics, after being gassed and hit by German shrapnel during the Battle of Belleau Wood in World War I",
+   "last_words": "Don't bother with me. Take care of my good men.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_W._Williams",
+   "died": "12 June 1918"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Julian Royds Gribble",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "dismissing his nurse while dying of pneumonia at Niederzwehren prisoner of war camp",
+   "last_words": "Go away gnadiger Frau [gracious lady].",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julian_Royds_Gribble",
+   "died": "25 November 1918"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "George Reeves",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "prior to his apparent suicide",
+   "last_words": "I'm tired. I'm going back to bed.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Reeves",
+   "died": "16 June 1959"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Zulfikar Ali Bhutto",
+   "kind": "individual",
+   "desc": "President and Prime Minister of Pakistan",
+   "cause": "prior to execution by hanging",
+   "last_words": "God help me [Allah madad], for I am innocent.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zulfikar_Ali_Bhutto",
+   "died": "4 April 1979"
+  }
+ ]
+}

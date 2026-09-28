@@ -1,0 +1,117 @@
+{
+ "date": "11-21",
+ "died": [
+  {
+   "year": 1835,
+   "year_label": "1835",
+   "name": "James Hogg",
+   "kind": "individual",
+   "desc": "Scottish poet, novelist and essayist",
+   "cause": "asking his wife to watch by his bedside during the night",
+   "last_words": "It is likely you may never need to do it again.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Hogg",
+   "born": null
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "William D. Hawkins",
+   "kind": "individual",
+   "desc": "United States Marine Corps officer and Medal of Honor recipient",
+   "cause": "mortally wounded at the Battle of Tarawa",
+   "last_words": "Boys, I sure hate to leave you like this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_D._Hawkins",
+   "born": "14 April 1914"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Robert Benchley",
+   "kind": "individual",
+   "desc": "American humorist",
+   "cause": "words which he jotted beside the title of an essay which he was reading, \"Am I Thinking?\"",
+   "last_words": "No. (And supposing you were?)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Benchley",
+   "born": "15 September 1889"
+  },
+  {
+   "year": 1959,
+   "year_label": "1959",
+   "name": "Max Baer",
+   "kind": "individual",
+   "desc": "American boxer",
+   "cause": "dying of a heart attack",
+   "last_words": "Oh, God, here I go!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Max_Baer_(boxer)",
+   "born": "11 February 1909"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Quentin Crisp",
+   "kind": "individual",
+   "desc": "English writer, racounteur and actor",
+   "cause": null,
+   "last_words": "You crawl out of your mother's womb, you crawl across open country under fire, and drop into your grave.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Quentin_Crisp",
+   "born": "25 December 1908"
+  }
+ ],
+ "born": [
+  {
+   "year": 1694,
+   "year_label": "1694",
+   "name": "Voltaire",
+   "kind": "individual",
+   "desc": "French writer",
+   "cause": "when asked by a priest to renounce Satan before his death",
+   "last_words": "Now is not the time for making new enemies.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Voltaire",
+   "died": "30 May 1778"
+  },
+  {
+   "year": 1768,
+   "year_label": "1768",
+   "name": "Friedrich Schleiermacher",
+   "kind": "individual",
+   "desc": "German Reformed theologian, philosopher and biblical scholar",
+   "cause": null,
+   "last_words": "Now I can hold out here no longer. Lay me in a different posture.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schleiermacher",
+   "died": "12 February 1834"
+  },
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "Joseph Trumpeldor",
+   "kind": "individual",
+   "desc": "Jewish Zionist activist",
+   "cause": "after being mortally wounded at the Battle of Tel Hai during the Battle of Tel Hai",
+   "last_words": "\"Never mind, it is good to die for our country.\" (\"אין דבר, טוב למות בעד ארצנו\")",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Trumpeldor",
+   "died": "1 March 1920"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Louis J. Sebille",
+   "kind": "individual",
+   "desc": "United States Air Force fighter pilot and Medal of Honor recipient",
+   "cause": "when urged by one of his wingmen to head for an emergency landing strip after being wounded during the Battle of Pusan Perimeter in the Korean War. Sebille then deliberately crashed into a North Korean convoy",
+   "last_words": "No, I'll never make it. I'm going back and get that bastard.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_J._Sebille",
+   "died": "5 August 1950"
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "R. Budd Dwyer",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "to the reporters who tried to stop him from shooting himself during a press conference",
+   "last_words": "Don't, don't, don't, this will hurt someone!",
+   "wikipedia": "https://en.wikipedia.org/wiki/R._Budd_Dwyer",
+   "died": "22 January 1987"
+  }
+ ]
+}

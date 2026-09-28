@@ -1,0 +1,73 @@
+{
+ "date": "06-22",
+ "died": [
+  {
+   "year": 1714,
+   "year_label": "1714",
+   "name": "Matthew Henry",
+   "kind": "individual",
+   "desc": "British Nonconformist minister and author",
+   "cause": null,
+   "last_words": "A life spent in the service of God, and communion with Him, is the most comfortable and pleasant life that any one can live in this present world.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Henry",
+   "born": "18 October 1662"
+  },
+  {
+   "year": 1956,
+   "year_label": "1956",
+   "name": "Walter de la Mare",
+   "kind": "individual",
+   "desc": "English author",
+   "cause": "when asked if he wanted some fruit or flowers",
+   "last_words": "Too late for fruit, too soon for flowers.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_de_la_Mare",
+   "born": "25 April 1873"
+  }
+ ],
+ "born": [
+  {
+   "year": 1766,
+   "year_label": "1766",
+   "name": "Samuel Appleton",
+   "kind": "individual",
+   "desc": "American merchant and philanthropist",
+   "cause": "to his wife",
+   "last_words": "I will now try to sleep.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Appleton_(merchant)",
+   "died": "12 July 1853"
+  },
+  {
+   "year": 1846,
+   "year_label": "1846",
+   "name": "Tom Dula",
+   "kind": "individual",
+   "desc": "former Confederate soldier",
+   "cause": "prior to execution by hanging for the murder of Laura Foster",
+   "last_words": "Gentlemen, do you see this hand? Does it tremble? I never hurt a hair of that girl's head.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Dula",
+   "died": "1 May 1868"
+  },
+  {
+   "year": 1947,
+   "year_label": "1947",
+   "name": "Pete Maravich",
+   "kind": "individual",
+   "desc": "American basketball player",
+   "cause": "before dying of an undiagnosed heart defect during a pickup game in Pasadena, California before dying of undiagnosed heart defect during pickup game",
+   "last_words": "I feel great.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pete_Maravich",
+   "died": "5 January 1988"
+  },
+  {
+   "year": 1954,
+   "year_label": "1954",
+   "name": "Freddie Prinze",
+   "kind": "individual",
+   "desc": "American stand-up comedian and actor",
+   "cause": "as his suicide note, before shooting himself in the head",
+   "last_words": "I must end it. There's no hope left. I'll be at peace. No one had anything to do with this. My decision totally.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Prinze",
+   "died": "29 January 1977"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "date": "04-13",
+ "died": [
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "name": "Jane Taylor",
+   "kind": "individual",
+   "desc": "English poet and novelist, author of \"Twinkle, Twinkle, Little Star\"",
+   "cause": null,
+   "last_words": "Are we not children, all of us?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jane_Taylor_(poet)",
+   "born": "23 September 1783"
+  }
+ ],
+ "born": [
+  {
+   "year": 1747,
+   "year_label": "1747",
+   "name": "Louis Philippe II, Duke of Orléans",
+   "kind": "individual",
+   "desc": null,
+   "cause": "remembering his former acclaim on the way to the guillotine",
+   "last_words": "They applauded me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orléans",
+   "died": "6 November 1793"
+  },
+  {
+   "year": 1747,
+   "year_label": "1747",
+   "name": "Armand Louis de Gontaut",
+   "kind": "individual",
+   "desc": "French soldier and politician",
+   "cause": "prior to execution by guillotine",
+   "last_words": "I have been unfaithful to God, to my Order, to my King; I die full of faith and repentance.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Armand_Louis_de_Gontaut",
+   "died": "31 December 1793"
+  },
+  {
+   "year": 1940,
+   "year_label": "1940",
+   "name": "Professor Zovek",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 31-year-old Mexican escape artist and illusionist was descending from a helicopter by rope during a stunt in Cuautitlán. The helicopter suddenly ascended and flew in circles, leading him to lose his grip and fall 15 m to his death.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Professor_Zovek",
+   "died": "10 March 1972"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Hillel Slovak",
+   "kind": "individual",
+   "desc": "Israeli-American musician",
+   "cause": "in a phone conversation with his brother before dying of a heroin overdose",
+   "last_words": "I know, I love you, bro.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hillel_Slovak",
+   "died": "25 June 1988"
+  }
+ ]
+}

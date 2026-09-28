@@ -1,0 +1,139 @@
+{
+ "date": "03-06",
+ "died": [
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "Joseph Bellamy",
+   "kind": "individual",
+   "desc": "American Congregationalist pastor, author, educator and theologian",
+   "cause": "when asked what he would do in Hell if God sent him there",
+   "last_words": "I will tell them for ever that Jesus is precious.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Bellamy",
+   "born": "20 February 1719"
+  },
+  {
+   "year": 1836,
+   "year_label": "1836",
+   "name": "Almaron Dickinson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Texian soldier and rebel, killed in action at the Battle of the Alamo; husband of Alamo survivor Susanna Dickinson",
+   "last_words": "Great God, Sue! The Mexicans are inside our walls! All is lost! If they spare you, love our child.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Almaron_Dickinson",
+   "born": null
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Louisa May Alcott",
+   "kind": "individual",
+   "desc": "American novelist",
+   "cause": null,
+   "last_words": "Is it not meningitis?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+   "born": "29 November 1832"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Kaʻiulani",
+   "kind": "individual",
+   "desc": "last heir apparent to the throne of the Hawaiian Kingdom",
+   "cause": "She may have said \"Mama\", \"Papa\" or \"Koa\" (a nickname for her cousin)",
+   "last_words": "(One word - uncertain)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kaʻiulani",
+   "born": "16 October 1875"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Anton Cermak",
+   "kind": "individual",
+   "desc": "Mayor of Chicago",
+   "cause": "in hospital after being wounded in assassination attempt on Franklin D. Roosevelt; last reported words",
+   "last_words": "Take that tent thing off me and give me something to drink. Quit shooting that stuff into my arm and leave me alone. I'm going to get well.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anton_Cermak",
+   "born": "9 May 1873"
+  }
+ ],
+ "born": [
+  {
+   "year": 1405,
+   "year_label": "1405",
+   "name": "John II of Castile",
+   "kind": "individual",
+   "desc": null,
+   "cause": "King of Castile",
+   "last_words": "Were I born the son of a farmer, and became a friar of the Abrojo, and not the king of Castile.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+   "died": "22 July 1454"
+  },
+  {
+   "year": 1475,
+   "year_label": "1475",
+   "name": "Michelangelo",
+   "kind": "individual",
+   "desc": "Italian artist and poet",
+   "cause": null,
+   "last_words": "I'm still learning.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michelangelo",
+   "died": "18 February 1564"
+  },
+  {
+   "year": 1765,
+   "year_label": "1765",
+   "name": "Samuel Drew",
+   "kind": "individual",
+   "desc": "Cornish Methodist theologian",
+   "cause": "last recorded words",
+   "last_words": "Thank God, to-morrow I shall join the glorious company above.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Drew",
+   "died": "29 March 1833"
+  },
+  {
+   "year": 1806,
+   "year_label": "1806",
+   "name": "Elizabeth Barrett Browning",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "It is beautiful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Barrett_Browning",
+   "died": "29 June 1861"
+  },
+  {
+   "year": 1851,
+   "year_label": "1851",
+   "name": "Miguel Bombarda",
+   "kind": "individual",
+   "desc": "Portuguese psychiatrist",
+   "cause": "after being shot by a mental patient",
+   "last_words": "To die this way is stupid... And it would please so many scoundrels!... This very night, Magalhães, I could have died for the Republic!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Bombarda",
+   "died": "3 October 1910"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "Lou Costello",
+   "kind": "individual",
+   "desc": "American actor and comedian",
+   "cause": "asking a nurse to change his position in bed",
+   "last_words": "I think I'll be more comfortable.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lou_Costello",
+   "died": "3 March 1959"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Kenneth Muir",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "mortally wounded by automatic weapon fire during Battle of Hill 282 in the Korean War",
+   "last_words": "The Gooks will never drive the Argylls off this hill.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Muir_(British_Army_officer)",
+   "died": "23 September 1950"
+  }
+ ]
+}

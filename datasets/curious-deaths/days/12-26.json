@@ -1,0 +1,84 @@
+{
+ "date": "12-26",
+ "died": [
+  {
+   "year": 1530,
+   "year_label": "1530",
+   "name": "Babur",
+   "kind": "individual",
+   "desc": "founder of the Mughal Empire and first Emperor of the Mughal dynasty",
+   "cause": null,
+   "last_words": "I give your brothers to your keeping. Be faithful to them and all the people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Babur",
+   "born": "14 February 1483"
+  },
+  {
+   "year": 1812,
+   "year_label": "1812",
+   "name": "John Moody",
+   "kind": "individual",
+   "desc": "Irish actor",
+   "cause": "quoting Shakespeare (Measure for Measure, Act 3, Scene 1)",
+   "last_words": "Reason thus with life, / If I do lose thee, I do lose a thing / That none but fools would keep.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Moody_(actor)",
+   "born": null
+  },
+  {
+   "year": 1844,
+   "year_label": "1844",
+   "name": "Thomas Webster",
+   "kind": "individual",
+   "desc": "Scottish geologist",
+   "cause": null,
+   "last_words": "Examine it for yourself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Webster_(geologist)",
+   "born": null
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Frederic Remington",
+   "kind": "individual",
+   "desc": "American artist",
+   "cause": "prior to emergency appendectomy; he subsequently died of peritonitis",
+   "last_words": "Cut 'er loose, Doc!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Remington",
+   "born": "4 October 1861"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "JonBenét Patricia Ramsey",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 6-year-old winner of multiple child beauty pageants was reported missing by her mother, who found a strange ransom note in her kitchen the morning after Christmas. The girl's body was soon found in her family's home basement with fractured skull, a garrote tied around her neck and evidence of sexual assault. No one was ever arrested or charged in the case, which remains unsolved.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/JonBenét_Patricia_Ramsey",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1716,
+   "year_label": "1716",
+   "name": "Thomas Gray",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "Molly, I shall die!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gray",
+   "died": "30 July 1771"
+  },
+  {
+   "year": 1893,
+   "year_label": "1893",
+   "name": "Mao Zedong",
+   "kind": "individual",
+   "desc": "Chinese statesman and revolutionary",
+   "cause": null,
+   "last_words": "I feel ill. Call the doctors.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mao_Zedong",
+   "died": "9 September 1976"
+  }
+ ]
+}

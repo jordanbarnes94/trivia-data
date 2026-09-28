@@ -1,0 +1,139 @@
+{
+ "date": "01-14",
+ "died": [
+  {
+   "year": 1766,
+   "year_label": "1766",
+   "name": "Frederick V of Denmark",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "It is a great consolation to me, in my last hour, that I have never wilfully offended anyone, and that there is not a drop of blood on my hands.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_V_of_Denmark",
+   "born": "31 March 1723"
+  },
+  {
+   "year": 1819,
+   "year_label": "1819",
+   "name": "John Wolcot",
+   "kind": "individual",
+   "desc": "English satirist",
+   "cause": "when asked, \"Is there anything I can do for you?\"",
+   "last_words": "Give me back my youth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wolcot",
+   "born": "9 May 1738"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "Prince Albert Victor, Duke of Clarence and Avondale",
+   "kind": "individual",
+   "desc": "second in line to the British throne",
+   "cause": "he repeated these words over and over again while dying",
+   "last_words": "Who is that?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale",
+   "born": "8 January 1864"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "Lewis Carroll",
+   "kind": "individual",
+   "desc": "English mathematician and novelist",
+   "cause": null,
+   "last_words": "Take away these pillows, I won't need them any longer.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Carroll",
+   "born": "27 January 1832"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Humphrey Bogart",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his wife Lauren as she left to collect their children, after which he entered a fatal coma",
+   "last_words": "Goodbye, kid. Hurry back.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Bogart",
+   "born": "25 December 1899"
+  },
+  {
+   "year": 1978,
+   "year_label": "1978",
+   "name": "Kurt Gödel",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 71-year-old logician and mathematician developed an obsessive fear of being poisoned and refused to eat food prepared by anyone but his wife. When she became ill and was hospitalized, he starved to death. At the time of his death, he only weighed around 65 lb.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Gödel",
+   "born": "28 April 1906"
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Park Jong-chul",
+   "kind": "individual",
+   "desc": "South Korean student activist",
+   "cause": "to the police of the Anti-communist Detached Office, who tortured him by water cure, to force him to confess the whereabouts of one of his fellow activists",
+   "last_words": "″I have nothing to say.\"",
+   "wikipedia": "https://en.wikipedia.org/wiki/Park_Jong-chul",
+   "born": "1 April 1965"
+  },
+  {
+   "year": 1990,
+   "year_label": "1990",
+   "name": "Daniel John O'Brien",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 31-year-old American tourist took his own life by jumping into one of the engines of a British Airways Boeing 747 at Piarco International Airport, Trinidad. He is said to have scaled an airport wall in the nude, stolen a vehicle from four security guards, and smeared himself with grease before hurling himself into one of the plane's engines.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1741,
+   "year_label": "1741",
+   "name": "Benedict Arnold",
+   "kind": "individual",
+   "desc": "American military officer and traitor",
+   "cause": "referring to his Continental Army uniform",
+   "last_words": "Let me die in the old uniform in which I fought my battles for freedom. May God forgive me for putting on any other.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Arnold",
+   "died": "14 June 1801"
+  },
+  {
+   "year": 1925,
+   "year_label": "1925",
+   "name": "Yukio Mishima",
+   "kind": "individual",
+   "desc": "Japanese author",
+   "cause": "prior to seppuku",
+   "last_words": "Human life is limited; but I would like to live forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+   "died": "25 November 1970"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Rob Hall",
+   "kind": "individual",
+   "desc": "New Zealand mountaineer",
+   "cause": "speaking to his wife by satellite phone before dying on Mount Everest",
+   "last_words": "I love you. Sleep well, my sweetheart. Please don't worry too much.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rob_Hall",
+   "died": "11 May 1996"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Ricardo López",
+   "kind": "individual",
+   "desc": "Uruguayan-born American pest controller",
+   "cause": "before committing suicide with a gun after he mailed a bomb to Icelandic musician Björk, attempting to kill her",
+   "last_words": "This is for you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_López_(stalker)",
+   "died": "12 September 1996"
+  }
+ ]
+}

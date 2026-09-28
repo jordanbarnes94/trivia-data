@@ -1,0 +1,95 @@
+{
+ "date": "07-13",
+ "died": [
+  {
+   "year": 1705,
+   "year_label": "1705",
+   "name": "Titus Oates",
+   "kind": "individual",
+   "desc": "English priest and perjurer, fabricator of the \"Popish Plot\"",
+   "cause": null,
+   "last_words": "It is all the same in the end.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Titus_Oates",
+   "born": "15 September 1649"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Jean-Paul Marat",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his wife, after being stabbed by Charlotte Corday",
+   "last_words": "Help! help me, my dear!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Marat",
+   "born": "24 May 1743"
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Emerson H. Liscum",
+   "kind": "individual",
+   "desc": "United States Army colonel",
+   "cause": "dying after being shot at the Battle of Tientsin",
+   "last_words": "Keep up the fire, men.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emerson_H._Liscum",
+   "born": "16 July 1841"
+  },
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "Mr. and Mrs. Earl J. Dunn",
+   "kind": "group",
+   "desc": null,
+   "cause": "While attempting to turn around at Grand View in Yellowstone National Park, the Dunns somehow backed their car over a cliff, despite a tree barrier that would normally have made this impossible. The vehicle fell 800 ft and then rolled another 200 ft.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Alexander Schmorell",
+   "kind": "individual",
+   "desc": "Russian-German student and member of the White Rose resistance movement",
+   "cause": "on being asked if his name was Alexander Schmorell prior to his execution via guillotine",
+   "last_words": "Yes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Schmorell",
+   "born": "16 September 1917"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "Arnold Schoenberg",
+   "kind": "individual",
+   "desc": "Austrian-American composer",
+   "cause": null,
+   "last_words": "Harmony.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
+   "born": "13 September 1874"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Tom Simpson",
+   "kind": "individual",
+   "desc": "British cyclist",
+   "cause": "asking to be put back on his bike prior to his death on Mont Ventoux during the 1967 Tour de France",
+   "last_words": "On! On! On!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Simpson",
+   "born": "30 November 1937"
+  }
+ ],
+ "born": [
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Robert R. Scott",
+   "kind": "individual",
+   "desc": "United States Navy sailor and Medal of Honor recipient",
+   "cause": "refusing to evacuate flooded air compressor compartment aboard USS California (BB-44) during the attack on Pearl Harbor",
+   "last_words": "As long as I can give these people air, I'm sticking.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_R._Scott",
+   "died": "7 December 1941"
+  }
+ ]
+}

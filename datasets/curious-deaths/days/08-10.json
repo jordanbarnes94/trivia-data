@@ -1,0 +1,95 @@
+{
+ "date": "08-10",
+ "died": [
+  {
+   "year": 258,
+   "year_label": "258",
+   "name": "Saint Lawrence",
+   "kind": "individual",
+   "desc": "Christian deacon",
+   "cause": "while being burned alive on a gridiron",
+   "last_words": "I am roasted,-now turn me, and eat me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saint_Lawrence",
+   "born": "31 December 225"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "Otto Lilienthal",
+   "kind": "individual",
+   "desc": "German aviation pioneer",
+   "cause": "fatally injured in glider crash",
+   "last_words": "Sacrifices must be made.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Otto_Lilienthal",
+   "born": "23 May 1848"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Jean Brillant",
+   "kind": "individual",
+   "desc": "VC , Canadian Expeditionary Force officer",
+   "cause": "fatally wounded by enemy machine-gun fire during World War I",
+   "last_words": "I am through. Take charge of the company. I won't be here long.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean_Brillant",
+   "born": "15 March 1890"
+  },
+  {
+   "year": 1966,
+   "year_label": "1966",
+   "name": "James French",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "when asked if he had any last words before his death by electric chair",
+   "last_words": "Everything's already been said.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_French_(murderer)",
+   "born": "16 June 1936"
+  }
+ ],
+ "born": [
+  {
+   "year": 1810,
+   "year_label": "1810",
+   "name": "Camillo Benso, Count of Cavour",
+   "kind": "individual",
+   "desc": "Italian statesman, Prime Minister of Italy",
+   "cause": "to Victor Emmanuel II of Italy, who had said he would see him tomorrow",
+   "last_words": "No, Your Majesty, to-morrow you will not see me here.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Camillo_Benso,_Count_of_Cavour",
+   "died": "6 June 1861"
+  },
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "William Lowndes Yancey",
+   "kind": "individual",
+   "desc": "Confederate journalist, politician, orator and diplomat",
+   "cause": "calling his wife's name",
+   "last_words": "Sarah.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Lowndes_Yancey",
+   "died": "27 July 1863"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "Jay Cooke",
+   "kind": "individual",
+   "desc": "American financier",
+   "cause": "having overheard a prayer for the dead",
+   "last_words": "That was the right prayer.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jay_Cooke",
+   "died": "16 February 1905"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Paul Gégauff",
+   "kind": "individual",
+   "desc": "French director",
+   "cause": "before being killed by his Norwegian wife",
+   "last_words": "Kill me if you want, but stop bothering me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul_Gégauff",
+   "died": "24 December 1983"
+  }
+ ]
+}

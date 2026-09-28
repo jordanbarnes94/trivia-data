@@ -1,0 +1,117 @@
+{
+ "date": "12-27",
+ "died": [
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "Joanna Southcott",
+   "kind": "individual",
+   "desc": "English self-described religious prophetess",
+   "cause": "final recorded words",
+   "last_words": "If I have been deceived, doubtless it was the work of a spirit; whether that spirit was good or bad, I do not know.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joanna_Southcott",
+   "born": "25 April 1750"
+  },
+  {
+   "year": 1834,
+   "year_label": "1834",
+   "name": "Charles Lamb",
+   "kind": "individual",
+   "desc": "English essayist and poet",
+   "cause": null,
+   "last_words": "My bedfellows are cramp and cough – we three all in one bed!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lamb",
+   "born": "10 February 1775"
+  },
+  {
+   "year": 1836,
+   "year_label": "1836",
+   "name": "Stephen F. Austin",
+   "kind": "individual",
+   "desc": "founder of Anglo Texas, Secretary of State of the Republic of Texas",
+   "cause": null,
+   "last_words": "Texas recognized! Archer told me so. Did you see it in the papers?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_F._Austin",
+   "born": "3 November 1793"
+  }
+ ],
+ "born": [
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "Johann Arndt",
+   "kind": "individual",
+   "desc": "German Lutheran theologian",
+   "cause": "to his wife",
+   "last_words": "Now I have overcome.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Arndt",
+   "died": "11 May 1621"
+  },
+  {
+   "year": 1727,
+   "year_label": "1727",
+   "name": "Arthur Murphy",
+   "kind": "individual",
+   "desc": "Irish writer",
+   "cause": "quoting Alexander Pope",
+   "last_words": "Taught, half by reason, half by mere decay, / To welcome death, and calmly pass away.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Murphy_(writer)",
+   "died": "18 June 1805"
+  },
+  {
+   "year": 1786,
+   "year_label": "1786",
+   "name": "Frederick W. Adams",
+   "kind": "individual",
+   "desc": "American physician, author and violin maker",
+   "cause": null,
+   "last_words": "If there is a Christian's God, I am not afraid to trust myself in his hands.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_W._Adams",
+   "died": "17 December 1858"
+  },
+  {
+   "year": 1797,
+   "year_label": "1797",
+   "name": "Charles Hodge",
+   "kind": "individual",
+   "desc": "American Presbyterian theologian",
+   "cause": null,
+   "last_words": "My work is done. The pins of the tabernacle are taken out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Hodge",
+   "died": "19 June 1878"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "John K. Lawson",
+   "kind": "individual",
+   "desc": "Canadian Army officer",
+   "cause": "over the radio to his commanders prior to leaving his headquarters building during the Battle of Hong Kong",
+   "last_words": "Going outside to fight it out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_K._Lawson",
+   "died": "19 December 1941"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "Inejirō Asanuma",
+   "kind": "individual",
+   "desc": "then-chairman of the Japan Socialist Party",
+   "cause": "criticizing the LDP, seconds before being stabbed with a wakizashi by 17-year-old Otoya Yamaguchi",
+   "last_words": "During the election, they keep policies that would be unpopular with the public a secret, and then once they have won a majority in the election, they will...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Inejirō_Asanuma",
+   "died": "12 October 1960"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Heather O'Rourke",
+   "kind": "individual",
+   "desc": "American child actress",
+   "cause": "to her mother, shortly before dying of septic shock",
+   "last_words": "I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heather_O'Rourke",
+   "died": "1 February 1988"
+  }
+ ]
+}

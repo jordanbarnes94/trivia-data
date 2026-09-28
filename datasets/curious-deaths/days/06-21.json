@@ -1,0 +1,95 @@
+{
+ "date": "06-21",
+ "died": [
+  {
+   "year": 1377,
+   "year_label": "1377",
+   "name": "Edward III of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "kissing a crucifix",
+   "last_words": "Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+   "born": "13 November 1312"
+  },
+  {
+   "year": 1527,
+   "year_label": "1527",
+   "name": "Niccolò Machiavelli",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Italian Renaissance diplomat, philosopher and writer",
+   "last_words": "I desire to go to hell, and not to heaven. In the former place I shall enjoy the company of popes, kings, and princes, while in the latter are only beggars, monks, hermits, and apostles.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Niccolò_Machiavelli",
+   "born": "3 May 1469"
+  },
+  {
+   "year": 1730,
+   "year_label": "1730",
+   "name": "Sally Basset",
+   "kind": "individual",
+   "desc": "enslaved woman from Bermuda",
+   "cause": "looking at the logs prepared to fuel her burning at the stake for poisoning",
+   "last_words": "Ain't they darlin'?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sally_Basset",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1639,
+   "year_label": "1639",
+   "name": "Increase Mather",
+   "kind": "individual",
+   "desc": "New England Puritan clergyman, president of Harvard College",
+   "cause": null,
+   "last_words": "Be fruitful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Increase_Mather",
+   "died": "23 August 1723"
+  },
+  {
+   "year": 1676,
+   "year_label": "1676",
+   "name": "Anthony Collins",
+   "kind": "individual",
+   "desc": "English philosopher and deist",
+   "cause": null,
+   "last_words": "I have always endeavored, to the best of my ability, to serve God, my king and my country. I go to the place God has designed for those who love him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Collins_(philosopher)",
+   "died": "13 December 1729"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "Arshadu'd-Dawla",
+   "kind": "individual",
+   "desc": null,
+   "cause": "while being executed by firing squad for involvement in a plot to restore Mohammad Ali Shah Qajar to the Persian throne",
+   "last_words": "Long live Shah Muhammad Ali!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Ali_Shah_Qajar",
+   "died": "6 September 1911"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Lluís Companys",
+   "kind": "individual",
+   "desc": "President of the Government of Catalonia",
+   "cause": "prior to execution by firing squad",
+   "last_words": "For Catalonia!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lluís_Companys",
+   "died": "15 October 1940"
+  },
+  {
+   "year": 1905,
+   "year_label": "1905",
+   "name": "Jean-Paul Sartre",
+   "kind": "individual",
+   "desc": "French philosopher and writer",
+   "cause": "to his partner, Simone de Beauvoir",
+   "last_words": "I love you very much, my dear Beaver.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+   "died": "15 April 1980"
+  }
+ ]
+}

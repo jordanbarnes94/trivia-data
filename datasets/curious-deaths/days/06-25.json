@@ -1,0 +1,84 @@
+{
+ "date": "06-25",
+ "died": [
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "George Armstrong Custer",
+   "kind": "individual",
+   "desc": "United States Army officer",
+   "cause": "to Sergeant Charles Windolph prior to the Battle of the Little Bighorn",
+   "last_words": "Orderly, I want you to take a message to Colonel Benteen. Ride as fast as you can and tell him to hurry. Tell him it's a big village and I want him to be quick, and to bring the ammunition packs.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
+   "born": "5 December 1839"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "Boston Custer",
+   "kind": "individual",
+   "desc": "United States Army civilian contractor, brother of George Armstrong Custer and Thomas Custer",
+   "cause": "asking about the location of his brother George prior to his death at the Battle of the Little Bighorn",
+   "last_words": "Where's the General?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boston_Custer",
+   "born": "31 October 1848"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Sadi Carnot",
+   "kind": "individual",
+   "desc": "President of France",
+   "cause": "mortally wounded by assassin, to Dr. Antonin Poncet, who told him his friends were there",
+   "last_words": "I am grateful for your presence.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sadi_Carnot_(statesman)",
+   "born": "11 August 1837"
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "Richard Seaman",
+   "kind": "individual",
+   "desc": "British racing driver",
+   "cause": "on his deathbed after being fatally burned in a racing crash",
+   "last_words": "I was going too fast for the conditions – it was entirely my own fault – I am sorry.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Seaman",
+   "born": "4 February 1913"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Hillel Slovak",
+   "kind": "individual",
+   "desc": "Israeli-American musician",
+   "cause": "in a phone conversation with his brother before dying of a heroin overdose",
+   "last_words": "I know, I love you, bro.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hillel_Slovak",
+   "born": "13 April 1962"
+  }
+ ],
+ "born": [
+  {
+   "year": 1870,
+   "year_label": "1870",
+   "name": "Erskine Childers",
+   "kind": "individual",
+   "desc": "English-born Irish writer",
+   "cause": "facing a firing squad",
+   "last_words": "Take a step or two closer, lads. It will be easier that way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Erskine_Childers_(author)",
+   "died": "24 November 1922"
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Louis Mountbatten, 1st Earl Mountbatten of Burma",
+   "kind": "individual",
+   "desc": "British Royal Navy officer and statesman",
+   "cause": "prior to death in IRA bombing of his fishing boat",
+   "last_words": "Do you really think the IRA would think me a worthwhile target?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma",
+   "died": "27 August 1979"
+  }
+ ]
+}

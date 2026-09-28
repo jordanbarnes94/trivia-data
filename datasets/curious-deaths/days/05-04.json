@@ -1,0 +1,84 @@
+{
+ "date": "05-04",
+ "died": [
+  {
+   "year": 1677,
+   "year_label": "1677",
+   "name": "Isaac Barrow",
+   "kind": "individual",
+   "desc": "English Christian theologian and mathematician",
+   "cause": null,
+   "last_words": "I have seen the glories of the world.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Barrow",
+   "born": null
+  },
+  {
+   "year": 1737,
+   "year_label": "1737",
+   "name": "Eustace Budgell",
+   "kind": "individual",
+   "desc": "English writer and politician",
+   "cause": "his suicide note, written before drowning himself in the Thames. Joseph Addison was Budgell's cousin",
+   "last_words": "What Cato did, and Addison approved, cannot be wrong.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eustace_Budgell",
+   "born": "19 August 1686"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Duchess Sophie Charlotte in Bavaria",
+   "kind": "individual",
+   "desc": null,
+   "cause": "killed in Bazar de la Charité fire in Paris",
+   "last_words": "In a few minutes, think that we will see God, that we will be in Heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Duchess_Sophie_Charlotte_in_Bavaria",
+   "born": "22 February 1847"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "William Robertson Nicoll",
+   "kind": "individual",
+   "desc": "Scottish minister and writer",
+   "cause": null,
+   "last_words": "I believe everything I have written about immortality.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Robertson_Nicoll",
+   "born": "10 October 1851"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Victor Prather",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 34-year-old U.S. Navy flight surgeon drowned at the end of the record-setting Strato-Lab V balloon flight when he slipped from the rescue sling during recovery operations in the Gulf of Mexico and his pressure suit filled with water.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Victor_Prather",
+   "born": "4 June 1923"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Aubrey Dennis Adams, Jr.",
+   "kind": "individual",
+   "desc": "American convicted child murderer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "I hope and pray that all the new and reopened wounds will be healed quickly after my passing. My death is the Lord's will and I am now with my Lord and Savior Jesus Christ in Heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Florida",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1613,
+   "year_label": "1613",
+   "name": "James Sharp",
+   "kind": "individual",
+   "desc": "Archbishop of St Andrews",
+   "cause": null,
+   "last_words": "I shall be happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Sharp_(bishop)",
+   "died": "3 May 1679"
+  }
+ ]
+}

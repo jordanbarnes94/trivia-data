@@ -1,0 +1,95 @@
+{
+ "date": "12-29",
+ "died": [
+  {
+   "year": 1170,
+   "year_label": "1170",
+   "name": "Thomas Becket",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "to his murderers",
+   "last_words": "For the name of Jesus and the protection of the church I am ready to embrace death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Becket",
+   "born": "21 December 1119"
+  },
+  {
+   "year": 1680,
+   "year_label": "1680",
+   "name": "William Howard, 1st Viscount Stafford",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his executioner prior to beheading for alleged treason",
+   "last_words": "I do forgive you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Howard,_1st_Viscount_Stafford",
+   "born": "30 November 1614"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Christina Rossetti",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I love everybody. If ever I had an enemy, I should hope to meet and welcome that enemy in heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christina_Rossetti",
+   "born": "5 December 1830"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Rainer Maria Rilke",
+   "kind": "individual",
+   "desc": "Bohemian-Austrian poet and novelist",
+   "cause": null,
+   "last_words": "I don't want the doctor's death. I want to have my own freedom.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
+   "born": "4 December 1875"
+  }
+ ],
+ "born": [
+  {
+   "year": 1721,
+   "year_label": "1721",
+   "name": "Madame de Pompadour",
+   "kind": "individual",
+   "desc": "chief mistress of Louis XV of France",
+   "cause": "applying rouge to her cheeks before her death",
+   "last_words": "Wait a second.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Madame_de_Pompadour",
+   "died": "15 April 1764"
+  },
+  {
+   "year": 1808,
+   "year_label": "1808",
+   "name": "Andrew Johnson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "Oh, do not cry. Be good children, and we shall meet in heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Johnson",
+   "died": "31 July 1875"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "William Herbert Anderson",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "to a fellow officer during World War I counter-attack at Bois Favieres, near Maricourt, Somme, France",
+   "last_words": "Carry on with those on the left.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Herbert_Anderson",
+   "died": "25 March 1918"
+  },
+  {
+   "year": 1947,
+   "year_label": "1947",
+   "name": "Cozy Powell",
+   "kind": "individual",
+   "desc": "English drummer",
+   "cause": "to his girlfriend on the phone shortly before he was killed in a car crash",
+   "last_words": "Oh shit!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cozy_Powell",
+   "died": "5 April 1998"
+  }
+ ]
+}

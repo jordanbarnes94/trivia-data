@@ -1,0 +1,73 @@
+{
+ "date": "05-15",
+ "died": [
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "Emily Dickinson",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": null,
+   "last_words": "I must go in, for the fog is rising. (when offered a drink of water) Oh, is that all it is?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emily_Dickinson",
+   "born": "10 December 1830"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "Tsuyoshi Inukai",
+   "kind": "individual",
+   "desc": "former Prime Minister of Japan",
+   "cause": "assassinated by Taku Mikami",
+   "last_words": "″Well, wait, you'll understand once we talk. It's day, you need not shoot me.″",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tsuyoshi_Inukai",
+   "born": "4 June 1855"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Robert Nairac",
+   "kind": "individual",
+   "desc": "GC, British Army intelligence officer",
+   "cause": "abducted and shot to death by the Provisional Irish Republican Army. His last words were addressed to one of his abductors, who posed as a priest in an attempt to gain information through Nairac's confession",
+   "last_words": "Bless me, Father, for I have sinned.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Nairac",
+   "born": "31 August 1948"
+  }
+ ],
+ "born": [
+  {
+   "year": 1628,
+   "year_label": "1628",
+   "name": "Dominique Bouhours",
+   "kind": "individual",
+   "desc": "French priest and grammarian",
+   "cause": null,
+   "last_words": "I am about to-or I am going to-die; either expression is correct.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dominique_Bouhours",
+   "died": "27 May 1702"
+  },
+  {
+   "year": 1689,
+   "year_label": "1689",
+   "name": "Mary Wortley Montagu",
+   "kind": "individual",
+   "desc": "English traveler",
+   "cause": null,
+   "last_words": "It has all been most interesting.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Wortley_Montagu",
+   "died": "21 August 1762"
+  },
+  {
+   "year": 1856,
+   "year_label": "1856",
+   "name": "L. Frank Baum",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": "referring to a fictional location in his Oz books",
+   "last_words": "Now we can cross the Shifting Sands together.",
+   "wikipedia": "https://en.wikipedia.org/wiki/L._Frank_Baum",
+   "died": "5 May 1919"
+  }
+ ]
+}

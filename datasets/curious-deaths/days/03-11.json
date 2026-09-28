@@ -1,0 +1,73 @@
+{
+ "date": "03-11",
+ "died": [
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "Charles Sumner",
+   "kind": "individual",
+   "desc": "American statesman and United States Senator",
+   "cause": "to Samuel Hooper, his former father-in-law",
+   "last_words": "Sit down.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sumner",
+   "born": "6 January 1811"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Roy Chapman Andrews",
+   "kind": "individual",
+   "desc": "American explorer, adventurer and naturalist",
+   "cause": "dying of a heart attack",
+   "last_words": "There's that pain again! I can feel it in my arm and in my head.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roy_Chapman_Andrews",
+   "born": "26 January 1884"
+  }
+ ],
+ "born": [
+  {
+   "year": 1544,
+   "year_label": "1544",
+   "name": "Torquato Tasso",
+   "kind": "individual",
+   "desc": "Italian poet",
+   "cause": "quoting Jesus",
+   "last_words": "Lord, into Thy hands I commend my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Torquato_Tasso",
+   "died": "25 April 1595"
+  },
+  {
+   "year": 1808,
+   "year_label": "1808",
+   "name": "Agustín Morales",
+   "kind": "individual",
+   "desc": "president of Bolivia",
+   "cause": "speaking to Federico La Faye before being shot by the latter",
+   "last_words": "You to me, Federico?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Agustín_Morales",
+   "died": "27 November 1872"
+  },
+  {
+   "year": 1842,
+   "year_label": "1842",
+   "name": "Leandro N. Alem",
+   "kind": "individual",
+   "desc": "Argentine politician",
+   "cause": "his suicide note, quoting the motto of the Radical Civic Union",
+   "last_words": "Yes, that is broken, but does not bend!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leandro_N._Alem",
+   "died": "1 July 1896"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "Alfred Loewenstein",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 51-year-old financier and third-richest man in the world at the time, died while flying from England to Belgium on his private Fokker F.VII airplane. It is believed he fell out of the aircraft and into the water where he died.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Loewenstein",
+   "died": "4 July 1928"
+  }
+ ]
+}

@@ -1,0 +1,50 @@
+{
+ "date": "10-30",
+ "died": [],
+ "born": [
+  {
+   "year": 1751,
+   "year_label": "1751",
+   "name": "Richard Brinsley Sheridan",
+   "kind": "individual",
+   "desc": "Irish satirist, playwright and poet",
+   "cause": "dying in poverty",
+   "last_words": "I am absolutely undone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan",
+   "died": "7 July 1816"
+  },
+  {
+   "year": 1762,
+   "year_label": "1762",
+   "name": "André Chénier",
+   "kind": "individual",
+   "desc": "French poet",
+   "cause": "to his friend and fellow poet Jean-Antoine Roucher prior to their executions by guillotine",
+   "last_words": "Yet I had something there!",
+   "wikipedia": "https://en.wikipedia.org/wiki/André_Chénier",
+   "died": "25 July 1794"
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "name": "Ed Delahanty",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 35-year-old American baseball player for the Phillies died after being removed from a train due to drunken horseplay, falling off International Bridge above Niagara Falls. Sam Kingston, a local night watchman, was the last to see him alive, reportedly scuffling with him. Kingston's account of the incident was spotty and inconsistent; it is unclear whether Delahanty was intentionally pushed, accidentally fell, or decided to jump.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ed_Delahanty",
+   "died": "2 July 1903"
+  },
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Bob Jones Sr.",
+   "kind": "individual",
+   "desc": "American evangelist, founder of Bob Jones University",
+   "cause": "to his wife before entering semi-coma",
+   "last_words": "Mary Gaston, get my shoes; I must go to preach.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bob_Jones_Sr.",
+   "died": "16 January 1968"
+  }
+ ]
+}

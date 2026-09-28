@@ -1,0 +1,73 @@
+{
+ "date": "08-03",
+ "died": [
+  {
+   "year": 1966,
+   "year_label": "1966",
+   "name": "Lenny Bruce",
+   "kind": "individual",
+   "desc": "American comedian",
+   "cause": "asking about the availability of drugs",
+   "last_words": "Do you know where I can get any shit?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lenny_Bruce",
+   "born": "13 October 1925"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "Lourdes Maria da Silva",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The resident of Caxias do Sul, was walking upstairs carrying a Pyrex tableware when she tripped, broke it, and fell on the shards, cutting an artery in her neck. She died on her way to the hospital.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Maltbie Davenport Babcock",
+   "kind": "individual",
+   "desc": "American clergyman and writer",
+   "cause": "to hospital superintendent and nurse, explaining his method of suicide while suffering from brucellosis",
+   "last_words": "I have swallowed corrosive sublimate.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maltbie_Davenport_Babcock",
+   "died": "18 May 1901"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Rupert Brooke",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": "to William Denis Browne, who visited him on his deathbed",
+   "last_words": "Hullo.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Brooke",
+   "died": "23 April 1915"
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Ernie Pyle",
+   "kind": "individual",
+   "desc": "American war correspondent",
+   "cause": "to Lt. Col. Joseph B. Coolidge before being fatally shot on Iejima during the Battle of Okinawa",
+   "last_words": "Are you all right?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernie_Pyle",
+   "died": "18 April 1945"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "James W. Rodgers",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "facing a firing squad",
+   "last_words": "I done told you my last request ... a bulletproof vest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_W._Rodgers",
+   "died": "30 March 1960"
+  }
+ ]
+}

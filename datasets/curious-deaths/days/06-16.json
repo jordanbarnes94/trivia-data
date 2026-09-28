@@ -1,0 +1,95 @@
+{
+ "date": "06-16",
+ "died": [
+  {
+   "year": 1752,
+   "year_label": "1752",
+   "name": "Joseph Butler",
+   "kind": "individual",
+   "desc": "English Anglican bishop and theologian",
+   "cause": "referring to John 6:37",
+   "last_words": "I have often read and thought of that scripture, but never till this moment did I feel its full power, and now I die happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Butler",
+   "born": "18 May 1692"
+  },
+  {
+   "year": 1779,
+   "year_label": "1779",
+   "name": "Sir Francis Bernard, 1st Baronet",
+   "kind": "individual",
+   "desc": "British colonial administrator",
+   "cause": "dying after epileptic seizure",
+   "last_words": "Never fear; if you will but have patience I don't doubt we shall get through; but take care how you ever get in such a scrape again.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sir_Francis_Bernard,_1st_Baronet",
+   "born": "12 July 1712"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "George Stinney",
+   "kind": "individual",
+   "desc": "African-American child and youngest American with an exact age executed by the United States",
+   "cause": "on whether he had any final words before his wrongful execution via electric chair. 14-year-old Stinney was tried and sentenced to death by Judge Philip H. Stoll in under three hours on 14 April after an all-white jury declared him guilty for double murder after only ten minutes of deliberation",
+   "last_words": "No.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Stinney",
+   "born": "21 October 1929"
+  },
+  {
+   "year": 1959,
+   "year_label": "1959",
+   "name": "George Reeves",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "prior to his apparent suicide",
+   "last_words": "I'm tired. I'm going back to bed.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Reeves",
+   "born": "5 January 1914"
+  }
+ ],
+ "born": [
+  {
+   "year": 1838,
+   "year_label": "1838",
+   "name": "Cushman Kellogg Davis",
+   "kind": "individual",
+   "desc": "United States Senator from Minnesota",
+   "cause": null,
+   "last_words": "Oh, that I might live five years more for my country's sake.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cushman_Kellogg_Davis",
+   "died": "27 November 1900"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Stan Laurel",
+   "kind": "individual",
+   "desc": "English actor, member of the duo Laurel and Hardy",
+   "cause": "to a nurse",
+   "last_words": "I'd rather be skiing than doing this.\" (when asked if he skied) \"No, but I'd rather be doing that than doing this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stan_Laurel",
+   "died": "23 February 1965"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "James French",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "when asked if he had any last words before his death by electric chair",
+   "last_words": "Everything's already been said.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_French_(murderer)",
+   "died": "10 August 1966"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Tupac \"2Pac\" Shakur",
+   "kind": "individual",
+   "desc": "American rapper",
+   "cause": "to the first responder police officer at the scene of his murder",
+   "last_words": "Fuck you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tupac_Shakur",
+   "died": "13 September 1996"
+  }
+ ]
+}

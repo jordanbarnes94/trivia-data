@@ -1,0 +1,95 @@
+{
+ "date": "05-11",
+ "died": [
+  {
+   "year": 1621,
+   "year_label": "1621",
+   "name": "Johann Arndt",
+   "kind": "individual",
+   "desc": "German Lutheran theologian",
+   "cause": "to his wife",
+   "last_words": "Now I have overcome.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Arndt",
+   "born": "27 December 1555"
+  },
+  {
+   "year": 1812,
+   "year_label": "1812",
+   "name": "Spencer Perceval",
+   "kind": "individual",
+   "desc": "Prime Minister of the United Kingdom",
+   "cause": "mortally wounded by gunshot",
+   "last_words": "Oh!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Perceval",
+   "born": "1 November 1762"
+  },
+  {
+   "year": 1857,
+   "year_label": "1857",
+   "name": "Eugène François Vidocq",
+   "kind": "individual",
+   "desc": "French criminal turned criminalist",
+   "cause": null,
+   "last_words": "How great is the forgiveness for such a life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eugène_François_Vidocq",
+   "born": "24 July 1775"
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "Bob Marley",
+   "kind": "individual",
+   "desc": "Jamaican musician",
+   "cause": null,
+   "last_words": "Money can't buy life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bob_Marley",
+   "born": "6 February 1945"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Rob Hall",
+   "kind": "individual",
+   "desc": "New Zealand mountaineer",
+   "cause": "speaking to his wife by satellite phone before dying on Mount Everest",
+   "last_words": "I love you. Sleep well, my sweetheart. Please don't worry too much.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rob_Hall",
+   "born": "14 January 1961"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "First officer Richard Hazen",
+   "kind": "individual",
+   "desc": "pilot of ValuJet Flight 592",
+   "cause": "talking to air traffic controllers following a fire onboard, attempted to return to Miami International Airport",
+   "last_words": "One four zero.",
+   "wikipedia": "https://en.wikipedia.org/wiki/ValuJet_Flight_592",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "Salvador Dalí",
+   "kind": "individual",
+   "desc": "Spanish surrealist painter",
+   "cause": null,
+   "last_words": "Where is my clock?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Salvador_Dalí",
+   "died": "23 January 1989"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Richard Feynman",
+   "kind": "individual",
+   "desc": "American theoretical physicist and raconteur",
+   "cause": null,
+   "last_words": "I'd hate to die twice. It's so boring.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Feynman",
+   "died": "15 February 1988"
+  }
+ ]
+}

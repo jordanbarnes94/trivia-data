@@ -1,0 +1,161 @@
+{
+ "date": "08-23",
+ "died": [
+  {
+   "year": 1628,
+   "year_label": "1628",
+   "name": "George Villiers, 1st Duke of Buckingham",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his assassin, John Felton, after being stabbed by him",
+   "last_words": "Villaine!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Villiers,_1st_Duke_of_Buckingham",
+   "born": "28 August 1592"
+  },
+  {
+   "year": 1723,
+   "year_label": "1723",
+   "name": "Increase Mather",
+   "kind": "individual",
+   "desc": "New England Puritan clergyman, president of Harvard College",
+   "cause": null,
+   "last_words": "Be fruitful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Increase_Mather",
+   "born": "21 June 1639"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Alexander Wilson",
+   "kind": "individual",
+   "desc": "American ornithologist",
+   "cause": null,
+   "last_words": "Bury me where the birds will sing over my grave.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Wilson_(ornithologist)",
+   "born": "6 July 1766"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Rudolph Valentino",
+   "kind": "individual",
+   "desc": "Italian actor",
+   "cause": "to a nurse",
+   "last_words": "Don't pull down the blinds. I want the sunlight to greet me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rudolph_Valentino",
+   "born": "6 May 1895"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Nicola Sacco",
+   "kind": "individual",
+   "desc": "Italian immigrant anarchist",
+   "cause": "prior to execution by electrocution",
+   "last_words": "Farewell, mother!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Sacco",
+   "born": "22 April 1891"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Bartolomeo Vanzetti",
+   "kind": "individual",
+   "desc": "Italian immigrant anarchist",
+   "cause": "prior to execution by electrocution",
+   "last_words": "I wish to forgive some people for what they are now doing to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bartolomeo_Vanzetti",
+   "born": "11 June 1888"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Gerry Richardson",
+   "kind": "individual",
+   "desc": "GC, British police officer",
+   "cause": "to PC Carl Walker, GC, referring to armed robber Frederick Joseph Sewell, who had shot both of them. Walker survived",
+   "last_words": "I had him by the throat but the bastard shot me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gerry_Richardson",
+   "born": "2 November 1932"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "R. D. Laing",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Scottish psychiatrist",
+   "last_words": "No bloody doctors.",
+   "wikipedia": "https://en.wikipedia.org/wiki/R._D._Laing",
+   "born": "7 October 1927"
+  }
+ ],
+ "born": [
+  {
+   "year": 1744,
+   "year_label": "1744",
+   "name": "Rowland Hill",
+   "kind": "individual",
+   "desc": "English preacher, evangelical and vaccination advocate",
+   "cause": "quoting 1 Peter 3:18",
+   "last_words": "Christ also hath once suffered for sins, the just for the unjust, that he might bring us unto God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rowland_Hill_(preacher)",
+   "died": "11 April 1833"
+  },
+  {
+   "year": 1754,
+   "year_label": "1754",
+   "name": "Louis XVI",
+   "kind": "individual",
+   "desc": "king of France",
+   "cause": "speaking to his executioners prior to his execution by guillotine",
+   "last_words": "Frenchmen, I die guiltless of the crimes imputed to me. Pray God my blood fall not on France!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVI",
+   "died": "21 January 1793"
+  },
+  {
+   "year": 1769,
+   "year_label": "1769",
+   "name": "Georges Cuvier",
+   "kind": "individual",
+   "desc": "French naturalist and zoologist",
+   "cause": "to a nurse who was bleeding him",
+   "last_words": "Nurse, it was I who discovered leeches have red blood.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georges_Cuvier",
+   "died": "13 May 1832"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Keith Moon",
+   "kind": "individual",
+   "desc": "English drummer for the rock band the Who",
+   "cause": "to his girlfriend Annette Walter-Lax",
+   "last_words": "If you don't like it, you can fuck off!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Keith_Moon",
+   "died": "7 September 1978"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Timothy Gribble",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "before his execution",
+   "last_words": "I just want you to know from the bottom of my heart that I am truly sorry. I mean it. I'm not saying it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Gribble",
+   "died": "15 March 2000"
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "River Phoenix",
+   "kind": "individual",
+   "desc": "American actor, musician, and activist",
+   "cause": null,
+   "last_words": "No paparazzi, I want anonymity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/River_Phoenix",
+   "died": "31 October 1993"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "date": "11-29",
+ "died": [
+  {
+   "year": 1530,
+   "year_label": "1530",
+   "name": "Thomas Wolsey",
+   "kind": "individual",
+   "desc": "English archbishop, statesman and cardinal",
+   "cause": "to the Lieutenant of the Tower of London, after falling ill on the way to London under arrest for treason",
+   "last_words": "And, Master Kyngston, had I but served God as diligently as I have served the king, he would not have given me over in my gray hairs. But this is my just reward for my pains and study, not regarding my service to God, but only my duty to my Prince.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Wolsey",
+   "born": null
+  },
+  {
+   "year": 1628,
+   "year_label": "1628",
+   "name": "John Felton",
+   "kind": "individual",
+   "desc": "assassin of George Villiers, 1st Duke of Buckingham",
+   "cause": "referring to the killing of Buckingham before being executed by hanging",
+   "last_words": "I am the man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Felton_(assassin)",
+   "born": null
+  },
+  {
+   "year": 1780,
+   "year_label": "1780",
+   "name": "Maria Theresa",
+   "kind": "individual",
+   "desc": "Archduchess of Austria and Queen of Hungary and Croatia",
+   "cause": "when her son said, \"Your Majesty cannot be comfortable like that\"",
+   "last_words": "No, but comfortable enough to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maria_Theresa",
+   "born": "13 May 1717"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Antoine Barnave",
+   "kind": "individual",
+   "desc": "French politician",
+   "cause": "prior to execution by guillotine",
+   "last_words": "Better to suffer and to die than to lose one shade of my moral and political character.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Barnave",
+   "born": "22 October 1761"
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Victims of the Thanksgiving Day Disaster",
+   "kind": "group",
+   "desc": null,
+   "cause": "During the 1900 Big Game between the California Golden Bears and the Stanford Cardinal American football teams, a large crowd of people who did not want to pay the $1 admission fee gathered upon the roof of a glass blowing factory to watch for free. The roof then collapsed, severing fuel pipes and causing at least 100 people to fall four stories to the factory floor. 60 to 100 more people fell directly on top of a furnace, the surface temperature of which was estimated to be around 500 °F (260 °C). 23 people were killed, and over 100 more were injured. The disaster remains the deadliest accident at a sporting event in U.S. history.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thanksgiving_Day_Disaster",
+   "born": null
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Lorentzos Mavilis",
+   "kind": "individual",
+   "desc": "Greek poet",
+   "cause": "killed in action at the Battle of Driskos",
+   "last_words": "I expected many honors from this war, but not the added honor that I offer my life for my Greece.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lorentzos_Mavilis",
+   "born": "6 September 1860"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Zoya Kosmodemyanskaya",
+   "kind": "individual",
+   "desc": "Soviet partisan",
+   "cause": "prior to her execution by Germans in Petrishchevo for arson in there",
+   "last_words": "Farewell, comrades! Fight, do not be afraid! Stalin is with us! Stalin will come!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zoya_Kosmodemyanskaya",
+   "born": "13 September 1923"
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "Natalie Wood",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": "crying for help from drowning",
+   "last_words": "Help me, someone please help me, I'm drowning.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Wood",
+   "born": "20 July 1938"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "Cary Grant",
+   "kind": "individual",
+   "desc": "English-American actor",
+   "cause": "to his wife while being wheeled to intensive care following a stroke",
+   "last_words": "I love you Barbara...don't worry.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cary_Grant",
+   "born": "18 January 1904"
+  }
+ ],
+ "born": [
+  {
+   "year": 1799,
+   "year_label": "1799",
+   "name": "Amos Bronson Alcott",
+   "kind": "individual",
+   "desc": "American teacher, writer, philosopher and reformer",
+   "cause": "to his daughter, Louisa May Alcott",
+   "last_words": "I am going up. Come with me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Amos_Bronson_Alcott",
+   "died": "4 March 1888"
+  },
+  {
+   "year": 1832,
+   "year_label": "1832",
+   "name": "Louisa May Alcott",
+   "kind": "individual",
+   "desc": "American novelist",
+   "cause": null,
+   "last_words": "Is it not meningitis?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louisa_May_Alcott",
+   "died": "6 March 1888"
+  },
+  {
+   "year": 1835,
+   "year_label": "1835",
+   "name": "Empress Dowager Cixi",
+   "kind": "individual",
+   "desc": "de facto ruler of China",
+   "cause": null,
+   "last_words": "Never again allow a woman to hold the supreme power in the State... [and] be careful not to allow eunuchs to meddle in government affairs.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Empress_Dowager_Cixi",
+   "died": "15 November 1908"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "C.S. Lewis",
+   "kind": "individual",
+   "desc": "a British author of The Chronicles of Narnia, literary scholar and Anglican lay theologian",
+   "cause": "of kidney failure, at age 64. He was diagnosed with end-stage kidney failure in mid-November. He collapsed in his bedroom at 5:30 pm on 22 November, at age 64, and died a few minutes later",
+   "last_words": "Thank you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/C.S._Lewis",
+   "died": "22 November 1963"
+  }
+ ]
+}

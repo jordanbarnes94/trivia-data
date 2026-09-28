@@ -1,0 +1,40 @@
+{
+ "date": "08-07",
+ "died": [
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Şehzade Ahmed Nuri",
+   "kind": "individual",
+   "desc": "Ottoman prince",
+   "cause": "note found in his pocket after he starved to death in a French public park",
+   "last_words": "If I die, do not blame anyone because I am starving. I was making a living by playing piano in a movie theater. Now I can not find this job either. You bury me as a Muslim.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Şehzade_Ahmed_Nuri",
+   "born": "19 December 1878"
+  }
+ ],
+ "born": [
+  {
+   "year": 1799,
+   "year_label": "1799",
+   "name": "James Maitland Hog",
+   "kind": "individual",
+   "desc": "Scottish advocate and landowner",
+   "cause": "spelling out his final words on a printed alphabet with a reed in his mouth",
+   "last_words": "I am looking to the Savior. My only hope is in Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Maitland_Hog",
+   "died": "1 August 1858"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "Mata Hari",
+   "kind": "individual",
+   "desc": "Dutch exotic dancer and courtesan",
+   "cause": "prior to execution by French firing squad for spying for Germany during World War I",
+   "last_words": "It is unbelievable.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mata_Hari",
+   "died": "15 October 1917"
+  }
+ ]
+}

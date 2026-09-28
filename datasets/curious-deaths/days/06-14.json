@@ -1,0 +1,84 @@
+{
+ "date": "06-14",
+ "died": [
+  {
+   "year": 1662,
+   "year_label": "1662",
+   "name": "Henry Vane the Younger",
+   "kind": "individual",
+   "desc": "English politician, statesman and colonial governor",
+   "cause": "prior to execution by beheading for treason",
+   "last_words": "It is a bad cause which cannot bear the words of a dying man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Vane_the_Younger",
+   "born": null
+  },
+  {
+   "year": 1800,
+   "year_label": "1800",
+   "name": "Louis Desaix",
+   "kind": "individual",
+   "desc": "French general",
+   "cause": "prior to death in the French Revolutionary Wars",
+   "last_words": "There is yet time to win another battle!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Desaix",
+   "born": "17 August 1768"
+  },
+  {
+   "year": 1801,
+   "year_label": "1801",
+   "name": "Benedict Arnold",
+   "kind": "individual",
+   "desc": "American military officer and traitor",
+   "cause": "referring to his Continental Army uniform",
+   "last_words": "Let me die in the old uniform in which I fought my battles for freedom. May God forgive me for putting on any other.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benedict_Arnold",
+   "born": "14 January 1741"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Barney Barnato",
+   "kind": "individual",
+   "desc": "British Randlord",
+   "cause": "he asked this question before jumping overboard from a ship",
+   "last_words": "What's the time?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Barney_Barnato",
+   "born": "21 February 1851"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "G. K. Chesterton",
+   "kind": "individual",
+   "desc": "English writer, philosopher, lay theologian and critic",
+   "cause": null,
+   "last_words": "The issue is now clear. It is between light and darkness, and everyone must choose his side.",
+   "wikipedia": "https://en.wikipedia.org/wiki/G._K._Chesterton",
+   "born": "29 May 1874"
+  }
+ ],
+ "born": [
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Che Guevara",
+   "kind": "individual",
+   "desc": "Argentinean statesman and socialist revolutionary",
+   "cause": "facing his captors",
+   "last_words": "I know you are here to kill me. Shoot, coward, you are only going to kill a man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Che_Guevara",
+   "died": "9 October 1967"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Jerzy Kosiński",
+   "kind": "individual",
+   "desc": "Polish-American novelist",
+   "cause": "in his suicide note",
+   "last_words": "I am going to put myself to sleep now for a bit longer than usual. Call it Eternity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerzy_Kosiński",
+   "died": "3 May 1991"
+  }
+ ]
+}

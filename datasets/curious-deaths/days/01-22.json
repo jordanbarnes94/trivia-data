@@ -1,0 +1,117 @@
+{
+ "date": "01-22",
+ "died": [
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "Victoria",
+   "kind": "individual",
+   "desc": "queen regnant of the United Kingdom",
+   "cause": "calling to her eldest son and heir, Albert, Prince of Wales",
+   "last_words": "Bertie.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Queen_Victoria",
+   "born": "24 May 1819"
+  },
+  {
+   "year": 1968,
+   "year_label": "1968",
+   "name": "Lance Sijan",
+   "kind": "individual",
+   "desc": "United States Air Force fighter pilot and Medal of Honor recipient",
+   "cause": "dying in Hỏa Lò Prison during the Vietnam War",
+   "last_words": "Dad! Dad! Where are you? I need you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lance_Sijan",
+   "born": "14 April 1942"
+  },
+  {
+   "year": 1973,
+   "year_label": "1973",
+   "name": "Lyndon B. Johnson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "referring to his Secret Service agent. By the time Mike arrived, Johnson had already died",
+   "last_words": "Send Mike immediately.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
+   "born": "27 August 1908"
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "R. Budd Dwyer",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "to the reporters who tried to stop him from shooting himself during a press conference",
+   "last_words": "Don't, don't, don't, this will hurt someone!",
+   "wikipedia": "https://en.wikipedia.org/wiki/R._Budd_Dwyer",
+   "born": "21 November 1939"
+  }
+ ],
+ "born": [
+  {
+   "year": 1552,
+   "year_label": "1552",
+   "name": "Walter Raleigh",
+   "kind": "individual",
+   "desc": "English poet, soldier and courtier",
+   "cause": "as he lay ready to be beheaded in the Old Palace Yard at the Palace of Westminster",
+   "last_words": "What dost thou fear? Strike, man, strike!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_Raleigh",
+   "died": "29 October 1618"
+  },
+  {
+   "year": 1561,
+   "year_label": "1561",
+   "name": "Francis Bacon",
+   "kind": "individual",
+   "desc": "English philosopher and statesman",
+   "cause": "John Aubrey reported in Brief Lives that the English philosopher and statesman died of pneumonia after stuffing a chicken carcass with snow to learn whether it could preserve meat.",
+   "last_words": "Thy creatures, O Lord, have been my books, but Thy Holy Scriptures much more. I have sought Thee in the fields and gardens, but I have found Thee, O God, in Thy Sanctuary-Thy Temple.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon",
+   "died": "9 April 1626"
+  },
+  {
+   "year": 1592,
+   "year_label": "1592",
+   "name": "Pierre Gassendi",
+   "kind": "individual",
+   "desc": "French philosopher, Catholic priest, astronomer and mathematician",
+   "cause": null,
+   "last_words": "You see what is man's life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Gassendi",
+   "died": "24 October 1655"
+  },
+  {
+   "year": 1788,
+   "year_label": "1788",
+   "name": "Lord Byron",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I must sleep now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
+   "died": "19 April 1824"
+  },
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "name": "August Strindberg",
+   "kind": "individual",
+   "desc": "Swedish author",
+   "cause": null,
+   "last_words": "Everything is atoned for.",
+   "wikipedia": "https://en.wikipedia.org/wiki/August_Strindberg",
+   "died": "14 May 1912"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "Robert E. Howard",
+   "kind": "individual",
+   "desc": "American author and creator of Conan the Barbarian",
+   "cause": "his suicide note, a quotation from \"The House of Cæsar\" by Viola Garvin",
+   "last_words": "All fled, all done, so lift me on the pyre. The feast is over, and the lamps expire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Howard",
+   "died": "11 June 1936"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "date": "10-05",
+ "died": [
+  {
+   "year": 1771,
+   "year_label": "1771",
+   "name": "Thomas Rutherforth",
+   "kind": "individual",
+   "desc": "English churchman and academic",
+   "cause": null,
+   "last_words": "He has indeed been a precious Christ to me; and now I feel him to be my rock, my strength, my rest, my hope, my joy, my all in all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Rutherforth",
+   "born": null
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Robbie Ross",
+   "kind": "individual",
+   "desc": "Canadian-British journalist, art critic and art dealer",
+   "cause": "referring to the inscription on John Keats' grave (\"Here lies One Whose Name was writ in Water\")",
+   "last_words": "Here lies one whose name was written in hot water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robbie_Ross",
+   "born": "25 May 1869"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Clifton Williams",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "prior to unsuccessful ejection from crashing airplane",
+   "last_words": "Mayday, Mayday! This is NASA 922, ejecting just off Orlando...I mean Tallahassee!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clifton_Williams",
+   "born": "26 September 1932"
+  }
+ ],
+ "born": [
+  {
+   "year": 1703,
+   "year_label": "1703",
+   "name": "Jonathan Edwards",
+   "kind": "individual",
+   "desc": "American revivalist preacher and theologian",
+   "cause": "when someone lamented what his loss would mean to the church and to the College of New Jersey",
+   "last_words": "Trust in God and you need not fear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
+   "died": "22 March 1758"
+  },
+  {
+   "year": 1713,
+   "year_label": "1713",
+   "name": "Denis Diderot",
+   "kind": "individual",
+   "desc": "French philosopher",
+   "cause": null,
+   "last_words": "The first step towards philosophy is incredulity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Denis_Diderot",
+   "died": "31 July 1784"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "Edith Ewing Bouvier Beale",
+   "kind": "individual",
+   "desc": "American socialite",
+   "cause": "to her daughter, Edith Bouvier Beale, referring to the documentary Grey Gardens",
+   "last_words": "There's nothing more to say. It's all in the film.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edith_Ewing_Bouvier_Beale",
+   "died": "5 February 1977"
+  }
+ ]
+}

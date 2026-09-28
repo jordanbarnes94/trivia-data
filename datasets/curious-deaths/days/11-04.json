@@ -1,0 +1,117 @@
+{
+ "date": "11-04",
+ "died": [
+  {
+   "year": 1832,
+   "year_label": "1832",
+   "name": "Charles Abbott, 1st Baron Tenterden",
+   "kind": "individual",
+   "desc": "Lord Chief Justice of the King's Bench",
+   "cause": "thinking he was in court",
+   "last_words": "Gentlemen of the jury, you may retire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Abbott,_1st_Baron_Tenterden",
+   "born": "7 October 1762"
+  },
+  {
+   "year": 1847,
+   "year_label": "1847",
+   "name": "Felix Mendelssohn",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": "in response to being asked how he felt",
+   "last_words": "Weary, very weary.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+   "born": "3 February 1809"
+  },
+  {
+   "year": 1869,
+   "year_label": "1869",
+   "name": "George Peabody",
+   "kind": "individual",
+   "desc": "American financier and philanthropist",
+   "cause": null,
+   "last_words": "It is a great mystery, but I shall know all soon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Peabody",
+   "born": "18 February 1795"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Wilfred Owen",
+   "kind": "individual",
+   "desc": "English soldier and poet",
+   "cause": "to a soldier under his command before being killed in action during the crossing of the Sambre–Oise Canal in World War I",
+   "last_words": "Well done. You are doing that very well, my boy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wilfred_Owen",
+   "born": "18 March 1893"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Hawthorne C. Gray",
+   "kind": "individual",
+   "desc": "American aeronaut",
+   "cause": "final journal entry during balloon altitude record attempt",
+   "last_words": "Sky deep blue, sun very bright, sand [buoyancy compensator] all gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hawthorne_C._Gray",
+   "born": "16 February 1889"
+  },
+  {
+   "year": 1995,
+   "year_label": "1995",
+   "name": "Yitzhak Rabin",
+   "kind": "individual",
+   "desc": "Israeli Prime Minister",
+   "cause": "prior to his assassination",
+   "last_words": "This rally must send a message to the Israeli people, to the Jewish people around the world, to the many people in the Arab world, and indeed to the entire world, that the Israeli people want peace, support peace. For this, I thank you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
+   "born": "1 March 1922"
+  }
+ ],
+ "born": [
+  {
+   "year": 1740,
+   "year_label": "1740",
+   "name": "Augustus Toplady",
+   "kind": "individual",
+   "desc": "Anglican cleric and hymn writer, author of \"Rock of Ages\"",
+   "cause": null,
+   "last_words": "No mortal man can live after the glories which God has manifested to my soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Augustus_Toplady",
+   "died": "11 August 1778"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Will Rogers",
+   "kind": "individual",
+   "desc": "American stage and film actor, vaudeville performer, cowboy, humorist, newspaper columnist, and social commentator",
+   "cause": "typed on his typewriter for an unfinished newspaper column prior to the plane crash that killed him and Wiley Post",
+   "last_words": "Death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Will_Rogers",
+   "died": "15 August 1935"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "John Basilone",
+   "kind": "individual",
+   "desc": "United States Marine Corps Gunnery Sergeant and Medal of Honor recipient",
+   "cause": "prior to being killed at the Battle of Iwo Jima",
+   "last_words": "C'mon you guys! Let's get these guns off the beach.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Basilone",
+   "died": "19 February 1945"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Edward H. Ahrens",
+   "kind": "individual",
+   "desc": "United States Marine Raider",
+   "cause": "found mortally wounded during the Guadalcanal campaign surrounded by 13 dead Japanese soldiers",
+   "last_words": "The bastards tried to come over me last night – I guess they didn't know I was a Marine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_H._Ahrens",
+   "died": "8 August 1942"
+  }
+ ]
+}

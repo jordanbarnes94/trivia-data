@@ -1,0 +1,73 @@
+{
+ "date": "09-25",
+ "died": [
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "Andrew Bolon",
+   "kind": "individual",
+   "desc": "American Bureau of Indian Affairs agent",
+   "cause": "prior to his throat being cut by a member of the Yakama",
+   "last_words": "Do not kill me! I did not come to fight you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bolon",
+   "born": null
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Jesse William Lazear",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 34-year-old American physician was convinced that mosquitoes were carriers for yellow fever. He allowed himself to be bitten by multiple mosquitoes and died days later from the disease.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesse_William_Lazear",
+   "born": "2 May 1866"
+  },
+  {
+   "year": 1978,
+   "year_label": "1978",
+   "name": "Captain James McFeron",
+   "kind": "individual",
+   "desc": "pilot of Pacific Southwest Airlines Flight 182",
+   "cause": "as the Boeing 727 crashed after colliding with a Cessna 172 over San Diego",
+   "last_words": "This is it, baby! Brace yourself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_McFeron",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1683,
+   "year_label": "1683",
+   "name": "Jean-Philippe Rameau",
+   "kind": "individual",
+   "desc": "French composer",
+   "cause": "to his confessor",
+   "last_words": "What the devil do you mean to sing to me, priest? You are out of tune.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
+   "died": "12 September 1764"
+  },
+  {
+   "year": 1714,
+   "year_label": "1714",
+   "name": "William Romaine",
+   "kind": "individual",
+   "desc": "evangelical divine of the Church of England",
+   "cause": null,
+   "last_words": "Holy, holy, holy, blessed Lord Jesus! to Thee be endless praise!",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Romaine",
+   "died": "26 July 1795"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Felicia Hemans",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I feel as if I were sitting with Mary at the feet of my Redeemer, hearing the music of his voice, and learning of Him to be meek and lowly.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Felicia_Hemans",
+   "died": "16 May 1835"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "date": "11-17",
+ "died": [
+  {
+   "year": 375,
+   "year_label": "375",
+   "name": "Valentinian I",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Roman emperor suffered a stroke which was provoked by yelling at foreign envoys in anger.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Valentinian_I",
+   "born": "3 July 321"
+  },
+  {
+   "year": 1558,
+   "year_label": "1558",
+   "name": "Mary I",
+   "kind": "individual",
+   "desc": "of England",
+   "cause": "French forces had captured Calais from England earlier that year",
+   "last_words": "After I am dead, you will find Calais written upon my heart.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_I",
+   "born": "18 February 1516"
+  },
+  {
+   "year": 1592,
+   "year_label": "1592",
+   "name": "John III",
+   "kind": "individual",
+   "desc": "King of Sweden",
+   "cause": null,
+   "last_words": "I know that my Redeemer liveth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_III_of_Sweden",
+   "born": "20 December 1537"
+  },
+  {
+   "year": 1796,
+   "year_label": "1796",
+   "name": "Catherine the Great",
+   "kind": "individual",
+   "desc": "empress of Russia",
+   "cause": null,
+   "last_words": "Water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+   "born": "2 May 1729"
+  },
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Robert Owen",
+   "kind": "individual",
+   "desc": "Welsh textile manufacturer, philanthropist and social reformer",
+   "cause": null,
+   "last_words": "Relief has come.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Owen",
+   "born": "14 May 1771"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Gladys Cooper",
+   "kind": "individual",
+   "desc": "English actress",
+   "cause": "looking in a mirror",
+   "last_words": "If this is what viral pneumonia does to one, I really don't think I shall bother to have it again.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gladys_Cooper",
+   "born": "18 December 1888"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Parker Turner",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 39-year-old American cave diver died in the partial collapse of an underwater cave during a dive at Indian Springs, Florida. Of the several hundred cave diving deaths in Florida between 1960 and 2010, Turner's was the only one caused by a partial cave collapse.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 9,
+   "year_label": "9",
+   "name": "Vespasian",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "ironically alluding to the Roman practice of posthumously deifying former emperors, before he collapsed and died when attempting to stand up",
+   "last_words": "Woe, I think I'm turning into a god... An emperor should die on his feet.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vespasian",
+   "died": "24 June 79"
+  },
+  {
+   "year": 331,
+   "year_label": "331",
+   "name": "Julian",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "mortally wounded in battle. He had rejected Christianity in favor of paganism; according to some accounts, he was assassinated by a Christian",
+   "last_words": "And yet Thou hast conquered, O Galilean!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julian_(emperor)",
+   "died": "26 June 363"
+  },
+  {
+   "year": 1755,
+   "year_label": "1755",
+   "name": "Louis XVIII",
+   "kind": "individual",
+   "desc": "King of France",
+   "cause": null,
+   "last_words": "A king should die standing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVIII",
+   "died": "16 September 1824"
+  },
+  {
+   "year": 1772,
+   "year_label": "1772",
+   "name": "Jesse Appleton",
+   "kind": "individual",
+   "desc": "second president of Bowdoin College and father of First Lady of the United States Jane Pierce",
+   "cause": null,
+   "last_words": "Glory to God in the highest. The whole earth shall be filled with his glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Appleton",
+   "died": "12 November 1819"
+  },
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "João Carlos de Saldanha Oliveira e Daun, 1st Duke of Saldanha",
+   "kind": "individual",
+   "desc": "Portuguese statesman",
+   "cause": null,
+   "last_words": "Thanks be to God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/João_Carlos_de_Saldanha_Oliveira_e_Daun,_1st_Duke_of_Saldanha",
+   "died": "18 November 1876"
+  },
+  {
+   "year": 1925,
+   "year_label": "1925",
+   "name": "Rock Hudson",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "when asked if he wanted a cup of coffee",
+   "last_words": "No, I don't believe so.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rock_Hudson",
+   "died": "2 October 1985"
+  }
+ ]
+}

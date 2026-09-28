@@ -1,0 +1,139 @@
+{
+ "date": "01-24",
+ "died": [
+  {
+   "year": 41,
+   "year_label": "41",
+   "name": "Caligula",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "after being fatally stabbed",
+   "last_words": "I am still alive!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Caligula",
+   "born": "31 August 12"
+  },
+  {
+   "year": 1639,
+   "year_label": "1639",
+   "name": "Jörg Jenatsch",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Swiss political leader was assassinated by a person dressed in a bear costume wielding an axe. Legend states that the axe was the same one that Jenatsch had once used to kill a rival.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jörg_Jenatsch",
+   "born": null
+  },
+  {
+   "year": 1822,
+   "year_label": "1822",
+   "name": "Ali Pasha of Ioannina",
+   "kind": "individual",
+   "desc": "Ottoman Albanian ruler",
+   "cause": "ordering that his mistress be killed to save her from enemy soldiers of Mahmud II. Vasiliky was captured but pardoned and lived until 1834",
+   "last_words": "Go my friend, dispatch poor Vasiliky, that these dogs may not profane her beauteous form.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ali_Pasha_of_Ioannina",
+   "born": null
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Winston Churchill",
+   "kind": "individual",
+   "desc": "prime minister of the United Kingdom",
+   "cause": null,
+   "last_words": "I'm bored with it all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Winston_Churchill",
+   "born": "30 November 1874"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Ted Bundy",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "Give my love to my family and friends.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ted_Bundy",
+   "born": "24 November 1946"
+  }
+ ],
+ "born": [
+  {
+   "year": 76,
+   "year_label": "76",
+   "name": "Hadrian",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": null,
+   "last_words": "O my poor soul, whither art thou going?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hadrian",
+   "died": "10 July 138"
+  },
+  {
+   "year": 1712,
+   "year_label": "1712",
+   "name": "Frederick the Great",
+   "kind": "individual",
+   "desc": "king of Prussia",
+   "cause": null,
+   "last_words": "I am tired of ruling over slaves.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_the_Great",
+   "died": "17 August 1786"
+  },
+  {
+   "year": 1746,
+   "year_label": "1746",
+   "name": "Gustav III",
+   "kind": "individual",
+   "desc": "King of Sweden",
+   "cause": "13 days after being shot in the back at a masquerade",
+   "last_words": "I feel sleepy, and a moment of rest would do me good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustav_III",
+   "died": "29 March 1792"
+  },
+  {
+   "year": 1749,
+   "year_label": "1749",
+   "name": "Charles James Fox",
+   "kind": "individual",
+   "desc": "British statesman",
+   "cause": null,
+   "last_words": "I die happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_James_Fox",
+   "died": "13 September 1806"
+  },
+  {
+   "year": 1778,
+   "year_label": "1778",
+   "name": "Charles Ferdinand, Duke of Berry",
+   "kind": "individual",
+   "desc": null,
+   "cause": "assassinated at the Paris Opera by Louis Pierre Louvel, a Bonapartist",
+   "last_words": "Blessed Virgin, have mercy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Ferdinand,_Duke_of_Berry",
+   "died": "14 February 1820"
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Sharon Tate",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": "confirmed by confessed murderer Susan Atkins (one of the members of the Manson family led by Charles Manson) during the murders to be among the pregnant actress' last words",
+   "last_words": "Please - please don't kill me. I don't want to die. I want to live. I want to have my baby. I want to have my baby.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Tate",
+   "died": "9 August 1969"
+  },
+  {
+   "year": 1949,
+   "year_label": "1949",
+   "name": "John Belushi",
+   "kind": "individual",
+   "desc": "American actor and comedian",
+   "cause": "before dying of drug overdose",
+   "last_words": "Just don't leave me alone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Belushi",
+   "died": "5 March 1982"
+  }
+ ]
+}

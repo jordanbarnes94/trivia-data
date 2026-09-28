@@ -1,0 +1,139 @@
+{
+ "date": "07-03",
+ "died": [
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Isaac E. Avery",
+   "kind": "individual",
+   "desc": "Confederate officer of the American Civil War",
+   "cause": "written on scrap of paper after being mortally wounded at the Battle of Gettysburg",
+   "last_words": "Tell father that I died with my face to the enemy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_E._Avery",
+   "born": "20 December 1828"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "William Barksdale",
+   "kind": "individual",
+   "desc": "Confederate general of the American Civil War",
+   "cause": "to a Union surgeon after being mortally wounded at the Battle of Gettysburg",
+   "last_words": "Tell my wife I am shot, but we fought like hell.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Barksdale",
+   "born": "21 August 1821"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Joel Chandler Harris",
+   "kind": "individual",
+   "desc": "American author and folklorist",
+   "cause": "on being asked how he felt",
+   "last_words": "I am about the extent of a tenth of a gnat's eyebrow better.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joel_Chandler_Harris",
+   "born": "9 December 1848"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Jim Morrison",
+   "kind": "individual",
+   "desc": "American singer, musician, songwriter and poet",
+   "cause": "to his girlfriend Pamela Courson",
+   "last_words": "Are you there, Pam? Pam, are you there?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jim_Morrison",
+   "born": "8 December 1943"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Captain Mohsen Rezaian",
+   "kind": "individual",
+   "desc": "pilot of Iran Air Flight 655",
+   "cause": "just as it was shot on a missile fired by USS Vincennes over Strait of Hormuz being mistaken as a fighter jet",
+   "last_words": "Thank you, good day.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Iran_Air_Flight_655",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 321,
+   "year_label": "321",
+   "name": "Valentinian I",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Roman emperor suffered a stroke which was provoked by yelling at foreign envoys in anger.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Valentinian_I",
+   "died": "17 November 375"
+  },
+  {
+   "year": 1423,
+   "year_label": "1423",
+   "name": "Louis XI",
+   "kind": "individual",
+   "desc": "King of France",
+   "cause": null,
+   "last_words": "Our Lady of Embrun, my good mistress, help me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XI",
+   "died": "30 August 1483"
+  },
+  {
+   "year": 1860,
+   "year_label": "1860",
+   "name": "Charlotte Perkins Gilman",
+   "kind": "individual",
+   "desc": "American humanist and writer",
+   "cause": "in her suicide note",
+   "last_words": "When all usefulness is over, when one is assured of an unavoidable and imminent death, it is the simplest of human rights to choose a quick and easy death in place of a slow and horrible one.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+   "died": "17 August 1935"
+  },
+  {
+   "year": 1878,
+   "year_label": "1878",
+   "name": "George M. Cohan",
+   "kind": "individual",
+   "desc": "American entertainer",
+   "cause": "referring to his wife",
+   "last_words": "Look after Agnes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_M._Cohan",
+   "died": "5 November 1942"
+  },
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Franz Kafka",
+   "kind": "individual",
+   "desc": "German-speaking Bohemian novelist and short-story writer",
+   "cause": "asking his doctors for morphine overdose while dying of tuberculosis",
+   "last_words": "Kill me, or else you are a murderer!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franz_Kafka",
+   "died": "3 June 1924"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Walter Brown",
+   "kind": "individual",
+   "desc": "VC DCM, Australian World War I recipient of the Victoria Cross",
+   "cause": "before walking toward Japanese lines carrying grenades during the Battle of Singapore",
+   "last_words": "No surrender for me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_Brown_(soldier)",
+   "died": "15 February 1942"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "George Sanders",
+   "kind": "individual",
+   "desc": "British actor",
+   "cause": "one of his suicide notes",
+   "last_words": "Dear world, I am leaving because I am bored. I feel I have lived long enough. I am leaving you with your worries in this sweet cesspool - good luck.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Sanders",
+   "died": "25 April 1972"
+  }
+ ]
+}

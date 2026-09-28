@@ -1,0 +1,84 @@
+{
+ "date": "02-01",
+ "died": [
+  {
+   "year": 1966,
+   "year_label": "1966",
+   "name": "Buster Keaton",
+   "kind": "individual",
+   "desc": "American actor, comedian and filmmaker",
+   "cause": null,
+   "last_words": "Why can't I give up at last?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Buster_Keaton",
+   "born": "4 October 1895"
+  },
+  {
+   "year": 1976,
+   "year_label": "1976",
+   "name": "Werner Heisenberg",
+   "kind": "individual",
+   "desc": "German theoretical physicist",
+   "cause": null,
+   "last_words": "When I meet God, I am going to ask him two questions: Why relativity? And why turbulence? I really believe he will have an answer for the first.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Werner_Heisenberg",
+   "born": "5 December 1901"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Heather O'Rourke",
+   "kind": "individual",
+   "desc": "American child actress",
+   "cause": "to her mother, shortly before dying of septic shock",
+   "last_words": "I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heather_O'Rourke",
+   "born": "27 December 1975"
+  }
+ ],
+ "born": [
+  {
+   "year": 1506,
+   "year_label": "1506",
+   "name": "George Buchanan",
+   "kind": "individual",
+   "desc": "Scottish historian and humanist scholar",
+   "cause": "when his servant asked who would pay for his burial after Buchanan told him to distribute his property among the poor",
+   "last_words": "It matters little to me; for if I am but once dead they may bury me or not bury me as they please. They may leave my corpse to rot where I die if they wish.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Buchanan",
+   "died": "28 September 1582"
+  },
+  {
+   "year": 1552,
+   "year_label": "1552",
+   "name": "Edward Coke",
+   "kind": "individual",
+   "desc": "English barrister, judge and politician",
+   "cause": null,
+   "last_words": "Thy kingdom come, thy will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Coke",
+   "died": "3 September 1634"
+  },
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Guglielmo Oberdan",
+   "kind": "individual",
+   "desc": "Italian irredentist",
+   "cause": "executed at Trieste after a failed attempt to assassinate Austrian Emperor Franz Joseph",
+   "last_words": "Viva Italia!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Guglielmo_Oberdan",
+   "died": "20 December 1882"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Brandon Lee",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 28-year-old film actor, martial artist, and son of Bruce Lee was killed by a squib-loaded prop gun while filming The Crow.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Brandon_Lee",
+   "died": "31 March 1993"
+  }
+ ]
+}

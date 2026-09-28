@@ -1,0 +1,73 @@
+{
+ "date": "10-23",
+ "died": [
+  {
+   "year": -42,
+   "year_label": "42 BC",
+   "name": "Marcus Junius Brutus",
+   "kind": "individual",
+   "desc": "Roman senator and assassin of Julius Caesar",
+   "cause": "after defeat at the Battle of Philippi. He then bade his friends farewell before killing himself",
+   "last_words": "By all means must we fly; not with our feet, however, but with our hands.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+   "born": null
+  },
+  {
+   "year": 1703,
+   "year_label": "1703",
+   "name": "Hannah Twynnoy",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 33-year-old barmaid at the White Lion Inn was mauled to death by a tiger in Malmesbury, Wiltshire. She was the first person to be killed by a tiger in British history.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Twynnoy",
+   "born": null
+  },
+  {
+   "year": 1950,
+   "year_label": "1950",
+   "name": "Al Jolson",
+   "kind": "individual",
+   "desc": "American singer and actor",
+   "cause": null,
+   "last_words": "This is it! I'm going. I'm going.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Al_Jolson",
+   "born": "26 May 1886"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Helen Palmer",
+   "kind": "individual",
+   "desc": "American children's author, editor and philanthropist",
+   "cause": "in her suicide note, addressed to her husband, Theodor \"Dr. Seuss\" Geisel",
+   "last_words": "Dear Ted, what has happened to us? I don't know. I feel myself in a spiral, going down down down, into a black hole from which there is no escape, no brightness. And loud in my ears from every side I hear, 'failure, failure, failure...' I love you so much ... I am too old and enmeshed in everything you do and are, that I cannot conceive of life without you ... My going will leave quite a rumor but you can say I was overworked and overwrought. Your reputation with your friends and fans will not be harmed ... Sometimes think of the fun we had all thru the years ...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Helen_Palmer_(writer)",
+   "born": "11 September 1898"
+  }
+ ],
+ "born": [
+  {
+   "year": 1828,
+   "year_label": "1828",
+   "name": "Turner Ashby",
+   "kind": "individual",
+   "desc": "Confederate cavalry commander of the American Civil War",
+   "cause": "before being killed at Harrisonburg, Virginia",
+   "last_words": "Charge Men! For God's sake charge!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Turner_Ashby",
+   "died": "6 June 1862"
+  },
+  {
+   "year": 1844,
+   "year_label": "1844",
+   "name": "Sarah Bernhardt",
+   "kind": "individual",
+   "desc": "French actress",
+   "cause": null,
+   "last_words": "How slow my death agony is.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Bernhardt",
+   "died": "26 March 1923"
+  }
+ ]
+}

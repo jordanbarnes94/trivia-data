@@ -1,0 +1,139 @@
+{
+ "date": "01-03",
+ "died": [
+  {
+   "year": 1804,
+   "year_label": "1804",
+   "name": "Thomas Millwood",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 32-year-old plasterer was shot and killed by excise officer Francis Smith, who mistook him for the Hammersmith ghost due to his white uniform. Smith was later sentenced to death, but his sentence was commuted to one year's imprisonment with hard labor, and he received a full pardon later in the year.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Constance Spry",
+   "kind": "individual",
+   "desc": "OBE, British educator, florist and author",
+   "cause": "dying after slipping on stairs while arranging flowers",
+   "last_words": "Someone else can arrange this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Constance_Spry",
+   "born": "5 December 1886"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "John A. Byrnes, Richard Leroy McKinley, and Richard C. Legg",
+   "kind": "group",
+   "desc": null,
+   "cause": "During the testing of an experimental nuclear reactor design, in Arco, Idaho, two soldiers and a sailor were killed, but their deaths were not due to radiation poisoning. While trying to bring the reactor online, Byrnes, an army specialist, was supposed to pull a control rod partway out by hand, but he pulled the rod further than intended. The reactor instantly went prompt critical, which flash-boiled the water around the reactor. The force of the steam expanding lifted the entire reactor into the air about 2.77 m, in what has been described as a water hammer-like effect. Many components were thrown out of the top, one of which impaled Legg, a navy electrician's mate, lifted him from a catwalk, and penetrated the ceiling, leaving him dangling. While the reactor was airborne the radioactive steam escaped, spraying the room. The steam was so hot that Byrnes instantly died of severe thermal burns. McKinley suffered a head wound, from which he died later that day. The steam left the bodies of all three men radioactive, so they were buried in lead-lined coffins. The three remain the only human beings killed by a reactor explosion in the United States.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "Edwarda O'Bara",
+   "kind": "individual",
+   "desc": "American high school student",
+   "cause": "while talking to her mother before slipping into a diabetic coma and losing consciousness, she lived another 42 years without regaining consciousness dying 21 November 2012",
+   "last_words": "Mommy, promise you won't leave me, will you, Mommy?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edwarda_O'Bara",
+   "born": "27 March 1953"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "Conrad Hilton",
+   "kind": "individual",
+   "desc": "American hotelier",
+   "cause": "on being asked if he had any final words of wisdom",
+   "last_words": "Leave the shower curtain on the inside of the tub.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Hilton",
+   "born": "25 December 1887"
+  }
+ ],
+ "born": [
+  {
+   "year": -106,
+   "year_label": "106 BC",
+   "name": "Cicero",
+   "kind": "individual",
+   "desc": "Roman statesman",
+   "cause": "facing an assassin sent by an enemy",
+   "last_words": "I go no further: approach, veteran soldier, and, if you can at least do so much properly, sever this neck. [...] What would you have done had you come to me as your first victim?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cicero",
+   "died": "7 December 43 BC"
+  },
+  {
+   "year": 1698,
+   "year_label": "1698",
+   "name": "Pietro Metastasio",
+   "kind": "individual",
+   "desc": "Italian poet and librettist",
+   "cause": "after receiving Viaticum",
+   "last_words": "I offer to Thee, O Lord, Thy own Son, who already has given the pledge of love, inclosed in this thin emblem; turn on Him thine eyes; oh! behold whom I offer to Thee and then desist, O Lord! if thou canst desist from mercy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Metastasio",
+   "died": "12 April 1782"
+  },
+  {
+   "year": 1773,
+   "year_label": "1773",
+   "name": "William Gadsby",
+   "kind": "individual",
+   "desc": "English Baptist pastor",
+   "cause": "raising his hand before the word \"forever\"",
+   "last_words": "I shall soon be with Him. Victory, victory, victory forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Gadsby",
+   "died": "27 January 1844"
+  },
+  {
+   "year": 1839,
+   "year_label": "1839",
+   "name": "Harry C. Egbert",
+   "kind": "individual",
+   "desc": "United States Army officer",
+   "cause": "to General Loyd Wheaton after being mortally wounded during the Battle of Malinta in the Philippine–American War",
+   "last_words": "Good-by, General; I'm done. I'm too old.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harry_C._Egbert",
+   "died": "26 March 1899"
+  },
+  {
+   "year": 1840,
+   "year_label": "1840",
+   "name": "Father Damien",
+   "kind": "individual",
+   "desc": "SS.CC., Belgian Roman Catholic priest, minister to people with leprosy in the Hawaiian Kingdom",
+   "cause": null,
+   "last_words": "Well! God's will be done. He knows best. My work, with all its faults and failures, is in His hands, and before Easter I shall see my Saviour.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Father_Damien",
+   "died": "15 April 1889"
+  },
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Clement Attlee",
+   "kind": "individual",
+   "desc": "Prime Minister of the United Kingdom",
+   "cause": "to his aide, Charlie Griffiths",
+   "last_words": "Hullo, Griff. How are you getting on?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clement_Attlee",
+   "died": "8 October 1967"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "J. R. R. Tolkien",
+   "kind": "individual",
+   "desc": "English writer and academic",
+   "cause": "postscript of letter to his daughter Priscilla",
+   "last_words": "It is stuffy, sticky, and rainy here at present – but forecasts are more favourable.",
+   "wikipedia": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
+   "died": "2 September 1973"
+  }
+ ]
+}

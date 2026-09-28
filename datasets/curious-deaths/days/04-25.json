@@ -1,0 +1,150 @@
+{
+ "date": "04-25",
+ "died": [
+  {
+   "year": 1595,
+   "year_label": "1595",
+   "name": "Torquato Tasso",
+   "kind": "individual",
+   "desc": "Italian poet",
+   "cause": "quoting Jesus",
+   "last_words": "Lord, into Thy hands I commend my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Torquato_Tasso",
+   "born": "11 March 1544"
+  },
+  {
+   "year": 1800,
+   "year_label": "1800",
+   "name": "William Cowper",
+   "kind": "individual",
+   "desc": "English poet and hymnodist",
+   "cause": "to an attendant who offered him refreshments",
+   "last_words": "What can it signify?",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Cowper",
+   "born": "26 November 1731"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Crowfoot",
+   "kind": "individual",
+   "desc": "Siksika Nation chief",
+   "cause": null,
+   "last_words": "A little while and I will be gone from among you. Whither I cannot tell. From nowhere we came, into nowhere we go. What is life? It is a flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Crowfoot",
+   "born": null
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Mr. & Mrs. Emile Froment-Meurice",
+   "kind": "group",
+   "desc": null,
+   "cause": "The famed French goldsmith and his wife were killed when their house, in an aristocratic quarter of Paris, collapsed on them.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/François-Désiré_Froment-Meurice",
+   "born": null
+  },
+  {
+   "year": 1972,
+   "year_label": "1972",
+   "name": "George Sanders",
+   "kind": "individual",
+   "desc": "British actor",
+   "cause": "one of his suicide notes",
+   "last_words": "Dear world, I am leaving because I am bored. I feel I have lived long enough. I am leaving you with your worries in this sweet cesspool - good luck.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Sanders",
+   "born": "3 July 1906"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Valerie Olusanya",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 35-year-old electronic musician, better known as Kemistry, was a front-seat passenger in a car travelling on the M3 motorway in Hampshire, behind a van which dislodged a cat's eye in the road. The metal body flew through the windscreen hitting Olusanya in the face, killing her instantly.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Kemistry",
+   "born": "13 October 1963"
+  }
+ ],
+ "born": [
+  {
+   "year": 1214,
+   "year_label": "1214",
+   "name": "Louis IX of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "I will enter thy house. I will worship in Thy sanctuary.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_IX_of_France",
+   "died": "25 August 1270"
+  },
+  {
+   "year": 1284,
+   "year_label": "1284",
+   "name": "Edward II of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The English king was rumoured to have been murdered after being deposed and imprisoned by his wife Isabella and her lover Roger Mortimer, by having a horn pushed into his anus through which a red-hot iron was inserted, burning out his internal organs without marking his body. However, there is no real academic consensus on the manner of Edward II's death, and it has been plausibly argued that the story is propaganda.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_II",
+   "died": "21 September 1327"
+  },
+  {
+   "year": 1599,
+   "year_label": "1599",
+   "name": "Oliver Cromwell",
+   "kind": "individual",
+   "desc": "English general and statesman, Lord Protector",
+   "cause": null,
+   "last_words": "It is not my design to drink or to sleep, but my design is to make what haste I can to be gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Cromwell",
+   "died": "3 September 1658"
+  },
+  {
+   "year": 1750,
+   "year_label": "1750",
+   "name": "Joanna Southcott",
+   "kind": "individual",
+   "desc": "English self-described religious prophetess",
+   "cause": "final recorded words",
+   "last_words": "If I have been deceived, doubtless it was the work of a spirit; whether that spirit was good or bad, I do not know.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joanna_Southcott",
+   "died": "27 December 1814"
+  },
+  {
+   "year": 1843,
+   "year_label": "1843",
+   "name": "Princess Alice of the United Kingdom",
+   "kind": "individual",
+   "desc": "daughter of Queen Victoria",
+   "cause": null,
+   "last_words": "I will sleep quietly now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Princess_Alice_of_the_United_Kingdom",
+   "died": "14 December 1878"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Walter de la Mare",
+   "kind": "individual",
+   "desc": "English author",
+   "cause": "when asked if he wanted some fruit or flowers",
+   "last_words": "Too late for fruit, too soon for flowers.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_de_la_Mare",
+   "died": "22 June 1956"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Edward R. Murrow",
+   "kind": "individual",
+   "desc": "American broadcast journalist and war correspondent",
+   "cause": "patting the hand of his wife, Janet Huntington Brewster",
+   "last_words": "Well, Jan, we were lucky at that.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_R._Murrow",
+   "died": "27 April 1965"
+  }
+ ]
+}

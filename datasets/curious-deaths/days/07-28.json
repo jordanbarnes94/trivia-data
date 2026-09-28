@@ -1,0 +1,73 @@
+{
+ "date": "07-28",
+ "died": [
+  {
+   "year": 1540,
+   "year_label": "1540",
+   "name": "Thomas Cromwell",
+   "kind": "individual",
+   "desc": "1st Earl of Essex",
+   "cause": "prior to beheading for treason and heresy",
+   "last_words": "I die in the traditional faith.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cromwell",
+   "born": null
+  },
+  {
+   "year": 1750,
+   "year_label": "1750",
+   "name": "Johann Sebastian Bach",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": null,
+   "last_words": "Don't cry for me, for I go where music is born.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+   "born": "21 March 1685"
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "Maximilien Robespierre",
+   "kind": "individual",
+   "desc": "French lawyer and statesman",
+   "cause": "when blamed for the death of Georges Danton",
+   "last_words": "Cowards! Why did you not defend him?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
+   "born": "6 May 1758"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Moses Montefiore",
+   "kind": "individual",
+   "desc": "FRS, British financier, banker and philanthropist",
+   "cause": "dying at age 100",
+   "last_words": "Thank God! Thank Heaven!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moses_Montefiore",
+   "born": "24 November 1784"
+  }
+ ],
+ "born": [
+  {
+   "year": 1844,
+   "year_label": "1844",
+   "name": "Gerard Manley Hopkins",
+   "kind": "individual",
+   "desc": "SJ]], English poet and priest",
+   "cause": null,
+   "last_words": "I am so happy, so happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins",
+   "died": "8 June 1889"
+  },
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Jacqueline Kennedy Onassis",
+   "kind": "individual",
+   "desc": "former First Lady of the United States",
+   "cause": "to her daughter Caroline and son John",
+   "last_words": "Don't cry for me. I'm going to be with your father now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
+   "died": "19 May 1994"
+  }
+ ]
+}

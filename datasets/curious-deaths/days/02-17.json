@@ -1,0 +1,106 @@
+{
+ "date": "02-17",
+ "died": [
+  {
+   "year": 1600,
+   "year_label": "1600",
+   "name": "Giordano Bruno",
+   "kind": "individual",
+   "desc": "Italian Dominican friar",
+   "cause": "prior to burning at the stake for heresy",
+   "last_words": "I die a martyr and willingly - my soul shall mount up to heaven in this chariot of smoke.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giordano_Bruno",
+   "born": null
+  },
+  {
+   "year": 1673,
+   "year_label": "1673",
+   "name": "Molière",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The French playwright suffered a pulmonary hemorrhage caused by tuberculosis while playing the part of a hypochondriac in his own play Le malade imaginaire. He disguised his convulsion as part of his performance and finished the show, which ends with his character dead in a chair. After the show, he was carried in the chair to his house, where he died.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Molière",
+   "born": "15 January 1622"
+  },
+  {
+   "year": 1688,
+   "year_label": "1688",
+   "name": "James Renwick",
+   "kind": "individual",
+   "desc": "Scottish minister",
+   "cause": "before execution by hanging",
+   "last_words": "Lord, into Thy hands I commend my spirit; for Thou hast redeemed me, Lord God of truth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Renwick_(Covenanter)",
+   "born": "15 February 1662"
+  },
+  {
+   "year": 1856,
+   "year_label": "1856",
+   "name": "Heinrich Heine",
+   "kind": "individual",
+   "desc": "German writer and literary critic",
+   "cause": null,
+   "last_words": "Write! Write! Write! Paper! Pencil!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine",
+   "born": "13 December 1797"
+  },
+  {
+   "year": 1934,
+   "year_label": "1934",
+   "name": "Albert I of Belgium",
+   "kind": "individual",
+   "desc": null,
+   "cause": "shortly before falling to his death while rock climbing",
+   "last_words": "Follow the path for another fifty yards. I am going back to the foot of the rocks to make another climb. If I feel in good form I shall take the difficult way up; if I do not I shall take the easy one. I shall join you in an hour.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_I_of_Belgium",
+   "born": "8 April 1875"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "David Reay",
+   "kind": "individual",
+   "desc": "captain of Ryan International Airlines Flight 590",
+   "cause": "just before plane crashed on takeoff from Cleveland Hopkins International Airport",
+   "last_words": "Okay air speed's alive. Engines are stabilized, power's set for departure. Fuel's even kind'a balanced. One hundred knots. V1. Rotate. V2. Plus ten. Positive rate. Watch out. Watch out. Watch out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ryan_International_Airlines_Flight_590",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1836,
+   "year_label": "1836",
+   "name": "Gustavo Adolfo Bécquer",
+   "kind": "individual",
+   "desc": "Spanish Romanticist poet and writer",
+   "cause": "in a delirium from fever",
+   "last_words": "All mortal!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustavo_Adolfo_Bécquer",
+   "died": "22 December 1870"
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Ronald Knox",
+   "kind": "individual",
+   "desc": "English Roman Catholic priest and writer",
+   "cause": "when Lady Elton asked if he would like her to read from his translation of the New Testament",
+   "last_words": "No.... Awfully jolly of you to suggest it, though.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Knox",
+   "died": "24 August 1957"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Joseph Roland Ernst",
+   "kind": "individual",
+   "desc": "American convicted murderer, neo-Nazi, and the second-to-last person to be executed by the state of New Jersey",
+   "cause": null,
+   "last_words": "You're not going to see anything.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Roland_Ernst",
+   "died": "31 July 1962"
+  }
+ ]
+}

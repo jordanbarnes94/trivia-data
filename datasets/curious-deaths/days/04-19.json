@@ -1,0 +1,106 @@
+{
+ "date": "04-19",
+ "died": [
+  {
+   "year": 1012,
+   "year_label": "1012",
+   "name": "Ælfheah of Canterbury",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "refusing to pay ransom before being killed by his Danish captors",
+   "last_words": "You urge me in vain. I am not the man to provide Christian flesh for pagan teeth to devour, and it would be so acting if I delivered unto you that which the poor have laid by for their subsistence.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ælfheah_of_Canterbury",
+   "born": null
+  },
+  {
+   "year": 1560,
+   "year_label": "1560",
+   "name": "Philip Melanchthon",
+   "kind": "individual",
+   "desc": "German Lutheran reformer",
+   "cause": "when asked if he wanted anything",
+   "last_words": "Nothing else but heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Melanchthon",
+   "born": "16 February 1497"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Benjamin Rush",
+   "kind": "individual",
+   "desc": "American physician, signer of the United States Declaration of Independence",
+   "cause": "dying of typhus",
+   "last_words": "I will not abandon the post which Providence has assigned me; I think it my duty not only to sacrifice my pleasure and repose, but my life, should it be necessary, for the safety of my patients.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Rush",
+   "born": "4 January 1746"
+  },
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "name": "Lord Byron",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I must sleep now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
+   "born": "22 January 1788"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Benjamin Disraeli",
+   "kind": "individual",
+   "desc": "Prime Minister of the United Kingdom",
+   "cause": "declining a visit from Queen Victoria",
+   "last_words": "No, it is better not. She will only ask me to take a message to Albert.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
+   "born": "21 December 1804"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Charles Darwin",
+   "kind": "individual",
+   "desc": "English naturalist and evolutionary",
+   "cause": null,
+   "last_words": "I am not in the least afraid to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin",
+   "born": "12 February 1809"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Konrad Adenauer",
+   "kind": "individual",
+   "desc": "Chancellor of West Germany",
+   "cause": null,
+   "last_words": "No reason to weep.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Adenauer",
+   "born": "5 January 1876"
+  }
+ ],
+ "born": [
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Zygmunt Pawlaczyk",
+   "kind": "individual",
+   "desc": "the captain of LOT Polish Airlines Flight 5055",
+   "cause": "to air traffic control as the plane crashed into the ground",
+   "last_words": "Goodnight! Goodbye! Bye, we perish!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zygmunt_Pawlaczyk",
+   "died": "9 May 1987"
+  },
+  {
+   "year": 1947,
+   "year_label": "1947",
+   "name": "Karel Soucek",
+   "kind": "individual",
+   "desc": "Czech-Canadian stuntman",
+   "cause": "prior to fatal barrel drop from ceiling of Houston Astrodome",
+   "last_words": "I'm ready. It feels good. It's a go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karel_Soucek",
+   "died": "20 January 1985"
+  }
+ ]
+}

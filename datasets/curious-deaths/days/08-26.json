@@ -1,0 +1,84 @@
+{
+ "date": "08-26",
+ "died": [
+  {
+   "year": 1788,
+   "year_label": "1788",
+   "name": "Elizabeth Pierrepont, Duchess of Kingston-upon-Hull",
+   "kind": "individual",
+   "desc": "English noble and courtier",
+   "cause": null,
+   "last_words": "I will lie down on the couch; I can sleep, and after that I shall be entirely recovered.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Pierrepont,_Duchess_of_Kingston-upon-Hull",
+   "born": null
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Theodor Körner",
+   "kind": "individual",
+   "desc": "German poet and soldier",
+   "cause": "final lines of the \"Schwertlied\", written two hours before his death in battle",
+   "last_words": "Now let her sing and clash, / That glowing sparks may flash! / Morn wakes in nuptial pride. / Hurrah, thou iron bride! / Hurrah!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Theodor_Körner_(author)",
+   "born": "23 September 1791"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "William James",
+   "kind": "individual",
+   "desc": "American philosopher and psychologist",
+   "cause": null,
+   "last_words": "These then are my last words to you. Be not afraid of life. Believe that life is worth living and your belief will help create the fact.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_James",
+   "born": "11 January 1842"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "James Leo McDermott",
+   "kind": "individual",
+   "desc": null,
+   "cause": "After the 40-year-old deputy sheriff stepped out of his car at an oil station, the vehicle began to roll forward, and he attempted to hop onto the car's running board to stop it. It carried him forward and slammed him into a hook used to hold air and water hoses, which impaled him just below the heart.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Knud Enemark Jensen",
+   "kind": "individual",
+   "desc": "Danish cyclist",
+   "cause": "shortly before collapsing to the pavement while competing in the 1960 Summer Olympics",
+   "last_words": "I'm dizzy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Knud_Enemark_Jensen",
+   "born": "30 November 1936"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "Tex Avery",
+   "kind": "individual",
+   "desc": "American animator",
+   "cause": "to an animator while watching a baseball game, according to Chuck Jones",
+   "last_words": "I don't know where animators go when they die, but I guess there must be a lot of them. They could probably use a good director though.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tex_Avery",
+   "born": "26 February 1908"
+  }
+ ],
+ "born": [
+  {
+   "year": 1819,
+   "year_label": "1819",
+   "name": "Albert, Prince Consort",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his wife, Queen Victoria",
+   "last_words": "Good little wife.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert,_Prince_Consort",
+   "died": "14 December 1861"
+  }
+ ]
+}

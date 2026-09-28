@@ -1,0 +1,39 @@
+{
+ "date": "06-05",
+ "died": [
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Frederick John Cokayne Frith",
+   "kind": "individual",
+   "desc": "Scottish officer in the British Army",
+   "cause": "mortally wounded during the Zungeni Mountain skirmish",
+   "last_words": "Oh I'm shot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_John_Cokayne_Frith",
+   "born": null
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Stephen Crane",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": null,
+   "last_words": "When you come to the hedge that we must all go over, it isn't so bad. You feel sleepy, you don't care. Just a little dreamy anxiety, which world you're really in, that's all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Crane",
+   "born": "1 November 1871"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "O. Henry",
+   "kind": "individual",
+   "desc": "American writer",
+   "cause": "to a hospital nurse",
+   "last_words": "Pull up the shades; I don't want to go home in the dark.",
+   "wikipedia": "https://en.wikipedia.org/wiki/O._Henry",
+   "born": "11 September 1862"
+  }
+ ],
+ "born": []
+}

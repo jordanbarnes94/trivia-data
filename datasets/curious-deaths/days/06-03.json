@@ -1,0 +1,161 @@
+{
+ "date": "06-03",
+ "died": [
+  {
+   "year": 1615,
+   "year_label": "1615",
+   "name": "Sanada Yukimura",
+   "kind": "individual",
+   "desc": "Japanese samurai warrior",
+   "cause": "to his foes prior to his death at the Battle of Tennōji",
+   "last_words": "I am Sanada Nobushige, no doubt an adversary quite worthy of you, but I am exhausted and can fight no longer. Go on, take my head as your trophy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sanada_Yukimura",
+   "born": null
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Stephen A. Douglas",
+   "kind": "individual",
+   "desc": "American politician, Senator from Illinois and 1860 Democratic presidential nominee",
+   "cause": null,
+   "last_words": "Death, death, death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_A._Douglas",
+   "born": "23 April 1813"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Georges Bizet",
+   "kind": "individual",
+   "desc": "French composer",
+   "cause": null,
+   "last_words": "I am in a cold sweat. Is it the sweat of death? How are you going to tell my father?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georges_Bizet",
+   "born": "25 October 1838"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Frances Ridley Havergal",
+   "kind": "individual",
+   "desc": "English religious poet and hymnwriter",
+   "cause": "possibly trying to say, \"He died for me.\"",
+   "last_words": "He.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frances_Ridley_Havergal",
+   "born": "14 December 1836"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Johann Strauss II",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": "in response to being asked to get some sleep",
+   "last_words": "I will, whatever happens.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+   "born": "25 October 1825"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Ada Gregory",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 52-year-old widow in Bentleigh, Victoria, who had been suffering from \"fits of melancholia\", began convulsing after rubbing powder on her teeth and asking her two children to take some medicine, which they did not do. She was believed to have taken strychnine.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "Franz Kafka",
+   "kind": "individual",
+   "desc": "German-speaking Bohemian novelist and short-story writer",
+   "cause": "asking his doctors for morphine overdose while dying of tuberculosis",
+   "last_words": "Kill me, or else you are a murderer!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franz_Kafka",
+   "born": "3 July 1883"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Frederick George Hutchins",
+   "kind": "individual",
+   "desc": "QPM, British police officer",
+   "cause": "to Police Constable Leslie Charles England after being shot along with PC Charles Edward Cox, who survived to PC Leslie Charles England after being shot by the same assailant as Sgt Hutchins and PC Cox",
+   "last_words": "Get him, Les. Get him - he's got us!",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_British_police_officers_killed_in_the_line_of_duty",
+   "born": null
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Pope John XXIII",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic prelate and Pope",
+   "cause": "speaking to his secretary",
+   "last_words": "Why crying? This is a moment of joy, a moment of glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_John_XXIII",
+   "born": "25 November 1881"
+  }
+ ],
+ "born": [
+  {
+   "year": 1770,
+   "year_label": "1770",
+   "name": "Manuel Belgrano",
+   "kind": "individual",
+   "desc": "Argentine economist, lawyer, politician, journalist, and military leader",
+   "cause": null,
+   "last_words": "Oh, my homeland!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Belgrano",
+   "died": "20 June 1820"
+  },
+  {
+   "year": 1808,
+   "year_label": "1808",
+   "name": "Jefferson Davis",
+   "kind": "individual",
+   "desc": "President of the Confederate States of America",
+   "cause": null,
+   "last_words": "Pray, excuse me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jefferson_Davis",
+   "died": "6 December 1889"
+  },
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "George V",
+   "kind": "individual",
+   "desc": "king of the United Kingdom",
+   "cause": "to a nurse giving him a sedative. The King was euthanized on the orders of his doctor, Bertrand Dawson, 1st Viscount Dawson of Penn",
+   "last_words": "God damn you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_V",
+   "died": "20 January 1936"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "Josephine Baker",
+   "kind": "individual",
+   "desc": "French-American dancer and singer",
+   "cause": null,
+   "last_words": "Oh, you young people act like old men. You are no fun.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Josephine_Baker",
+   "died": "12 April 1975"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Allen Ginsberg",
+   "kind": "individual",
+   "desc": "American poet and writer",
+   "cause": null,
+   "last_words": "Toodle-oo!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Allen_Ginsberg",
+   "died": "5 April 1997"
+  }
+ ]
+}

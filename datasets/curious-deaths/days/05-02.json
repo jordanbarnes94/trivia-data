@@ -1,0 +1,106 @@
+{
+ "date": "05-02",
+ "died": [
+  {
+   "year": 1519,
+   "year_label": "1519",
+   "name": "Leonardo da Vinci",
+   "kind": "individual",
+   "desc": "Italian artist and scientist",
+   "cause": "to King Francis I of France",
+   "last_words": "I have offended God and mankind because my work did not reach the quality it should have.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+   "born": "15 April 1452"
+  },
+  {
+   "year": 1844,
+   "year_label": "1844",
+   "name": "William Beckford",
+   "kind": "individual",
+   "desc": "English novelist and art collector",
+   "cause": "in a message to his daughter",
+   "last_words": "Come quick! Quick!",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Beckford_(novelist)",
+   "born": "1 October 1760"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "José Abad Santos",
+   "kind": "individual",
+   "desc": "fifth Chief Justice of the Philippines, Acting President of the Commonwealth of the Philippines",
+   "cause": "bidding farewell to his son Pepito prior to execution by occupying Japanese forces. Abad Santos subsequently refused to be blindfolded for his execution and he declined the final cigarette which was offered to him",
+   "last_words": "Take good care of your mother, your brother, and sisters. Tell them to live up to our name. God bless you, my son.",
+   "wikipedia": "https://en.wikipedia.org/wiki/José_Abad_Santos",
+   "born": "19 February 1886"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Nancy Astor, Viscountess Astor",
+   "kind": "individual",
+   "desc": "American-born British politician",
+   "cause": "awakening on her deathbed to see her entire family around her. (Astor died 17 days before her birthday.)",
+   "last_words": "Am I dying or is this my birthday?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Astor,_Viscountess_Astor",
+   "born": "19 May 1879"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Christina Marie Riggs",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "prior to execution by lethal injection for killing her two young children",
+   "last_words": "There is no way words can express how sorry I am for taking the lives of my babies. Now I can be with my babies, as I always intended. I love you my babies.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christina_Marie_Riggs",
+   "born": "2 September 1971"
+  }
+ ],
+ "born": [
+  {
+   "year": 1729,
+   "year_label": "1729",
+   "name": "Catherine the Great",
+   "kind": "individual",
+   "desc": "empress of Russia",
+   "cause": null,
+   "last_words": "Water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Catherine_the_Great",
+   "died": "17 November 1796"
+  },
+  {
+   "year": 1750,
+   "year_label": "1750",
+   "name": "John André",
+   "kind": "individual",
+   "desc": "British Army officer",
+   "cause": "prior to being hanged as a spy by the Continental Army",
+   "last_words": "I pray you to bear me witness that I meet my fate like a brave man. It will be but a momentary pang.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_André",
+   "died": "2 October 1780"
+  },
+  {
+   "year": 1866,
+   "year_label": "1866",
+   "name": "Jesse William Lazear",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 34-year-old American physician was convinced that mosquitoes were carriers for yellow fever. He allowed himself to be bitten by multiple mosquitoes and died days later from the disease.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesse_William_Lazear",
+   "died": "25 September 1900"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "Manfred von Richthofen",
+   "kind": "individual",
+   "desc": "or the Red Baron",
+   "cause": "mortally wounded at the Fourth Battle of Ypres",
+   "last_words": "Kaputt.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen",
+   "died": "21 April 1918"
+  }
+ ]
+}

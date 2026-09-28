@@ -1,0 +1,117 @@
+{
+ "date": "04-01",
+ "died": [
+  {
+   "year": 1143,
+   "year_label": "1143",
+   "name": "John II Komnenos",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Byzantine Emperor cut himself with a poisoned arrow during a boar hunt, subsequently dying from sepsis.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+   "born": "13 September 1087"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "Frederick Denison Maurice",
+   "kind": "individual",
+   "desc": "English Anglican theologian and author",
+   "cause": null,
+   "last_words": "The knowledge of the love of God-the blessing of God Almighty, the Father, the Son and the Holy Ghost be amongst you-amongst us-and remain with us forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Denison_Maurice",
+   "born": "29 August 1805"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Charles I of Austria",
+   "kind": "individual",
+   "desc": "the last Emperor of Austria",
+   "cause": "while dying of pneumonia",
+   "last_words": "Thy Holy Will be done. Jesus, Jesus, come! Yes, yes. My Jesus as Thou willst it, Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_Austria",
+   "born": "17 August 1887"
+  },
+  {
+   "year": 1984,
+   "year_label": "1984",
+   "name": "Marvin Gaye",
+   "kind": "individual",
+   "desc": "American singer",
+   "cause": "moments before being shot to death by his father",
+   "last_words": "Mother, I'm going to get my things and get out of this house. Father hates me and I'm never coming back.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Gaye",
+   "born": "2 April 1939"
+  }
+ ],
+ "born": [
+  {
+   "year": 1613,
+   "year_label": "1613",
+   "name": "Charles de Saint-Évremond",
+   "kind": "individual",
+   "desc": "French soldier, author and hedonist",
+   "cause": "when a clergyman asked if he would be reconciled",
+   "last_words": "With all my heart: I would fain be reconciled to my stomach, which no longer performs its usual functions.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Saint-Évremond",
+   "died": "29 September 1703"
+  },
+  {
+   "year": 1647,
+   "year_label": "1647",
+   "name": "John Wilmot, 2nd Earl of Rochester",
+   "kind": "individual",
+   "desc": "English poet and courtier",
+   "cause": null,
+   "last_words": "The only objection against the Bible is a bad life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wilmot,_2nd_Earl_of_Rochester",
+   "died": "26 July 1680"
+  },
+  {
+   "year": 1815,
+   "year_label": "1815",
+   "name": "Otto von Bismarck",
+   "kind": "individual",
+   "desc": "German statesman",
+   "cause": "writing on a piece of paper with unknown meaning",
+   "last_words": "House.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
+   "died": "30 July 1898"
+  },
+  {
+   "year": 1866,
+   "year_label": "1866",
+   "name": "Ferruccio Busoni",
+   "kind": "individual",
+   "desc": "Italian composer",
+   "cause": "to his wife",
+   "last_words": "Dear Gerda, I thank you for every day we have been together.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ferruccio_Busoni",
+   "died": "27 July 1924"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Billy Whelan",
+   "kind": "individual",
+   "desc": "Irish footballer",
+   "cause": "during British European Airways Flight 609's third takeoff attempt prior to the Munich air disaster",
+   "last_words": "If this is death, then I am ready for it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Billy_Whelan",
+   "died": "6 February 1958"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Park Jong-chul",
+   "kind": "individual",
+   "desc": "South Korean student activist",
+   "cause": "to the police of the Anti-communist Detached Office, who tortured him by water cure, to force him to confess the whereabouts of one of his fellow activists",
+   "last_words": "″I have nothing to say.\"",
+   "wikipedia": "https://en.wikipedia.org/wiki/Park_Jong-chul",
+   "died": "14 January 1987"
+  }
+ ]
+}

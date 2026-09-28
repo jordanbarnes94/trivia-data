@@ -1,0 +1,84 @@
+{
+ "date": "04-29",
+ "died": [
+  {
+   "year": 1630,
+   "year_label": "1630",
+   "name": "Agrippa d'Aubigné",
+   "kind": "individual",
+   "desc": "French poet, soldier, propagandist and chronicler",
+   "cause": null,
+   "last_words": "It comes at last, the happy day: Let thanks be given to God in heaven, while we learn pleasure in His way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Agrippa_d'Aubigné",
+   "born": "8 February 1552"
+  },
+  {
+   "year": 1707,
+   "year_label": "1707",
+   "name": "George Farquhar",
+   "kind": "individual",
+   "desc": "Irish dramatist",
+   "cause": "to his friend Robert Wilks",
+   "last_words": "Dear Bob, I have nothing to leave thee to perpetuate my memory but two helpless girls. Look upon them sometimes, and think of him who was to the last moment of his life thine, George Farquhar.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Farquhar",
+   "born": null
+  },
+  {
+   "year": 1771,
+   "year_label": "1771",
+   "name": "Louis Petit de Bachaumont",
+   "kind": "individual",
+   "desc": "French writer",
+   "cause": null,
+   "last_words": "The priest could never draw another thing from dying but 'Dear Sir, you are so kind.'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Petit_de_Bachaumont",
+   "born": "2 June 1690"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "Ludwig Wittgenstein",
+   "kind": "individual",
+   "desc": "Austrian philosopher",
+   "cause": "upon being told that his close friends would come to visit him the next day",
+   "last_words": "Tell them I've had a wonderful life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+   "born": "26 April 1889"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "Alfred Hitchcock",
+   "kind": "individual",
+   "desc": "KBE, English filmmaker",
+   "cause": null,
+   "last_words": "One never knows the ending. One has to die to know exactly what happens after death, although Catholics have their hopes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Hitchcock",
+   "born": "13 August 1899"
+  }
+ ],
+ "born": [
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Nicholas Comper",
+   "kind": "individual",
+   "desc": "English aviator and aircraft designer",
+   "cause": "dying in hospital after being knocked down while lighting a firework in Hythe, Kent, by a passer-by to whom he claimed he was an IRA man planning to blow up the town hall The 42-year-old aviator and aircraft designer was attempting to light a firework in Hythe, Kent, when a passerby enquired what he was doing; he replied sarcastically that he was an IRA man planning to blow up the town hall. The passerby responded by knocking down Comper, who hit his head on the curb.",
+   "last_words": "I didn't know prisons had such comfortable beds.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Comper",
+   "died": "17 June 1939"
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "Emperor Hirohito of Japan,",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a last message to Shoichi Fujimori, commissioner of Imperial Household Agency",
+   "last_words": "I believe that the image of walking through, these turbulent times live on people's hearts for a long time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hirohito",
+   "died": "7 January 1989"
+  }
+ ]
+}

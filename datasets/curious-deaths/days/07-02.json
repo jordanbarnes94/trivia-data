@@ -1,0 +1,216 @@
+{
+ "date": "07-02",
+ "died": [
+  {
+   "year": 1566,
+   "year_label": "1566",
+   "name": "Nostradamus",
+   "kind": "individual",
+   "desc": "French seer",
+   "cause": "correctly predicting his death",
+   "last_words": "Tomorrow, at sunrise, I shall no longer be here.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nostradamus",
+   "born": "14 December 1503"
+  },
+  {
+   "year": 1591,
+   "year_label": "1591",
+   "name": "George Beesley",
+   "kind": "individual",
+   "desc": "English Roman Catholic priest and martyr",
+   "cause": "prior to execution",
+   "last_words": "Absit mihi gloriari nisi in Cruce Domini Nostri Jesu Christi [Far from me to glory except in the cross of Jesus Christ]. Good people, I beseech God to send all felicity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Beesley",
+   "born": null
+  },
+  {
+   "year": 1699,
+   "year_label": "1699",
+   "name": "Hortense Mancini",
+   "kind": "individual",
+   "desc": "Duchesse de Mazarin, niece of Cardinal Mazarin and mistress of Charles II of England",
+   "cause": "dying in financial ruin",
+   "last_words": "Debt!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hortense_Mancini",
+   "born": "6 June 1646"
+  },
+  {
+   "year": 1778,
+   "year_label": "1778",
+   "name": "Jean-Jacques Rousseau",
+   "kind": "individual",
+   "desc": "Genevan philosopher, writer and composer",
+   "cause": null,
+   "last_words": "Throw up the window that I may see once more the magnificent scene of nature.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
+   "born": "28 June 1712"
+  },
+  {
+   "year": 1893,
+   "year_label": "1893",
+   "name": "Georgiana Drew",
+   "kind": "individual",
+   "desc": "American stage actress, mother of Lionel, Ethel and John Barrymore",
+   "cause": null,
+   "last_words": "Oh, my poor kids. What will ever become of them?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgiana_Drew",
+   "born": "11 July 1856"
+  },
+  {
+   "year": 1903,
+   "year_label": "1903",
+   "name": "Ed Delahanty",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 35-year-old American baseball player for the Phillies died after being removed from a train due to drunken horseplay, falling off International Bridge above Niagara Falls. Sam Kingston, a local night watchman, was the last to see him alive, reportedly scuffling with him. Kingston's account of the incident was spotty and inconsistent; it is unclear whether Delahanty was intentionally pushed, accidentally fell, or decided to jump.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Ed_Delahanty",
+   "born": "30 October 1867"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "Peter Kürten",
+   "kind": "individual",
+   "desc": "German serial killer known as \"The Vampire of Düsseldorf\"",
+   "cause": "prior to execution by guillotine",
+   "last_words": "After my head is chopped off, will I still be able to hear, at least for a moment, the sound of my own blood gushing from the stump of my neck? That would be the pleasure to end all pleasures.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Peter_Kürten",
+   "born": "26 May 1883"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Amelia Earhart",
+   "kind": "individual",
+   "desc": "American aviation pioneer",
+   "cause": "reporting to her headquarters in her last known radio transmission shortly before her disappearance",
+   "last_words": "We are running on line north and south.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+   "born": "24 July 1897"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "Mary Reeser",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 67-year-old woman was found by police in her St. Petersburg, Florida, home almost totally cremated where she sat, while her apartment was relatively damage-free. Some speculate that she spontaneously combusted.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Reeser",
+   "born": "8 March 1884"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Ernest Hemingway",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": "before committing suicide with a shotgun",
+   "last_words": "Goodnight my kitten.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+   "born": "21 July 1899"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Fireball Roberts",
+   "kind": "individual",
+   "desc": "American stock car racer",
+   "cause": "inside his burning car after 24 May 1964 wreck during the World 600 at Charlotte Motor Speedway. Roberts survived for six weeks before dying of his injuries",
+   "last_words": "My God, Ned, help me! I'm on fire!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fireball_Roberts",
+   "born": "20 January 1929"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Vladimir Nabokov",
+   "kind": "individual",
+   "desc": "Russian-American author and entomologist",
+   "cause": "he had a keen interest in butterflies",
+   "last_words": "A certain butterfly is already on the wing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Nabokov",
+   "born": "10 April 1899"
+  },
+  {
+   "year": 1997,
+   "year_label": "1997",
+   "name": "James Stewart",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "referring to his late wife",
+   "last_words": "I'm going to be with Gloria now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Stewart",
+   "born": "20 May 1908"
+  }
+ ],
+ "born": [
+  {
+   "year": 1489,
+   "year_label": "1489",
+   "name": "Thomas Cranmer",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "alluding to Acts 7:56 KJV prior to execution by burning",
+   "last_words": "Lord Jesus, receive my spirit... I see the heavens open and Jesus standing at the right hand of God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cranmer",
+   "died": "21 March 1556"
+  },
+  {
+   "year": 1714,
+   "year_label": "1714",
+   "name": "Christoph Willibald Gluck",
+   "kind": "individual",
+   "desc": "composer of Italian and French opera",
+   "cause": "when asked whether a tenor or a bass should sing the role of Christ in The Last Judgement",
+   "last_words": "If you wait a little, I shall be able to tell you from personal experience.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
+   "died": "15 November 1787"
+  },
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "Clarence W. Barron",
+   "kind": "individual",
+   "desc": "American newsman and de facto manager of The Wall Street Journal",
+   "cause": null,
+   "last_words": "What is the news?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clarence_W._Barron",
+   "died": "2 October 1928"
+  },
+  {
+   "year": 1860,
+   "year_label": "1860",
+   "name": "James Averell",
+   "kind": "individual",
+   "desc": "American businessman",
+   "cause": "to the cattlemen who lynched him along with his wife, Ellen Watson",
+   "last_words": "Stop your fooling, fellows.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Averell",
+   "died": "20 July 1889"
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "Geoffrey Saxton White",
+   "kind": "individual",
+   "desc": "VC, Royal Navy officer",
+   "cause": "before being killed by a shell on the deck of HMS E14 in the Dardanelles during World War I",
+   "last_words": "We are in the hands of God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Saxton_White",
+   "died": "28 January 1918"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Iven Carl Kincheloe Jr.",
+   "kind": "individual",
+   "desc": "American test pilot",
+   "cause": "final radio transmission prior to failed ejection from Lockheed F-104A",
+   "last_words": "Edwards, Mayday seven seven two-bailing out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Iven_Carl_Kincheloe_Jr.",
+   "died": "26 July 1958"
+  }
+ ]
+}

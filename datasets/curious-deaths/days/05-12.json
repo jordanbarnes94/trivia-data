@@ -1,0 +1,95 @@
+{
+ "date": "05-12",
+ "died": [
+  {
+   "year": 1878,
+   "year_label": "1878",
+   "name": "Catharine Beecher",
+   "kind": "individual",
+   "desc": "American educator",
+   "cause": "last written words",
+   "last_words": "I hope to be in Phil. in about ten days. I am stronger than for yrs. but take no new responsibilities.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Catharine_Beecher",
+   "born": "6 September 1800"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "Eugène Ysaÿe",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Belgian violinist, composer and conductor, after his Fourth Sonata was played for him",
+   "last_words": "Splendid. The finale just a little too fast.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eugène_Ysaÿe",
+   "born": "16 July 1858"
+  },
+  {
+   "year": 1993,
+   "year_label": "1993",
+   "name": "Leonel Torres Herrera",
+   "kind": "individual",
+   "desc": "American convicted police murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I am innocent, innocent, innocent. Make no mistake about this. I owe society nothing. Continue the struggle for human rights, helping those who are innocent, especially Mr. Graham. I am an innocent man, and something very wrong is taking place tonight. May God bless you all. I am ready.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonel_Torres_Herrera",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1760,
+   "year_label": "1760",
+   "name": "John Bannister",
+   "kind": "individual",
+   "desc": "English actor and theater manager",
+   "cause": null,
+   "last_words": "My hope is in Christ.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Bannister_(actor)",
+   "died": "7 November 1836"
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "George Cathcart",
+   "kind": "individual",
+   "desc": "British general and diplomat",
+   "cause": "prior to his death at the Battle of Inkerman",
+   "last_words": "I fear we are in a mess.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Cathcart",
+   "died": "5 November 1854"
+  },
+  {
+   "year": 1812,
+   "year_label": "1812",
+   "name": "Edward Lear",
+   "kind": "individual",
+   "desc": "English nonsense poet",
+   "cause": null,
+   "last_words": "I did not answer the letters of my friends because I could not write, as no sooner did I take a pen in my hand than I felt as if I was dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Lear",
+   "died": "29 January 1888"
+  },
+  {
+   "year": 1828,
+   "year_label": "1828",
+   "name": "Dante Gabriel Rossetti",
+   "kind": "individual",
+   "desc": "English poet, translator and artist",
+   "cause": null,
+   "last_words": "Then you really think I am dying? At last you think so. But I was right from the first.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti",
+   "died": "9 April 1882"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Frederick Holder",
+   "kind": "individual",
+   "desc": "Speaker of the Australian House of Representatives",
+   "cause": "prior to collapsing in the House after a tumultuous all-night session",
+   "last_words": "Dreadful! Dreadful!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Holder",
+   "died": "23 July 1909"
+  }
+ ]
+}

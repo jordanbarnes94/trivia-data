@@ -1,0 +1,183 @@
+{
+ "date": "04-15",
+ "died": [
+  {
+   "year": 1764,
+   "year_label": "1764",
+   "name": "Madame de Pompadour",
+   "kind": "individual",
+   "desc": "chief mistress of Louis XV of France",
+   "cause": "applying rouge to her cheeks before her death",
+   "last_words": "Wait a second.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Madame_de_Pompadour",
+   "born": "29 December 1721"
+  },
+  {
+   "year": 1781,
+   "year_label": "1781",
+   "name": "Túpac Katari",
+   "kind": "individual",
+   "desc": "Aymara revolutionary",
+   "cause": "prior to his execution by quartering",
+   "last_words": "I die but will return tomorrow as thousand thousands",
+   "wikipedia": "https://en.wikipedia.org/wiki/Túpac_Katari",
+   "born": null
+  },
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "Abraham Lincoln",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "assuring his wife Mary that their friend Clara would not mind them holding hands, shortly before he was fatally shot from behind",
+   "last_words": "She won't think anything about it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+   "born": "12 February 1809"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Father Damien",
+   "kind": "individual",
+   "desc": "SS.CC., Belgian Roman Catholic priest, minister to people with leprosy in the Hawaiian Kingdom",
+   "cause": null,
+   "last_words": "Well! God's will be done. He knows best. My work, with all its faults and failures, is in His hands, and before Easter I shall see my Saviour.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Father_Damien",
+   "born": "3 January 1840"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Jane Delano",
+   "kind": "individual",
+   "desc": "American nurse, founder of the American Red Cross Nursing Service",
+   "cause": "dying while on a Red Cross mission in France",
+   "last_words": "I must get back to my work.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jane_Delano",
+   "born": "12 March 1862"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "Jean-Paul Sartre",
+   "kind": "individual",
+   "desc": "French philosopher and writer",
+   "cause": "to his partner, Simone de Beauvoir",
+   "last_words": "I love you very much, my dear Beaver.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
+   "born": "21 June 1905"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Kenneth Williams",
+   "kind": "individual",
+   "desc": "British actor and comedian",
+   "cause": "the last words he wrote in his diary",
+   "last_words": "Oh, what's the bloody point?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Williams",
+   "born": "22 February 1926"
+  }
+ ],
+ "born": [
+  {
+   "year": 1452,
+   "year_label": "1452",
+   "name": "Leonardo da Vinci",
+   "kind": "individual",
+   "desc": "Italian artist and scientist",
+   "cause": "to King Francis I of France",
+   "last_words": "I have offended God and mankind because my work did not reach the quality it should have.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+   "died": "2 May 1519"
+  },
+  {
+   "year": 1707,
+   "year_label": "1707",
+   "name": "Leonhard Euler",
+   "kind": "individual",
+   "desc": "Swiss mathematician and scientist",
+   "cause": null,
+   "last_words": "I die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
+   "died": "18 September 1783"
+  },
+  {
+   "year": 1710,
+   "year_label": "1710",
+   "name": "William Cullen",
+   "kind": "individual",
+   "desc": "Scottish physician, chemist and agriculturalist",
+   "cause": null,
+   "last_words": "I wish I had the power of writing, for then I would describe to you how pleasant a thing it is to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Cullen",
+   "died": "5 February 1790"
+  },
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "John Lothrop Motley",
+   "kind": "individual",
+   "desc": "American author and diplomat",
+   "cause": null,
+   "last_words": "I am ill - very ill, I shall not recover.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Lothrop_Motley",
+   "died": "29 May 1877"
+  },
+  {
+   "year": 1836,
+   "year_label": "1836",
+   "name": "George Engel",
+   "kind": "individual",
+   "desc": "German-born American labor union activist",
+   "cause": "prior to hanging after Haymarket affair",
+   "last_words": "Hurrah for anarchy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Engel",
+   "died": "11 November 1887"
+  },
+  {
+   "year": 1841,
+   "year_label": "1841",
+   "name": "Jim Creighton",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 21-year-old American baseball player from Manhattan died from abdominal pain, possibly caused by pitching or swinging at the ball, which likely gave him a ruptured bladder or a ruptured hernia.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Jim_Creighton",
+   "died": "18 October 1862"
+  },
+  {
+   "year": 1843,
+   "year_label": "1843",
+   "name": "Henry James",
+   "kind": "individual",
+   "desc": "American-British author",
+   "cause": null,
+   "last_words": "So here it is at last, the distinguished thing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_James",
+   "died": "28 February 1916"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Bessie Smith",
+   "kind": "individual",
+   "desc": "American blues singer",
+   "cause": null,
+   "last_words": "I'm going, but I'm going in the name of the Lord.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bessie_Smith",
+   "died": "26 September 1937"
+  },
+  {
+   "year": 1958,
+   "year_label": "1958",
+   "name": "Daniel V. Jones",
+   "kind": "individual",
+   "desc": "American citizen",
+   "cause": "on his last home video before committing suicide on live television",
+   "last_words": "I'm a dead man, see ya.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Suicide_of_Daniel_Jones",
+   "died": "30 April 1998"
+  }
+ ]
+}

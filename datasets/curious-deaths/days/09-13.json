@@ -1,0 +1,150 @@
+{
+ "date": "09-13",
+ "died": [
+  {
+   "year": 81,
+   "year_label": "81",
+   "name": "Titus",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": null,
+   "last_words": "I have made but one mistake.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Titus",
+   "born": "30 December 39"
+  },
+  {
+   "year": 1759,
+   "year_label": "1759",
+   "name": "James Wolfe",
+   "kind": "individual",
+   "desc": "British Army general",
+   "cause": "mortally wounded at the Battle of the Plains of Abraham, on learning that the French forces were fleeing",
+   "last_words": "Go, one of you, to Colonel Burton; tell him to march Webb's regiment down to Charles River, to cut off their retreat from the bridge. Now, God be praised, I will die in peace!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Wolfe",
+   "born": "2 January 1727"
+  },
+  {
+   "year": 1806,
+   "year_label": "1806",
+   "name": "Charles James Fox",
+   "kind": "individual",
+   "desc": "British statesman",
+   "cause": null,
+   "last_words": "I die happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_James_Fox",
+   "born": "24 January 1749"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Noor Inayat Khan",
+   "kind": "individual",
+   "desc": "GC, British spy in the Special Operations Executive",
+   "cause": "prior to execution by firing squad at Dachau concentration camp",
+   "last_words": "Liberté!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Noor_Inayat_Khan",
+   "born": "1 January 1914"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Tupac \"2Pac\" Shakur",
+   "kind": "individual",
+   "desc": "American rapper",
+   "cause": "to the first responder police officer at the scene of his murder",
+   "last_words": "Fuck you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tupac_Shakur",
+   "born": "16 June 1971"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "George Bernard Harris",
+   "kind": "individual",
+   "desc": "American armed robber and murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "Somebody needs to kill my trial attorney.",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Missouri",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1087,
+   "year_label": "1087",
+   "name": "John II Komnenos",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Byzantine Emperor cut himself with a poisoned arrow during a boar hunt, subsequently dying from sepsis.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_II_Komnenos",
+   "died": "1 April 1143"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "General John Sedgwick",
+   "kind": "individual",
+   "desc": "Union general of the American Civil War",
+   "cause": "at the Battle of Spotsylvania Court House shortly before being shot and killed by enemy fire shortly before being shot in the head by a Confederate sharpshooter",
+   "last_words": "They couldn't hit an elephant at this distance...",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Sedgwick",
+   "died": "9 May 1864"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "Arnold Schoenberg",
+   "kind": "individual",
+   "desc": "Austrian-American composer",
+   "cause": null,
+   "last_words": "Harmony.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
+   "died": "13 July 1951"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "Sherwood Anderson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 64-year-old American writer died of peritonitis after accidentally swallowing an olive that had a toothpick inside.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sherwood_Anderson",
+   "died": "8 March 1941"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Roald Dahl",
+   "kind": "individual",
+   "desc": "British author",
+   "cause": "after a nurse pricked him with a needle",
+   "last_words": "Ow, fuck!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roald_Dahl",
+   "died": "23 November 1990"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Zoya Kosmodemyanskaya",
+   "kind": "individual",
+   "desc": "Soviet partisan",
+   "cause": "prior to her execution by Germans in Petrishchevo for arson in there",
+   "last_words": "Farewell, comrades! Fight, do not be afraid! Stalin is with us! Stalin will come!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zoya_Kosmodemyanskaya",
+   "died": "29 November 1941"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Kevin Carter",
+   "kind": "individual",
+   "desc": "South African photojournalist",
+   "cause": "in his suicide note, before killing himself from carbon monoxide poisoning",
+   "last_words": "I'm really, really sorry. The pain of life overrides the joy to the point that joy does not exist... depressed... without phone... money for rent... money for child support... money for debts... money!!!... I am haunted by the vivid memories of killings & corpses & anger & pain... of starving or wounded children, of trigger-happy madmen, often police, of killer executioners... I have gone to join Ken if I am that lucky.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Carter",
+   "died": "27 July 1994"
+  }
+ ]
+}

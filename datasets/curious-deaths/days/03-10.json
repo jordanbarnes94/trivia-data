@@ -1,0 +1,84 @@
+{
+ "date": "03-10",
+ "died": [
+  {
+   "year": 1615,
+   "year_label": "1615",
+   "name": "John Ogilvie",
+   "kind": "individual",
+   "desc": "SJ]]",
+   "cause": "hanged, drawn and quartered at Glasgow Cross because of having preached the Catholic religion, then illegal in Scotland, and for refusing to pledge allegiance to King James VI of Scotland",
+   "last_words": "If there be here any hidden Catholics, let them pray for me, but the prayers of heretics I will not have.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Ogilvie_(saint)",
+   "born": null
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "C. Y. O'Connor",
+   "kind": "individual",
+   "desc": "engineer-in-chief of Western Australia",
+   "cause": "purported suicide note",
+   "last_words": "Put the wing walls to Helena Weir at once\"",
+   "wikipedia": "https://en.wikipedia.org/wiki/C._Y._O'Connor",
+   "born": "11 January 1843"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Harriet Tubman",
+   "kind": "individual",
+   "desc": "American humanitarian and activist",
+   "cause": null,
+   "last_words": "Swing low, sweet chariot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+   "born": null
+  },
+  {
+   "year": 1972,
+   "year_label": "1972",
+   "name": "Professor Zovek",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 31-year-old Mexican escape artist and illusionist was descending from a helicopter by rope during a stunt in Cuautitlán. The helicopter suddenly ascended and flew in circles, leading him to lose his grip and fall 15 m to his death.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Professor_Zovek",
+   "born": "13 April 1940"
+  }
+ ],
+ "born": [
+  {
+   "year": 1776,
+   "year_label": "1776",
+   "name": "Louise of Mecklenburg-Strelitz",
+   "kind": "individual",
+   "desc": "Queen of Prussia",
+   "cause": null,
+   "last_words": "I am a queen, but I have not the power to move my arms.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louise_of_Mecklenburg-Strelitz",
+   "died": "19 July 1810"
+  },
+  {
+   "year": 1787,
+   "year_label": "1787",
+   "name": "William Etty",
+   "kind": "individual",
+   "desc": "English artist",
+   "cause": "watching the sunset over the River Ouse, Yorkshire",
+   "last_words": "Wonderful! Wonderful this death!",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Etty",
+   "died": "13 November 1849"
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Boris Vian",
+   "kind": "individual",
+   "desc": "French polymath",
+   "cause": "while watching film adaptation of his novel I Spit on Your Graves",
+   "last_words": "These guys are supposed to be American? My ass!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boris_Vian",
+   "died": "23 June 1959"
+  }
+ ]
+}

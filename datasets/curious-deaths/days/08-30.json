@@ -1,0 +1,73 @@
+{
+ "date": "08-30",
+ "died": [
+  {
+   "year": 1483,
+   "year_label": "1483",
+   "name": "Louis XI",
+   "kind": "individual",
+   "desc": "King of France",
+   "cause": null,
+   "last_words": "Our Lady of Embrun, my good mistress, help me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XI",
+   "born": "3 July 1423"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Fred Lowry",
+   "kind": "individual",
+   "desc": "Australian bushranger",
+   "cause": "shot in the throat by police",
+   "last_words": "Tell them I died game.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fred_Lowry",
+   "born": null
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Henri Barbusse",
+   "kind": "individual",
+   "desc": "French novelist and Communist",
+   "cause": "referring to the Second Italo-Ethiopian War",
+   "last_words": "Telephone and say that they must still enlarge it–Always larger, broader, more universal–It's the only means of saving the world.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henri_Barbusse",
+   "born": "17 May 1873"
+  }
+ ],
+ "born": [
+  {
+   "year": 1616,
+   "year_label": "1616",
+   "name": "Giovan Battista Nani",
+   "kind": "individual",
+   "desc": "Venetian ambassador, librarian and historian",
+   "cause": null,
+   "last_words": "How beautiful!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giovan_Battista_Nani",
+   "died": "5 November 1678"
+  },
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "W. P. Ker",
+   "kind": "individual",
+   "desc": "Scottish literary scholar",
+   "cause": "to his hiking companions on the Pizzo Bianco before suffering a heart attack",
+   "last_words": "I thought this was the most beautiful spot in the world, and now I know it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/W._P._Ker",
+   "died": "17 July 1923"
+  },
+  {
+   "year": 1893,
+   "year_label": "1893",
+   "name": "Huey Long",
+   "kind": "individual",
+   "desc": "United States Senator",
+   "cause": "after being fatally shot",
+   "last_words": "I wonder why he shot me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Huey_Long",
+   "died": "10 September 1935"
+  }
+ ]
+}

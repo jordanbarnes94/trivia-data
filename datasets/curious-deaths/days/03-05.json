@@ -1,0 +1,73 @@
+{
+ "date": "03-05",
+ "died": [
+  {
+   "year": 1827,
+   "year_label": "1827",
+   "name": "Pierre-Simon Laplace",
+   "kind": "individual",
+   "desc": "French scholar and polymath",
+   "cause": null,
+   "last_words": "What we know is little; what we are ignorant of is immense.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+   "born": "23 March 1749"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Lena Baker",
+   "kind": "individual",
+   "desc": "African American maid",
+   "cause": "prior to execution by electrocution for the murder of her employer. She received a full and unconditional pardon in 2005",
+   "last_words": "What I done, I did in self-defense, or I would have been killed myself. Where I was I could not overcome it. God has forgiven me. I have nothing against anyone. I picked cotton for Mr. Pritchett, and he has been good to me. I am ready to go. I am one in the number. I am ready to meet my God. I have a very strong conscience.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lena_Baker",
+   "born": "8 June 1900"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Tom Pryce and Frederick Jansen van Vuuren",
+   "kind": "group",
+   "desc": null,
+   "cause": "Pryce, a Welsh Formula One driver in the 1977 South African Grand Prix, struck and killed Van Vuuren at 170 mph as Van Vuuren ran across the Kyalami racetrack to extinguish a burning car. The fire extinguisher which Van Vuuren was carrying struck Pryce's head and killed him.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Pryce",
+   "born": null
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "John Belushi",
+   "kind": "individual",
+   "desc": "American actor and comedian",
+   "cause": "before dying of drug overdose",
+   "last_words": "Just don't leave me alone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Belushi",
+   "born": "24 January 1949"
+  }
+ ],
+ "born": [
+  {
+   "year": 1133,
+   "year_label": "1133",
+   "name": "Henry II of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "on being told his son John was one of those conspiring against him",
+   "last_words": "Now let the world go as it will; I care for nothing more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+   "died": "6 July 1189"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Harry Turner",
+   "kind": "individual",
+   "desc": "Canton Professionals center",
+   "cause": "to Canton manager Jack Cusack, after suffering fractured back and severed spinal cord while tackling the Akron Indians' Joe Collins",
+   "last_words": "I know I must go, but I'm satisfied, for we beat Peggy Parratt.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harry_Turner_(American_football)",
+   "died": "15 November 1914"
+  }
+ ]
+}

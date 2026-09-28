@@ -1,0 +1,117 @@
+{
+ "date": "11-06",
+ "died": [
+  {
+   "year": 1612,
+   "year_label": "1612",
+   "name": "Henry Frederick, Prince of Wales",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when asked if he was in pain",
+   "last_words": "I would say 'somewhat,' but I cannot utter it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Frederick,_Prince_of_Wales",
+   "born": "19 February 1594"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Louis Philippe II, Duke of Orléans",
+   "kind": "individual",
+   "desc": null,
+   "cause": "remembering his former acclaim on the way to the guillotine",
+   "last_words": "They applauded me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orléans",
+   "born": "13 April 1747"
+  },
+  {
+   "year": 1816,
+   "year_label": "1816",
+   "name": "Gouverneur Morris",
+   "kind": "individual",
+   "desc": "American statesman and Founding Father of the United States",
+   "cause": "quoting from Elegy Written in a Country Churchyard by Thomas Gray on being told the weather was fine",
+   "last_words": "A beautiful day, yes, but- / 'Who, to dumb forgetfulness a prey, / This pleasing, anxious being e'er resigned; / Left the warm precincts of the cheerful day, / Nor cast one longing, lingering look behind?'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gouverneur_Morris",
+   "born": "31 January 1752"
+  },
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Princess Charlotte of Wales",
+   "kind": "individual",
+   "desc": null,
+   "cause": "dying of postpartum bleeding",
+   "last_words": "You make me drunk. Pray leave me quiet. I feel it affects my head.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Princess_Charlotte_of_Wales_(1796–1817)",
+   "born": "7 January 1796"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "James \"Jim\" Cullen",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 25-year-old Irish man became the only man ever lynched in Mapleton, Maine, after he committed a robbery and beat two deputy sheriffs to death with an axe.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Arnold Rothstein",
+   "kind": "individual",
+   "desc": "American mobster",
+   "cause": "when asked who had fatally shot him",
+   "last_words": "Me mudder did it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Rothstein",
+   "born": "17 January 1882"
+  }
+ ],
+ "born": [
+  {
+   "year": 15,
+   "year_label": "15",
+   "name": "Agrippina the Younger",
+   "kind": "individual",
+   "desc": "mother of Nero",
+   "cause": "to her murderer",
+   "last_words": "Strike here! Level your rage against the womb which gave birth to such a monster.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
+   "died": "23 March 59"
+  },
+  {
+   "year": 1661,
+   "year_label": "1661",
+   "name": "Charles II of Spain",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "I am nothing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_Spain",
+   "died": "1 November 1700"
+  },
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "Harlon Block",
+   "kind": "individual",
+   "desc": "United States Marine Corps corporal",
+   "cause": "mortally wounded at the Battle of Iwo Jima",
+   "last_words": "They killed me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harlon_Block",
+   "died": "1 March 1945"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Rebecca Schaeffer",
+   "kind": "individual",
+   "desc": "American actress and model",
+   "cause": "spoken to the neighbors after being shot at her apartment doorsteps by stalker Robert John Bardo",
+   "last_words": "Why? Why?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Schaeffer",
+   "died": "18 July 1989"
+  }
+ ]
+}

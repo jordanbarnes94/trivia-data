@@ -1,0 +1,106 @@
+{
+ "date": "08-20",
+ "died": [
+  {
+   "year": 1153,
+   "year_label": "1153",
+   "name": "Bernard of Clairvaux",
+   "kind": "individual",
+   "desc": "Burgundian abbot",
+   "cause": "on being told he was dying",
+   "last_words": "May God's will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux",
+   "born": null
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "William Booth",
+   "kind": "individual",
+   "desc": "English Methodist preacher and co-founder of the Salvation Army",
+   "cause": "to his son, Bramwell Booth",
+   "last_words": "And the homeless children, Bramwell, look after the homeless. Promise me...",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Booth",
+   "born": "10 April 1829"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "Pope Pius X",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic prelate and Pope",
+   "cause": null,
+   "last_words": "Now I begin to think the end is approaching. The Almighty in His inexhaustible goodness wishes to spare me the horrors which Europe is undergoing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_X",
+   "born": "2 June 1835"
+  }
+ ],
+ "born": [
+  {
+   "year": 1778,
+   "year_label": "1778",
+   "name": "Bernardo O'Higgins",
+   "kind": "individual",
+   "desc": "Chilean independence leader and statesman",
+   "cause": null,
+   "last_words": "Magellan, Magellan!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bernardo_O'Higgins",
+   "died": "24 October 1842"
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Benjamin Harrison",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "dying of pneumonia",
+   "last_words": "Are the doctors here? Doctor, my lungs...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+   "died": "13 March 1901"
+  },
+  {
+   "year": 1843,
+   "year_label": "1843",
+   "name": "Richard Rowland Kirkland",
+   "kind": "individual",
+   "desc": "Confederate soldier",
+   "cause": "mortally wounded at the Battle of Chickamauga",
+   "last_words": "Tell my father I died right.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Rowland_Kirkland",
+   "died": "20 September 1863"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Richhpal Ram",
+   "kind": "individual",
+   "desc": "VC, Indian recipient of the Victoria Cross",
+   "cause": "mortally wounded at Keren, Eritrea",
+   "last_words": "We'll capture the objective.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richhpal_Ram",
+   "died": "12 February 1941"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Rajiv Gandhi",
+   "kind": "individual",
+   "desc": "former Prime Minister of India",
+   "cause": "spoken to a policewoman at his assassination",
+   "last_words": "Don't worry. Relax.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rajiv_Gandhi",
+   "died": "21 May 1991"
+  },
+  {
+   "year": 1949,
+   "year_label": "1949",
+   "name": "Phil Lynott",
+   "kind": "individual",
+   "desc": "Irish singer, musician and songwriter",
+   "cause": "dying at age 36",
+   "last_words": "I'm bad, I'm nineteen.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Phil_Lynott",
+   "died": "4 January 1986"
+  }
+ ]
+}

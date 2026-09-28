@@ -1,0 +1,95 @@
+{
+ "date": "07-24",
+ "died": [
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Martin Van Buren",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "There is but one reliance.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
+   "born": "5 December 1782"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Ryūnosuke Akutagawa",
+   "kind": "individual",
+   "desc": "Japanese writer",
+   "cause": "excerpt from his suicide note",
+   "last_words": "Probably no one who attempts suicide-is fully aware of all his motives, which are usually too complex. At least in my case it is prompted by a vague sense of anxiety-about my own future. - As for my vague sense of anxiety about my own future, I think I analyzed it all in 'A Fool's Life,' except for a social factor, namely the shadow of feudalism cast over my life. This I omitted purposely, not at all certain that I could really clarify the social context in which I lived. - P.S. Reading a life of Empedocles, I felt how old is this desire to make a god of oneself. This letter, so far as I am conscious, never attempts this. On the contrary, I consider myself one of the most common humans. You may recall those days of twenty years ago when we discussed 'Empedocles on Etna'-under the linden trees. In those days I was one who wished to make a god of myself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ryūnosuke_Akutagawa",
+   "born": "1 March 1892"
+  }
+ ],
+ "born": [
+  {
+   "year": 1720,
+   "year_label": "1720",
+   "name": "Louise Ulrica",
+   "kind": "individual",
+   "desc": "Queen of Sweden",
+   "cause": null,
+   "last_words": "Pray [to] God for me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louisa_Ulrika_of_Prussia",
+   "died": "16 July 1782"
+  },
+  {
+   "year": 1725,
+   "year_label": "1725",
+   "name": "John Newton",
+   "kind": "individual",
+   "desc": "English Anglican cleric and abolitionist, author of \"Amazing Grace\"",
+   "cause": "final recorded words",
+   "last_words": "I am satisfied with the Lord's will.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Newton",
+   "died": "21 December 1807"
+  },
+  {
+   "year": 1750,
+   "year_label": "1750",
+   "name": "John Philpot Curran",
+   "kind": "individual",
+   "desc": "Irish orator, politician and wit",
+   "cause": "when his doctor said he was coughing \"with more difficulty\"",
+   "last_words": "That is surprising, since I have been practicing all night.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Philpot_Curran",
+   "died": "14 October 1817"
+  },
+  {
+   "year": 1775,
+   "year_label": "1775",
+   "name": "Eugène François Vidocq",
+   "kind": "individual",
+   "desc": "French criminal turned criminalist",
+   "cause": null,
+   "last_words": "How great is the forgiveness for such a life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eugène_François_Vidocq",
+   "died": "11 May 1857"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "Francisco Solano López",
+   "kind": "individual",
+   "desc": "2nd president of Paraguay",
+   "cause": "after his last stand in the Battle of Cerro Corá",
+   "last_words": "I die for my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Solano_López",
+   "died": "1 March 1870"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Amelia Earhart",
+   "kind": "individual",
+   "desc": "American aviation pioneer",
+   "cause": "reporting to her headquarters in her last known radio transmission shortly before her disappearance",
+   "last_words": "We are running on line north and south.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Earhart",
+   "died": "2 July 1937"
+  }
+ ]
+}

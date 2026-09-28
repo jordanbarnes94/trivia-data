@@ -1,0 +1,84 @@
+{
+ "date": "09-15",
+ "died": [
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Anton Webern",
+   "kind": "individual",
+   "desc": "Austrian composer and conductor",
+   "cause": "shot by U.S. Army soldier during the Allied occupation of Austria",
+   "last_words": "I'm shot...it's over.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anton_Webern",
+   "born": "3 December 1883"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Dick Wertheim",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 61-year-old tennis linesman died after a ball served by player Stefan Edberg at the US Open struck him in the groin and he fell out of his chair, striking his head on the hardcourt surface.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dick_Wertheim",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1254,
+   "year_label": "1254",
+   "name": "Marco Polo",
+   "kind": "individual",
+   "desc": "Venetian traveller in Asia",
+   "cause": "responding to skepticism about the content of his memoir, The Travels of Marco Polo",
+   "last_words": "I have not told half of what I saw.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marco_Polo",
+   "died": "9 January 1324"
+  },
+  {
+   "year": 1649,
+   "year_label": "1649",
+   "name": "Titus Oates",
+   "kind": "individual",
+   "desc": "English priest and perjurer, fabricator of the \"Popish Plot\"",
+   "cause": null,
+   "last_words": "It is all the same in the end.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Titus_Oates",
+   "died": "13 July 1705"
+  },
+  {
+   "year": 1736,
+   "year_label": "1736",
+   "name": "Jean Sylvain Bailly",
+   "kind": "individual",
+   "desc": "French astronomer, mathematician and politician",
+   "cause": "to a heckler who asked if he was trembling as he approached the guillotine",
+   "last_words": "Yes my friend, but it's from the cold.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean_Sylvain_Bailly",
+   "died": "12 November 1793"
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Alexander Roberts Dunn",
+   "kind": "individual",
+   "desc": "VC, Canadian British Army officer, Crimean War Victoria Cross recipient",
+   "cause": "mortally wounded by gunshot under unclear circumstances during hunting expedition near Senafe",
+   "last_words": "Run for a Doctor.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Roberts_Dunn",
+   "died": "25 January 1868"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Robert Benchley",
+   "kind": "individual",
+   "desc": "American humorist",
+   "cause": "words which he jotted beside the title of an essay which he was reading, \"Am I Thinking?\"",
+   "last_words": "No. (And supposing you were?)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Benchley",
+   "died": "21 November 1945"
+  }
+ ]
+}

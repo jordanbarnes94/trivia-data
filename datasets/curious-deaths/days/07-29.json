@@ -1,0 +1,117 @@
+{
+ "date": "07-29",
+ "died": [
+  {
+   "year": 1692,
+   "year_label": "1692",
+   "name": "Sarah Good",
+   "kind": "individual",
+   "desc": "American woman accused of witchcraft during the Salem witch trials",
+   "cause": "to Reverend Nicholas Noyes prior to execution by hanging",
+   "last_words": "You are a lyer; I am no more a Witch than you are a Wizard, and if you take away my Life, God will give you Blood to drink.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Good",
+   "born": "11 July 1653"
+  },
+  {
+   "year": 1694,
+   "year_label": "1694",
+   "name": "Suleiman I of Persia",
+   "kind": "individual",
+   "desc": "Shah of Safavid Iran",
+   "cause": "According to the French cleric, Martin Gaudereau",
+   "last_words": "Bring me wine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Suleiman_I_of_Persia",
+   "born": null
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "William Wilberforce",
+   "kind": "individual",
+   "desc": "British politician",
+   "cause": null,
+   "last_words": "Thank God that I have lived to see the day when England is willing to give twenty millions for the abolition of slavery.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Wilberforce",
+   "born": "24 August 1759"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Kate Webster",
+   "kind": "individual",
+   "desc": "Irish murderer",
+   "cause": "prior to execution by hanging",
+   "last_words": "Lord, have mercy upon me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kate_Webster",
+   "born": null
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Vincent van Gogh",
+   "kind": "individual",
+   "desc": "Dutch painter",
+   "cause": "to his brother sometime before dying of (presumably) a self-inflicted gunshot wound",
+   "last_words": "The sadness will last forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+   "born": "30 March 1853"
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "John Barbirolli",
+   "kind": "individual",
+   "desc": "British conductor",
+   "cause": "to his wife after awakening during the night",
+   "last_words": "Anyway, I can get a good rest in the morning. There's no rehearsal till three.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Barbirolli",
+   "born": "2 December 1899"
+  },
+  {
+   "year": 1998,
+   "year_label": "1998",
+   "name": "Jonathan Capewell",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 16-year-old from Oldham died from a heart attack brought on by the buildup of butane and propane in his blood after excessive use of deodorant sprays. He was reported to have been obsessed with personal hygiene.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Clement Vallandigham",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The American politician and lawyer, who was defending a man accused of murder, accidentally shot himself while demonstrating how the victim might have done so. His client was acquitted.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clement_Vallandigham",
+   "died": "17 June 1871"
+  },
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Benito Mussolini",
+   "kind": "individual",
+   "desc": "Italian fascist statesman",
+   "cause": "facing a partisan leader",
+   "last_words": "Shoot me in the chest!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benito_Mussolini",
+   "died": "28 April 1945"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Elisabeth von Thadden",
+   "kind": "individual",
+   "desc": "German progressive educator and resistance fighter",
+   "cause": "before her execution by the Nazi regime",
+   "last_words": "Put an end, Lord, to all our sufferings.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elisabeth_von_Thadden",
+   "died": "8 September 1944"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "date": "04-22",
+ "died": [
+  {
+   "year": 1616,
+   "year_label": "1616",
+   "name": "Miguel de Cervantes",
+   "kind": "individual",
+   "desc": "Spanish novelist",
+   "cause": null,
+   "last_words": "Already my foot is in the stirrup.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+   "born": "29 September 1547"
+  },
+  {
+   "year": 1669,
+   "year_label": "1669",
+   "name": "Richard Mather",
+   "kind": "individual",
+   "desc": "Puritan minister",
+   "cause": "when asked about his health",
+   "last_words": "Far from well, yet far better than mine iniquities deserve.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Mather",
+   "born": null
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "Guillaume-Chrétien de Lamoignon de Malesherbes",
+   "kind": "individual",
+   "desc": "French statesman and government minister, defense counsel of Louis XVI",
+   "cause": "to the priest prior to his execution by guillotine",
+   "last_words": "Hold your tongue! your wretched chatter disgusts me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Guillaume-Chrétien_de_Lamoignon_de_Malesherbes",
+   "born": "6 December 1721"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "John Crome",
+   "kind": "individual",
+   "desc": "English landscape artist",
+   "cause": null,
+   "last_words": "Hobbema, my dear Hobbema, how I have loved you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Crome",
+   "born": "22 December 1768"
+  },
+  {
+   "year": 1994,
+   "year_label": "1994",
+   "name": "Richard Nixon",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to a housekeeper while suffering a stroke",
+   "last_words": "Help.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Nixon",
+   "born": "9 January 1913"
+  }
+ ],
+ "born": [
+  {
+   "year": 1724,
+   "year_label": "1724",
+   "name": "Immanuel Kant",
+   "kind": "individual",
+   "desc": "German philosopher",
+   "cause": "thanking his physicians and attendants",
+   "last_words": "I have not yet lost my feeling for humanity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+   "died": "12 February 1804"
+  },
+  {
+   "year": 1766,
+   "year_label": "1766",
+   "name": "Germaine de Staël",
+   "kind": "individual",
+   "desc": "French woman of letters and political theorist",
+   "cause": null,
+   "last_words": "I have loved God, my father, and liberty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Germaine_de_Staël",
+   "died": "14 July 1817"
+  },
+  {
+   "year": 1870,
+   "year_label": "1870",
+   "name": "Vladimir Lenin",
+   "kind": "individual",
+   "desc": "Russian communist statesman and revolutionary",
+   "cause": "to his dog who brought him a dead bird",
+   "last_words": "Good dog.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
+   "died": "21 January 1924"
+  },
+  {
+   "year": 1891,
+   "year_label": "1891",
+   "name": "Nicola Sacco",
+   "kind": "individual",
+   "desc": "Italian immigrant anarchist",
+   "cause": "prior to execution by electrocution",
+   "last_words": "Farewell, mother!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Sacco",
+   "died": "23 August 1927"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Kathleen Ferrier",
+   "kind": "individual",
+   "desc": "English contralto singer",
+   "cause": "to a nurse while dying of breast cancer",
+   "last_words": "Wouldn't it be lovely if I could just go to sleep and not wake up again?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kathleen_Ferrier",
+   "died": "8 October 1953"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "date": "09-05",
+ "died": [
+  {
+   "year": 1128,
+   "year_label": "1128",
+   "name": "Ranulf Flambard",
+   "kind": "individual",
+   "desc": "Norman Bishop of Durham and government minister",
+   "cause": null,
+   "last_words": "I wished to do more harm than I could.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ranulf_Flambard",
+   "born": null
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "William Ward Burrows II",
+   "kind": "individual",
+   "desc": "United States naval officer",
+   "cause": "mortally wounded while commanding USS Enterprise in the capture of HMS Boxer",
+   "last_words": "Now I am satisfied; I die contented.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Ward_Burrows_II",
+   "born": "6 October 1785"
+  },
+  {
+   "year": 1857,
+   "year_label": "1857",
+   "name": "Auguste Comte",
+   "kind": "individual",
+   "desc": "French philosopher",
+   "cause": null,
+   "last_words": "What an irreparable loss!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Auguste_Comte",
+   "born": "19 January 1798"
+  },
+  {
+   "year": 1930,
+   "year_label": "1930",
+   "name": "Carl Panzram",
+   "kind": "individual",
+   "desc": "American serial killer and rapist",
+   "cause": "spitting in his executioner's face prior to hanging",
+   "last_words": "Hurry it up, you Hoosier bastard! I could hang a dozen men while you're fooling around!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Carl_Panzram",
+   "born": "28 June 1891"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Ken Carter",
+   "kind": "individual",
+   "desc": "Canadian stunt driver",
+   "cause": "prior to fatal pond jump in rocket-powered car",
+   "last_words": "Everything is fine, I'm ready to go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ken_Carter_(stuntman)",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1638,
+   "year_label": "1638",
+   "name": "Louis XIV",
+   "kind": "individual",
+   "desc": "king of France",
+   "cause": null,
+   "last_words": "I'm going, but the State will always remain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XIV",
+   "died": "1 September 1715"
+  },
+  {
+   "year": 1847,
+   "year_label": "1847",
+   "name": "Jesse James",
+   "kind": "individual",
+   "desc": "American outlaw",
+   "cause": "examining a picture on his wall before being murdered by Robert Ford",
+   "last_words": "That picture is awful dusty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesse_James",
+   "died": "3 April 1882"
+  },
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "name": "Jack Daniel",
+   "kind": "individual",
+   "desc": "American alcohol businessman",
+   "cause": null,
+   "last_words": "One last drink, please.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Daniel",
+   "died": "10 October 1911"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Freddie Mercury",
+   "kind": "individual",
+   "desc": "British lead vocalist of Queen",
+   "cause": "to his assistant Peter Freestone, before he slipped into a coma and died shortly thereafter",
+   "last_words": "Thank you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Mercury",
+   "died": "24 November 1991"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "date": "08-04",
+ "died": [
+  {
+   "year": 1265,
+   "year_label": "1265",
+   "name": "Simon de Montfort, 6th Earl of Leicester",
+   "kind": "individual",
+   "desc": null,
+   "cause": "before dying at the Battle of Evesham",
+   "last_words": "By the arm of St. James, it is time to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+   "born": "23 May 1208"
+  },
+  {
+   "year": 1578,
+   "year_label": "1578",
+   "name": "Sebastian of Portugal",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when being advised to surrender, and to hand over his sword to the victors of the Battle of Alcácer Quibir",
+   "last_words": "Royal freedom will only be lost with life",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_of_Portugal",
+   "born": "20 January 1554"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Hans Christian Andersen",
+   "kind": "individual",
+   "desc": "Danish children's author",
+   "cause": null,
+   "last_words": "Don't ask me how I am! I understand nothing more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
+   "born": "2 April 1805"
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "Samuel J. Tilden",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "suffering from thirst",
+   "last_words": "Water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_J._Tilden",
+   "born": "9 February 1814"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Noel Godfrey Chavasse",
+   "kind": "individual",
+   "desc": "VC1 MC, British Army officer",
+   "cause": "mortally wounded at the Battle of Passchendaele in World War I. He was reminding a nurse of their earlier conversation about contacting his father and fiancée and about his younger brother, who was missing in action",
+   "last_words": "Do not forget what I have told you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Noel_Godfrey_Chavasse",
+   "born": "9 November 1884"
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Ivy Taylor",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 12-year-old girl from Blackburn, Lancashire, died from ulceration of air passages after ingesting sodium silicate jelly inside a golf ball.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Marilyn Monroe",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": "over the phone to Peter Lawford, John F. Kennedy's brother-in-law",
+   "last_words": "Say goodbye to Pat, say goodbye to the president and say goodbye to yourself, because you're a nice guy... I'll see... I'll see.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
+   "born": "1 June 1926"
+  }
+ ],
+ "born": [
+  {
+   "year": 1792,
+   "year_label": "1792",
+   "name": "Edward Irving",
+   "kind": "individual",
+   "desc": "Scottish clergyman",
+   "cause": null,
+   "last_words": "If I die, I die unto the Lord. Amen.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Irving",
+   "died": "7 December 1834"
+  },
+  {
+   "year": 1823,
+   "year_label": "1823",
+   "name": "Oliver P. Morton",
+   "kind": "individual",
+   "desc": "Governor of Indiana and United States Senator",
+   "cause": null,
+   "last_words": "I am dying, I am worn out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oliver_P._Morton",
+   "died": "1 November 1877"
+  }
+ ]
+}

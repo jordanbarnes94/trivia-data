@@ -1,0 +1,117 @@
+{
+ "date": "10-11",
+ "died": [
+  {
+   "year": 1424,
+   "year_label": "1424",
+   "name": "Jan Žižka",
+   "kind": "individual",
+   "desc": "Czech general",
+   "cause": null,
+   "last_words": "Make my skin into drumheads for the Bohemian cause.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jan_Žižka",
+   "born": null
+  },
+  {
+   "year": 1531,
+   "year_label": "1531",
+   "name": "Huldrych Zwingli",
+   "kind": "individual",
+   "desc": "priest and leader of the Reformation in Switzerland",
+   "cause": "mortally wounded at the Battle of Kappel",
+   "last_words": "Can this be considered a calamity? Well! they can, indeed, kill the body, but they are not able to kill the soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Huldrych_Zwingli",
+   "born": "1 January 1484"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Meriwether Lewis",
+   "kind": "individual",
+   "desc": "American explorer",
+   "cause": "apparent suicide/possible murder",
+   "last_words": "I am not coward, but I am so strong. It is hard to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Meriwether_Lewis",
+   "born": "18 August 1774"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Donald E. Montgomery",
+   "kind": "individual",
+   "desc": "American economist",
+   "cause": "calling police before committing suicide",
+   "last_words": "I have laid my papers on a bed for my daughters. I have left the door open for the police to enter. I am going to shoot myself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Donald_E._Montgomery",
+   "born": "16 October 1896"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Chico Marx",
+   "kind": "individual",
+   "desc": "American actor and comedian",
+   "cause": "giving his wife Mary humorous instructions for his funeral",
+   "last_words": "Remember, Honey, don't forget what I told you. Put in my coffin a deck of cards, a mashie niblick, and a pretty blonde.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chico_Marx",
+   "born": "22 March 1887"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "MacKinlay Kantor",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": "to his grandson, Tom Shroder",
+   "last_words": "Horrible. Horrible!",
+   "wikipedia": "https://en.wikipedia.org/wiki/MacKinlay_Kantor",
+   "born": "4 February 1904"
+  }
+ ],
+ "born": [
+  {
+   "year": 1732,
+   "year_label": "1732",
+   "name": "Raphaël Bienvenu Sabatier",
+   "kind": "individual",
+   "desc": "French anatomist and surgeon",
+   "cause": "to his son",
+   "last_words": "Contemplate the state in which I am fallen, and learn to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Raphaël_Bienvenu_Sabatier",
+   "died": "19 July 1811"
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "name": "Emily Davison",
+   "kind": "individual",
+   "desc": null,
+   "cause": "On 4 June 1913, the 40-year-old suffragette from London was mortally injured at the Epsom Derby when she ran onto the racetrack wearing a suffragette flag and was run over by Anmer, George V's horse, which jockey Herbert Jones was riding. She suffered a fractured skull, a concussion, and internal injuries and died in the Epsom Cottage Hospital 4 days later.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Emily_Davison",
+   "died": "8 June 1913"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Douglas Albert Munro",
+   "kind": "individual",
+   "desc": "United States Coast Guardsman and Medal of Honor recipient",
+   "cause": "to his friend Raymond Evans after using his Higgins boat to direct fire away from evacuating American troops",
+   "last_words": "Did they get off?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Albert_Munro",
+   "died": "27 September 1942"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "James Huberty",
+   "kind": "individual",
+   "desc": "perpetrator of the San Ysidro McDonald's massacre",
+   "cause": "taunting employees hiding in the kitchen",
+   "last_words": "Oh, there's more. You're trying to hide from me you bastards!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Huberty",
+   "died": "18 July 1984"
+  }
+ ]
+}

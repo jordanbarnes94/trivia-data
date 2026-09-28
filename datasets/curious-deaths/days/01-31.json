@@ -1,0 +1,139 @@
+{
+ "date": "01-31",
+ "died": [
+  {
+   "year": 1533,
+   "year_label": "1533",
+   "name": "Ludovica Albertoni",
+   "kind": "individual",
+   "desc": "Italian noblewoman, professed member of the Third Order of Saint Francis",
+   "cause": "quoting Jesus",
+   "last_words": "Father, into Thy hands I commend my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludovica_Albertoni",
+   "born": null
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Eddie Slovik",
+   "kind": "individual",
+   "desc": "American soldier",
+   "cause": "to the attending military chaplain, before his execution for desertion",
+   "last_words": "Okay, Father. I'll pray that you don't follow me too soon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Slovik",
+   "born": "18 February 1920"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Archie R. Twitchell",
+   "kind": "individual",
+   "desc": "American actor and aviator",
+   "cause": "radio transmission after 1957 Pacoima mid-air collision",
+   "last_words": "Were a midair collision – midair collision, 10 How we are going in-uncontrollable – uncontrollable – we are...we've had it boy – poor jet too – told you we should take chutes – say goodbye to everybody.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Archie_R._Twitchell",
+   "born": "28 November 1906"
+  },
+  {
+   "year": 1969,
+   "year_label": "1969",
+   "name": "Meher Baba",
+   "kind": "individual",
+   "desc": "Indian spiritual master",
+   "cause": "last words spoken on 10 July 1925, after which he observed silence for the rest of his life",
+   "last_words": "Don't worry, be happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Meher_Baba",
+   "born": "25 February 1894"
+  }
+ ],
+ "born": [
+  {
+   "year": 1707,
+   "year_label": "1707",
+   "name": "Frederick, Prince of Wales",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The son of George II of Great Britain and father of George III died of a pulmonary embolism, but was commonly claimed to have been killed by being struck by a cricket ball.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales",
+   "died": "31 March 1751"
+  },
+  {
+   "year": 1713,
+   "year_label": "1713",
+   "name": "Anthony Benezet",
+   "kind": "individual",
+   "desc": "French-American abolitionist and educator",
+   "cause": "to his wife",
+   "last_words": "We have lived long, in love and peace.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Benezet",
+   "died": "3 May 1784"
+  },
+  {
+   "year": 1752,
+   "year_label": "1752",
+   "name": "Gouverneur Morris",
+   "kind": "individual",
+   "desc": "American statesman and Founding Father of the United States",
+   "cause": "quoting from Elegy Written in a Country Churchyard by Thomas Gray on being told the weather was fine",
+   "last_words": "A beautiful day, yes, but- / 'Who, to dumb forgetfulness a prey, / This pleasing, anxious being e'er resigned; / Left the warm precincts of the cheerful day, / Nor cast one longing, lingering look behind?'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gouverneur_Morris",
+   "died": "6 November 1816"
+  },
+  {
+   "year": 1797,
+   "year_label": "1797",
+   "name": "Franz Schubert",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": null,
+   "last_words": "Here, here is my end.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert",
+   "died": "19 November 1828"
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Tallulah Bankhead",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": null,
+   "last_words": "Codeine... bourbon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tallulah_Bankhead",
+   "died": "12 December 1968"
+  },
+  {
+   "year": 1921,
+   "year_label": "1921",
+   "name": "Mario Lanza",
+   "kind": "individual",
+   "desc": "American operatic tenor and actor",
+   "cause": "over the phone to his wife",
+   "last_words": "I love you, Betty...Betty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mario_Lanza",
+   "died": "7 October 1959"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Derek Jarman",
+   "kind": "individual",
+   "desc": "English film director, stage designer and author",
+   "cause": null,
+   "last_words": "I want the world to be filled with white fluffy duckies.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Derek_Jarman",
+   "died": "19 February 1994"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Terry Kath",
+   "kind": "individual",
+   "desc": "American lead singer and guitarist for Chicago",
+   "cause": "of the band Chicago, before putting what he thought was an unloaded pistol to his temple and pulling the trigger before accidentally shooting himself",
+   "last_words": "What do you think I'm gonna do? Blow my brains out?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Terry_Kath",
+   "died": "23 January 1978"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "date": "05-31",
+ "died": [
+  {
+   "year": 1410,
+   "year_label": "1410",
+   "name": "Martin of Aragon",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Aragonese king died from a combination of indigestion and uncontrollable laughing. According to legend, Martin was suffering from indigestion, caused by eating an entire goose, when his favorite jester, Borra, entered the king's bedroom. When Martin asked Borra where he had been, the jester replied with: \"Out of the next vineyard, where I saw a young deer hanging by his tail from a tree, as if someone had so punished him for stealing figs.\" This joke caused the king to die from laughter.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Aragon",
+   "born": null
+  },
+  {
+   "year": 1740,
+   "year_label": "1740",
+   "name": "Frederick William I of Prussia",
+   "kind": "individual",
+   "desc": "King in Prussia and Elector of Brandenburg",
+   "cause": "in response to priest or family members quoting Job 1:21",
+   "last_words": "No, not quite naked. I shall have my uniform on.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia",
+   "born": "14 August 1688"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Joseph Haydn",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": "playing his own \"Emperor's Hymn\"",
+   "last_words": "God preserve the emperor.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Haydn",
+   "born": "31 March 1732"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Herbert Rowse Armstrong",
+   "kind": "individual",
+   "desc": "English solicitor",
+   "cause": "prior to execution by hanging for the murder of his wife, Katharine Mary Friend Armstrong",
+   "last_words": "I am coming, Katie!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Rowse_Armstrong",
+   "born": "13 May 1869"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Timothy Leary",
+   "kind": "individual",
+   "desc": "American psychologist and writer",
+   "cause": null,
+   "last_words": "Why? Why not?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Leary",
+   "born": "22 October 1920"
+  }
+ ],
+ "born": [
+  {
+   "year": 1162,
+   "year_label": "1162",
+   "name": "Genghis Khan",
+   "kind": "individual",
+   "desc": "warlord and khan of Mongolia",
+   "cause": null,
+   "last_words": "Let not my end disarm you, and on no account weep or keen for me, lest the enemy be warned of my death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Genghis_Khan",
+   "died": "18 August 1227"
+  },
+  {
+   "year": 1819,
+   "year_label": "1819",
+   "name": "Walt Whitman",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": "to nurse \"Warry\" Fritzinger",
+   "last_words": "Warry, shift!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walt_Whitman",
+   "died": "26 March 1892"
+  },
+  {
+   "year": 1857,
+   "year_label": "1857",
+   "name": "Pope Pius XI",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic prelate and Pope",
+   "cause": null,
+   "last_words": "Peace, Peace.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_XI",
+   "died": "10 February 1939"
+  }
+ ]
+}

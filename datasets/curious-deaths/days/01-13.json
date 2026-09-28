@@ -1,0 +1,117 @@
+{
+ "date": "01-13",
+ "died": [
+  {
+   "year": 1691,
+   "year_label": "1691",
+   "name": "George Fox",
+   "kind": "individual",
+   "desc": "English Dissenter, founder of the Religious Society of Friends",
+   "cause": null,
+   "last_words": "Never heed; the Lord's power is over all weakness and death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Fox",
+   "born": null
+  },
+  {
+   "year": 1838,
+   "year_label": "1838",
+   "name": "John Scott, 1st Earl of Eldon",
+   "kind": "individual",
+   "desc": "British barrister and politician",
+   "cause": null,
+   "last_words": "It matters not where I am going whether the weather be cold or hot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Scott,_1st_Earl_of_Eldon",
+   "born": "4 June 1751"
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "Arthur Barker",
+   "kind": "individual",
+   "desc": "American criminal",
+   "cause": "shot while attempting to escape from Alcatraz Federal Penitentiary",
+   "last_words": "I'm all shot to hell!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Barker",
+   "born": "4 June 1899"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "James Joyce",
+   "kind": "individual",
+   "desc": "Irish novelist, author of Ulysses and Finnegans Wake",
+   "cause": null,
+   "last_words": "”But the real way To get happiness is by giving out happiness to other people. Try and leave this world better then you found it and when your turn comes to die, you can die happy in feeling that at any rate You have not wasted your time but have done your best. “Be Prepared” in this way, live happy and die happy - stick to your scout promise always - even after you have ceased to be a boy - and god help you to do it. Your friend, Baden Powell”",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Joyce",
+   "born": "2 February 1882"
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "First Officer Roger A. Pettit",
+   "kind": "individual",
+   "desc": "first officer of Flight 90",
+   "cause": "was trying to make an attempt to climb due to freezing temperatures, upon just took off from Washington National Airport talking to the flight's Captain, Larry Wheaton",
+   "last_words": "*\"Larry, we're going down, Larry!\"",
+   "wikipedia": "https://en.wikipedia.org/wiki/Washington_National_Airport",
+   "born": null
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "Captain Larry Wheaton",
+   "kind": "individual",
+   "desc": "pilot of Flight 90",
+   "cause": "before it was impacted to Potomac River and crashing at 14th Street bridge, upon talking to the flight's first officer, Roger Pettit",
+   "last_words": "*\"I know!\"",
+   "wikipedia": "https://en.wikipedia.org/wiki/Potomac_River",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": -69,
+   "year_label": "69 BC",
+   "name": "Cleopatra",
+   "kind": "individual",
+   "desc": "pharaoh of Egypt",
+   "cause": "right before she reportedly committed suicide by letting an asp bite her",
+   "last_words": "Here thou art, then!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cleopatra",
+   "died": "12 August 30 BC"
+  },
+  {
+   "year": 1832,
+   "year_label": "1832",
+   "name": "Horatio Alger",
+   "kind": "individual",
+   "desc": "American author and educator",
+   "cause": null,
+   "last_words": "Splendid! I'll sleep now. I shall have a nap. Later I can pack and leave on the evening train. But I'm tired. Let me rest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Alger",
+   "died": "18 July 1899"
+  },
+  {
+   "year": 1891,
+   "year_label": "1891",
+   "name": "Miguel Pro",
+   "kind": "individual",
+   "desc": "Mexican Jesuit Catholic priest",
+   "cause": "prior to execution by firing squad on false charges of sedition",
+   "last_words": "Long live Christ the King!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Pro",
+   "died": "23 November 1927"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Toni Kurz",
+   "kind": "individual",
+   "desc": "German mountain climber",
+   "cause": "dying on the Eiger north face",
+   "last_words": "I cannot go on.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Toni_Kurz",
+   "died": "22 July 1936"
+  }
+ ]
+}

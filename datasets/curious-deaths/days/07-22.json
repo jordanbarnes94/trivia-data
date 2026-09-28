@@ -1,0 +1,117 @@
+{
+ "date": "07-22",
+ "died": [
+  {
+   "year": 1454,
+   "year_label": "1454",
+   "name": "John II of Castile",
+   "kind": "individual",
+   "desc": null,
+   "cause": "King of Castile",
+   "last_words": "Were I born the son of a farmer, and became a friar of the Abrojo, and not the king of Castile.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_II_of_Castile",
+   "born": "6 March 1405"
+  },
+  {
+   "year": 1663,
+   "year_label": "1663",
+   "name": "Archibald Johnston",
+   "kind": "individual",
+   "desc": "Scottish judge and statesman",
+   "cause": "before execution by hanging",
+   "last_words": "Abba, Father, accept this, Thy poor sinful servant, coming unto Thee through the merits of Jesus Christ. O pray, pray! praise, praise!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Archibald_Johnston",
+   "born": null
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Barnard Elliott Bee Jr.",
+   "kind": "individual",
+   "desc": "Confederate general of the American Civil War",
+   "cause": "before being mortally wounded at the First Battle of Bull Run. His last words gave rise to the nickname of Thomas J. \"Stonewall\" Jackson",
+   "last_words": "There is Jackson standing like a stone wall! Rally behind the Virginians. Let us determine to die here and we will conquer. Follow me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Barnard_Elliott_Bee_Jr.",
+   "born": "8 February 1824"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "Florenz Ziegfeld Jr.",
+   "kind": "individual",
+   "desc": "American Broadway impresario",
+   "cause": null,
+   "last_words": "Curtain! Fast music! Lights! Ready for the last finale! Great! The show looks good. The show looks good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Florenz_Ziegfeld_Jr.",
+   "born": "21 March 1867"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "Toni Kurz",
+   "kind": "individual",
+   "desc": "German mountain climber",
+   "cause": "dying on the Eiger north face",
+   "last_words": "I cannot go on.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Toni_Kurz",
+   "born": "13 January 1913"
+  }
+ ],
+ "born": [
+  {
+   "year": 1647,
+   "year_label": "1647",
+   "name": "Margaret Mary Alacoque",
+   "kind": "individual",
+   "desc": "French Roman Catholic nun, promoter of devotion to the Sacred Heart of Jesus",
+   "cause": null,
+   "last_words": "I need nothing but God, and to lose myself in the heart of Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque",
+   "died": "17 October 1690"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "James Whale",
+   "kind": "individual",
+   "desc": "English film and theater director and actor",
+   "cause": "in his suicide note",
+   "last_words": "The future is just old age and illness and pain... I must have peace and this is the only way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Whale",
+   "died": "29 May 1957"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "Arthur Seyss-Inquart",
+   "kind": "individual",
+   "desc": "Austrian Nazi politician, Reichskommissar of the occupied Netherlands",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "I hope that this execution is the last act of the tragedy of the Second World War and that the lesson taken from this world war will be that peace and understanding should exist between peoples. I believe in Germany.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Seyss-Inquart",
+   "died": "16 October 1946"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Sobhuza II",
+   "kind": "individual",
+   "desc": "King of Swaziland, longest verifiably-reigning monarch in recorded history",
+   "cause": "to his minister of health after halting a meeting",
+   "last_words": "I am going.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sobhuza_II",
+   "died": "21 August 1982"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Vaughn Bodē",
+   "kind": "individual",
+   "desc": "American cartoonist and illustrator",
+   "cause": "to his son",
+   "last_words": "Mark, I've seen God four times, and I'm going to see him again soon. That's No. 1 to me, and you're No. 2.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vaughn_Bodē",
+   "died": "18 July 1975"
+  }
+ ]
+}

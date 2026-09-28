@@ -1,0 +1,150 @@
+{
+ "date": "04-10",
+ "died": [
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Thomas Hart Benton",
+   "kind": "individual",
+   "desc": "United States Senator from Missouri",
+   "cause": null,
+   "last_words": "I am comfortable and content.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hart_Benton_(politician)",
+   "born": "14 March 1782"
+  },
+  {
+   "year": 1953,
+   "year_label": "1953",
+   "name": "Owen Roberts",
+   "kind": "individual",
+   "desc": "British Royal Air Force officer and aviator",
+   "cause": "when his flight attendant questioned the safety of the Lockheed Lodestar prior to the aircraft crashing during takeoff",
+   "last_words": "If they are not, blame me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Owen_Roberts_(aviator)",
+   "born": null
+  },
+  {
+   "year": 1992,
+   "year_label": "1992",
+   "name": "Sam Kinison",
+   "kind": "individual",
+   "desc": "American comic",
+   "cause": "spoken after a fatal car accident caused by a teen who had been drinking alcohol",
+   "last_words": "I don't want to die; I don't want to die. But why? Okay, okay, okay.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Kinison",
+   "born": "8 December 1953"
+  }
+ ],
+ "born": [
+  {
+   "year": 742,
+   "year_label": "742",
+   "name": "Charlemagne",
+   "kind": "individual",
+   "desc": "European monarch",
+   "cause": "quoting Jesus",
+   "last_words": "Lord, into Thy hands I commend my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charlemagne",
+   "died": "28 January 814"
+  },
+  {
+   "year": 1397,
+   "year_label": "1397",
+   "name": "Sejong the Great",
+   "kind": "individual",
+   "desc": "king of the Joseon Dynasty",
+   "cause": "Korea would later be invaded and pillaged by the Japanese, and later, subjugated by the Manchus, who the Koreans considered 'barbarians'",
+   "last_words": "Although dealing with the Japanese and the barbarians is not something that should be taken lightly, I fear that as peace is ingrained in you, the days growing longer, all matters might be done lazily and slowly, so you should always be careful and watch out every day, so you do not give in to negligence.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sejong_the_Great",
+   "died": "30 March 1450"
+  },
+  {
+   "year": 1512,
+   "year_label": "1512",
+   "name": "James V",
+   "kind": "individual",
+   "desc": "of Scotland",
+   "cause": "on being informed of the birth of his daughter and successor, Mary, Queen of Scots",
+   "last_words": "It [the Crown of Scotland] came with a lass, and it will go with a lass.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_V",
+   "died": "15 December 1542"
+  },
+  {
+   "year": 1583,
+   "year_label": "1583",
+   "name": "Hugo Grotius",
+   "kind": "individual",
+   "desc": "Dutch humanist, diplomat, lawyer, theologian and writer",
+   "cause": null,
+   "last_words": "Be serious.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Grotius",
+   "died": "28 August 1645"
+  },
+  {
+   "year": 1778,
+   "year_label": "1778",
+   "name": "William Hazlitt",
+   "kind": "individual",
+   "desc": "English essayist and critic",
+   "cause": null,
+   "last_words": "Well, I've had a happy life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Hazlitt",
+   "died": "18 September 1830"
+  },
+  {
+   "year": 1822,
+   "year_label": "1822",
+   "name": "George Lippard",
+   "kind": "individual",
+   "desc": "American author, social activist and labor organizer",
+   "cause": "to his physician",
+   "last_words": "Is this death?",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Lippard",
+   "died": "9 February 1854"
+  },
+  {
+   "year": 1827,
+   "year_label": "1827",
+   "name": "Lew Wallace",
+   "kind": "individual",
+   "desc": "American lawyer, politician, Union general and author",
+   "cause": null,
+   "last_words": "Thy will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lew_Wallace",
+   "died": "15 February 1905"
+  },
+  {
+   "year": 1829,
+   "year_label": "1829",
+   "name": "William Booth",
+   "kind": "individual",
+   "desc": "English Methodist preacher and co-founder of the Salvation Army",
+   "cause": "to his son, Bramwell Booth",
+   "last_words": "And the homeless children, Bramwell, look after the homeless. Promise me...",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Booth",
+   "died": "20 August 1912"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Vladimir Nabokov",
+   "kind": "individual",
+   "desc": "Russian-American author and entomologist",
+   "cause": "he had a keen interest in butterflies",
+   "last_words": "A certain butterfly is already on the wing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Nabokov",
+   "died": "2 July 1977"
+  },
+  {
+   "year": 1925,
+   "year_label": "1925",
+   "name": "Charles L. Kelly",
+   "kind": "individual",
+   "desc": "United States Army helicopter pilot and medical evacuation unit commander",
+   "cause": "responding to warning to leave a dangerous landing zone during a Vietnam War rescue mission. Kelly was then struck by a bullet",
+   "last_words": "When I have your wounded.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_L._Kelly",
+   "died": "1 July 1964"
+  }
+ ]
+}

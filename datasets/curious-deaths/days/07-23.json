@@ -1,0 +1,106 @@
+{
+ "date": "07-23",
+ "died": [
+  {
+   "year": 1841,
+   "year_label": "1841",
+   "name": "Edward Nares",
+   "kind": "individual",
+   "desc": "English historian, theologian and writer",
+   "cause": null,
+   "last_words": "Good-bye.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Nares",
+   "born": "26 March 1762"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Ulysses S. Grant",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "when asked if he wanted anything while dying of throat cancer",
+   "last_words": "Water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
+   "born": "27 April 1822"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Frederick Holder",
+   "kind": "individual",
+   "desc": "Speaker of the Australian House of Representatives",
+   "cause": "prior to collapsing in the House after a tumultuous all-night session",
+   "last_words": "Dreadful! Dreadful!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Holder",
+   "born": "12 May 1850"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Reginald Dyer",
+   "kind": "individual",
+   "desc": "British Indian Army officer",
+   "cause": "In 1919, Dyer ordered the troops under his command to fire into a crowd of protesting Indian independence activists in Jallianwala Bagh, Punjab, killing at least 379 people and wounding over 1,200 others",
+   "last_words": "So many people who knew the condition of Amritsar say I did right...but so many others say I did wrong. I only want to die and know from my Maker whether I did right or wrong.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Reginald_Dyer",
+   "born": "9 October 1864"
+  },
+  {
+   "year": 1966,
+   "year_label": "1966",
+   "name": "Montgomery Clift",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his private nurse, Lorenzo James, who had suggested they watch The Misfits on television",
+   "last_words": "Absolutely not!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Montgomery_Clift",
+   "born": "17 October 1920"
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "Vic Morrow",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "prior to being killed along with two child actors during the filming of Twilight Zone: The Movie prior to being killed along with two child actors during filming in the Twilight Zone accident",
+   "last_words": "I've got to be crazy to do this shot. I should've asked for a double.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vic_Morrow",
+   "born": "14 February 1929"
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "Vic Morrow, Myca Dinh Le and Renee Shin-Yi Chen",
+   "kind": "group",
+   "desc": null,
+   "cause": "During the filming of Twilight Zone: The Movie, the 53-year-old Morrow, seven-year-old Le, and six-year-old Chen were performing a scene in which their characters are pursued by a helicopter. Heat from special-effects explosions caused the helicopter to fall on them. Morrow and Le were decapitated and Chen was crushed.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Vic_Morrow",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1806,
+   "year_label": "1806",
+   "name": "Félix Arvers",
+   "kind": "individual",
+   "desc": "French poet and dramatist",
+   "cause": "to his confessor",
+   "last_words": "Ah! Coquereau, I forgot to mention one of the greatest faults of my life. I have spoken badly of Charles X!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Félix_Arvers",
+   "died": "7 November 1850"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Elliot See",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "prior to plane crash that killed him and fellow astronaut Charles Bassett",
+   "last_words": "Final ILS two four.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elliot_See",
+   "died": "28 February 1966"
+  }
+ ]
+}

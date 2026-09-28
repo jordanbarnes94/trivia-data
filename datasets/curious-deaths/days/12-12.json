@@ -1,0 +1,84 @@
+{
+ "date": "12-12",
+ "died": [
+  {
+   "year": 1751,
+   "year_label": "1751",
+   "name": "Henry St John, 1st Viscount Bolingbroke",
+   "kind": "individual",
+   "desc": "English politician",
+   "cause": "to Philip Stanhope, 4th Earl of Chesterfield. Bolingbroke also reaffirmed his Deist convictions",
+   "last_words": "God, who pleased me here, will do what he pleases with me hereafter, and he knows best what to do. May he bless you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_St_John,_1st_Viscount_Bolingbroke",
+   "born": "16 September 1678"
+  },
+  {
+   "year": 1777,
+   "year_label": "1777",
+   "name": "Albrecht von Haller",
+   "kind": "individual",
+   "desc": "Swiss anatomist and physiologist",
+   "cause": "to his friend Dr. Rosselet",
+   "last_words": "My friend, the artery ceases to beat.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albrecht_von_Haller",
+   "born": "16 October 1708"
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "Douglas Fairbanks",
+   "kind": "individual",
+   "desc": "American actor and filmmaker",
+   "cause": "to an attendant who asked how he was",
+   "last_words": "Never felt better.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Fairbanks",
+   "born": "23 May 1883"
+  },
+  {
+   "year": 1968,
+   "year_label": "1968",
+   "name": "Tallulah Bankhead",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": null,
+   "last_words": "Codeine... bourbon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tallulah_Bankhead",
+   "born": "31 January 1902"
+  }
+ ],
+ "born": [
+  {
+   "year": 1731,
+   "year_label": "1731",
+   "name": "Erasmus Darwin",
+   "kind": "individual",
+   "desc": "English physician and natural philosopher",
+   "cause": "urging his daughter to bleed him",
+   "last_words": "Emma, will you? There is no time to be lost.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Erasmus_Darwin",
+   "died": "18 April 1802"
+  },
+  {
+   "year": 1777,
+   "year_label": "1777",
+   "name": "Alexander I of Russia",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his wife, Elizabeth Alexeievna (Louise of Baden)",
+   "last_words": "You must be tired.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
+   "died": "1 December 1825"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Frank Sinatra",
+   "kind": "individual",
+   "desc": "American singer and actor",
+   "cause": null,
+   "last_words": "I'm losing it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+   "died": "14 May 1998"
+  }
+ ]
+}

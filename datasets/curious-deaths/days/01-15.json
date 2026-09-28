@@ -1,0 +1,161 @@
+{
+ "date": "01-15",
+ "died": [
+  {
+   "year": 69,
+   "year_label": "69",
+   "name": "Galba",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "prior to beheading by supporters of Otho",
+   "last_words": "Strike, if it be for the Romans' good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Galba",
+   "born": "24 December 3 BC"
+  },
+  {
+   "year": 1623,
+   "year_label": "1623",
+   "name": "Paolo Sarpi",
+   "kind": "individual",
+   "desc": "Venetian historian, prelate, scientist, canon lawyer and statesman",
+   "cause": "referring to Venice",
+   "last_words": "Be thou everlasting.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Sarpi",
+   "born": "14 August 1552"
+  },
+  {
+   "year": 1672,
+   "year_label": "1672",
+   "name": "John Cosin",
+   "kind": "individual",
+   "desc": "English churchman",
+   "cause": "raising his hand",
+   "last_words": "Lord!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Cosin",
+   "born": "30 November 1594"
+  },
+  {
+   "year": 1866,
+   "year_label": "1866",
+   "name": "Massimo d'Azeglio",
+   "kind": "individual",
+   "desc": "Italian statesman, novelist and painter",
+   "cause": "seeing his estranged wife arrive at his bedside as he died",
+   "last_words": "Ah, Luisa, you always arrive just as I'm leaving.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Massimo_d'Azeglio",
+   "born": "24 October 1798"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Victims of the Great Molasses Flood",
+   "kind": "group",
+   "desc": null,
+   "cause": "21 people were killed and 150 injured after a large tank of molasses burst in Boston's North End.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Great_Molasses_Flood",
+   "born": null
+  },
+  {
+   "year": 1968,
+   "year_label": "1968",
+   "name": "Bill Masterton",
+   "kind": "individual",
+   "desc": "Canadian American ice hockey player",
+   "cause": "after sustaining fatal head injury in NHL game",
+   "last_words": "Never again, never again.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bill_Masterton",
+   "born": "13 August 1938"
+  },
+  {
+   "year": 1969,
+   "year_label": "1969",
+   "name": "Garfield M. Langhorn",
+   "kind": "individual",
+   "desc": "United States Army soldier and Medal of Honor recipient",
+   "cause": "prior to falling on a grenade to protect wounded soldiers during the Vietnam War",
+   "last_words": "Somebody's got to care.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Garfield_M._Langhorn",
+   "born": "10 September 1948"
+  }
+ ],
+ "born": [
+  {
+   "year": 1622,
+   "year_label": "1622",
+   "name": "Molière",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The French playwright suffered a pulmonary hemorrhage caused by tuberculosis while playing the part of a hypochondriac in his own play Le malade imaginaire. He disguised his convulsion as part of his performance and finished the show, which ends with his character dead in a chair. After the show, he was carried in the chair to his house, where he died.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Molière",
+   "died": "17 February 1673"
+  },
+  {
+   "year": 1623,
+   "year_label": "1623",
+   "name": "Algernon Sidney",
+   "kind": "individual",
+   "desc": "English politician",
+   "cause": "prior to execution by beheading for treason",
+   "last_words": "I know that my Redeemer liveth. I die for the good old cause.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Algernon_Sidney",
+   "died": "7 December 1683"
+  },
+  {
+   "year": 1754,
+   "year_label": "1754",
+   "name": "Jacques Pierre Brissot",
+   "kind": "individual",
+   "desc": "French abolitionist and leading member of the Girondins",
+   "cause": "singing these words along with 21 other Girondins before their execution",
+   "last_words": "Rather death than slavery, is the motto of the French.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Pierre_Brissot",
+   "died": "31 October 1793"
+  },
+  {
+   "year": 1763,
+   "year_label": "1763",
+   "name": "François-Joseph Talma",
+   "kind": "individual",
+   "desc": "French actor",
+   "cause": null,
+   "last_words": "Voltaire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/François-Joseph_Talma",
+   "died": "19 October 1826"
+  },
+  {
+   "year": 1891,
+   "year_label": "1891",
+   "name": "Ray Chapman",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": "referring to the pitcher who had fatally struck him with a pitch and to his wedding band On 16 August 1920, while he was up to bat, the 29-year-old Cleveland Indians baseball player was struck in the head by a pitch thrown by the New York Yankees' Carl Mays and died 12 hours later.",
+   "last_words": "I'm all right; tell Mays not to worry... ring....Katie's ring.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ray_Chapman",
+   "died": "17 August 1920"
+  },
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Martin Luther King Jr.",
+   "kind": "individual",
+   "desc": "American civil rights activist",
+   "cause": "speaking to musician Ben Branch shortly before being assassinated",
+   "last_words": "Ben, make sure you play 'Take My Hand, Precious Lord' in the meeting tonight. Play it real pretty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
+   "died": "4 April 1968"
+  },
+  {
+   "year": 1953,
+   "year_label": "1953",
+   "name": "Robert Alton Harris",
+   "kind": "individual",
+   "desc": "American kidnapper and murderer",
+   "cause": "prior to execution by gas chamber",
+   "last_words": "You can be a king or a street sweeper, but everyone dances with the Grim Reaper.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Alton_Harris",
+   "died": "21 April 1992"
+  }
+ ]
+}

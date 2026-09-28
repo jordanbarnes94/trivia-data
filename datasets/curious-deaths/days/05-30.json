@@ -1,0 +1,128 @@
+{
+ "date": "05-30",
+ "died": [
+  {
+   "year": 1416,
+   "year_label": "1416",
+   "name": "Jerome of Prague",
+   "kind": "individual",
+   "desc": "Czech scholastic philosopher and theologian",
+   "cause": "burned for heresy",
+   "last_words": "O Lord God, Father Almighty, have mercy upon me, and be merciful unto mine offences, for thou knowest how sincerely I have loved Thy truth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerome_of_Prague",
+   "born": null
+  },
+  {
+   "year": 1431,
+   "year_label": "1431",
+   "name": "Joan of Arc",
+   "kind": "individual",
+   "desc": "French military leader and mystic",
+   "cause": "while she was burning at the stake",
+   "last_words": "Hold the cross high so I may see it through the flames!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+   "born": null
+  },
+  {
+   "year": 1574,
+   "year_label": "1574",
+   "name": "Charles IX of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Nurse, nurse, what murder! what blood! Oh! I have done wrong. God pardon me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_IX_of_France",
+   "born": "27 June 1550"
+  },
+  {
+   "year": 1744,
+   "year_label": "1744",
+   "name": "Alexander Pope",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I am dying, sir, of a hundred good symptoms.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pope",
+   "born": "21 May 1688"
+  },
+  {
+   "year": 1778,
+   "year_label": "1778",
+   "name": "Voltaire",
+   "kind": "individual",
+   "desc": "French writer",
+   "cause": "when asked by a priest to renounce Satan before his death",
+   "last_words": "Now is not the time for making new enemies.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Voltaire",
+   "born": "21 November 1694"
+  },
+  {
+   "year": 1832,
+   "year_label": "1832",
+   "name": "James Mackintosh",
+   "kind": "individual",
+   "desc": "FRS FRSE, Scottish jurist, politician and historian",
+   "cause": null,
+   "last_words": "Happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Mackintosh",
+   "born": "24 October 1765"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "William Barton Rogers",
+   "kind": "individual",
+   "desc": "founder and first president of the Massachusetts Institute of Technology",
+   "cause": "while giving a commencement address",
+   "last_words": "As I stand here today and see what the Institute is, what it has already accomplished, and what it is at present doing, I call to mind the beginnings of science. I remember that one hundred and fifty years ago Stephen Hales published a pamphlet on the subject of illuminating gas, in which he stated that his researchers had demonstrated that 128 grains of bituminous coal -",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Barton_Rogers",
+   "born": "7 December 1804"
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "Louis Slotin",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 35-year-old Canadian physicist and Manhattan Project scientist died as the result of an accident while performing an experiment called \"tickling the dragon's tail\". Slotin used a screwdriver to separate two half sphere-shaped neutron deflectors enclosing a plutonium core which came to be known as the \"demon core\" to observe how much he can deflect the neutron without the core going over its critical mass. His screwdriver slipped, causing the top deflector to fully encase the core, resulting into a criticality accident that exposed him to a fatal dose of radiation. Slotin died 9 days later; the other people in the room observing the experiment survived.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Slotin",
+   "born": "1 December 1910"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Boris Pasternak",
+   "kind": "individual",
+   "desc": "Russian author",
+   "cause": "to his wife Zinaida",
+   "last_words": "Why am I hemorrhaging?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boris_Pasternak",
+   "born": "29 January 1890"
+  }
+ ],
+ "born": [
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Mel Blanc",
+   "kind": "individual",
+   "desc": "American voice actor and radio personality",
+   "cause": "spoken in the voice of Yosemite Sam to his son Noel",
+   "last_words": "I love you, Noel.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mel_Blanc",
+   "died": "10 July 1989"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Benny Goodman",
+   "kind": "individual",
+   "desc": "American clarinetist",
+   "cause": "to his friend Carol Smith, who discovered him pale and slumped on his couch after suffering an apparent heart attack",
+   "last_words": "Don't worry. It's all right.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benny_Goodman",
+   "died": "13 June 1986"
+  }
+ ]
+}

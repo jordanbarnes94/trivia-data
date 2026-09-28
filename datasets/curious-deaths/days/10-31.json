@@ -1,0 +1,172 @@
+{
+ "date": "10-31",
+ "died": [
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Jacques Pierre Brissot",
+   "kind": "individual",
+   "desc": "French abolitionist and leading member of the Girondins",
+   "cause": "singing these words along with 21 other Girondins before their execution",
+   "last_words": "Rather death than slavery, is the motto of the French.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Pierre_Brissot",
+   "born": "15 January 1754"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "Marie Bashkirtseff",
+   "kind": "individual",
+   "desc": "Russian artist and diarist",
+   "cause": "looking at a candle beside her deathbed",
+   "last_words": "We shall go out together.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marie_Bashkirtseff",
+   "born": "11 November 1860"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Richard Von Albade Gammon",
+   "kind": "individual",
+   "desc": "American football fullback fatally injured in game",
+   "cause": "responding to teammate who asked if he was going to give up",
+   "last_words": "No, Bill, I've got too much Georgia grit for that.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Von_Albade_Gammon",
+   "born": "4 December 1879"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Richie Rose",
+   "kind": "individual",
+   "desc": "American police officer from the Denver Police Department",
+   "cause": "apparently shot by bootleggers",
+   "last_words": "Mafia, Mafia, Mafia.",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_law_enforcement_officers_killed_in_the_line_of_duty_in_the_United_States",
+   "born": null
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Harry Houdini",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 52-year-old Hungarian-American escape artist, illusionist, and stunt performer reportedly died from a punch from college student J. Gordon Whitehead, which gave him \"peritonitis, caused by a ruptured appendix.\" However, other stories claim he was murdered. Who or what killed Houdini is still under speculation.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Harry_Houdini",
+   "born": "24 March 1874"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "Captain Charles Gilbert",
+   "kind": "individual",
+   "desc": null,
+   "cause": "pilot of Western Airlines Flight 2605, before the plane crashed into a hangar. His last words were captured on a black box",
+   "last_words": "Oh, Jesus Christ!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Western_Airlines_Flight_2605",
+   "born": null
+  },
+  {
+   "year": 1984,
+   "year_label": "1984",
+   "name": "Indira Gandhi",
+   "kind": "individual",
+   "desc": "Indian politician and stateswoman",
+   "cause": "prior to her assassination",
+   "last_words": "Namaste...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+   "born": "19 November 1917"
+  },
+  {
+   "year": 1993,
+   "year_label": "1993",
+   "name": "River Phoenix",
+   "kind": "individual",
+   "desc": "American actor, musician, and activist",
+   "cause": null,
+   "last_words": "No paparazzi, I want anonymity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/River_Phoenix",
+   "born": "23 August 1970"
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Gameel Al-Batouti",
+   "kind": "individual",
+   "desc": "pilot of EgyptAir Flight 990",
+   "cause": "final air control transmission from the airplane before spiraling down to the Atlantic Ocean",
+   "last_words": "I rely on God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gameel_Al-Batouti",
+   "born": "2 February 1940"
+  }
+ ],
+ "born": [
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "John Keats",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I can feel the daisies growing over me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Keats",
+   "died": "23 February 1821"
+  },
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "Boston Custer",
+   "kind": "individual",
+   "desc": "United States Army civilian contractor, brother of George Armstrong Custer and Thomas Custer",
+   "cause": "asking about the location of his brother George prior to his death at the Battle of the Little Bighorn",
+   "last_words": "Where's the General?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Boston_Custer",
+   "died": "25 June 1876"
+  },
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "Joseph Wright",
+   "kind": "individual",
+   "desc": "compiler of The English Dialect Dictionary",
+   "cause": null,
+   "last_words": "Dictionary.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Wright_(linguist)",
+   "died": "27 February 1930"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Tom Ketchum",
+   "kind": "individual",
+   "desc": "American outlaw and cowboy",
+   "cause": "executed by hanging for attempted train robbery",
+   "last_words": "Goodbye. Please dig my grave very deep. All right; hurry up.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Ketchum",
+   "died": "26 April 1901"
+  },
+  {
+   "year": 1911,
+   "year_label": "1911",
+   "name": "Francis Crowley",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "You sons of bitches. Give my love to Mother.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Crowley",
+   "died": "21 January 1932"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "Michael Landon",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "when one of his sons said it was time to move on",
+   "last_words": "You're right. It's time. I love you all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Landon",
+   "died": "1 July 1991"
+  }
+ ]
+}

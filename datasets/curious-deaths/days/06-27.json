@@ -1,0 +1,84 @@
+{
+ "date": "06-27",
+ "died": [
+  {
+   "year": 1777,
+   "year_label": "1777",
+   "name": "William Dodd",
+   "kind": "individual",
+   "desc": "English Anglican clergyman and man of letters",
+   "cause": "to his executioner prior to hanging for forgery. He then whispered something unknown to the executioner",
+   "last_words": "Come to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Dodd_(priest)",
+   "born": "29 May 1729"
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "Philippe de Noailles",
+   "kind": "individual",
+   "desc": "duc de Mouchy",
+   "cause": "prior to execution by guillotine",
+   "last_words": "When I was sixty years of age, I mounted the breach for my king; and now that I am eighty-four I shall not want courage to mount the scaffold for my God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philippe_de_Noailles",
+   "born": "27 November 1715"
+  },
+  {
+   "year": 1844,
+   "year_label": "1844",
+   "name": "Joseph Smith",
+   "kind": "individual",
+   "desc": "founder of Mormonism",
+   "cause": "before falling from a window during his murder",
+   "last_words": "O Lord my God!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Smith",
+   "born": "23 December 1805"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "Inocêncio Francisco da Silva",
+   "kind": "individual",
+   "desc": "Portuguese bibliographer",
+   "cause": null,
+   "last_words": "Farewell, the martyrdom is no more!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Inocêncio_Francisco_da_Silva",
+   "born": "28 September 1810"
+  },
+  {
+   "year": 1950,
+   "year_label": "1950",
+   "name": "Milada Horáková",
+   "kind": "individual",
+   "desc": "Czech politician",
+   "cause": "prior to execution by hanging on fabricated charges of conspiracy and treason",
+   "last_words": "I'm falling, I'm falling, I have lost this fight but I leave with honour. I love this country, I love this nation, strive for its wellbeing. I depart without rancour towards you. I wish you that, I wish you that...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Milada_Horáková",
+   "born": "25 December 1901"
+  }
+ ],
+ "born": [
+  {
+   "year": 1550,
+   "year_label": "1550",
+   "name": "Charles IX of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Nurse, nurse, what murder! what blood! Oh! I have done wrong. God pardon me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_IX_of_France",
+   "died": "30 May 1574"
+  },
+  {
+   "year": 1682,
+   "year_label": "1682",
+   "name": "Charles XII",
+   "kind": "individual",
+   "desc": "King of Sweden",
+   "cause": "when stepping down from his perch into an entrenchment just as he was shot in the head",
+   "last_words": "I am coming down now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_XII",
+   "died": "30 November 1718"
+  }
+ ]
+}

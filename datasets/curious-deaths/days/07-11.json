@@ -1,0 +1,84 @@
+{
+ "date": "07-11",
+ "died": [
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Victims of the Gillingham Fair fire disaster",
+   "kind": "group",
+   "desc": null,
+   "cause": "In Gillingham, Kent, an annual firefighting demonstration involving a rescue operation inside a three-storey dummy house was hosted at a fair in Gillingham park. The real fire was accidentally lit after the six men and nine boys aged between 10 and 14 were ready to enact their staged rescue. The canvas-clad wooden structure was quickly engulfed in flames, trapping the occupants inside. The crowd reportedly cheered and applauded for what they believed to be realistic and spectacular effects until they witnessed two boys with their clothing ablaze jump to their deaths from the top of the structure. The fire resulted in the deaths of 15 people.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Gillingham_Fair_fire_disaster",
+   "born": null
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Laurence Olivier",
+   "kind": "individual",
+   "desc": "English actor and director",
+   "cause": "to a nurse when she spilled water on him while moistening his lips",
+   "last_words": "This isn't Hamlet, you know, it's not meant to go into the bloody ear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Olivier",
+   "born": "22 May 1907"
+  }
+ ],
+ "born": [
+  {
+   "year": 1653,
+   "year_label": "1653",
+   "name": "Sarah Good",
+   "kind": "individual",
+   "desc": "American woman accused of witchcraft during the Salem witch trials",
+   "cause": "to Reverend Nicholas Noyes prior to execution by hanging",
+   "last_words": "You are a lyer; I am no more a Witch than you are a Wizard, and if you take away my Life, God will give you Blood to drink.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Good",
+   "died": "29 July 1692"
+  },
+  {
+   "year": 1711,
+   "year_label": "1711",
+   "name": "Professor Georg Wilhelm Richmann",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Russian physicist was killed when a globe of ball lightning which he created in his laboratory struck him in the forehead.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann",
+   "died": "6 August 1753"
+  },
+  {
+   "year": 1767,
+   "year_label": "1767",
+   "name": "John Quincy Adams",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "after collapsing in the United States Capitol",
+   "last_words": "This is the last of Earth. I am content.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+   "died": "23 February 1848"
+  },
+  {
+   "year": 1775,
+   "year_label": "1775",
+   "name": "Joseph Blanco White",
+   "kind": "individual",
+   "desc": "Spanish political thinker, theologian and poet",
+   "cause": null,
+   "last_words": "Now I die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Blanco_White",
+   "died": "20 May 1841"
+  },
+  {
+   "year": 1856,
+   "year_label": "1856",
+   "name": "Georgiana Drew",
+   "kind": "individual",
+   "desc": "American stage actress, mother of Lionel, Ethel and John Barrymore",
+   "cause": null,
+   "last_words": "Oh, my poor kids. What will ever become of them?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgiana_Drew",
+   "died": "2 July 1893"
+  }
+ ]
+}

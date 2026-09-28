@@ -1,0 +1,95 @@
+{
+ "date": "02-11",
+ "died": [
+  {
+   "year": 1803,
+   "year_label": "1803",
+   "name": "Jean-François de La Harpe",
+   "kind": "individual",
+   "desc": "French playwright, writer and literary critic",
+   "cause": "his final recorded words, spoken the day before his death",
+   "last_words": "I am grateful to Divine Mercy for having left me sufficient recollection to feel how consoling these prayers are to the dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-François_de_La_Harpe",
+   "born": "20 November 1739"
+  },
+  {
+   "year": 1992,
+   "year_label": "1992",
+   "name": "Johnny Frank Garrett",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I'd like to thank my family for loving me and taking care of me, and the rest of the world can kiss my ass.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Frank_Garrett",
+   "born": "24 December 1963"
+  }
+ ],
+ "born": [
+  {
+   "year": 1657,
+   "year_label": "1657",
+   "name": "Bernard Le Bovier de Fontenelle",
+   "kind": "individual",
+   "desc": "French author",
+   "cause": "dying at the age of 99",
+   "last_words": "I do not suffer, my friends; I only feel a certain difficulty of living.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle",
+   "died": "9 January 1757"
+  },
+  {
+   "year": 1847,
+   "year_label": "1847",
+   "name": "Thomas Edison",
+   "kind": "individual",
+   "desc": "American inventor",
+   "cause": "speaking words of unclear meaning as he was dying",
+   "last_words": "It's very beautiful over there.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Edison",
+   "died": "18 October 1931"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "Moses Annenberg",
+   "kind": "individual",
+   "desc": "American newspaper publisher",
+   "cause": "to his son, Walter Annenberg. Moses Annenberg had been released from prison a month earlier after being convicted of tax evasion",
+   "last_words": "Walter, who knows what is the scheme of things? My suffering has all been for the purpose of making you a man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moses_Annenberg",
+   "died": "20 July 1942"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Max Baer",
+   "kind": "individual",
+   "desc": "American boxer",
+   "cause": "dying of a heart attack",
+   "last_words": "Oh, God, here I go!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Max_Baer_(boxer)",
+   "died": "21 November 1959"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Gene Vincent",
+   "kind": "individual",
+   "desc": "American rock and roll and rockabilly musician",
+   "cause": "dying of a bleeding ulcer while in his mother's trailer",
+   "last_words": "Mama, if I get through this, I swear I'll be a better man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gene_Vincent",
+   "died": "12 October 1971"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Hank Gathers",
+   "kind": "individual",
+   "desc": "American basketball player",
+   "cause": "after collapsing during game",
+   "last_words": "I don't want to lay down.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hank_Gathers",
+   "died": "4 March 1990"
+  }
+ ]
+}

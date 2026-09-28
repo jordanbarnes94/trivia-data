@@ -1,0 +1,84 @@
+{
+ "date": "02-14",
+ "died": [
+  {
+   "year": 1779,
+   "year_label": "1779",
+   "name": "James Cook",
+   "kind": "individual",
+   "desc": "British explorer and Royal Navy captain",
+   "cause": "after being mortally wounded by a native Hawaiian",
+   "last_words": "Take me to the boats.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Cook",
+   "born": "27 October 1728"
+  },
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Charles Ferdinand, Duke of Berry",
+   "kind": "individual",
+   "desc": null,
+   "cause": "assassinated at the Paris Opera by Louis Pierre Louvel, a Bonapartist",
+   "last_words": "Blessed Virgin, have mercy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Ferdinand,_Duke_of_Berry",
+   "born": "24 January 1778"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "O. O. McIntyre",
+   "kind": "individual",
+   "desc": "American newspaper columnist",
+   "cause": "to his wife",
+   "last_words": "Snooks, will you please turn this way? I like to look at your face.",
+   "wikipedia": "https://en.wikipedia.org/wiki/O._O._McIntyre",
+   "born": "18 February 1884"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "Ray Wetmore",
+   "kind": "individual",
+   "desc": "American World War II flying ace",
+   "cause": "prior to fatal crash of F-86 Sabre",
+   "last_words": "Say goodbye to my wife and kids.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ray_Wetmore",
+   "born": "30 September 1923"
+  }
+ ],
+ "born": [
+  {
+   "year": 1483,
+   "year_label": "1483",
+   "name": "Babur",
+   "kind": "individual",
+   "desc": "founder of the Mughal Empire and first Emperor of the Mughal dynasty",
+   "cause": null,
+   "last_words": "I give your brothers to your keeping. Be faithful to them and all the people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Babur",
+   "died": "26 December 1530"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "Bill Lancaster",
+   "kind": "individual",
+   "desc": "Australian aviator",
+   "cause": "final note written on fuel card while dying after crash in Sahara Desert",
+   "last_words": "So the beginning of the eighth day has dawned. It is still cool. I have no water....I am waiting patiently. Come soon please. Fever wracked me last night. Hope you get my full log. Bill.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bill_Lancaster_(aviator)",
+   "died": "20 April 1933"
+  },
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Vic Morrow",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "prior to being killed along with two child actors during the filming of Twilight Zone: The Movie prior to being killed along with two child actors during filming in the Twilight Zone accident",
+   "last_words": "I've got to be crazy to do this shot. I should've asked for a double.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vic_Morrow",
+   "died": "23 July 1982"
+  }
+ ]
+}

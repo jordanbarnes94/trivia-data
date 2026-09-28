@@ -1,0 +1,84 @@
+{
+ "date": "01-25",
+ "died": [
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Alexander Roberts Dunn",
+   "kind": "individual",
+   "desc": "VC, Canadian British Army officer, Crimean War Victoria Cross recipient",
+   "cause": "mortally wounded by gunshot under unclear circumstances during hunting expedition near Senafe",
+   "last_words": "Run for a Doctor.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Roberts_Dunn",
+   "born": "15 September 1833"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "Robert Williams",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Ford plant worker became the first person known to be killed by a robot when a factory robot's arm struck him in the head.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Williams_(robot_fatality)",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1688,
+   "year_label": "1688",
+   "name": "Juraj Jánošík",
+   "kind": "individual",
+   "desc": "Slovak highwayman known as \"the Slovak Robin Hood\"",
+   "cause": "refusing to name fellow robbers prior to jumping onto the hook on which he was to be hung",
+   "last_words": "If you have baked me so you also should eat me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Juraj_Jánošík",
+   "died": "17 March 1713"
+  },
+  {
+   "year": 1759,
+   "year_label": "1759",
+   "name": "Robert Burns",
+   "kind": "individual",
+   "desc": "Scottish poet",
+   "cause": "referring to a Dumfries militia to which he belonged",
+   "last_words": "John, don't let the awkward squad fire over me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Burns",
+   "died": "21 July 1796"
+  },
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "name": "Archduchess Mathilda of Austria",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 18-year-old daughter of Archduke Albrecht, Duke of Teschen set her dress on fire while trying to hide a cigarette from her father, who had forbidden her to smoke.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Archduchess_Mathilda_of_Austria",
+   "died": "6 June 1867"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "W. Somerset Maugham",
+   "kind": "individual",
+   "desc": "English author",
+   "cause": "to his nephew Robin Maugham",
+   "last_words": "Dying is a very dull, dreary affair. And my advice to you is to have nothing whatever to do with it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/W._Somerset_Maugham",
+   "died": "15 December 1965"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Virginia Woolf",
+   "kind": "individual",
+   "desc": "English writer",
+   "cause": "addressing her husband Leonard in her suicide note, drowning herself later that day",
+   "last_words": "I don't think two people could have been happier than we have been.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Woolf",
+   "died": "28 March 1941"
+  }
+ ]
+}

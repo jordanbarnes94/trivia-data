@@ -1,0 +1,95 @@
+{
+ "date": "06-01",
+ "died": [
+  {
+   "year": 1661,
+   "year_label": "1661",
+   "name": "James Guthrie",
+   "kind": "individual",
+   "desc": "Scottish Presbyterian minister",
+   "cause": "prior to execution by hanging for high treason",
+   "last_words": "I take God to record upon my soul that I would not exchange this scaffold with the palace or mitre of the greatest prelate in Britain. The covenants, the covenants shall yet be Scotland's reviving.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Guthrie_(minister)",
+   "born": null
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "James Buchanan",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "Oh, Lord God Almighty, as thou wilt!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan",
+   "born": "23 April 1791"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Adolf Eichmann",
+   "kind": "individual",
+   "desc": "German-Austrian SS-Obersturmbannführer",
+   "cause": "mumbling prior to execution by hanging for war crimes",
+   "last_words": "I hope that all of you will follow me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Eichmann",
+   "born": "19 March 1906"
+  }
+ ],
+ "born": [
+  {
+   "year": 1563,
+   "year_label": "1563",
+   "name": "Robert Cecil, 1st Earl of Salisbury",
+   "kind": "individual",
+   "desc": "English statesman",
+   "cause": null,
+   "last_words": "Ease and pleasure quake to hear of death; but my life, full of cares and miseries, desireth to be dissolved.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Earl_of_Salisbury",
+   "died": "24 May 1612"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Henry Francis Lyte",
+   "kind": "individual",
+   "desc": "Anglican poet",
+   "cause": null,
+   "last_words": "Peace! Joy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Francis_Lyte",
+   "died": "20 November 1847"
+  },
+  {
+   "year": 1801,
+   "year_label": "1801",
+   "name": "Brigham Young",
+   "kind": "individual",
+   "desc": "American religious leader and politician",
+   "cause": "referring to Joseph Smith",
+   "last_words": "Joseph! Joseph! Joseph!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brigham_Young",
+   "died": "29 August 1877"
+  },
+  {
+   "year": 1926,
+   "year_label": "1926",
+   "name": "Marilyn Monroe",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": "over the phone to Peter Lawford, John F. Kennedy's brother-in-law",
+   "last_words": "Say goodbye to Pat, say goodbye to the president and say goodbye to yourself, because you're a nice guy... I'll see... I'll see.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
+   "died": "4 August 1962"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Georgy Dobrovolsky",
+   "kind": "individual",
+   "desc": "Soviet cosmonaut",
+   "cause": "prior to fatal reentry of Soyuz 11",
+   "last_words": "I am beginning the descent procedure.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georgy_Dobrovolsky",
+   "died": "30 June 1971"
+  }
+ ]
+}

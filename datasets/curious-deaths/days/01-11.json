@@ -1,0 +1,117 @@
+{
+ "date": "01-11",
+ "died": [
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Timothy Dwight IV",
+   "kind": "individual",
+   "desc": "American academic and educator",
+   "cause": "finishing his final manuscript",
+   "last_words": "There, I have done! Oh, what triumphant truth!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Dwight_IV",
+   "born": "14 May 1752"
+  },
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "William Snyder",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 13-year-old died in San Francisco, California, reportedly after a circus clown named Manuel Rays swung him around by his heels.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1966,
+   "year_label": "1966",
+   "name": "Lal Bahadur Shastri",
+   "kind": "individual",
+   "desc": "Prime Minister of India",
+   "cause": "to his doctors",
+   "last_words": "Oh, father. Oh, Rama!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri",
+   "born": "2 October 1904"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "Jack Soo",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "speaking to Hal Linden while being wheeled into operating room, referring to the bad coffee Soo's character made on their sitcom Barney Miller",
+   "last_words": "It must have been the coffee.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Soo",
+   "born": "28 October 1917"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Captain William S. Todd",
+   "kind": "individual",
+   "desc": null,
+   "cause": "pilot of United Airlines Flight 2885, just before the plane crashed after takeoff from Detroit Metropolitan Airport",
+   "last_words": "Running out of air.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_S._Todd",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1757,
+   "year_label": "1757",
+   "name": "Alexander Hamilton",
+   "kind": "individual",
+   "desc": "American statesman",
+   "cause": "addressing his wife after being mortally shot by his rival Aaron Burr in a duel",
+   "last_words": "Remember, my Eliza, you are a Christian. Alexander's other final words were \"If they break this Union, They will break my heart\" (as per Ron Chernow's biography on Alexander Hamilton)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
+   "died": "12 July 1804"
+  },
+  {
+   "year": 1825,
+   "year_label": "1825",
+   "name": "Bayard Taylor",
+   "kind": "individual",
+   "desc": "American poet, literary critic, translator, travel author and diplomat",
+   "cause": null,
+   "last_words": "I want, oh, you know what I mean, the stuff of life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bayard_Taylor",
+   "died": "19 December 1878"
+  },
+  {
+   "year": 1842,
+   "year_label": "1842",
+   "name": "William James",
+   "kind": "individual",
+   "desc": "American philosopher and psychologist",
+   "cause": null,
+   "last_words": "These then are my last words to you. Be not afraid of life. Believe that life is worth living and your belief will help create the fact.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_James",
+   "died": "26 August 1910"
+  },
+  {
+   "year": 1843,
+   "year_label": "1843",
+   "name": "C. Y. O'Connor",
+   "kind": "individual",
+   "desc": "engineer-in-chief of Western Australia",
+   "cause": "purported suicide note",
+   "last_words": "Put the wing walls to Helena Weir at once\"",
+   "wikipedia": "https://en.wikipedia.org/wiki/C._Y._O'Connor",
+   "died": "10 March 1902"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Gloria Ramirez",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 31-year-old died from kidney failure related to her cervical cancer at the emergency room of Riverside General Hospital in Riverside, California. While treating her, several of the hospital staff became ill, suffering from loss of consciousness, shortness of breath, and muscle spasms. Shortly before dying, she was allegedly covered with an oily sheen, which smelled of fruit and garlic.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Gloria_Ramirez",
+   "died": "19 February 1994"
+  }
+ ]
+}

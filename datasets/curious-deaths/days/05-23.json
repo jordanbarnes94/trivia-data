@@ -1,0 +1,172 @@
+{
+ "date": "05-23",
+ "died": [
+  {
+   "year": 1498,
+   "year_label": "1498",
+   "name": "Girolamo Savonarola",
+   "kind": "individual",
+   "desc": "Italian Dominican friar",
+   "cause": "when asked before his execution if he was resigned to death",
+   "last_words": "My Lord died innocent of all crimes, for my sins; and shall not I willingly give my soul for the love of Him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Girolamo_Savonarola",
+   "born": "21 September 1452"
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Kit Carson",
+   "kind": "individual",
+   "desc": "American frontiersman",
+   "cause": null,
+   "last_words": "Wish I had time for just one more bowl of chili.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kit_Carson",
+   "born": "24 December 1809"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "Henrik Ibsen",
+   "kind": "individual",
+   "desc": "Norwegian playwright",
+   "cause": "to his maid, who had said his health was improving",
+   "last_words": "On the contrary!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Ibsen",
+   "born": "20 March 1828"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Heinrich Himmler",
+   "kind": "individual",
+   "desc": "German Nazi officer",
+   "cause": "last words said during his suicide shortly after biting into a hidden potassium cyanide pill before collapsing dead onto the floor of the headquarters of the Second British Army in Lüneburg",
+   "last_words": "I am Heinrich Himmler.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Himmler",
+   "born": "7 October 1900"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "Emil Kapaun",
+   "kind": "individual",
+   "desc": "United States Army Roman Catholic chaplain and Medal of Honor recipient",
+   "cause": "dying in prisoner of war camp during the Korean War",
+   "last_words": "As you see, I am crying too, not tears of pain but tears of joy, because I'll be with my God in a short time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emil_Kapaun",
+   "born": "20 April 1916"
+  },
+  {
+   "year": 1969,
+   "year_label": "1969",
+   "name": "Paul Meyer",
+   "kind": "individual",
+   "desc": "United States Air Force airman",
+   "cause": "final transmission before crashing into the English Channel in a stolen aircraft",
+   "last_words": "I'm doing all right, I'm doing all right, uh.",
+   "wikipedia": "https://en.wikipedia.org/wiki/United_States_Air_Force",
+   "born": null
+  },
+  {
+   "year": 1999,
+   "year_label": "1999",
+   "name": "Owen Hart",
+   "kind": "individual",
+   "desc": "Canadian-American professional wrestler",
+   "cause": "being interviewed on camera prior to fatal fall into ring at Over the Edge (1999) The 34-year-old Canadian professional wrestler fell to his death during the World Wrestling Federation's Over the Edge pay-per-view event. He was supposed to be lowered into the ring from the rafters as part of his Blue Blazer persona's entrance, but the equipment lowering him into the ring malfunctioned, causing him to fall 78 ft and land chest-first on the top rope. The impact severed his aorta, causing death within minutes.",
+   "last_words": "Oooh, the Godfather, just saying his name makes my blue blood boil. OHHH! The Godfather, my arch nemesis, he represents everything that's wrong with the WWF. But fear not, because I, the Blue Blazer, will always triumph over evil doers, and you know why, because I always take my vitamins, say my prayers, and drink my milk, WHOOO!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Owen_Hart",
+   "born": "7 May 1965"
+  }
+ ],
+ "born": [
+  {
+   "year": 1208,
+   "year_label": "1208",
+   "name": "Simon de Montfort, 6th Earl of Leicester",
+   "kind": "individual",
+   "desc": null,
+   "cause": "before dying at the Battle of Evesham",
+   "last_words": "By the arm of St. James, it is time to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+   "died": "4 August 1265"
+  },
+  {
+   "year": 1718,
+   "year_label": "1718",
+   "name": "William Hunter",
+   "kind": "individual",
+   "desc": "Scottish anatomist and physician",
+   "cause": null,
+   "last_words": "If I had strength to hold a pen, I would write down how easy and pleasant a thing it is to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Hunter_(anatomist)",
+   "died": "30 March 1783"
+  },
+  {
+   "year": 1799,
+   "year_label": "1799",
+   "name": "Thomas Hood",
+   "kind": "individual",
+   "desc": "English poet, author and humorist",
+   "cause": null,
+   "last_words": "Dying, Dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hood",
+   "died": "3 May 1845"
+  },
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "Otto Lilienthal",
+   "kind": "individual",
+   "desc": "German aviation pioneer",
+   "cause": "fatally injured in glider crash",
+   "last_words": "Sacrifices must be made.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Otto_Lilienthal",
+   "died": "10 August 1896"
+  },
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Douglas Fairbanks",
+   "kind": "individual",
+   "desc": "American actor and filmmaker",
+   "cause": "to an attendant who asked how he was",
+   "last_words": "Never felt better.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Fairbanks",
+   "died": "12 December 1939"
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Hans Frank",
+   "kind": "individual",
+   "desc": "German politician and lawyer",
+   "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
+   "last_words": "I am thankful for the kind of treatment during my captivity and I ask God to accept me with mercy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hans_Frank",
+   "died": "16 October 1946"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Margaret Wise Brown",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 42-year-old American author of Goodnight Moon was hospitalized, either for an inflamed appendix or for an ovarian cyst. To prove how healthy she was after treatment, she kicked her foot in the air, dislodging a blood clot in her leg. The blood clot quickly travelled to her brain, and she died in emergency surgery.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Wise_Brown",
+   "died": "13 November 1952"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Vivian MacKerrell",
+   "kind": "individual",
+   "desc": "British actor",
+   "cause": null,
+   "last_words": "Give me a fucking pre-med you fuckers, I'm a personal friend of Sir Lancelot Spratt.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vivian_MacKerrell",
+   "died": "2 March 1995"
+  }
+ ]
+}

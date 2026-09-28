@@ -1,0 +1,128 @@
+{
+ "date": "02-04",
+ "died": [
+  {
+   "year": 211,
+   "year_label": "211",
+   "name": "Septimius Severus",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": null,
+   "last_words": "Hurry, if anything remains for me to do.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Septimius_Severus",
+   "born": null
+  },
+  {
+   "year": 1555,
+   "year_label": "1555",
+   "name": "John Rogers",
+   "kind": "individual",
+   "desc": "English clergyman, Bible translator and commentator",
+   "cause": "prior to burning at the stake for heresy",
+   "last_words": "Lord, receive my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Rogers_(Bible_editor_and_martyr)",
+   "born": null
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Franz Reichelt",
+   "kind": "individual",
+   "desc": "Austro-Hungarian born French tailor and inventor",
+   "cause": "prior to leaping from Eiffel Tower in fatal test of \"parachute suit\" The 33-year-old tailor and inventor leaped from the Eiffel Tower wearing a parachute made from cloth, his own invention, and fell 57 m to his death. He was asked by friends and authorities to use a dummy for the feat, but declined, saying \"I intend to prove the worth of my invention\". His impact crater was 15 cm deep.",
+   "last_words": "See you soon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franz_Reichelt",
+   "born": "16 October 1878"
+  },
+  {
+   "year": 1968,
+   "year_label": "1968",
+   "name": "Phil Gay",
+   "kind": "individual",
+   "desc": "captain of fishing trawler Ross Cleveland",
+   "cause": "final radio message before ship sank",
+   "last_words": "I am going over. We are laying over. Help me. I am going over. Give my love and the crew's love to the wives and families.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hull_triple_trawler_tragedy_(1968)",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1575,
+   "year_label": "1575",
+   "name": "Pierre de Bérulle",
+   "kind": "individual",
+   "desc": "French Roman Catholic cardinal and statesman",
+   "cause": "blessing his congregation while celebrating Mass",
+   "last_words": "I do bless.-May Jesus and Mary bless, rule and govern.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Bérulle",
+   "died": "2 October 1629"
+  },
+  {
+   "year": 1746,
+   "year_label": "1746",
+   "name": "Tadeusz Kościuszko",
+   "kind": "individual",
+   "desc": "Polish-Lithuanian military engineer, statesman, and military leader",
+   "cause": null,
+   "last_words": "An end of Poland.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tadeusz_Kościuszko",
+   "died": "15 October 1817"
+  },
+  {
+   "year": 1772,
+   "year_label": "1772",
+   "name": "Josiah Quincy III",
+   "kind": "individual",
+   "desc": "Mayor of Boston and President of Harvard University",
+   "cause": "hearing his daughter read to him about Lieutenant Colonel Joseph Bailey saving the Union fleet during the Red River Campaign",
+   "last_words": "That is true glory. I will hear no more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Quincy_III",
+   "died": "1 July 1864"
+  },
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "John Bachman",
+   "kind": "individual",
+   "desc": "American Lutheran minister, social activist and naturalist",
+   "cause": "referring to a relative",
+   "last_words": "I love her-I love you all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Bachman",
+   "died": "24 February 1874"
+  },
+  {
+   "year": 1799,
+   "year_label": "1799",
+   "name": "Almeida Garrett",
+   "kind": "individual",
+   "desc": "Portuguese author",
+   "cause": "addressing his friend Francisco",
+   "last_words": "I no longer see you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Almeida_Garrett",
+   "died": "9 December 1854"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "MacKinlay Kantor",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": "to his grandson, Tom Shroder",
+   "last_words": "Horrible. Horrible!",
+   "wikipedia": "https://en.wikipedia.org/wiki/MacKinlay_Kantor",
+   "died": "11 October 1977"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Richard Seaman",
+   "kind": "individual",
+   "desc": "British racing driver",
+   "cause": "on his deathbed after being fatally burned in a racing crash",
+   "last_words": "I was going too fast for the conditions – it was entirely my own fault – I am sorry.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Seaman",
+   "died": "25 June 1939"
+  }
+ ]
+}

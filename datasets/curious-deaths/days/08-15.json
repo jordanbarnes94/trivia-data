@@ -1,0 +1,128 @@
+{
+ "date": "08-15",
+ "died": [
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "Frederick William Robertson",
+   "kind": "individual",
+   "desc": "English divine",
+   "cause": "when attendants tried to change his position",
+   "last_words": "I cannot bear it; let me rest. I must die. Let God do his work.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William_Robertson",
+   "born": "3 February 1816"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Thomas Crisp",
+   "kind": "individual",
+   "desc": "VC, DSC, Royal Naval Reserve, skipper of armed trawler Nelson",
+   "cause": "to his son after being mortally wounded in a German submarine attack during World War I",
+   "last_words": "Tom, I'm done. Throw me overboard.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Crisp",
+   "born": "28 April 1876"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Will Rogers",
+   "kind": "individual",
+   "desc": "American stage and film actor, vaudeville performer, cowboy, humorist, newspaper columnist, and social commentator",
+   "cause": "typed on his typewriter for an unfinished newspaper column prior to the plane crash that killed him and Wiley Post",
+   "last_words": "Death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Will_Rogers",
+   "born": "4 November 1879"
+  }
+ ],
+ "born": [
+  {
+   "year": 1195,
+   "year_label": "1195",
+   "name": "Anthony of Padua",
+   "kind": "individual",
+   "desc": "Portuguese Catholic priest and Franciscan friar",
+   "cause": null,
+   "last_words": "I see my God. He calls me to Him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
+   "died": "13 June 1231"
+  },
+  {
+   "year": 1613,
+   "year_label": "1613",
+   "name": "Jeremy Taylor",
+   "kind": "individual",
+   "desc": "Anglican divine",
+   "cause": null,
+   "last_words": "My trust is in God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Taylor",
+   "died": "13 August 1667"
+  },
+  {
+   "year": 1769,
+   "year_label": "1769",
+   "name": "Napoleon",
+   "kind": "individual",
+   "desc": "emperor of the French",
+   "cause": null,
+   "last_words": "France, the army, the head of the army, Joséphine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Napoleon",
+   "died": "5 May 1821"
+  },
+  {
+   "year": 1771,
+   "year_label": "1771",
+   "name": "Walter Scott",
+   "kind": "individual",
+   "desc": "Scottish novelist and poet",
+   "cause": null,
+   "last_words": "I have written nothing which on my deathbed I should wish blotted.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott",
+   "died": "21 September 1832"
+  },
+  {
+   "year": 1785,
+   "year_label": "1785",
+   "name": "Thomas De Quincey",
+   "kind": "individual",
+   "desc": "English essayist",
+   "cause": "to a vision of his dead sister",
+   "last_words": "Sister! sister! sister!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_De_Quincey",
+   "died": "8 August 1859"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Ethel Barrymore",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": "to her maid, Anna Albert",
+   "last_words": "Are you happy? I'm happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Barrymore",
+   "died": "18 June 1959"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Óscar Romero",
+   "kind": "individual",
+   "desc": "Salvadoran Roman Catholic prelate",
+   "cause": "assassinated while giving a sermon",
+   "last_words": "May God have mercy on the assassins.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Óscar_Romero",
+   "died": "24 March 1980"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "Nick Piantanida",
+   "kind": "individual",
+   "desc": "American parachutist",
+   "cause": "making emergency transmission from Strato Jump III balloon during decompression accident on 1 May 1966; the accident left him in a coma until his death The 34-year-old skydiver died four months after an attempt to break the record for the highest parachute jump near Joe Foss Field, Sioux Falls, South Dakota; his suit had depressurized, causing brain damage from lack of oxygen.",
+   "last_words": "Emerg-",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nick_Piantanida",
+   "died": "29 August 1966"
+  }
+ ]
+}

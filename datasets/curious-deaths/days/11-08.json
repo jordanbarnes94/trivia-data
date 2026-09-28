@@ -1,0 +1,128 @@
+{
+ "date": "11-08",
+ "died": [
+  {
+   "year": 397,
+   "year_label": "397",
+   "name": "Martin of Tours",
+   "kind": "individual",
+   "desc": "third bishop of Tours",
+   "cause": "to the Devil",
+   "last_words": "What dost thou here, thou cruel beast?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Tours",
+   "born": null
+  },
+  {
+   "year": 1605,
+   "year_label": "1605",
+   "name": "Robert Catesby",
+   "kind": "individual",
+   "desc": "leader of the Gunpowder Plot",
+   "cause": "Catesby and Thomas Percy were shot by armed men led by Sir Richard Walsh",
+   "last_words": "Stand by me, Tom, and we will die together.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Catesby",
+   "born": null
+  },
+  {
+   "year": 1674,
+   "year_label": "1674",
+   "name": "John Milton",
+   "kind": "individual",
+   "desc": "English poet and intellectual",
+   "cause": null,
+   "last_words": "Death is the great key that opens the palace of Eternity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Milton",
+   "born": "9 December 1608"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Madame Roland",
+   "kind": "individual",
+   "desc": "French revolutionary and writer",
+   "cause": "prior to execution by guillotine",
+   "last_words": "Oh Liberty, what crimes are committed in thy name!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Madame_Roland",
+   "born": "17 March 1754"
+  },
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Benjamin Franklin Butler",
+   "kind": "individual",
+   "desc": "Attorney General of the United States",
+   "cause": "quoting Isaiah 26:3",
+   "last_words": "I have peace, perfect peace. 'Thou wilt keep him in perfect peace whose mind is stayed on thee.'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin_Butler_(lawyer)",
+   "born": "17 December 1795"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Doc Holliday",
+   "kind": "individual",
+   "desc": "American gambler and gunfighter",
+   "cause": "after a nurse refused him a whiskey",
+   "last_words": "Damn. This is funny.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Doc_Holliday",
+   "born": "14 August 1851"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Walter Nowotny",
+   "kind": "individual",
+   "desc": "Second World War German fighter ace",
+   "cause": "crashing due to engine failure after combat with United States Army Air Force planes",
+   "last_words": "I'm on fire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_Nowotny",
+   "born": "7 December 1920"
+  }
+ ],
+ "born": [
+  {
+   "year": 1028,
+   "year_label": "1028",
+   "name": "William the Conqueror",
+   "kind": "individual",
+   "desc": "King of England",
+   "cause": "after hearing bell ringing Prime",
+   "last_words": "\"I treated the native inhabitants of the kingdom with unreasonable severity, cruelly oppressed high and low, unjustly disinherited many, and caused the death of thousands by starvation and war, especially in Yorkshire....In mad fury I descended on the English of the north like a raging lion, and ordered that their homes and crops with all their equipment and furnishings should be burnt at once and their great flocks and herds of sheep and cattle slaughtered everywhere. So I chastised a great multitude of men and women with the lash of starvation and, alas! was the cruel murderer of many thousands, both young and old, of this fair people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+   "died": "9 September 1087"
+  },
+  {
+   "year": 1625,
+   "year_label": "1625",
+   "name": "Mary Rich, Countess of Warwick",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Well, ladies, if I were one hour in heaven, I would not be again with you, as much as I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Rich,_Countess_of_Warwick",
+   "died": "12 April 1678"
+  },
+  {
+   "year": 1777,
+   "year_label": "1777",
+   "name": "Desideria",
+   "kind": "individual",
+   "desc": "Queen of Sweden and Norway",
+   "cause": "after collapsing in a staircase of Stockholm Palace",
+   "last_words": "I'm choking.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Désirée_Clary",
+   "died": "17 December 1860"
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Felix Hausdorff",
+   "kind": "individual",
+   "desc": "German mathematician",
+   "cause": "the conclusion of his suicide letter to his lawyer. Hausdorff, his wife and his sister-in-law committed suicide rather than be deported to the Endenich camp",
+   "last_words": "I am sorry that we cause you yet more effort beyond death, and I am convinced that you are doing what you can do (which perhaps is not very much). Forgive us our desertion! We wish you and all our friends to experience better times. Your truly devoted Felix Hausdorff",
+   "wikipedia": "https://en.wikipedia.org/wiki/Felix_Hausdorff",
+   "died": "26 January 1942"
+  }
+ ]
+}

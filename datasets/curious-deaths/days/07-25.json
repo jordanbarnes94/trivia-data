@@ -1,0 +1,95 @@
+{
+ "date": "07-25",
+ "died": [
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "Johann Bernhard Basedow",
+   "kind": "individual",
+   "desc": "German educational reformer, teacher and writer",
+   "cause": null,
+   "last_words": "I desire to be dissected for the benefit of my fellow men.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Bernhard_Basedow",
+   "born": "11 September 1724"
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "André Chénier",
+   "kind": "individual",
+   "desc": "French poet",
+   "cause": "to his friend and fellow poet Jean-Antoine Roucher prior to their executions by guillotine",
+   "last_words": "Yet I had something there!",
+   "wikipedia": "https://en.wikipedia.org/wiki/André_Chénier",
+   "born": "30 October 1762"
+  },
+  {
+   "year": 1834,
+   "year_label": "1834",
+   "name": "Samuel Taylor Coleridge",
+   "kind": "individual",
+   "desc": "English poet and literary critic",
+   "cause": null,
+   "last_words": "My mind is quite unclouded. I could even be witty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge",
+   "born": "21 October 1772"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Lazar Kaganovich",
+   "kind": "individual",
+   "desc": "Soviet politician",
+   "cause": "when he watched a television news report featuring Gorbachev and Yeltsin",
+   "last_words": "This is a catastrophe.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lazar_Kaganovich",
+   "born": "10 November 1893"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Christian Marty",
+   "kind": "individual",
+   "desc": null,
+   "cause": "pilot of Air France Flight 4590, shortly before crashing",
+   "last_words": "\"No time, no.\" (\"Pas le temps, non.\")",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christian_Marty",
+   "born": "12 November 1945"
+  }
+ ],
+ "born": [
+  {
+   "year": 1783,
+   "year_label": "1783",
+   "name": "Edward Payson",
+   "kind": "individual",
+   "desc": "American Congregational preacher",
+   "cause": null,
+   "last_words": "Faith and patience hold out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Payson",
+   "died": "22 October 1827"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "David Belasco",
+   "kind": "individual",
+   "desc": "American playwright and theater impresario",
+   "cause": null,
+   "last_words": "Doctor, I'm fighting for my life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Belasco",
+   "died": "14 May 1931"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Joseph P. Kennedy Jr.",
+   "kind": "individual",
+   "desc": "United States Navy lieutenant",
+   "cause": "radioing code phrase prior to explosion of plane on Operation Aphrodite mission",
+   "last_words": "Spade Flush.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_P._Kennedy_Jr.",
+   "died": "12 August 1944"
+  }
+ ]
+}

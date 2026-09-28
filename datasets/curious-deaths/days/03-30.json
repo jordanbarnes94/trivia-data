@@ -1,0 +1,73 @@
+{
+ "date": "03-30",
+ "died": [
+  {
+   "year": 1450,
+   "year_label": "1450",
+   "name": "Sejong the Great",
+   "kind": "individual",
+   "desc": "king of the Joseon Dynasty",
+   "cause": "Korea would later be invaded and pillaged by the Japanese, and later, subjugated by the Manchus, who the Koreans considered 'barbarians'",
+   "last_words": "Although dealing with the Japanese and the barbarians is not something that should be taken lightly, I fear that as peace is ingrained in you, the days growing longer, all matters might be done lazily and slowly, so you should always be careful and watch out every day, so you do not give in to negligence.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sejong_the_Great",
+   "born": "10 April 1397"
+  },
+  {
+   "year": 1783,
+   "year_label": "1783",
+   "name": "William Hunter",
+   "kind": "individual",
+   "desc": "Scottish anatomist and physician",
+   "cause": null,
+   "last_words": "If I had strength to hold a pen, I would write down how easy and pleasant a thing it is to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Hunter_(anatomist)",
+   "born": "23 May 1718"
+  },
+  {
+   "year": 1871,
+   "year_label": "1871",
+   "name": "Lovisa",
+   "kind": "individual",
+   "desc": "Queen of Sweden and Norway",
+   "cause": null,
+   "last_words": "I am positioned between Heaven and Earth and feel like I am surrounded by nothing but light. Kiss me one last time! If I have failed in my duties toward you, then forgive me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louise_of_the_Netherlands",
+   "born": "5 August 1828"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "James W. Rodgers",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "facing a firing squad",
+   "last_words": "I done told you my last request ... a bulletproof vest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_W._Rodgers",
+   "born": "3 August 1910"
+  }
+ ],
+ "born": [
+  {
+   "year": 1844,
+   "year_label": "1844",
+   "name": "Paul Verlaine",
+   "kind": "individual",
+   "desc": "French poet",
+   "cause": "who spent much of his later life in poverty",
+   "last_words": "Don't sole the dead man's shoes yet!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul_Verlaine",
+   "died": "8 January 1896"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "Vincent van Gogh",
+   "kind": "individual",
+   "desc": "Dutch painter",
+   "cause": "to his brother sometime before dying of (presumably) a self-inflicted gunshot wound",
+   "last_words": "The sadness will last forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+   "died": "29 July 1890"
+  }
+ ]
+}

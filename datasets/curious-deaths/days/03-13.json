@@ -1,0 +1,106 @@
+{
+ "date": "03-13",
+ "died": [
+  {
+   "year": 1594,
+   "year_label": "1594",
+   "name": "John Woolton",
+   "kind": "individual",
+   "desc": "Bishop of Exeter",
+   "cause": null,
+   "last_words": "A bishop ought to die on his legs.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Woolton",
+   "born": null
+  },
+  {
+   "year": 1711,
+   "year_label": "1711",
+   "name": "Nicolas Boileau-Despréaux",
+   "kind": "individual",
+   "desc": "French poet and critic",
+   "cause": "to a playwright who asked him to read his new play",
+   "last_words": "Do you wish to hasten my last hour?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Boileau-Despréaux",
+   "born": "1 November 1636"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Alexander II of Russia",
+   "kind": "individual",
+   "desc": null,
+   "cause": "bleeding to death after being wounded by nihilist bomb",
+   "last_words": "I am sweeping through the gates, washed in the blood of the Lamb.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_II_of_Russia",
+   "born": "17 April 1818"
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "Benjamin Harrison",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "dying of pneumonia",
+   "last_words": "Are the doctors here? Doctor, my lungs...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
+   "born": "20 August 1833"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "Susan B. Anthony",
+   "kind": "individual",
+   "desc": "American social reformer and women's rights activist",
+   "cause": "to her chosen successor, who was worried that she would not be allowed to succeed Anthony",
+   "last_words": "Make them.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Susan_B._Anthony",
+   "born": "15 February 1820"
+  }
+ ],
+ "born": [
+  {
+   "year": 1733,
+   "year_label": "1733",
+   "name": "Joseph Priestley",
+   "kind": "individual",
+   "desc": "English chemist, natural philosopher and theologian",
+   "cause": "while dictating revisions to his works",
+   "last_words": "That is right; I have now done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Priestley",
+   "died": "6 February 1804"
+  },
+  {
+   "year": 1741,
+   "year_label": "1741",
+   "name": "Joseph II, Holy Roman Emperor",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Let my epitaph be, 'Here lies Joseph, who was unsuccessful in all his undertakings.'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor",
+   "died": "20 February 1790"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "Vince Coleman",
+   "kind": "individual",
+   "desc": "Canadian train dispatcher",
+   "cause": "warning an incoming train by telegraph of the impending Halifax Explosion",
+   "last_words": "Hold up the train. Ammunition ship afire in harbour making for Pier 6 and will explode. Guess this will be my last message. Goodbye, boys.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vince_Coleman_(train_dispatcher)",
+   "died": "6 December 1917"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Donald Henry Gaskins",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "I'll let my lawyers talk for me. I'm ready to go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Donald_Henry_Gaskins",
+   "died": "6 September 1991"
+  }
+ ]
+}

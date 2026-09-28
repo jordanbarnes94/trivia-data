@@ -1,0 +1,62 @@
+{
+ "date": "01-30",
+ "died": [
+  {
+   "year": 1649,
+   "year_label": "1649",
+   "name": "Charles I of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "asking for his executioner to await his signal before beheading him",
+   "last_words": "Stay for the sign.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+   "born": "19 November 1600"
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "James Doyle Jr.",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The lineworker in Smartsville, California, was killed by an electric shock through a telephone receiver after a broken power line came in contact with the telephone wire.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1948,
+   "year_label": "1948",
+   "name": "Mahatma Gandhi",
+   "kind": "individual",
+   "desc": "Indian revolutionary and pacifist",
+   "cause": "shortly after being shot by Hindu nationalist Nathuram Godse",
+   "last_words": "Oh God!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
+   "born": "2 October 1869"
+  }
+ ],
+ "born": [
+  {
+   "year": 1854,
+   "year_label": "1854",
+   "name": "Stefan Stambolov",
+   "kind": "individual",
+   "desc": "Prime Minister of Bulgaria",
+   "cause": "mortally wounded by assassins",
+   "last_words": "God protect Bulgaria.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Stambolov",
+   "died": "19 July 1895"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Franklin D. Roosevelt",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "before dying of intracerebral hemorrhage",
+   "last_words": "I have a terrific headache.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
+   "died": "12 April 1945"
+  }
+ ]
+}

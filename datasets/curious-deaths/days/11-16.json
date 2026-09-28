@@ -1,0 +1,51 @@
+{
+ "date": "11-16",
+ "died": [
+  {
+   "year": 1632,
+   "year_label": "1632",
+   "name": "Gustavus Adolphus of Sweden",
+   "kind": "individual",
+   "desc": null,
+   "cause": "mortally wounded at the Battle of Lützen (1632)",
+   "last_words": "I have enough, brother; try to save your own life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden",
+   "born": "9 December 1594"
+  },
+  {
+   "year": 1724,
+   "year_label": "1724",
+   "name": "Jack Sheppard",
+   "kind": "individual",
+   "desc": "English thief and prison escapee",
+   "cause": "prior to execution by hanging",
+   "last_words": "I have ever cherished an honest pride; never have I stooped to friendship with Jonathan Wild, or with any of his detestable thief-takers; and though an undutiful son, I never damned my mother's eyes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Sheppard",
+   "born": "4 March 1702"
+  }
+ ],
+ "born": [
+  {
+   "year": 1839,
+   "year_label": "1839",
+   "name": "John Selman",
+   "kind": "individual",
+   "desc": "American outlaw and gunfighter",
+   "cause": "killed by cowboy George Scarborough",
+   "last_words": "You god damned son-of-a-bitch, I am going to kill you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Selman",
+   "died": "6 April 1896"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "George S. Kaufman",
+   "kind": "individual",
+   "desc": "American playwright",
+   "cause": null,
+   "last_words": "I'm not afraid any more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_S._Kaufman",
+   "died": "2 June 1961"
+  }
+ ]
+}

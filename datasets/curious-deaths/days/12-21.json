@@ -1,0 +1,106 @@
+{
+ "date": "12-21",
+ "died": [
+  {
+   "year": 1549,
+   "year_label": "1549",
+   "name": "Margaret of Valois-Angoulême",
+   "kind": "individual",
+   "desc": "Queen of Navarre",
+   "cause": null,
+   "last_words": "Farewell, and remember me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Valois-Angoulême",
+   "born": "11 April 1492"
+  },
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "John Newton",
+   "kind": "individual",
+   "desc": "English Anglican cleric and abolitionist, author of \"Amazing Grace\"",
+   "cause": "final recorded words",
+   "last_words": "I am satisfied with the Lord's will.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Newton",
+   "born": "24 July 1725"
+  },
+  {
+   "year": 1866,
+   "year_label": "1866",
+   "name": "William J. Fetterman",
+   "kind": "individual",
+   "desc": "United States Army officer",
+   "cause": "prior to death in the Fetterman Fight",
+   "last_words": "Give me 80 men and I'll ride through the whole Sioux nation.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_J._Fetterman",
+   "born": null
+  },
+  {
+   "year": 1940,
+   "year_label": "1940",
+   "name": "F. Scott Fitzgerald",
+   "kind": "individual",
+   "desc": "American novelist",
+   "cause": "to Sheilah Graham",
+   "last_words": "Hershey bars will be good enough – they'll be fine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
+   "born": "24 September 1896"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "George S. Patton",
+   "kind": "individual",
+   "desc": "United States Army general",
+   "cause": "paralyzed from neck down after automobile collision",
+   "last_words": "This is a hell of a way to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_S._Patton",
+   "born": "11 November 1885"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Captain James MacQuarrie",
+   "kind": "individual",
+   "desc": "pilot of Pan Am Flight 103",
+   "cause": "just entered Scottish airspace while turning to oceanic route across the Atlantic Ocean prior it was exploded by a terrorist bombing",
+   "last_words": "Clipper one zero three at level three one zero, requesting oceanic clearance.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pan_Am_Flight_103",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1119,
+   "year_label": "1119",
+   "name": "Thomas Becket",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "to his murderers",
+   "last_words": "For the name of Jesus and the protection of the church I am ready to embrace death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Becket",
+   "died": "29 December 1170"
+  },
+  {
+   "year": 1748,
+   "year_label": "1748",
+   "name": "Ludwig Christoph Heinrich Hölty",
+   "kind": "individual",
+   "desc": "German poet",
+   "cause": null,
+   "last_words": "I am very ill. Send for Zimmermann. In fact, I think I'll die today.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Christoph_Heinrich_Hölty",
+   "died": "1 September 1776"
+  },
+  {
+   "year": 1804,
+   "year_label": "1804",
+   "name": "Benjamin Disraeli",
+   "kind": "individual",
+   "desc": "Prime Minister of the United Kingdom",
+   "cause": "declining a visit from Queen Victoria",
+   "last_words": "No, it is better not. She will only ask me to take a message to Albert.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
+   "died": "19 April 1881"
+  }
+ ]
+}

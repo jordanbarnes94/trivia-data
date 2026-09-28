@@ -1,0 +1,117 @@
+{
+ "date": "11-25",
+ "died": [
+  {
+   "year": 1748,
+   "year_label": "1748",
+   "name": "Isaac Watts",
+   "kind": "individual",
+   "desc": "English Christian minister, hymn writer and theologian",
+   "cause": null,
+   "last_words": "Waiting God's leave to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Watts",
+   "born": "17 July 1674"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Alfonso XII",
+   "kind": "individual",
+   "desc": "King of Spain",
+   "cause": null,
+   "last_words": "I don't deserve to be cared for as you have cared for me. I know that when I have gone you will care for Spain as I have myself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_XII",
+   "born": "28 November 1857"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Thomas A. Hendricks",
+   "kind": "individual",
+   "desc": "Vice President of the United States",
+   "cause": null,
+   "last_words": "At rest at last. Now I am free from pain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_A._Hendricks",
+   "born": "7 September 1819"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Julian Royds Gribble",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "dismissing his nurse while dying of pneumonia at Niederzwehren prisoner of war camp",
+   "last_words": "Go away gnadiger Frau [gracious lady].",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julian_Royds_Gribble",
+   "born": "5 January 1897"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Mrs. W. C. (Elizabeth) Eckersley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The woman from Glen Innes, New South Wales, was found drowned in a cask of water. It was surmised that she was leaning over the cask when she suddenly fainted and fell into it.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "Yukio Mishima",
+   "kind": "individual",
+   "desc": "Japanese author",
+   "cause": "prior to seppuku",
+   "last_words": "Human life is limited; but I would like to live forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yukio_Mishima",
+   "born": "14 January 1925"
+  }
+ ],
+ "born": [
+  {
+   "year": 1562,
+   "year_label": "1562",
+   "name": "Lope de Vega",
+   "kind": "individual",
+   "desc": "Spanish playwright",
+   "cause": null,
+   "last_words": "All right then, I'll say it. Dante makes me sick.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lope_de_Vega",
+   "died": "27 August 1635"
+  },
+  {
+   "year": 1823,
+   "year_label": "1823",
+   "name": "Henry Wirz",
+   "kind": "individual",
+   "desc": "Confederate States Army officer",
+   "cause": "referring to his noose prior to execution for war crimes",
+   "last_words": "This is too tight.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Wirz",
+   "died": "10 November 1865"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Pope John XXIII",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic prelate and Pope",
+   "cause": "speaking to his secretary",
+   "last_words": "Why crying? This is a moment of joy, a moment of glory.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_John_XXIII",
+   "died": "3 June 1963"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "Joe DiMaggio",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": null,
+   "last_words": "I'll finally get to see Marilyn.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
+   "died": "8 March 1999"
+  }
+ ]
+}

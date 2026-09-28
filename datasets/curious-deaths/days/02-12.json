@@ -1,0 +1,183 @@
+{
+ "date": "02-12",
+ "died": [
+  {
+   "year": 1554,
+   "year_label": "1554",
+   "name": "Lady Jane Grey",
+   "kind": "individual",
+   "desc": "de facto Queen of England and Ireland",
+   "cause": "quoting Jesus prior to her beheading",
+   "last_words": "Lord, into Thy hands I commend my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lady_Jane_Grey",
+   "born": null
+  },
+  {
+   "year": 1789,
+   "year_label": "1789",
+   "name": "Ethan Allen",
+   "kind": "individual",
+   "desc": "American patriot and militia general",
+   "cause": "on being told the angels were waiting for him",
+   "last_words": "Waiting, are they? Waiting, are they? Well, God damn 'em, let 'em wait!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Allen",
+   "born": "10 January 1738"
+  },
+  {
+   "year": 1804,
+   "year_label": "1804",
+   "name": "Immanuel Kant",
+   "kind": "individual",
+   "desc": "German philosopher",
+   "cause": "thanking his physicians and attendants",
+   "last_words": "I have not yet lost my feeling for humanity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+   "born": "22 April 1724"
+  },
+  {
+   "year": 1834,
+   "year_label": "1834",
+   "name": "Friedrich Schleiermacher",
+   "kind": "individual",
+   "desc": "German Reformed theologian, philosopher and biblical scholar",
+   "cause": null,
+   "last_words": "Now I can hold out here no longer. Lay me in a different posture.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schleiermacher",
+   "born": "21 November 1768"
+  },
+  {
+   "year": 1871,
+   "year_label": "1871",
+   "name": "Alice Cary",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": null,
+   "last_words": "I want to go away.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alice_Cary",
+   "born": null
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Hans von Bülow",
+   "kind": "individual",
+   "desc": "German conductor, pianist and composer",
+   "cause": "in response to being asked how he felt",
+   "last_words": "Bad.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hans_von_Bülow",
+   "born": "8 January 1830"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Richhpal Ram",
+   "kind": "individual",
+   "desc": "VC, Indian recipient of the Victoria Cross",
+   "cause": "mortally wounded at Keren, Eritrea",
+   "last_words": "We'll capture the objective.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richhpal_Ram",
+   "born": "20 August 1899"
+  },
+  {
+   "year": 1976,
+   "year_label": "1976",
+   "name": "Sal Mineo",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "while being murdered",
+   "last_words": "Oh God! No! Help! Someone help!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sal_Mineo",
+   "born": "10 January 1939"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Charles M. Schulz",
+   "kind": "individual",
+   "desc": "American cartoonist",
+   "cause": "to his son Monte",
+   "last_words": "Keep going, finish your book.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_M._Schulz",
+   "born": "26 November 1922"
+  }
+ ],
+ "born": [
+  {
+   "year": 1663,
+   "year_label": "1663",
+   "name": "Cotton Mather",
+   "kind": "individual",
+   "desc": "New England Puritan minister and author",
+   "cause": "His wife wiped his eyes with her handkerchief as he said the last words, alluding to Revelation 21:4",
+   "last_words": "Is this dying? Is this all? Is this all that I feared when I prayed against a hard death? Oh! I can bear this! I can bear it! I can bear it! I am going where all tears will be wiped from my eyes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cotton_Mather",
+   "died": "13 February 1728"
+  },
+  {
+   "year": 1781,
+   "year_label": "1781",
+   "name": "Edward Sugden, 1st Baron St Leonards",
+   "kind": "individual",
+   "desc": "British lawyer, judge and politician",
+   "cause": null,
+   "last_words": "This is the happiest day I have ever experienced on earth. I shall soon be where the wicked cease from troubling and the weary are at rest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Sugden,_1st_Baron_St_Leonards",
+   "died": "29 January 1875"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Abraham Lincoln",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "assuring his wife Mary that their friend Clara would not mind them holding hands, shortly before he was fatally shot from behind",
+   "last_words": "She won't think anything about it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+   "died": "15 April 1865"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Charles Darwin",
+   "kind": "individual",
+   "desc": "English naturalist and evolutionary",
+   "cause": null,
+   "last_words": "I am not in the least afraid to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin",
+   "died": "19 April 1882"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Anna Pavlova",
+   "kind": "individual",
+   "desc": "Russian prima ballerina, creator of the role of The Dying Swan",
+   "cause": null,
+   "last_words": "Get my Swan costume ready.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anna_Pavlova",
+   "died": "23 January 1931"
+  },
+  {
+   "year": 1885,
+   "year_label": "1885",
+   "name": "Julius Streicher",
+   "kind": "individual",
+   "desc": "Nazi politician, founder and publisher of Der Stürmer",
+   "cause": "prior to his execution by hanging for crimes against humanity (Nuremberg executions)",
+   "last_words": "Heil Hitler, this is my Purim Fest in 1946! I am going to God. The Bolsheviks will hang you one day!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julius_Streicher",
+   "died": "16 October 1946"
+  },
+  {
+   "year": 1968,
+   "year_label": "1968",
+   "name": "Chris McCandless",
+   "kind": "individual",
+   "desc": "American hiker",
+   "cause": "final note written before dying of starvation",
+   "last_words": "I HAVE HAD A HAPPY LIFE AND THANK THE LORD. GOODBYE AND MAY GOD BLESS ALL!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chris_McCandless",
+   "died": "18 August 1992"
+  }
+ ]
+}

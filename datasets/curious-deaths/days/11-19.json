@@ -1,0 +1,106 @@
+{
+ "date": "11-19",
+ "died": [
+  {
+   "year": 1798,
+   "year_label": "1798",
+   "name": "Wolfe Tone",
+   "kind": "individual",
+   "desc": "Irish revolutionary",
+   "cause": "when told a wound in his throat would reopen and cause him to bleed to death if he spoke. Tone died in prison under unclear circumstances (possibly suicide) while awaiting execution by hanging",
+   "last_words": "I can yet find words to thank you, sir; it is the most welcome news you could give me. What should I wish to live for?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wolfe_Tone",
+   "born": "20 June 1763"
+  },
+  {
+   "year": 1828,
+   "year_label": "1828",
+   "name": "Franz Schubert",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": null,
+   "last_words": "Here, here is my end.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert",
+   "born": "31 January 1797"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Joe Hill",
+   "kind": "individual",
+   "desc": "Swedish-American labor activist",
+   "cause": "Hill shouted these words after Deputy Shettler, who led his firing squad, called out the sequence of commands preparatory to firing (\"Ready, aim\")",
+   "last_words": "Fire – go on and fire!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joe_Hill_(activist)",
+   "born": "7 October 1879"
+  }
+ ],
+ "born": [
+  {
+   "year": 1600,
+   "year_label": "1600",
+   "name": "Charles I of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "asking for his executioner to await his signal before beheading him",
+   "last_words": "Stay for the sign.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+   "died": "30 January 1649"
+  },
+  {
+   "year": 1752,
+   "year_label": "1752",
+   "name": "George Rogers Clark",
+   "kind": "individual",
+   "desc": "American surveyor, soldier and militia officer",
+   "cause": "dying after a stroke",
+   "last_words": "Come on my brave boys! St. Vin.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Rogers_Clark",
+   "died": "13 February 1818"
+  },
+  {
+   "year": 1765,
+   "year_label": "1765",
+   "name": "Alden Bradford",
+   "kind": "individual",
+   "desc": "American politician, clergyman and author",
+   "cause": null,
+   "last_words": "Peace!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alden_Bradford",
+   "died": "26 October 1843"
+  },
+  {
+   "year": 1831,
+   "year_label": "1831",
+   "name": "James A. Garfield",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to General David G. Swaim",
+   "last_words": "Oh, Swaim, this terrible pain. Press your hand on it. Oh, Swaim. Oh, Swaim, can't you stop this?",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_A._Garfield",
+   "died": "19 September 1881"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Indira Gandhi",
+   "kind": "individual",
+   "desc": "Indian politician and stateswoman",
+   "cause": "prior to her assassination",
+   "last_words": "Namaste...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+   "died": "31 October 1984"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Candace Newmaker",
+   "kind": "individual",
+   "desc": "American child murder victim",
+   "cause": "when asked if she wanted to be \"reborn\" by her murderers",
+   "last_words": "No.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Candace_Newmaker",
+   "died": "18 April 2000"
+  }
+ ]
+}

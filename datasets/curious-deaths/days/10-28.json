@@ -1,0 +1,106 @@
+{
+ "date": "10-28",
+ "died": [
+  {
+   "year": 1412,
+   "year_label": "1412",
+   "name": "Margaret",
+   "kind": "individual",
+   "desc": "Queen of Denmark, Norway and Sweden",
+   "cause": "afflicted with the plague in Flensburg harbor",
+   "last_words": "We are now to sail home, at once!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark",
+   "born": null
+  },
+  {
+   "year": 1704,
+   "year_label": "1704",
+   "name": "John Locke",
+   "kind": "individual",
+   "desc": "English philosopher and physician",
+   "cause": null,
+   "last_words": "...in perfect charity with all men and in sincere communion with the whole church of Christ, by whatever name Christ's followers call themselves.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Locke",
+   "born": "29 August 1632"
+  },
+  {
+   "year": 1818,
+   "year_label": "1818",
+   "name": "Abigail Adams",
+   "kind": "individual",
+   "desc": "First Lady of the United States",
+   "cause": "to her husband, John Adams",
+   "last_words": "Do not grieve, my friend, my dearest friend. I am ready to go. And John, it will not be long.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Adams",
+   "born": "22 November 1744"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "Edwin Adams",
+   "kind": "individual",
+   "desc": "American stage actor",
+   "cause": "to his wife",
+   "last_words": "Good-bye Mary, good-bye forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Adams_(actor)",
+   "born": "3 February 1834"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Captain Frank W. \"Billy\" Tyne Jr.",
+   "kind": "individual",
+   "desc": "American captain of the F/V Andrea Gail",
+   "cause": "final radio transmission to Captain Linda Greenlaw of the F/V Hannah Boden before his ship capsized during the 1991 Perfect Storm",
+   "last_words": "She's comin' on, boys, and she's comin' on strong.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frank_W._\"Billy\"_Tyne_Jr.",
+   "born": null
+  },
+  {
+   "year": 1998,
+   "year_label": "1998",
+   "name": "Bena Tshadi soccer team",
+   "kind": "individual",
+   "desc": null,
+   "cause": "All 11 members of the Bena Tshadi soccer team located in Kasaï-Central, were struck by lightning and killed during a match against a team from Basanga. 30 others, including spectators and members of the Bena Tshadi team on the sidelines, were injured. No members of the Basanga soccer team were injured. No official cause has been reported; however, The Guardian reported that researchers suggest that it was because the Bena Tshadi team used screwed-in metal cleats that conducted electricity whereas the Basanga team used moulded cleats.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bena_Tshadi_football_lightning_strike",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1466,
+   "year_label": "1466",
+   "name": "Erasmus",
+   "kind": "individual",
+   "desc": "Dutch Catholic priest and humanist scholar",
+   "cause": null,
+   "last_words": "Lord! Lord! make an end! make an end!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Erasmus",
+   "died": "12 July 1536"
+  },
+  {
+   "year": 1754,
+   "year_label": "1754",
+   "name": "John Laurens",
+   "kind": "individual",
+   "desc": "American soldier, statesman and abolitionist",
+   "cause": "prior to death at the Battle of the Combahee River",
+   "last_words": "Charge!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Laurens",
+   "died": "27 August 1782"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Jack Soo",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "speaking to Hal Linden while being wheeled into operating room, referring to the bad coffee Soo's character made on their sitcom Barney Miller",
+   "last_words": "It must have been the coffee.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Soo",
+   "died": "11 January 1979"
+  }
+ ]
+}

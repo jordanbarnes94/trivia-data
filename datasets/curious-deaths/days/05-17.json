@@ -1,0 +1,95 @@
+{
+ "date": "05-17",
+ "died": [
+  {
+   "year": 1536,
+   "year_label": "1536",
+   "name": "Mark Smeaton",
+   "kind": "individual",
+   "desc": "musician in the household of Queen Anne Boleyn",
+   "cause": "prior to beheading for alleged treason and adultery",
+   "last_words": "Masters, I pray you pray for me, for I have deserved this death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mark_Smeaton",
+   "born": null
+  },
+  {
+   "year": 1838,
+   "year_label": "1838",
+   "name": "Charles Maurice de Talleyrand-Périgord",
+   "kind": "individual",
+   "desc": "French clergyman and diplomat",
+   "cause": "to Louis Philippe I, who had asked how he was",
+   "last_words": "I am suffering, sire, the pangs of the damned.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-Périgord",
+   "born": "2 February 1754"
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Kondō Isami",
+   "kind": "individual",
+   "desc": "Japanese samurai, Tennen Rishin-ryū master, and Shinsengumi commander",
+   "cause": "just before his execution",
+   "last_words": "I have been a great trouble.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kondō_Isami",
+   "born": "9 November 1834"
+  },
+  {
+   "year": 1994,
+   "year_label": "1994",
+   "name": "John Thanos",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "Adios.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Thanos",
+   "born": "28 March 1949"
+  }
+ ],
+ "born": [
+  {
+   "year": 1866,
+   "year_label": "1866",
+   "name": "Erik Satie",
+   "kind": "individual",
+   "desc": "French composer and pianist",
+   "cause": null,
+   "last_words": "Ah, the cows...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Erik_Satie",
+   "died": "1 July 1925"
+  },
+  {
+   "year": 1873,
+   "year_label": "1873",
+   "name": "Henri Barbusse",
+   "kind": "individual",
+   "desc": "French novelist and Communist",
+   "cause": "referring to the Second Italo-Ethiopian War",
+   "last_words": "Telephone and say that they must still enlarge it–Always larger, broader, more universal–It's the only means of saving the world.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henri_Barbusse",
+   "died": "30 August 1935"
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "Alfonso XIII",
+   "kind": "individual",
+   "desc": "former King of Spain",
+   "cause": "kissing a crucifix",
+   "last_words": "Spain, My God!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_XIII",
+   "died": "28 February 1941"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Alexandru Șerbănescu",
+   "kind": "individual",
+   "desc": "Second World War Romanian fighter ace",
+   "cause": "crashing after being shot down",
+   "last_words": "I'm going down...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexandru_Șerbănescu",
+   "died": "18 August 1944"
+  }
+ ]
+}

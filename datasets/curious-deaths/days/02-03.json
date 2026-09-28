@@ -1,0 +1,106 @@
+{
+ "date": "02-03",
+ "died": [
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "Woodrow Wilson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "When the machinery is broken... I am ready.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
+   "born": "28 December 1856"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Ronald Ryan",
+   "kind": "individual",
+   "desc": "Australian criminal",
+   "cause": "to the hangman. Ryan was the last person to be executed in Australia prior to the abolition of the death penalty in 1985",
+   "last_words": "God bless you, please make it quick.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Ryan",
+   "born": "21 February 1925"
+  },
+  {
+   "year": 1998,
+   "year_label": "1998",
+   "name": "Karla Faye Tucker",
+   "kind": "individual",
+   "desc": "American double murderer who converted to Christianity in prison",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "Yes sir, I would like to say to all of you-the Thornton Family and Jerry Dean's family that I am so sorry. I hope God will give you peace with this. Baby, I love you. Ron, give Peggy a hug for me. Everybody has been so good to me. I love all of you very much. I am going to be face to face with Jesus now. Warden Baggett, thank all of you so much. You have been so good to me. I love all of you very much. I will see you all when you get there. I will wait for you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karla_Faye_Tucker",
+   "born": "18 November 1959"
+  }
+ ],
+ "born": [
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "Antonio José de Sucre",
+   "kind": "individual",
+   "desc": "Venezuelan independence leader and President of Peru and Bolivia",
+   "cause": "after being shot while riding in the jungle of Colombia. He was said to be an educated gentleman who had never cursed until that day",
+   "last_words": "Fuck, a bullet wound!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antonio_José_de_Sucre",
+   "died": "4 June 1830"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Felix Mendelssohn",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": "in response to being asked how he felt",
+   "last_words": "Weary, very weary.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
+   "died": "4 November 1847"
+  },
+  {
+   "year": 1816,
+   "year_label": "1816",
+   "name": "Frederick William Robertson",
+   "kind": "individual",
+   "desc": "English divine",
+   "cause": "when attendants tried to change his position",
+   "last_words": "I cannot bear it; let me rest. I must die. Let God do his work.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William_Robertson",
+   "died": "15 August 1853"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "Walter Bagehot",
+   "kind": "individual",
+   "desc": "British journalist, businessman and essayist",
+   "cause": "declining help rearranging his pillows",
+   "last_words": "Let me have my own fidgets.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_Bagehot",
+   "died": "24 March 1877"
+  },
+  {
+   "year": 1834,
+   "year_label": "1834",
+   "name": "Edwin Adams",
+   "kind": "individual",
+   "desc": "American stage actor",
+   "cause": "to his wife",
+   "last_words": "Good-bye Mary, good-bye forever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Adams_(actor)",
+   "died": "28 October 1877"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "Gertrude Stein",
+   "kind": "individual",
+   "desc": "American writer",
+   "cause": "addressing her life partner Alice B. Toklas",
+   "last_words": "What is the answer? In that case, what is the question?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Stein",
+   "died": "27 July 1946"
+  }
+ ]
+}

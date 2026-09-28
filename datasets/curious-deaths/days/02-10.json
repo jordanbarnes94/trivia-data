@@ -1,0 +1,73 @@
+{
+ "date": "02-10",
+ "died": [
+  {
+   "year": 1837,
+   "year_label": "1837",
+   "name": "Alexander Pushkin",
+   "kind": "individual",
+   "desc": "Russian poet",
+   "cause": "to his wife, Natalia Pushkina, after being mortally wounded in a duel with Georges-Charles de Heeckeren d'Anthès, who was rumored to be having an affair with Natalia",
+   "last_words": "Try to be forgotten. Go live in the country. Stay in mourning for two years, then remarry, but choose somebody decent.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
+   "born": "26 May 1799"
+  },
+  {
+   "year": 1878,
+   "year_label": "1878",
+   "name": "Claude Bernard",
+   "kind": "individual",
+   "desc": "French physiologist",
+   "cause": "when a cover was placed to warm his feet",
+   "last_words": "This time it will serve me for the voyage from which there is no return, the voyage of eternity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Claude_Bernard",
+   "born": "12 July 1813"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Thomas Kane Wooten",
+   "kind": "individual",
+   "desc": "Graham County, Arizona Deputy Sheriff",
+   "cause": "prior to death in the Power's Cabin shootout",
+   "last_words": "Throw up your hands! Throw up your hands!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Kane_Wooten",
+   "born": null
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "Pope Pius XI",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic prelate and Pope",
+   "cause": null,
+   "last_words": "Peace, Peace.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_XI",
+   "born": "31 May 1857"
+  }
+ ],
+ "born": [
+  {
+   "year": 1775,
+   "year_label": "1775",
+   "name": "Charles Lamb",
+   "kind": "individual",
+   "desc": "English essayist and poet",
+   "cause": null,
+   "last_words": "My bedfellows are cramp and cough – we three all in one bed!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lamb",
+   "died": "27 December 1834"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Cliff Burton",
+   "kind": "individual",
+   "desc": "American musician",
+   "cause": "in a farewell exchange with Anthrax bassist Frank Bello the night before being killed in a tour bus accident in Sweden",
+   "last_words": "Maybe I will.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cliff_Burton",
+   "died": "27 September 1986"
+  }
+ ]
+}

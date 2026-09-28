@@ -1,0 +1,161 @@
+{
+ "date": "11-02",
+ "died": [
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Thomas Midgley Jr.",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 55-year-old American chemical engineer, best known for inventing leaded gasoline and chlorofluorocarbon gas, contracted polio in 1941, which left him severely disabled, leading him to devise an elaborate system of ropes and pulleys to lift himself out of bed. In 1944, he became entangled in the device and died of strangulation.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
+   "born": "18 May 1889"
+  },
+  {
+   "year": 1950,
+   "year_label": "1950",
+   "name": "George Bernard Shaw",
+   "kind": "individual",
+   "desc": "Irish playwright and critic",
+   "cause": "to his nurse",
+   "last_words": "Sister, you're trying to keep me alive as an old curiosity, but I'm done, I'm finished, I'm going to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
+   "born": "26 July 1856"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "James Thurber",
+   "kind": "individual",
+   "desc": "American humorist",
+   "cause": null,
+   "last_words": "God bless ... God damn.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Thurber",
+   "born": "8 December 1894"
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "Lester Roloff",
+   "kind": "individual",
+   "desc": "American fundamentalist Independent Baptist preacher and founder of teen homes",
+   "cause": "prior to fatal plane crash",
+   "last_words": "I believe this is going to be the greatest day of my life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lester_Roloff",
+   "born": "28 June 1914"
+  },
+  {
+   "year": 1984,
+   "year_label": "1984",
+   "name": "Velma Barfield",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "right before her execution",
+   "last_words": "I know that everybody has gone through a lot of pain, all the families connected, and I am sorry, and I want to thank everybody who have been supporting me all these six years.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Velma_Barfield",
+   "born": "29 October 1932"
+  }
+ ],
+ "born": [
+  {
+   "year": 1734,
+   "year_label": "1734",
+   "name": "Daniel Boone",
+   "kind": "individual",
+   "desc": "American pioneer and frontiersman",
+   "cause": null,
+   "last_words": "I'm going now. My time has come.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Boone",
+   "died": "26 September 1820"
+  },
+  {
+   "year": 1741,
+   "year_label": "1741",
+   "name": "Pierre Pigneau de Behaine",
+   "kind": "individual",
+   "desc": "French Roman Catholic priest and missionary in Vietnam",
+   "cause": null,
+   "last_words": "Here I am finally. Here I am at the end of the tumultuous career that, whatever my repugnance, I have kept to for so long. My troubles will soon be over and my true happiness is coming, since I have all confidence in the mercy of my God. I willingly leave this world where I have been thought happy in that I have had public admiration, been respected by great, esteemed kings. I can't say that I regret all these honors-it's just that they add up to vanity and trouble.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Pigneau_de_Behaine",
+   "died": "9 October 1799"
+  },
+  {
+   "year": 1755,
+   "year_label": "1755",
+   "name": "Marie Antoinette",
+   "kind": "individual",
+   "desc": "queen of France",
+   "cause": "apologizing to her executioner for stepping on his foot prior to her execution by guillotine",
+   "last_words": "Pardon me, sir. I did not do it on purpose.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marie_Antoinette",
+   "died": "16 October 1793"
+  },
+  {
+   "year": 1759,
+   "year_label": "1759",
+   "name": "Adrienne de La Fayette",
+   "kind": "individual",
+   "desc": null,
+   "cause": "French marchioness who married Marquis de Lafayette",
+   "last_words": "I am all yours.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_de_La_Fayette",
+   "died": "24 December 1807"
+  },
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "James K. Polk",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to his wife, Sarah Childress Polk",
+   "last_words": "I love you, Sarah. For all eternity, I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_K._Polk",
+   "died": "15 June 1849"
+  },
+  {
+   "year": 1860,
+   "year_label": "1860",
+   "name": "Soapy Smith",
+   "kind": "individual",
+   "desc": "con artist and gangster in the American frontier",
+   "cause": "after vigilante Frank H. Reid shot him",
+   "last_words": "My God, don't shoot!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Soapy_Smith",
+   "died": "7 July 1898"
+  },
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "Warren G. Harding",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to his wife, Florence Harding, who had been reading aloud a flattering Saturday Evening Post article about him",
+   "last_words": "That's good. Go on, read some more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Warren_G._Harding",
+   "died": "2 August 1923"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "Cecil Pugh",
+   "kind": "individual",
+   "desc": "GC, MA, Congregational Church minister",
+   "cause": "asking to be lowered into the hold of the sinking SS Anselm, where injured airmen were trapped. Pugh then prayed with the men until the ship sank",
+   "last_words": "My love of God is greater than my fear of death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Pugh",
+   "died": "5 July 1941"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "Gerry Richardson",
+   "kind": "individual",
+   "desc": "GC, British police officer",
+   "cause": "to PC Carl Walker, GC, referring to armed robber Frederick Joseph Sewell, who had shot both of them. Walker survived",
+   "last_words": "I had him by the throat but the bastard shot me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gerry_Richardson",
+   "died": "23 August 1971"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "date": "05-20",
+ "died": [
+  {
+   "year": 1506,
+   "year_label": "1506",
+   "name": "Christopher Columbus",
+   "kind": "individual",
+   "desc": "Italian explorer",
+   "cause": "quoting Jesus",
+   "last_words": "Into Your hands, O Lord, I commend my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+   "born": null
+  },
+  {
+   "year": 1841,
+   "year_label": "1841",
+   "name": "Joseph Blanco White",
+   "kind": "individual",
+   "desc": "Spanish political thinker, theologian and poet",
+   "cause": null,
+   "last_words": "Now I die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Blanco_White",
+   "born": "11 July 1775"
+  },
+  {
+   "year": 1956,
+   "year_label": "1956",
+   "name": "Max Beerbohm",
+   "kind": "individual",
+   "desc": "English essayist, parodist and caricaturist",
+   "cause": "on being asked by his wife if he had had a good sleep",
+   "last_words": "No. Thanks for everything.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Max_Beerbohm",
+   "born": "24 August 1872"
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "Alan Fish",
+   "kind": "individual",
+   "desc": null,
+   "cause": "On 16 May, while watching a Los Angeles Dodgers–San Francisco Giants game, the 14-year-old was struck in the head by a Manny Mota foul ball, causing an intracerebral hemorrhage. He was sent to the hospital the next morning following a seizure and taken off life support two days later due to apparent brain death; he is the first fan in Major League Baseball history to die of injuries caused by a foul ball.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Baseball_Rule",
+   "born": null
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Edward Earl Johnson",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by gas chamber",
+   "last_words": "I guess no one's going to call.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Earl_Johnson",
+   "born": null
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Gilda Radner",
+   "kind": "individual",
+   "desc": "American actress and comedian",
+   "cause": "to her husband Gene Wilder before she went into a coma",
+   "last_words": "Help me out of here. I've got to get out of here.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gilda_Radner",
+   "born": "28 June 1946"
+  },
+  {
+   "year": 1992,
+   "year_label": "1992",
+   "name": "Roger Keith Coleman",
+   "kind": "individual",
+   "desc": "American rapist and murderer",
+   "cause": "prior to execution by electrocution. In 2006, Coleman was found to be truly guilty due to DNA evidence",
+   "last_words": "An innocent man is going to be murdered tonight. When my innocence is proven, I hope America will realize the injustice of the death penalty as all other civilized countries have. My last words are to the woman I love. Love is eternal. My love for you will last forever. I love you, Sharon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roger_Keith_Coleman",
+   "born": "1 November 1958"
+  }
+ ],
+ "born": [
+  {
+   "year": 1799,
+   "year_label": "1799",
+   "name": "Honoré de Balzac",
+   "kind": "individual",
+   "desc": "French novelist and playwright",
+   "cause": "written across the bottom of a letter from his wife",
+   "last_words": "I can no longer read or write. De Balzac.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Honoré_de_Balzac",
+   "died": "18 August 1850"
+  },
+  {
+   "year": 1905,
+   "year_label": "1905",
+   "name": "Gerrit Achterberg",
+   "kind": "individual",
+   "desc": "Dutch poet",
+   "cause": "to his companion, who had asked if she should bake some potatoes",
+   "last_words": "Yes, but not too many.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gerrit_Achterberg",
+   "died": "17 January 1962"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "James Stewart",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "referring to his late wife",
+   "last_words": "I'm going to be with Gloria now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Stewart",
+   "died": "2 July 1997"
+  }
+ ]
+}

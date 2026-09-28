@@ -1,0 +1,72 @@
+{
+ "date": "08-16",
+ "died": [
+  {
+   "year": 1445,
+   "year_label": "1445",
+   "name": "Margaret Stewart, Dauphine of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Fie on life! Speak no more of it to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Stewart,_Dauphine_of_France",
+   "born": "25 December 1424"
+  },
+  {
+   "year": 1733,
+   "year_label": "1733",
+   "name": "Matthew Tindal",
+   "kind": "individual",
+   "desc": "English deist author",
+   "cause": null,
+   "last_words": "O God-if there be a God-I desire Thee to have mercy on me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Tindal",
+   "born": null
+  },
+  {
+   "year": 1759,
+   "year_label": "1759",
+   "name": "Eugene Aram",
+   "kind": "individual",
+   "desc": "English philologist and murderer",
+   "cause": "when asked if he had anything to say before hanging",
+   "last_words": "No.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Aram",
+   "born": null
+  },
+  {
+   "year": 1780,
+   "year_label": "1780",
+   "name": "Baron Johann de Kalb",
+   "kind": "individual",
+   "desc": "officer in the American War of Independence",
+   "cause": "speaking to a British officer after being mortally wounded and captured at the Battle of Camden",
+   "last_words": "I thank you, sir, for your generous sympathy, but I die the death I always prayed for, the death of a soldier fighting for the rights of man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_de_Kalb",
+   "born": "19 June 1721"
+  },
+  {
+   "year": 1948,
+   "year_label": "1948",
+   "name": "Babe Ruth",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": null,
+   "last_words": "I'm going over the valley.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Babe_Ruth",
+   "born": "6 February 1895"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Elvis Presley",
+   "kind": "individual",
+   "desc": "American musician",
+   "cause": "shortly before being found dead on the bathroom floor",
+   "last_words": "I'm going to the bathroom to read.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley",
+   "born": "8 January 1935"
+  }
+ ],
+ "born": []
+}

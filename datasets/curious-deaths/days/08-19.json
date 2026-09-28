@@ -1,0 +1,117 @@
+{
+ "date": "08-19",
+ "died": [
+  {
+   "year": 14,
+   "year_label": "14",
+   "name": "Augustus",
+   "kind": "individual",
+   "desc": "First Roman Emperor",
+   "cause": null,
+   "last_words": "Have I played the part well? Then applaud, as I exit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Augustus",
+   "born": "23 September 63 BC"
+  },
+  {
+   "year": 1531,
+   "year_label": "1531",
+   "name": "Thomas Bilney",
+   "kind": "individual",
+   "desc": "English Christian martyr",
+   "cause": "While he awaited burning for heresy, the friars and people present argued over who was responsible for Bilney's death; the friars threatened to withhold alms from the people if they were blamed",
+   "last_words": "I pray you, good people, be not the worse to these men on my account, as though they were the authors of my death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Bilney",
+   "born": null
+  },
+  {
+   "year": 1662,
+   "year_label": "1662",
+   "name": "Blaise Pascal",
+   "kind": "individual",
+   "desc": "French mathematician, physicist and theologian",
+   "cause": null,
+   "last_words": "My God, forsake me not.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+   "born": "19 June 1623"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "John Wesley Hardin",
+   "kind": "individual",
+   "desc": "American outlaw and gunfighter",
+   "cause": "killed in an El Paso saloon by John Selman",
+   "last_words": "Four sixes to beat",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley_Hardin",
+   "born": "26 May 1853"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Groucho Marx",
+   "kind": "individual",
+   "desc": "American actor and comedian",
+   "cause": null,
+   "last_words": "This is no way to live!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Groucho_Marx",
+   "born": "2 October 1890"
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Michael Ryan",
+   "kind": "individual",
+   "desc": "perpetrator of the Hungerford massacre",
+   "cause": "speaking to police shortly before committing suicide",
+   "last_words": "It's funny. I killed all those people, but I haven't the guts to blow my own brains out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Ryan_(mass_murderer)",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1686,
+   "year_label": "1686",
+   "name": "Eustace Budgell",
+   "kind": "individual",
+   "desc": "English writer and politician",
+   "cause": "his suicide note, written before drowning himself in the Thames. Joseph Addison was Budgell's cousin",
+   "last_words": "What Cato did, and Addison approved, cannot be wrong.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eustace_Budgell",
+   "died": "4 May 1737"
+  },
+  {
+   "year": 1780,
+   "year_label": "1780",
+   "name": "Pierre-Jean de Béranger",
+   "kind": "individual",
+   "desc": "French poet and chansonnier",
+   "cause": null,
+   "last_words": "My God, my God! Enlighten us. Inspire in a united mankind the love of the good, the love of well being.-To do good, to live for others-that's happiness. Charity, charity, for all the world to be happy. -Widows, small boys-help them.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Jean_de_Béranger",
+   "died": "16 July 1857"
+  },
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Coco Chanel",
+   "kind": "individual",
+   "desc": "French fashion businesswoman",
+   "cause": "to her maid",
+   "last_words": "You see, this is how you die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Coco_Chanel",
+   "died": "10 January 1971"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "John Dundas",
+   "kind": "individual",
+   "desc": "Second World War British fighter ace",
+   "cause": "prior to being shot down and killed",
+   "last_words": "I've finished a 109-Whoopee!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Dundas_(RAF_officer)",
+   "died": "28 November 1940"
+  }
+ ]
+}

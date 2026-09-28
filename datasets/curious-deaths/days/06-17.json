@@ -1,0 +1,95 @@
+{
+ "date": "06-17",
+ "died": [
+  {
+   "year": 1719,
+   "year_label": "1719",
+   "name": "Joseph Addison",
+   "kind": "individual",
+   "desc": "English writer and politician",
+   "cause": "to his stepson, Edward Rich, 7th Earl of Warwick",
+   "last_words": "See in what peace a Christian can die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Addison",
+   "born": "1 May 1672"
+  },
+  {
+   "year": 1775,
+   "year_label": "1775",
+   "name": "Joseph Warren",
+   "kind": "individual",
+   "desc": "American physician and Patriot",
+   "cause": "mortally wounded at the Battle of Bunker Hill",
+   "last_words": "I am a dead man: fight on, my brave fellows, for the salvation of your country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Warren",
+   "born": "11 June 1741"
+  },
+  {
+   "year": 1791,
+   "year_label": "1791",
+   "name": "Selina Hastings, Countess of Huntingdon",
+   "kind": "individual",
+   "desc": "English religious leader",
+   "cause": null,
+   "last_words": "My work is done; I have nothing to do but to go to my Father.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Selina_Hastings,_Countess_of_Huntingdon",
+   "born": "24 August 1707"
+  },
+  {
+   "year": 1871,
+   "year_label": "1871",
+   "name": "Clement Vallandigham",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The American politician and lawyer, who was defending a man accused of murder, accidentally shot himself while demonstrating how the victim might have done so. His client was acquitted.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Clement_Vallandigham",
+   "born": "29 July 1820"
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "Nicholas Comper",
+   "kind": "individual",
+   "desc": "English aviator and aircraft designer",
+   "cause": "dying in hospital after being knocked down while lighting a firework in Hythe, Kent, by a passer-by to whom he claimed he was an IRA man planning to blow up the town hall The 42-year-old aviator and aircraft designer was attempting to light a firework in Hythe, Kent, when a passerby enquired what he was doing; he replied sarcastically that he was an IRA man planning to blow up the town hall. The passerby responded by knocking down Comper, who hit his head on the curb.",
+   "last_words": "I didn't know prisons had such comfortable beds.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Comper",
+   "born": "29 April 1897"
+  }
+ ],
+ "born": [
+  {
+   "year": 1239,
+   "year_label": "1239",
+   "name": "Edward I of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his son, Edward II of England, while dying during a war with Scotland",
+   "last_words": "Carry my bones before you on your march, for the rebels will not be able to endure the sight of me, alive or dead.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_I_of_England",
+   "died": "7 July 1307"
+  },
+  {
+   "year": 1703,
+   "year_label": "1703",
+   "name": "John Wesley",
+   "kind": "individual",
+   "desc": "English cleric and theologian, founder of Methodism",
+   "cause": null,
+   "last_words": "The best of all is, God is with us.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley",
+   "died": "2 March 1791"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Red Foley",
+   "kind": "individual",
+   "desc": "American country music singer",
+   "cause": null,
+   "last_words": "I'm awful tired now, Hank. I've got to go to bed.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Red_Foley",
+   "died": "19 September 1968"
+  }
+ ]
+}

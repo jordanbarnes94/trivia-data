@@ -1,0 +1,128 @@
+{
+ "date": "08-17",
+ "died": [
+  {
+   "year": 1571,
+   "year_label": "1571",
+   "name": "Marco Antonio Bragadin",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Venetian Captain-General of Famagusta in Cyprus was gruesomely killed after the Ottomans took over the city. This was in contravention of negotiated safe passage after the Ottoman Empire took Famagusta. He was dragged around the walls with sacks of earth and stone on his back; next, he was tied to a chair and hoisted to the yardarm of the Turkish flagship, where he was exposed to the taunts of the sailors. Finally, he was taken to his place of execution in the main square, tied naked to a column, and flayed alive. Bragadin's skin was stuffed with straw and sewn, reinvested with his military insignia, and exhibited riding an ox in a mocking procession along the streets of Famagusta. The macabre trophy was hoisted upon the masthead pennant of the personal galley of the Ottoman commander, Amir al-bahr Mustafa Pasha, to be taken to Constantinople as a gift for Sultan Selim II. Bragadin's skin was stolen in 1580 by a Venetian seaman and brought back to Venice, where it was received as a returning hero.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Marco_Antonio_Bragadin",
+   "born": "21 April 1523"
+  },
+  {
+   "year": 1786,
+   "year_label": "1786",
+   "name": "Frederick the Great",
+   "kind": "individual",
+   "desc": "king of Prussia",
+   "cause": null,
+   "last_words": "I am tired of ruling over slaves.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_the_Great",
+   "born": "24 January 1712"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "Bridget Driscoll",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 44-year-old Irish-born woman, the first recorded case of a pedestrian killed in a collision with a motor car in Great Britain, was struck on the grounds of the Crystal Palace in London, by a car belonging to the Anglo-French Motor Carriage Company while giving demonstration rides.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Bridget_Driscoll",
+   "born": null
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Ray Chapman",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": "referring to the pitcher who had fatally struck him with a pitch and to his wedding band On 16 August 1920, while he was up to bat, the 29-year-old Cleveland Indians baseball player was struck in the head by a pitch thrown by the New York Yankees' Carl Mays and died 12 hours later.",
+   "last_words": "I'm all right; tell Mays not to worry... ring....Katie's ring.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ray_Chapman",
+   "born": "15 January 1891"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Charlotte Perkins Gilman",
+   "kind": "individual",
+   "desc": "American humanist and writer",
+   "cause": "in her suicide note",
+   "last_words": "When all usefulness is over, when one is assured of an unavoidable and imminent death, it is the simplest of human rights to choose a quick and easy death in place of a slow and horrible one.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
+   "born": "3 July 1860"
+  },
+  {
+   "year": 1947,
+   "year_label": "1947",
+   "name": "George Atcheson Jr.",
+   "kind": "individual",
+   "desc": "American diplomat",
+   "cause": "aboard plane going down in Pacific Ocean near Hawaii",
+   "last_words": "Well, it can't be helped.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Atcheson_Jr.",
+   "born": "20 October 1896"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "Azaria Chamberlain",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 9-week-old infant was dragged off and killed by a wild dingo during a family camping trip to Uluru in the Northern Territory. This was the first recorded instance of a dingo killing a human. Azaria's parents, Lindy and Michael Chamberlain, received intense media speculation due to the perceived implausibility of a dingo attack; in a highly-publicized trial, Lindy was convicted of murder and Michael named as an accessory. Their convictions were later overturned after Azaria's matinee jacket was discovered in an area with many dingo lairs nearby.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Azaria_Chamberlain",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1768,
+   "year_label": "1768",
+   "name": "Louis Desaix",
+   "kind": "individual",
+   "desc": "French general",
+   "cause": "prior to death in the French Revolutionary Wars",
+   "last_words": "There is yet time to win another battle!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Desaix",
+   "died": "14 June 1800"
+  },
+  {
+   "year": 1801,
+   "year_label": "1801",
+   "name": "Fredrika Bremer",
+   "kind": "individual",
+   "desc": "Swedish writer and feminist reformer",
+   "cause": null,
+   "last_words": "Ah! my child, let us speak of Christ's love-the best, the highest love!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fredrika_Bremer",
+   "died": "31 December 1865"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Charles I of Austria",
+   "kind": "individual",
+   "desc": "the last Emperor of Austria",
+   "cause": "while dying of pneumonia",
+   "last_words": "Thy Holy Will be done. Jesus, Jesus, come! Yes, yes. My Jesus as Thou willst it, Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_Austria",
+   "died": "1 April 1922"
+  },
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Francis Gary Powers",
+   "kind": "individual",
+   "desc": "American pilot",
+   "cause": "last radio transmission before a helicopter crash killed him and cameraman George Spears",
+   "last_words": "TV four just lost -",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Gary_Powers",
+   "died": "1 August 1977"
+  }
+ ]
+}

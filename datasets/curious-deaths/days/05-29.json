@@ -1,0 +1,194 @@
+{
+ "date": "05-29",
+ "died": [
+  {
+   "year": 1453,
+   "year_label": "1453",
+   "name": "Constantine XI",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Byzantine Empire, before charging into Ottoman lines during the Fall of Constantinople, he was never seen again",
+   "last_words": "God forbid that I should live as an Emperor without an Empire. As my city falls, I will fall with it. Whosoever wishes to escape, let him save himself if he can, and whoever is ready to face death, let him follow me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Constantine_XI",
+   "born": "8 February 1404"
+  },
+  {
+   "year": 1546,
+   "year_label": "1546",
+   "name": "David Beaton",
+   "kind": "individual",
+   "desc": "Archbishop of St Andrews, final Scottish Cardinal prior to the Scottish Reformation",
+   "cause": "during his assassination",
+   "last_words": "I am a priest; I am a priest! Fie! Fie! All is gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Beaton",
+   "born": null
+  },
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "Empress Joséphine",
+   "kind": "individual",
+   "desc": "former wife of Napoleon",
+   "cause": "looking at a picture of her former husband, who was exiled to the island of Elba at the time",
+   "last_words": "L'Isle d'Elbe-Napoleon-",
+   "wikipedia": "https://en.wikipedia.org/wiki/Empress_Joséphine",
+   "born": "23 June 1763"
+  },
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Henry Thomas Buckle",
+   "kind": "individual",
+   "desc": "English historian and author",
+   "cause": null,
+   "last_words": "Poor little boys!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Thomas_Buckle",
+   "born": "24 November 1821"
+  },
+  {
+   "year": 1866,
+   "year_label": "1866",
+   "name": "Winfield Scott",
+   "kind": "individual",
+   "desc": "United States Army general",
+   "cause": null,
+   "last_words": "James, take good care of the horses.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Winfield_Scott",
+   "born": "13 June 1786"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "John Lothrop Motley",
+   "kind": "individual",
+   "desc": "American author and diplomat",
+   "cause": null,
+   "last_words": "I am ill - very ill, I shall not recover.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Lothrop_Motley",
+   "born": "15 April 1814"
+  },
+  {
+   "year": 1911,
+   "year_label": "1911",
+   "name": "W. S. Gilbert",
+   "kind": "individual",
+   "desc": "English dramatist and librettist",
+   "cause": "while saving 17-year-old Ruby Preece from drowning, which caused his fatal heart attack",
+   "last_words": "Put your hands on my shoulders and don't struggle.",
+   "wikipedia": "https://en.wikipedia.org/wiki/W._S._Gilbert",
+   "born": "18 November 1836"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "John Barrymore",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his brother, Lionel Barrymore, who had failed to understand something he said",
+   "last_words": "You heard me, Mike.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Barrymore",
+   "born": "15 February 1882"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "James Whale",
+   "kind": "individual",
+   "desc": "English film and theater director and actor",
+   "cause": "in his suicide note",
+   "last_words": "The future is just old age and illness and pain... I must have peace and this is the only way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Whale",
+   "born": "22 July 1889"
+  },
+  {
+   "year": 1972,
+   "year_label": "1972",
+   "name": "Moe Berg",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": "to his nurse",
+   "last_words": "How did the Mets do today?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Moe_Berg",
+   "born": "2 March 1902"
+  }
+ ],
+ "born": [
+  {
+   "year": 1630,
+   "year_label": "1630",
+   "name": "Charles II of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "I have been a most unconscionable time dying, but I beg you to excuse it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_England",
+   "died": "6 February 1685"
+  },
+  {
+   "year": 1729,
+   "year_label": "1729",
+   "name": "William Dodd",
+   "kind": "individual",
+   "desc": "English Anglican clergyman and man of letters",
+   "cause": "to his executioner prior to hanging for forgery. He then whispered something unknown to the executioner",
+   "last_words": "Come to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Dodd_(priest)",
+   "died": "27 June 1777"
+  },
+  {
+   "year": 1736,
+   "year_label": "1736",
+   "name": "Patrick Henry",
+   "kind": "individual",
+   "desc": "American attorney, politician and orator",
+   "cause": null,
+   "last_words": "Doctor, I wish you to observe how real and beneficial the religion of Christ is to a man about to die.... I am, however, much consoled by reflecting that the religion of Christ has, from its first appearance in the world, been attacked in vain by all the wits, philosophers, and wise ones, aided by every power of man, and its triumphs have been complete.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Henry",
+   "died": "6 June 1799"
+  },
+  {
+   "year": 1760,
+   "year_label": "1760",
+   "name": "Louis-Michel le Peletier, marquis de Saint-Fargeau",
+   "kind": "individual",
+   "desc": "French politician",
+   "cause": "assassinated because he voted in favor of Louis XVI's execution the following day",
+   "last_words": "I am cold.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis-Michel_le_Peletier,_marquis_de_Saint-Fargeau",
+   "died": "20 January 1793"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "G. K. Chesterton",
+   "kind": "individual",
+   "desc": "English writer, philosopher, lay theologian and critic",
+   "cause": null,
+   "last_words": "The issue is now clear. It is between light and darkness, and everyone must choose his side.",
+   "wikipedia": "https://en.wikipedia.org/wiki/G._K._Chesterton",
+   "died": "14 June 1936"
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Frederick Harding Turner",
+   "kind": "individual",
+   "desc": "Scottish sportsman",
+   "cause": "shortly before being killed by a sniper during World War I",
+   "last_words": "By Jove, that has deafened my right ear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Harding_Turner",
+   "died": "10 January 1915"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "John F. Kennedy",
+   "kind": "individual",
+   "desc": "35th president of the United States",
+   "cause": "replying to co-passenger Nellie Connally saying, \"You certainly can't say Dallas doesn't love you, Mr. President\" while traveling through Dallas in a motorcade, shortly before he was assassinated by Lee Harvey Oswald replying to co-passenger Nellie Connally saying, \"You certainly can't say Dallas doesn't love you, Mr. President\" while travelling through Dallas in a motorcade, shortly before he was fatally shot",
+   "last_words": "No, you certainly can't.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+   "died": "22 November 1963"
+  }
+ ]
+}

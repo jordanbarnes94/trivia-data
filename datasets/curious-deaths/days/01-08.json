@@ -1,0 +1,95 @@
+{
+ "date": "01-08",
+ "died": [
+  {
+   "year": 1557,
+   "year_label": "1557",
+   "name": "Albert Alcibiades, Margrave of Brandenburg-Kulmbach",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Lord Jesu!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_Alcibiades,_Margrave_of_Brandenburg-Kulmbach",
+   "born": "28 March 1522"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "name": "Paul Verlaine",
+   "kind": "individual",
+   "desc": "French poet",
+   "cause": "who spent much of his later life in poverty",
+   "last_words": "Don't sole the dead man's shoes yet!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul_Verlaine",
+   "born": "30 March 1844"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Jeremy Wade Delle",
+   "kind": "individual",
+   "desc": "American high school student",
+   "cause": "to his teacher shortly before committing suicide. Delle's suicide would inspire the song Jeremy by Pearl Jam",
+   "last_words": "Miss, I got what I really went for...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Wade_Delle",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1830,
+   "year_label": "1830",
+   "name": "Hans von Bülow",
+   "kind": "individual",
+   "desc": "German conductor, pianist and composer",
+   "cause": "in response to being asked how he felt",
+   "last_words": "Bad.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hans_von_Bülow",
+   "died": "12 February 1894"
+  },
+  {
+   "year": 1864,
+   "year_label": "1864",
+   "name": "Prince Albert Victor, Duke of Clarence and Avondale",
+   "kind": "individual",
+   "desc": "second in line to the British throne",
+   "cause": "he repeated these words over and over again while dying",
+   "last_words": "Who is that?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale",
+   "died": "14 January 1892"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Maximilian Kolbe",
+   "kind": "individual",
+   "desc": "Polish Catholic priest, promoter of veneration of the Immaculate Virgin Mary",
+   "cause": "injected with carbolic acid after two weeks of starvation in Auschwitz concentration camp. He had offered himself for starvation in the place of an inmate with a family",
+   "last_words": "Love the immaculate, love the immaculate, love the immaculate.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_Kolbe",
+   "died": "14 August 1941"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Elvis Presley",
+   "kind": "individual",
+   "desc": "American musician",
+   "cause": "shortly before being found dead on the bathroom floor",
+   "last_words": "I'm going to the bathroom to read.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley",
+   "died": "16 August 1977"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Graham Chapman",
+   "kind": "individual",
+   "desc": "English comedian, writer, actor, and author",
+   "cause": "to a nurse who stuck a needle in his arm",
+   "last_words": "Sorry for saying fuck.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Graham_Chapman",
+   "died": "4 October 1989"
+  }
+ ]
+}

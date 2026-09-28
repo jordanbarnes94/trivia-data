@@ -1,0 +1,106 @@
+{
+ "date": "02-28",
+ "died": [
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Henry James",
+   "kind": "individual",
+   "desc": "American-British author",
+   "cause": null,
+   "last_words": "So here it is at last, the distinguished thing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_James",
+   "born": "15 April 1843"
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Alfonso XIII",
+   "kind": "individual",
+   "desc": "former King of Spain",
+   "cause": "kissing a crucifix",
+   "last_words": "Spain, My God!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_XIII",
+   "born": "17 May 1886"
+  },
+  {
+   "year": 1966,
+   "year_label": "1966",
+   "name": "Elliot See",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "prior to plane crash that killed him and fellow astronaut Charles Bassett",
+   "last_words": "Final ILS two four.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elliot_See",
+   "born": "23 July 1927"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Naoyuki Kanno",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The deceased body of a 26-year-old employee of a nuclear power maintenance company was found horizontally wedged inside a septic pipe connected to a toilet at the teacher's living quarters of a local elementary school in Miyakoji village, Fukushima. To extract him, rescuers had to excavate the lavatory and cut the pipe open because the 36 cm wide outlet was too small to pull him out manually.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1712,
+   "year_label": "1712",
+   "name": "Louis-Joseph de Montcalm",
+   "kind": "individual",
+   "desc": "French general",
+   "cause": "on being told the wound he had received at the Battle of the Plains of Abraham was mortal",
+   "last_words": "So much the better. I am happy that I shall not live to see the surrender of Quebec. I have much business that must be attended to of greater moment than your ruined garrison and this wretched country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis-Joseph_de_Montcalm",
+   "died": "14 September 1759"
+  },
+  {
+   "year": 1823,
+   "year_label": "1823",
+   "name": "Ernest Renan",
+   "kind": "individual",
+   "desc": "French scholar",
+   "cause": null,
+   "last_words": "We perish, we disappear, but the march of time goes on for ever.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Renan",
+   "died": "2 October 1892"
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Alfred von Schlieffen",
+   "kind": "individual",
+   "desc": "German field marshal and strategist",
+   "cause": null,
+   "last_words": "Remember, keep the right wing strong.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_von_Schlieffen",
+   "died": "4 January 1913"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "Félix Conde Falcón",
+   "kind": "individual",
+   "desc": "United States Army soldier and Medal of Honor recipient",
+   "cause": "mortally wounded during the Vietnam War",
+   "last_words": "God don't let me die, take care of my wife and two kids.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Félix_Conde_Falcón",
+   "died": "4 April 1969"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Bob Collins",
+   "kind": "individual",
+   "desc": "American radio disc jockey",
+   "cause": "final radio transmission during 2000 Zion mid-air collision",
+   "last_words": "Five zula alpha just had a midair. Both planes are going down in the, ah, one mile to the, ah, two miles to the west of the power plant.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bob_Collins_(broadcaster)",
+   "died": "8 February 2000"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "date": "05-03",
+ "died": [
+  {
+   "year": 1679,
+   "year_label": "1679",
+   "name": "James Sharp",
+   "kind": "individual",
+   "desc": "Archbishop of St Andrews",
+   "cause": null,
+   "last_words": "I shall be happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Sharp_(bishop)",
+   "born": "4 May 1613"
+  },
+  {
+   "year": 1758,
+   "year_label": "1758",
+   "name": "Pope Benedict XIV",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Sic transit gloria mundi.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Benedict_XIV",
+   "born": "31 March 1675"
+  },
+  {
+   "year": 1784,
+   "year_label": "1784",
+   "name": "Anthony Benezet",
+   "kind": "individual",
+   "desc": "French-American abolitionist and educator",
+   "cause": "to his wife",
+   "last_words": "We have lived long, in love and peace.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Benezet",
+   "born": "31 January 1713"
+  },
+  {
+   "year": 1845,
+   "year_label": "1845",
+   "name": "Thomas Hood",
+   "kind": "individual",
+   "desc": "English poet, author and humorist",
+   "cause": null,
+   "last_words": "Dying, Dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hood",
+   "born": "23 May 1799"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Hiram Gregory Berry",
+   "kind": "individual",
+   "desc": "American politician and Union general of the American Civil War",
+   "cause": "mortally wounded at the Battle of Chancellorsville",
+   "last_words": "I am dying, carry me to the rear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hiram_Gregory_Berry",
+   "born": "27 August 1824"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Patrick Pearse",
+   "kind": "individual",
+   "desc": "Irish author and revolutionary",
+   "cause": "on his way to execution by firing squad",
+   "last_words": "(Whistling)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Pearse",
+   "born": "10 November 1879"
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Dalida",
+   "kind": "individual",
+   "desc": "Italian-French singer and actress",
+   "cause": "writing her suicide note",
+   "last_words": "Life is unbearable for me. Forgive me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dalida",
+   "born": "17 January 1933"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Jerzy Kosiński",
+   "kind": "individual",
+   "desc": "Polish-American novelist",
+   "cause": "in his suicide note",
+   "last_words": "I am going to put myself to sleep now for a bit longer than usual. Call it Eternity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jerzy_Kosiński",
+   "born": "14 June 1933"
+  }
+ ],
+ "born": [
+  {
+   "year": 1469,
+   "year_label": "1469",
+   "name": "Niccolò Machiavelli",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Italian Renaissance diplomat, philosopher and writer",
+   "last_words": "I desire to go to hell, and not to heaven. In the former place I shall enjoy the company of popes, kings, and princes, while in the latter are only beggars, monks, hermits, and apostles.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Niccolò_Machiavelli",
+   "died": "21 June 1527"
+  },
+  {
+   "year": 1764,
+   "year_label": "1764",
+   "name": "Élisabeth of France",
+   "kind": "individual",
+   "desc": "sister of Louis XVI",
+   "cause": "when her fichu fell from her neck prior to her execution by guillotine",
+   "last_words": "I pray you, gentlemen, in the name of modesty, suffer me to cover my bosom.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Élisabeth_of_France",
+   "died": "10 May 1794"
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "James Osgood Andrew",
+   "kind": "individual",
+   "desc": "American bishop of the Methodist Episcopal Church, South",
+   "cause": null,
+   "last_words": "God bless you all!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Osgood_Andrew",
+   "died": "2 March 1871"
+  },
+  {
+   "year": 1903,
+   "year_label": "1903",
+   "name": "Bing Crosby",
+   "kind": "individual",
+   "desc": "American singer and actor",
+   "cause": "moments before collapsing and dying of a heart attack",
+   "last_words": "That was a great game of golf, fellas. Let's go have a Coca-Cola.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bing_Crosby",
+   "died": "14 October 1977"
+  }
+ ]
+}

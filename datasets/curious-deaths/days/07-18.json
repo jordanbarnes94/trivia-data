@@ -1,0 +1,106 @@
+{
+ "date": "07-18",
+ "died": [
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Jane Austen",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "being asked by her sister Cassandra if she wanted something",
+   "last_words": "I want nothing but death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
+   "born": "16 December 1775"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Arthur Penrhyn Stanley",
+   "kind": "individual",
+   "desc": "FRS, English Anglican priest and ecclesiastical historian",
+   "cause": "final recorded words",
+   "last_words": "I wish Vaughan to preach my funeral sermon, because he has known me longest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Penrhyn_Stanley",
+   "born": "13 December 1815"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Horatio Alger",
+   "kind": "individual",
+   "desc": "American author and educator",
+   "cause": null,
+   "last_words": "Splendid! I'll sleep now. I shall have a nap. Later I can pack and leave on the evening train. But I'm tired. Let me rest.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Alger",
+   "born": "13 January 1832"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Vaughn Bodē",
+   "kind": "individual",
+   "desc": "American cartoonist and illustrator",
+   "cause": "to his son",
+   "last_words": "Mark, I've seen God four times, and I'm going to see him again soon. That's No. 1 to me, and you're No. 2.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vaughn_Bodē",
+   "born": "22 July 1941"
+  },
+  {
+   "year": 1984,
+   "year_label": "1984",
+   "name": "James Huberty",
+   "kind": "individual",
+   "desc": "perpetrator of the San Ysidro McDonald's massacre",
+   "cause": "taunting employees hiding in the kitchen",
+   "last_words": "Oh, there's more. You're trying to hide from me you bastards!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Huberty",
+   "born": "11 October 1942"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Rebecca Schaeffer",
+   "kind": "individual",
+   "desc": "American actress and model",
+   "cause": "spoken to the neighbors after being shot at her apartment doorsteps by stalker Robert John Bardo",
+   "last_words": "Why? Why?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Schaeffer",
+   "born": "6 November 1967"
+  }
+ ],
+ "born": [
+  {
+   "year": 1811,
+   "year_label": "1811",
+   "name": "William Makepeace Thackeray",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "to his valet",
+   "last_words": "Good night.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray",
+   "died": "24 December 1863"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Vidkun Quisling",
+   "kind": "individual",
+   "desc": "Norwegian politician",
+   "cause": "prior to execution by firing squad for murder and high treason",
+   "last_words": "I'm convicted unfairly and I die innocent.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
+   "died": "24 October 1945"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Lupe Vélez",
+   "kind": "individual",
+   "desc": "Mexican actress, dancer and singer",
+   "cause": "in her suicide note, addressed to actor Harald Ramond. Vélez was pregnant with Ramond's child at the time",
+   "last_words": "To Harald, may God forgive you and forgive me too but I prefer to take my life away and our baby's before I bring him with shame or killing him, Lupe.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lupe_Vélez",
+   "died": "14 December 1944"
+  }
+ ]
+}

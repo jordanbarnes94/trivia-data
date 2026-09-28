@@ -1,0 +1,73 @@
+{
+ "date": "01-06",
+ "died": [
+  {
+   "year": 1088,
+   "year_label": "1088",
+   "name": "Berengar of Tours",
+   "kind": "individual",
+   "desc": "French Christian theologian",
+   "cause": "dying in ascetic solitude on the island of Saint-Cosme near Tours",
+   "last_words": "I shall not long hesitate between conscience and the Pope, for I shall soon appear in the presence of God, to be acquitted, I hope; to be condemned, I fear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Berengar_of_Tours",
+   "born": null
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "Philip Danforth Armour",
+   "kind": "individual",
+   "desc": "American industrialist, founder of Armour and Company",
+   "cause": null,
+   "last_words": "I am not afraid to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Danforth_Armour",
+   "born": "16 May 1832"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Theodore Roosevelt",
+   "kind": "individual",
+   "desc": "president of the United States and Medal of Honor recipient",
+   "cause": "to family servant James E. Amos",
+   "last_words": "Please put out that light, James.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
+   "born": "27 October 1858"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "André Bessette",
+   "kind": "individual",
+   "desc": "C.S.C., Canadian Roman Catholic lay brother",
+   "cause": null,
+   "last_words": "My God, how it hurts! Oh I suffer!",
+   "wikipedia": "https://en.wikipedia.org/wiki/André_Bessette",
+   "born": "9 August 1845"
+  }
+ ],
+ "born": [
+  {
+   "year": 1811,
+   "year_label": "1811",
+   "name": "Charles Sumner",
+   "kind": "individual",
+   "desc": "American statesman and United States Senator",
+   "cause": "to Samuel Hooper, his former father-in-law",
+   "last_words": "Sit down.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sumner",
+   "died": "11 March 1874"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "Ruppert L. Sargent",
+   "kind": "individual",
+   "desc": "United States Army officer and Medal of Honor recipient",
+   "cause": "prior to falling on two grenades during the Vietnam War",
+   "last_words": "Grenades. Grenades.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ruppert_L._Sargent",
+   "died": "15 March 1967"
+  }
+ ]
+}

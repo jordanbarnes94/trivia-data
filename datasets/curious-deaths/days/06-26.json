@@ -1,0 +1,73 @@
+{
+ "date": "06-26",
+ "died": [
+  {
+   "year": 363,
+   "year_label": "363",
+   "name": "Julian",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "mortally wounded in battle. He had rejected Christianity in favor of paganism; according to some accounts, he was assassinated by a Christian",
+   "last_words": "And yet Thou hast conquered, O Galilean!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julian_(emperor)",
+   "born": "17 November 331"
+  },
+  {
+   "year": 1541,
+   "year_label": "1541",
+   "name": "Francisco Pizarro",
+   "kind": "individual",
+   "desc": "Spanish conquistador",
+   "cause": "after being stabbed by assassins",
+   "last_words": "Jesu!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+   "born": "16 March 1478"
+  },
+  {
+   "year": 1691,
+   "year_label": "1691",
+   "name": "John Flavel",
+   "kind": "individual",
+   "desc": "English Presbyterian clergyman and author",
+   "cause": null,
+   "last_words": "I know that it will be well with me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Flavel",
+   "born": null
+  },
+  {
+   "year": 1830,
+   "year_label": "1830",
+   "name": "George IV",
+   "kind": "individual",
+   "desc": "King of the United Kingdom of Great Britain and Ireland",
+   "cause": null,
+   "last_words": "O God! I am dying.\" (To his physician) \"This is death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_IV",
+   "born": "12 August 1762"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "George David Cummins",
+   "kind": "individual",
+   "desc": "American Anglican bishop, founder of the Reformed Episcopal Church",
+   "cause": null,
+   "last_words": "Jesus! precious Saviour!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_David_Cummins",
+   "born": "11 December 1822"
+  }
+ ],
+ "born": [
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Salvador Allende Gossens",
+   "kind": "individual",
+   "desc": "Marxist President of Chile",
+   "cause": "addressing the nation during the 1973 Chilean coup d'état moments before killing himself",
+   "last_words": "These are my last words, and I am certain that my sacrifice will not be in vain. I am certain that, at the very least, it will be a moral lesson that will punish felony, cowardice and treason.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Salvador_Allende",
+   "died": "11 September 1973"
+  }
+ ]
+}

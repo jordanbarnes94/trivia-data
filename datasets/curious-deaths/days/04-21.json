@@ -1,0 +1,139 @@
+{
+ "date": "04-21",
+ "died": [
+  {
+   "year": 1109,
+   "year_label": "1109",
+   "name": "Anselm of Canterbury",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": null,
+   "last_words": "Yes, if it be His will, I shall obey it willingly. But were He to let me stay with you a little longer till I have resolved a problem about the origin of the soul, I would gladly accept the boon; for I do not know whether anyone will work it out when I am gone. If I could but eat, I think I should pick up a little strength. I feel no pain in any part of my body; only I cannot retain nourishment, and that exhausts me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
+   "born": null
+  },
+  {
+   "year": 1142,
+   "year_label": "1142",
+   "name": "Peter Abelard",
+   "kind": "individual",
+   "desc": "French philosopher and theologian",
+   "cause": null,
+   "last_words": "I don't know.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Peter_Abelard",
+   "born": null
+  },
+  {
+   "year": 1509,
+   "year_label": "1509",
+   "name": "Henry VII of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "We heartily desire our executors to consider how behoofful it is to be prayed for.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
+   "born": "28 January 1457"
+  },
+  {
+   "year": 1701,
+   "year_label": "1701",
+   "name": "Asano Naganori",
+   "kind": "individual",
+   "desc": "daimyō of the Akō Domain in Japan",
+   "cause": "death poem for his seppuku",
+   "last_words": "I wish I could enjoy / the rest of Spring / as the cherry blossoms are yet in bloom / in spite of the spring breeze / which is attempting to blow off all their petals.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Asano_Naganori",
+   "born": "28 September 1667"
+  },
+  {
+   "year": 1753,
+   "year_label": "1753",
+   "name": "Richard Newton",
+   "kind": "individual",
+   "desc": "English educator and clergyman",
+   "cause": null,
+   "last_words": "Christ Jesus the Saviour of sinners and life of the dead. I am going, going to Glory! Farewell sin! Farewell death! Praise the Lord!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Newton_(academic)",
+   "born": null
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Mark Twain",
+   "kind": "individual",
+   "desc": "American novelist",
+   "cause": "to his daughter Clara",
+   "last_words": "Give me my glasses.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain",
+   "born": "30 November 1835"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Manfred von Richthofen",
+   "kind": "individual",
+   "desc": "or the Red Baron",
+   "cause": "mortally wounded at the Fourth Battle of Ypres",
+   "last_words": "Kaputt.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen",
+   "born": "2 May 1892"
+  },
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "Eleonora Duse",
+   "kind": "individual",
+   "desc": "Italian actress",
+   "cause": null,
+   "last_words": "We must stir ourselves. Move on! Work, work! Cover me! Must move on! Must work! Cover me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eleonora_Duse",
+   "born": "3 October 1858"
+  },
+  {
+   "year": 1992,
+   "year_label": "1992",
+   "name": "Robert Alton Harris",
+   "kind": "individual",
+   "desc": "American kidnapper and murderer",
+   "cause": "prior to execution by gas chamber",
+   "last_words": "You can be a king or a street sweeper, but everyone dances with the Grim Reaper.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Alton_Harris",
+   "born": "15 January 1953"
+  }
+ ],
+ "born": [
+  {
+   "year": 1523,
+   "year_label": "1523",
+   "name": "Marco Antonio Bragadin",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Venetian Captain-General of Famagusta in Cyprus was gruesomely killed after the Ottomans took over the city. This was in contravention of negotiated safe passage after the Ottoman Empire took Famagusta. He was dragged around the walls with sacks of earth and stone on his back; next, he was tied to a chair and hoisted to the yardarm of the Turkish flagship, where he was exposed to the taunts of the sailors. Finally, he was taken to his place of execution in the main square, tied naked to a column, and flayed alive. Bragadin's skin was stuffed with straw and sewn, reinvested with his military insignia, and exhibited riding an ox in a mocking procession along the streets of Famagusta. The macabre trophy was hoisted upon the masthead pennant of the personal galley of the Ottoman commander, Amir al-bahr Mustafa Pasha, to be taken to Constantinople as a gift for Sultan Selim II. Bragadin's skin was stolen in 1580 by a Venetian seaman and brought back to Venice, where it was received as a returning hero.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Marco_Antonio_Bragadin",
+   "died": "17 August 1571"
+  },
+  {
+   "year": 1816,
+   "year_label": "1816",
+   "name": "Charlotte Brontë",
+   "kind": "individual",
+   "desc": "English author",
+   "cause": "addressing her husband Arthur",
+   "last_words": "Oh, I am not going to die, am I? He will not separate us. We have been so happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Brontë",
+   "died": "31 March 1855"
+  },
+  {
+   "year": 1911,
+   "year_label": "1911",
+   "name": "Leonard Warren",
+   "kind": "individual",
+   "desc": "American operatic baritone",
+   "cause": "performing in La Forza del Destino at the Metropolitan Opera before dying on stage",
+   "last_words": "He is safe! He is safe! Oh, joy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Warren",
+   "died": "4 March 1960"
+  }
+ ]
+}

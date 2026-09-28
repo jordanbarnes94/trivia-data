@@ -1,0 +1,84 @@
+{
+ "date": "02-21",
+ "died": [
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Olena Teliha",
+   "kind": "individual",
+   "desc": "Ukrainian poet and activist",
+   "cause": "inscription written on the wall of her prison cell prior to her execution by the Gestapo",
+   "last_words": "Here Olena Teliha was sitting until she was shot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Olena_Teliha",
+   "born": "21 July 1906"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Malcolm X",
+   "kind": "individual",
+   "desc": "American activist",
+   "cause": "trying to calm a 400-person chaos shortly before being killed by gunfire from multiple assailants",
+   "last_words": "Brothers! Brothers, please! This is a house of peace!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_X",
+   "born": "19 May 1925"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Bernard B. Fall",
+   "kind": "individual",
+   "desc": "American war correspondent and historian",
+   "cause": "spoken into tape recorder just before stepping on land mine that killed him and U.S. Marine Byron G. Highland during the Vietnam War",
+   "last_words": "We've reached one of our phase lines after the fire fight and it smells bad-meaning it's a little bit suspicious...Could be an amb-",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bernard_B._Fall",
+   "born": "11 November 1926"
+  }
+ ],
+ "born": [
+  {
+   "year": 1785,
+   "year_label": "1785",
+   "name": "Karl August Varnhagen von Ense",
+   "kind": "individual",
+   "desc": "German biographer, diplomat and soldier",
+   "cause": "playing chess with his young niece",
+   "last_words": "I lost.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense",
+   "died": "10 October 1858"
+  },
+  {
+   "year": 1851,
+   "year_label": "1851",
+   "name": "Barney Barnato",
+   "kind": "individual",
+   "desc": "British Randlord",
+   "cause": "he asked this question before jumping overboard from a ship",
+   "last_words": "What's the time?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Barney_Barnato",
+   "died": "14 June 1897"
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Pyotr Dolgov",
+   "kind": "individual",
+   "desc": "Soviet Air Force colonel and balloonist",
+   "cause": "to Yevgeni Nikolayevich Andreyev prior to jumping from a Volga balloon gondola at an altitude of 25600 m. Dolgov was killed when his pressure suit depressurized; Andreyev successfully reached the ground",
+   "last_words": "Have a good trip!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pyotr_Dolgov",
+   "died": "1 November 1962"
+  },
+  {
+   "year": 1925,
+   "year_label": "1925",
+   "name": "Ronald Ryan",
+   "kind": "individual",
+   "desc": "Australian criminal",
+   "cause": "to the hangman. Ryan was the last person to be executed in Australia prior to the abolition of the death penalty in 1985",
+   "last_words": "God bless you, please make it quick.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Ryan",
+   "died": "3 February 1967"
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "date": "11-13",
+ "died": [
+  {
+   "year": 1536,
+   "year_label": "1536",
+   "name": "Robert Pakington",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 47-year-old merchant and MP was killed in London by a wheellock pistol, making his death the first political assassination performed by a firearm.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Pakington",
+   "born": null
+  },
+  {
+   "year": 1829,
+   "year_label": "1829",
+   "name": "Sam Patch",
+   "kind": "individual",
+   "desc": "American daredevil",
+   "cause": "prior to fatal leap from Genesee Falls",
+   "last_words": "Napoleon was a great man and a great general. He conquered armies and he conquered nations. But he couldn't jump the Genesee Falls. Wellington was a great man and a great soldier. He conquered armies and he conquered Napoleon, but he couldn't jump the Genesee Falls. That was left for me to do, and I can do it and will!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Patch",
+   "born": null
+  },
+  {
+   "year": 1836,
+   "year_label": "1836",
+   "name": "Charles Simeon",
+   "kind": "individual",
+   "desc": "English evangelical Anglican clergyman",
+   "cause": null,
+   "last_words": "What do you think especially gives me comfort at this time? The creation! I ask myself, 'Did Jehovah create the world or did I?' He did! Now if He made the world and all the rolling spheres of the universe, He certainly can take care of me. Into Jesus' hands I can safely commit my spirit!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Simeon",
+   "born": "24 September 1759"
+  },
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "name": "William Etty",
+   "kind": "individual",
+   "desc": "English artist",
+   "cause": "watching the sunset over the River Ouse, Yorkshire",
+   "last_words": "Wonderful! Wonderful this death!",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Etty",
+   "born": "10 March 1787"
+  },
+  {
+   "year": 1903,
+   "year_label": "1903",
+   "name": "Andrew Haswell Green",
+   "kind": "individual",
+   "desc": "American lawyer, city planner and civic leader",
+   "cause": "to his murderer, Cornelius Williams",
+   "last_words": "I don't know you, I tell you, and you must go away from here.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Haswell_Green",
+   "born": "6 October 1820"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Cyril Rattigan",
+   "kind": "individual",
+   "desc": "English cricketer",
+   "cause": "prior to fatally attempting to kill a German sniper during World War I",
+   "last_words": "I'm going to have a shot at getting him in.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cyril_Rattigan",
+   "born": "5 August 1884"
+  },
+  {
+   "year": 1952,
+   "year_label": "1952",
+   "name": "Margaret Wise Brown",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 42-year-old American author of Goodnight Moon was hospitalized, either for an inflamed appendix or for an ovarian cyst. To prove how healthy she was after treatment, she kicked her foot in the air, dislodging a blood clot in her leg. The blood clot quickly travelled to her brain, and she died in emergency surgery.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Wise_Brown",
+   "born": "23 May 1910"
+  }
+ ],
+ "born": [
+  {
+   "year": 1312,
+   "year_label": "1312",
+   "name": "Edward III of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "kissing a crucifix",
+   "last_words": "Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_III_of_England",
+   "died": "21 June 1377"
+  },
+  {
+   "year": 1761,
+   "year_label": "1761",
+   "name": "John Moore",
+   "kind": "individual",
+   "desc": "British Army general",
+   "cause": "mortally wounded at the Battle of Corunna. Moore then spoke of his mother and some other people, including Lady Hester Stanhope, before dying",
+   "last_words": "It is a great satisfaction to me to know we have beaten the French. I hope the people of England will be satisfied. I hope my country will do me justice.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Moore_(British_Army_officer)",
+   "died": "16 January 1809"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Robert Louis Stevenson",
+   "kind": "individual",
+   "desc": "Scottish author",
+   "cause": "to his wife, Fanny Stevenson, before collapsing from a cerebral haemorrhage",
+   "last_words": "What's that? Do I look strange?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
+   "died": "3 December 1894"
+  }
+ ]
+}

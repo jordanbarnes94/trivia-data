@@ -1,0 +1,150 @@
+{
+ "date": "10-07",
+ "died": [
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "Johann Georg Ritter von Zimmermann",
+   "kind": "individual",
+   "desc": "Swiss philosophical writer, naturalist and physician",
+   "cause": null,
+   "last_words": "I am dying; leave me alone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Georg_Ritter_von_Zimmermann",
+   "born": "8 December 1728"
+  },
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "name": "Edgar Allan Poe",
+   "kind": "individual",
+   "desc": "American writer",
+   "cause": null,
+   "last_words": "Lord, help my poor soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+   "born": "19 January 1809"
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "name": "Henry Timrod",
+   "kind": "individual",
+   "desc": "American and Confederate poet",
+   "cause": "unable to swallow a spoonful of water",
+   "last_words": "Never mind, I shall soon drink of the river of Eternal Life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Timrod",
+   "born": "8 December 1828"
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Radclyffe Hall",
+   "kind": "individual",
+   "desc": "English poet and author",
+   "cause": null,
+   "last_words": "What a life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Radclyffe_Hall",
+   "born": "12 August 1880"
+  },
+  {
+   "year": 1959,
+   "year_label": "1959",
+   "name": "Mario Lanza",
+   "kind": "individual",
+   "desc": "American operatic tenor and actor",
+   "cause": "over the phone to his wife",
+   "last_words": "I love you, Betty...Betty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mario_Lanza",
+   "born": "31 January 1921"
+  }
+ ],
+ "born": [
+  {
+   "year": 1573,
+   "year_label": "1573",
+   "name": "William Laud",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "spoken as the signal to the executioner at his beheading for treason",
+   "last_words": "Lord, receive my soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Laud",
+   "died": "10 January 1645"
+  },
+  {
+   "year": 1734,
+   "year_label": "1734",
+   "name": "Ralph Abercromby",
+   "kind": "individual",
+   "desc": "Scottish soldier and politician",
+   "cause": "Wounded at the Battle of Alexandria, he asked what had been placed under his head and was told it was \"Only a soldier's blanket.\"",
+   "last_words": "Only a soldier's blanket! Make haste and return it to him at once.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Abercromby",
+   "died": "28 March 1801"
+  },
+  {
+   "year": 1762,
+   "year_label": "1762",
+   "name": "Charles Abbott, 1st Baron Tenterden",
+   "kind": "individual",
+   "desc": "Lord Chief Justice of the King's Bench",
+   "cause": "thinking he was in court",
+   "last_words": "Gentlemen of the jury, you may retire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Abbott,_1st_Baron_Tenterden",
+   "died": "4 November 1832"
+  },
+  {
+   "year": 1810,
+   "year_label": "1810",
+   "name": "Henry Alford",
+   "kind": "individual",
+   "desc": "English churchman",
+   "cause": "requesting that the Archdeacon participate in his funeral",
+   "last_words": "Will you tell the Archdeacon?– will you move a vote of thanks for his kindness in performing the ceremony?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Alford_(theologian)",
+   "died": "12 January 1871"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Joe Hill",
+   "kind": "individual",
+   "desc": "Swedish-American labor activist",
+   "cause": "Hill shouted these words after Deputy Shettler, who led his firing squad, called out the sequence of commands preparatory to firing (\"Ready, aim\")",
+   "last_words": "Fire – go on and fire!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joe_Hill_(activist)",
+   "died": "19 November 1915"
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Heinrich Himmler",
+   "kind": "individual",
+   "desc": "German Nazi officer",
+   "cause": "last words said during his suicide shortly after biting into a hidden potassium cyanide pill before collapsing dead onto the floor of the headquarters of the Second British Army in Lüneburg",
+   "last_words": "I am Heinrich Himmler.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Himmler",
+   "died": "23 May 1945"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Irma Grese",
+   "kind": "individual",
+   "desc": "SS concentration camp guard",
+   "cause": "prior to her execution by hanging",
+   "last_words": "Quick.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Irma_Grese",
+   "died": "13 December 1945"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "R. D. Laing",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Scottish psychiatrist",
+   "last_words": "No bloody doctors.",
+   "wikipedia": "https://en.wikipedia.org/wiki/R._D._Laing",
+   "died": "23 August 1989"
+  }
+ ]
+}

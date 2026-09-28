@@ -1,0 +1,128 @@
+{
+ "date": "09-26",
+ "died": [
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Daniel Boone",
+   "kind": "individual",
+   "desc": "American pioneer and frontiersman",
+   "cause": null,
+   "last_words": "I'm going now. My time has come.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Boone",
+   "born": "2 November 1734"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Bessie Smith",
+   "kind": "individual",
+   "desc": "American blues singer",
+   "cause": null,
+   "last_words": "I'm going, but I'm going in the name of the Lord.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bessie_Smith",
+   "born": "15 April 1894"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Béla Bartók",
+   "kind": "individual",
+   "desc": "Hungarian composer",
+   "cause": "He died with multiple works left unfinished",
+   "last_words": "I am only sad that I have to leave with a full trunk.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Béla_Bartók",
+   "born": "25 March 1881"
+  }
+ ],
+ "born": [
+  {
+   "year": 1869,
+   "year_label": "1869",
+   "name": "Winsor McCay",
+   "kind": "individual",
+   "desc": "American cartoonist and animator",
+   "cause": "to his wife after he found that his right arm was paralyzed",
+   "last_words": "It's gone, mother! Gone, gone, gone!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Winsor_McCay",
+   "died": "26 July 1934"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "Edmund Gwenn",
+   "kind": "individual",
+   "desc": "English actor",
+   "cause": null,
+   "last_words": "Dying is easy. Comedy is difficult.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Gwenn",
+   "died": "6 September 1959"
+  },
+  {
+   "year": 1878,
+   "year_label": "1878",
+   "name": "Richard Annesley West",
+   "kind": "individual",
+   "desc": "VC DSO1 MC, British Army officer",
+   "cause": "killed in action during World War I",
+   "last_words": "Stick it, men; show them fight, and for God's sake put up a good fight.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Annesley_West",
+   "died": "2 September 1918"
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "T. S. Eliot",
+   "kind": "individual",
+   "desc": "American-born British poet",
+   "cause": "whispering the name of his wife, Valerie Eliot",
+   "last_words": "Valerie.",
+   "wikipedia": "https://en.wikipedia.org/wiki/T._S._Eliot",
+   "died": "4 January 1965"
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Albert Anastasia",
+   "kind": "individual",
+   "desc": "Italian-American mobster",
+   "cause": "He was assassinated while in the barber's chair at the Park Sheraton Hotel in Midtown Manhattan",
+   "last_words": "A quick haircut.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_Anastasia",
+   "died": "25 October 1957"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "Clifton Williams",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "prior to unsuccessful ejection from crashing airplane",
+   "last_words": "Mayday, Mayday! This is NASA 922, ejecting just off Orlando...I mean Tallahassee!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clifton_Williams",
+   "died": "5 October 1967"
+  },
+  {
+   "year": 1934,
+   "year_label": "1934",
+   "name": "Howard Glenn",
+   "kind": "individual",
+   "desc": "Titans of New York offensive guard",
+   "cause": "in locker room after fatal in-game injury",
+   "last_words": "It's...It's coming out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Howard_Glenn",
+   "died": "9 October 1960"
+  },
+  {
+   "year": 1958,
+   "year_label": "1958",
+   "name": "Darby Crash",
+   "kind": "individual",
+   "desc": "American musician",
+   "cause": "writing a note to his friend David \"Bosco\" Davenport while dying of a heroin overdose",
+   "last_words": "My life, my leather, my love goes to Bosco.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Darby_Crash",
+   "died": "7 December 1980"
+  }
+ ]
+}

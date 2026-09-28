@@ -1,0 +1,106 @@
+{
+ "date": "10-14",
+ "died": [
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "John Philpot Curran",
+   "kind": "individual",
+   "desc": "Irish orator, politician and wit",
+   "cause": "when his doctor said he was coughing \"with more difficulty\"",
+   "last_words": "That is surprising, since I have been practicing all night.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Philpot_Curran",
+   "born": "24 July 1750"
+  },
+  {
+   "year": 1959,
+   "year_label": "1959",
+   "name": "Errol Flynn",
+   "kind": "individual",
+   "desc": "Australian-born American actor",
+   "cause": null,
+   "last_words": "I've had a hell of a lot of fun and I've enjoyed every minute of it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Errol_Flynn",
+   "born": "20 June 1909"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Bing Crosby",
+   "kind": "individual",
+   "desc": "American singer and actor",
+   "cause": "moments before collapsing and dying of a heart attack",
+   "last_words": "That was a great game of golf, fellas. Let's go have a Coca-Cola.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bing_Crosby",
+   "born": "3 May 1903"
+  },
+  {
+   "year": 1990,
+   "year_label": "1990",
+   "name": "Leonard Bernstein",
+   "kind": "individual",
+   "desc": "American composer and conductor",
+   "cause": "on receiving an injection",
+   "last_words": "What is this?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Bernstein",
+   "born": "25 August 1918"
+  }
+ ],
+ "born": [
+  {
+   "year": 1633,
+   "year_label": "1633",
+   "name": "James II of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "in reply to Louis XIV telling him that he would acknowledge James' son, James Francis Edward Stuart, as King of England, Scotland and Ireland",
+   "last_words": "Grateful - in peace!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_II_of_England",
+   "died": "16 September 1701"
+  },
+  {
+   "year": 1644,
+   "year_label": "1644",
+   "name": "William Penn",
+   "kind": "individual",
+   "desc": "English writer and religious thinker, founder of the Province of Pennsylvania",
+   "cause": null,
+   "last_words": "To be like Christ is to be a Christian.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Penn",
+   "died": "30 July 1718"
+  },
+  {
+   "year": 1888,
+   "year_label": "1888",
+   "name": "Katherine Mansfield",
+   "kind": "individual",
+   "desc": "New Zealand modernist writer",
+   "cause": null,
+   "last_words": "I believe... I'm going to die. I love the rain. I want the feeling of it on my face.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Mansfield",
+   "died": "9 January 1923"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Dwight D. Eisenhower",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "I've always loved my wife, my children, and my grandchildren, and I've always loved my country. I want to go. God, take me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
+   "died": "28 March 1969"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "E. E. Cummings",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": "to his wife, who was worried it was too hot for him to be chopping wood; he then suffered a stroke",
+   "last_words": "I'm going to stop now, but I'm going to sharpen the ax before I put it up, dear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/E._E._Cummings",
+   "died": "3 September 1962"
+  }
+ ]
+}

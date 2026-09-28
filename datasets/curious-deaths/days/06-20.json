@@ -1,0 +1,106 @@
+{
+ "date": "06-20",
+ "died": [
+  {
+   "year": 840,
+   "year_label": "840",
+   "name": "Louis the Pious",
+   "kind": "individual",
+   "desc": "King of the Franks",
+   "cause": "after turning his face to the wall before dying",
+   "last_words": "Out! out!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_Pious",
+   "born": "16 April 778"
+  },
+  {
+   "year": 1774,
+   "year_label": "1774",
+   "name": "John Day",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The English carpenter and wheelwright was the first human known to have died in an accident with a submarine. Day submerged himself in Plymouth Sound in a wooden diving chamber attached to a sloop named the Maria and never resurfaced.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Day_(carpenter)",
+   "born": null
+  },
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Manuel Belgrano",
+   "kind": "individual",
+   "desc": "Argentine economist, lawyer, politician, journalist, and military leader",
+   "cause": null,
+   "last_words": "Oh, my homeland!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Belgrano",
+   "born": "3 June 1770"
+  },
+  {
+   "year": 1991,
+   "year_label": "1991",
+   "name": "Harry Collinson",
+   "kind": "individual",
+   "desc": "English planning officer",
+   "cause": "asking for the cameraman to get a picture of Albert Dryden, who had brandished a revolver and shot him moments after",
+   "last_words": "Can you get a shot of this gun?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Harry_Collinson",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1615,
+   "year_label": "1615",
+   "name": "Salvator Rosa",
+   "kind": "individual",
+   "desc": "Italian artist and poet",
+   "cause": "when asked how he was",
+   "last_words": "Bad, bad! To judge by what I now endure, the hand of death grasps me sharply.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Salvator_Rosa",
+   "died": "15 March 1673"
+  },
+  {
+   "year": 1723,
+   "year_label": "1723",
+   "name": "Theophilus Lindsey",
+   "kind": "individual",
+   "desc": "English Unitarian theologian and clergyman",
+   "cause": "to a friend who suggested that Lindsey was strengthened by the saying, \"Whatever is, is right\"",
+   "last_words": "No, whatever is, is best.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Theophilus_Lindsey",
+   "died": "3 November 1808"
+  },
+  {
+   "year": 1763,
+   "year_label": "1763",
+   "name": "Wolfe Tone",
+   "kind": "individual",
+   "desc": "Irish revolutionary",
+   "cause": "when told a wound in his throat would reopen and cause him to bleed to death if he spoke. Tone died in prison under unclear circumstances (possibly suicide) while awaiting execution by hanging",
+   "last_words": "I can yet find words to thank you, sir; it is the most welcome news you could give me. What should I wish to live for?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Wolfe_Tone",
+   "died": "19 November 1798"
+  },
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "Albert Parsons",
+   "kind": "individual",
+   "desc": "American anarchist leader",
+   "cause": "during hanging after Haymarket affair; interrupted by opening of gallows trapdoor",
+   "last_words": "Will I be allowed to speak, O men of America? Let me speak, Sheriff Matson! Let the voice of the people be heard! O-",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_Parsons",
+   "died": "11 November 1887"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "name": "Errol Flynn",
+   "kind": "individual",
+   "desc": "Australian-born American actor",
+   "cause": null,
+   "last_words": "I've had a hell of a lot of fun and I've enjoyed every minute of it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Errol_Flynn",
+   "died": "14 October 1959"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "date": "01-04",
+ "died": [
+  {
+   "year": 1814,
+   "year_label": "1814",
+   "name": "Johann Georg Jacobi",
+   "kind": "individual",
+   "desc": "German poet",
+   "cause": "referring to a poem for New Year's Day that he had completed on New Year's Eve; he in fact lived 5 more days",
+   "last_words": "I shall not in fact see the new year which I have just commemorated.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Georg_Jacobi",
+   "born": "2 September 1740"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "Elizabeth Ann Seton",
+   "kind": "individual",
+   "desc": "SC, American Catholic religious sister and educator",
+   "cause": "saying the Anima Christi",
+   "last_words": "Soul of Christ, sanctify me; Body of Christ, save me; Blood of Christ, inebriate me; Water out of the side of Christ, strengthen me. Jesus, Mary, Joseph.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton",
+   "born": "28 August 1774"
+  },
+  {
+   "year": 1913,
+   "year_label": "1913",
+   "name": "Alfred von Schlieffen",
+   "kind": "individual",
+   "desc": "German field marshal and strategist",
+   "cause": null,
+   "last_words": "Remember, keep the right wing strong.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_von_Schlieffen",
+   "born": "28 February 1833"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "T. S. Eliot",
+   "kind": "individual",
+   "desc": "American-born British poet",
+   "cause": "whispering the name of his wife, Valerie Eliot",
+   "last_words": "Valerie.",
+   "wikipedia": "https://en.wikipedia.org/wiki/T._S._Eliot",
+   "born": "26 September 1888"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Donald Campbell",
+   "kind": "individual",
+   "desc": "British racer",
+   "cause": "just before fatal crash of Bluebird K7 hydroplane while trying to set new world water speed record",
+   "last_words": "The water's dark green and I can't see a bloody thing. Hallo the bow is up. I'm going. I'm on my back. I'm gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Donald_Campbell",
+   "born": "23 March 1921"
+  },
+  {
+   "year": 1986,
+   "year_label": "1986",
+   "name": "Phil Lynott",
+   "kind": "individual",
+   "desc": "Irish singer, musician and songwriter",
+   "cause": "dying at age 36",
+   "last_words": "I'm bad, I'm nineteen.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Phil_Lynott",
+   "born": "20 August 1949"
+  }
+ ],
+ "born": [
+  {
+   "year": 1489,
+   "year_label": "1489",
+   "name": "Filippo Strozzi the Younger",
+   "kind": "individual",
+   "desc": "Florentine banker",
+   "cause": "He carved this line from Virgil's Aeneid on a mantelpiece with his sword as his suicide note",
+   "last_words": "May an avenger arise from my bones.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Strozzi_the_Younger",
+   "died": "18 December 1538"
+  },
+  {
+   "year": 1581,
+   "year_label": "1581",
+   "name": "James Ussher",
+   "kind": "individual",
+   "desc": "Church of Ireland Archbishop of Armagh and Primate of All Ireland",
+   "cause": null,
+   "last_words": "O Lord, forgive me specially my sins of omission.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Ussher",
+   "died": "21 March 1656"
+  },
+  {
+   "year": 1746,
+   "year_label": "1746",
+   "name": "Benjamin Rush",
+   "kind": "individual",
+   "desc": "American physician, signer of the United States Declaration of Independence",
+   "cause": "dying of typhus",
+   "last_words": "I will not abandon the post which Providence has assigned me; I think it my duty not only to sacrifice my pleasure and repose, but my life, should it be necessary, for the safety of my patients.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Rush",
+   "died": "19 April 1813"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "date": "02-27",
+ "died": [
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "Francis Marion",
+   "kind": "individual",
+   "desc": "American military officer",
+   "cause": "Marion was an enslaver who committed wartime atrocities",
+   "last_words": "Thank God since I came to man's estate, I have never intentionally done wrong to anyone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Marion",
+   "born": "26 February 1732"
+  },
+  {
+   "year": 1859,
+   "year_label": "1859",
+   "name": "Philip Barton Key II",
+   "kind": "individual",
+   "desc": "American lawyer who served as U.S. Attorney for the District of Columbia",
+   "cause": "pleading to his murderer Daniel Sickles, with whose wife Key had an affair",
+   "last_words": "Murder! Don't kill me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Barton_Key_II",
+   "born": "5 April 1818"
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Breaker Morant",
+   "kind": "individual",
+   "desc": "Anglo-Australian military officer and war criminal",
+   "cause": "to his firing squad",
+   "last_words": "Shoot straight, you bastards. Don't make a mess of it!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Breaker_Morant",
+   "born": "9 December 1864"
+  },
+  {
+   "year": 1930,
+   "year_label": "1930",
+   "name": "Joseph Wright",
+   "kind": "individual",
+   "desc": "compiler of The English Dialect Dictionary",
+   "cause": null,
+   "last_words": "Dictionary.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Wright_(linguist)",
+   "born": "31 October 1855"
+  }
+ ],
+ "born": [
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "Henry Wadsworth Longfellow",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": "to his sister",
+   "last_words": "Now I know that I must be very ill, since you have been sent for.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow",
+   "died": "24 March 1882"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "Howard Crosby",
+   "kind": "individual",
+   "desc": "American Presbyterian preacher, scholar and professor",
+   "cause": null,
+   "last_words": "My heart is resting sweetly with Jesus, and my hand is in his.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Howard_Crosby_(minister)",
+   "died": "29 March 1891"
+  }
+ ]
+}

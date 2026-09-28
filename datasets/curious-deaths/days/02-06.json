@@ -1,0 +1,106 @@
+{
+ "date": "02-06",
+ "died": [
+  {
+   "year": 1685,
+   "year_label": "1685",
+   "name": "Charles II of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "I have been a most unconscionable time dying, but I beg you to excuse it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_England",
+   "born": "29 May 1630"
+  },
+  {
+   "year": 1804,
+   "year_label": "1804",
+   "name": "Joseph Priestley",
+   "kind": "individual",
+   "desc": "English chemist, natural philosopher and theologian",
+   "cause": "while dictating revisions to his works",
+   "last_words": "That is right; I have now done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Priestley",
+   "born": "13 March 1733"
+  },
+  {
+   "year": 1958,
+   "year_label": "1958",
+   "name": "Billy Whelan",
+   "kind": "individual",
+   "desc": "Irish footballer",
+   "cause": "during British European Airways Flight 609's third takeoff attempt prior to the Munich air disaster",
+   "last_words": "If this is death, then I am ready for it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Billy_Whelan",
+   "born": "1 April 1935"
+  }
+ ],
+ "born": [
+  {
+   "year": 1611,
+   "year_label": "1611",
+   "name": "Chongzhen Emperor",
+   "kind": "individual",
+   "desc": "the last emperor of Ming dynasty",
+   "cause": null,
+   "last_words": "It has been seventeen years since I ascended the throne. I, feeble and of small virtue, have offended against Heaven; the rebels have seized my capital because my ministers deceived me. Ashamed to face my ancestors, I die. Removing my imperial cap and with my hair disheveled about my face, I leave to the rebels the dismemberment of my body. Let them not harm my people!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chongzhen_Emperor",
+   "died": "24 April 1644"
+  },
+  {
+   "year": 1665,
+   "year_label": "1665",
+   "name": "Anne, Queen of Great Britain",
+   "kind": "individual",
+   "desc": null,
+   "cause": "handing the Lord High Treasurer's staff of office to Charles Talbot, 1st Duke of Shrewsbury",
+   "last_words": "Use it for the good of my people.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain",
+   "died": "1 August 1714"
+  },
+  {
+   "year": 1754,
+   "year_label": "1754",
+   "name": "Andrew Fuller",
+   "kind": "individual",
+   "desc": "English Particular Baptist minister and theologian",
+   "cause": "to a young minister",
+   "last_words": "I have no religious joys; but I have a hope, in the strength of which I think I could plunge into eternity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fuller",
+   "died": "7 May 1815"
+  },
+  {
+   "year": 1756,
+   "year_label": "1756",
+   "name": "Aaron Burr",
+   "kind": "individual",
+   "desc": "vice president of the United States",
+   "cause": null,
+   "last_words": "Madame.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Burr",
+   "died": "14 September 1836"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "Babe Ruth",
+   "kind": "individual",
+   "desc": "American baseball player",
+   "cause": null,
+   "last_words": "I'm going over the valley.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Babe_Ruth",
+   "died": "16 August 1948"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Bob Marley",
+   "kind": "individual",
+   "desc": "Jamaican musician",
+   "cause": null,
+   "last_words": "Money can't buy life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bob_Marley",
+   "died": "11 May 1981"
+  }
+ ]
+}

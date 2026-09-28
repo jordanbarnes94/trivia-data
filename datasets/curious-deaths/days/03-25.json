@@ -1,0 +1,84 @@
+{
+ "date": "03-25",
+ "died": [
+  {
+   "year": 1738,
+   "year_label": "1738",
+   "name": "Turlough O'Carolan",
+   "kind": "individual",
+   "desc": "Irish Celtic harper, composer and singer",
+   "cause": "to a bowl of wine he was no longer able to drink",
+   "last_words": "It would be hard indeed if we two dear friends should part after so many years, without one sweet kiss.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Turlough_O'Carolan",
+   "born": null
+  },
+  {
+   "year": 1905,
+   "year_label": "1905",
+   "name": "Maurice Barrymore",
+   "kind": "individual",
+   "desc": "British stage actor",
+   "cause": "quoting his play Nadjezda",
+   "last_words": "Our trade falls heavily upon these feeble folk.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Barrymore",
+   "born": "21 September 1849"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "William Herbert Anderson",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "to a fellow officer during World War I counter-attack at Bois Favieres, near Maricourt, Somme, France",
+   "last_words": "Carry on with those on the left.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Herbert_Anderson",
+   "born": "29 December 1881"
+  }
+ ],
+ "born": [
+  {
+   "year": 1252,
+   "year_label": "1252",
+   "name": "Conradin",
+   "kind": "individual",
+   "desc": "last direct heir of the House of Hohenstaufen",
+   "cause": "prior to execution by beheading at the age of 16",
+   "last_words": "O my mother! how deep will be thy sorrow at the news of this day!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Conradin",
+   "died": "29 October 1268"
+  },
+  {
+   "year": 1767,
+   "year_label": "1767",
+   "name": "Joachim Murat",
+   "kind": "individual",
+   "desc": "King of Naples",
+   "cause": "to his firing squad",
+   "last_words": "Soldiers, save my face; aim at my heart. Farewell.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joachim_Murat",
+   "died": "13 October 1815"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Béla Bartók",
+   "kind": "individual",
+   "desc": "Hungarian composer",
+   "cause": "He died with multiple works left unfinished",
+   "last_words": "I am only sad that I have to leave with a full trunk.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Béla_Bartók",
+   "died": "26 September 1945"
+  },
+  {
+   "year": 1890,
+   "year_label": "1890",
+   "name": "Milo Lemert",
+   "kind": "individual",
+   "desc": "United States Army soldier and recipient of the Medal of Honor",
+   "cause": "mortally wounded near Bellicourt, France, during World War I",
+   "last_words": "I'm all finished. Give them hell.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Milo_Lemert",
+   "died": "29 September 1918"
+  }
+ ]
+}

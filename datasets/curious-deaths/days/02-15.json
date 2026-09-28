@@ -1,0 +1,150 @@
+{
+ "date": "02-15",
+ "died": [
+  {
+   "year": 1905,
+   "year_label": "1905",
+   "name": "Lew Wallace",
+   "kind": "individual",
+   "desc": "American lawyer, politician, Union general and author",
+   "cause": null,
+   "last_words": "Thy will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lew_Wallace",
+   "born": "10 April 1827"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Walter Brown",
+   "kind": "individual",
+   "desc": "VC DCM, Australian World War I recipient of the Victoria Cross",
+   "cause": "before walking toward Japanese lines carrying grenades during the Battle of Singapore",
+   "last_words": "No surrender for me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Walter_Brown_(soldier)",
+   "born": "3 July 1885"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Nat King Cole",
+   "kind": "individual",
+   "desc": "American singer",
+   "cause": "saying his wife's name to a hospital nurse",
+   "last_words": "Maria.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nat_King_Cole",
+   "born": "17 March 1919"
+  },
+  {
+   "year": 1988,
+   "year_label": "1988",
+   "name": "Richard Feynman",
+   "kind": "individual",
+   "desc": "American theoretical physicist and raconteur",
+   "cause": null,
+   "last_words": "I'd hate to die twice. It's so boring.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Feynman",
+   "born": "11 May 1918"
+  }
+ ],
+ "born": [
+  {
+   "year": 1557,
+   "year_label": "1557",
+   "name": "Vittoria Accoramboni",
+   "kind": "individual",
+   "desc": "Italian noblewoman",
+   "cause": "kneeling before a crucifix",
+   "last_words": "Jesus! I pardon you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vittoria_Accoramboni",
+   "died": "22 December 1585"
+  },
+  {
+   "year": 1662,
+   "year_label": "1662",
+   "name": "James Renwick",
+   "kind": "individual",
+   "desc": "Scottish minister",
+   "cause": "before execution by hanging",
+   "last_words": "Lord, into Thy hands I commend my spirit; for Thou hast redeemed me, Lord God of truth.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Renwick_(Covenanter)",
+   "died": "17 February 1688"
+  },
+  {
+   "year": 1748,
+   "year_label": "1748",
+   "name": "Jeremy Bentham",
+   "kind": "individual",
+   "desc": "English philosopher, jurist and social reformer",
+   "cause": "to one of his disciples",
+   "last_words": "I now feel that I am dying. Our care must be to minimize the pain. Do not let any of the servants come into the room, and keep away the youths. It will be distressing to them, and they can be of no service. Yet I must not be alone, and you will remain with me, and you only, and then we shall have reduced the pain to the least possible amount.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Bentham",
+   "died": "6 June 1832"
+  },
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Susan B. Anthony",
+   "kind": "individual",
+   "desc": "American social reformer and women's rights activist",
+   "cause": "to her chosen successor, who was worried that she would not be allowed to succeed Anthony",
+   "last_words": "Make them.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Susan_B._Anthony",
+   "died": "13 March 1906"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "Ernest Shackleton",
+   "kind": "individual",
+   "desc": "Anglo-Irish Antarctic Explorer",
+   "cause": null,
+   "last_words": "You are always wanting me to give up things, what is it I ought to give up?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
+   "died": "5 January 1922"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "John Barrymore",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his brother, Lionel Barrymore, who had failed to understand something he said",
+   "last_words": "You heard me, Mike.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Barrymore",
+   "died": "29 May 1942"
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "James Forrestal",
+   "kind": "individual",
+   "desc": "United States Secretary of Defense",
+   "cause": "his suicide note, a quotation from the play Ajax by Sophocles",
+   "last_words": "Frenzy hath seized thy dearest son, / Who from thy shores in glory came / The first in valor and in fame; / Thy deeds that he hath done / Seem hostile all to hostile eyes.... / Better to die, and sleep / The never waking sleep, than linger on, / And dare to live, when the soul's life is gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Forrestal",
+   "died": "22 May 1949"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Roger B. Chaffee",
+   "kind": "individual",
+   "desc": "American astronaut",
+   "cause": "reporting that a fire had broken out during Apollo 1 launch rehearsal test",
+   "last_words": "We've got a bad fire! Let's get out... We're burning up!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roger_B._Chaffee",
+   "died": "27 January 1967"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Chris Farley",
+   "kind": "individual",
+   "desc": "American actor and comedian",
+   "cause": "to a prostitute, leaving his Chicago apartment",
+   "last_words": "Please don't leave me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Chris_Farley",
+   "died": "18 December 1997"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "date": "02-25",
+ "died": [
+  {
+   "year": 1862,
+   "year_label": "1862",
+   "name": "Andrew Reed",
+   "kind": "individual",
+   "desc": "English Congregational minister and hymnwriter",
+   "cause": "pondering the fate of the souls of intellectually disabled persons",
+   "last_words": "I remember that little fellow who said, 'I love God!' Nothing that loves him shall perish. No, they shall not die. I shall meet them soon in heaven. Amen.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Reed_(minister)",
+   "born": "27 November 1787"
+  }
+ ],
+ "born": [
+  {
+   "year": 1871,
+   "year_label": "1871",
+   "name": "Sigmund Neuberger",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 40-year-old German magician, better known as \"The Great Lafayette\", was so devastated by the death of his pet dog Beauty that he arranged burial for her with the Edinburgh City Council at Piershill Cemetery, under the condition that he would also be buried next to her when he died. Lafayette reportedly proclaimed that he would not live much longer after Beauty's death. Four days later, he was performing at the Empire Palace Theatre in Edinburgh, Scotland, when a fire broke out and engulfed the stage within minutes. The audience, thinking that this was all part of the illusion, did not evacuate until the theatre manager signaled for the orchestra to play God Save the King. Two days after the fire, Lafayette's body double was misidentified as Lafayette himself until his real body was identified a day later and was buried per his wishes. Other than Lafayette, ten other people also died in the disaster.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Neuberger",
+   "died": "9 May 1911"
+  },
+  {
+   "year": 1894,
+   "year_label": "1894",
+   "name": "Meher Baba",
+   "kind": "individual",
+   "desc": "Indian spiritual master",
+   "cause": "last words spoken on 10 July 1925, after which he observed silence for the rest of his life",
+   "last_words": "Don't worry, be happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Meher_Baba",
+   "died": "31 January 1969"
+  }
+ ]
+}

@@ -1,0 +1,139 @@
+{
+ "date": "06-19",
+ "died": [
+  {
+   "year": 1787,
+   "year_label": "1787",
+   "name": "John Brown of Haddington",
+   "kind": "individual",
+   "desc": "Scottish minister and author",
+   "cause": null,
+   "last_words": "My Christ.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_of_Haddington",
+   "born": "23 December 1722"
+  },
+  {
+   "year": 1831,
+   "year_label": "1831",
+   "name": "Victor Yvart",
+   "kind": "individual",
+   "desc": "French agronomist",
+   "cause": null,
+   "last_words": "Nature, how lovely thou art!",
+   "wikipedia": "https://en.wikipedia.org/wiki/:fr:Victor_Yvart",
+   "born": null
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "name": "Maximilian I of Mexico",
+   "kind": "individual",
+   "desc": null,
+   "cause": "after being shot by firing squad",
+   "last_words": "O man! O man!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico",
+   "born": "6 July 1832"
+  },
+  {
+   "year": 1878,
+   "year_label": "1878",
+   "name": "Charles Hodge",
+   "kind": "individual",
+   "desc": "American Presbyterian theologian",
+   "cause": null,
+   "last_words": "My work is done. The pins of the tabernacle are taken out.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Hodge",
+   "born": "27 December 1797"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "J. M. Barrie",
+   "kind": "individual",
+   "desc": "Scottish novelist and playwright",
+   "cause": null,
+   "last_words": "I can't sleep.",
+   "wikipedia": "https://en.wikipedia.org/wiki/J._M._Barrie",
+   "born": "9 May 1860"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "Alan Stacey",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 26-year-old British racing driver died in a crash during the 1960 Belgian Grand Prix when a bird struck him in the face. Twenty-two-year-old British driver Chris Bristow was killed during the same race, five laps before Stacey and on the same extended fast right-hand bend.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alan_Stacey",
+   "born": "29 August 1933"
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "Vincent Chin",
+   "kind": "individual",
+   "desc": "Chinese-American draftsman",
+   "cause": "just after being beaten with a baseball bat by Chrysler plant supervisor Ronald Ebens. Chin died four days later at Henry Ford Hospital",
+   "last_words": "It's not fair.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Vincent_Chin",
+   "born": "18 May 1955"
+  }
+ ],
+ "born": [
+  {
+   "year": 1623,
+   "year_label": "1623",
+   "name": "Blaise Pascal",
+   "kind": "individual",
+   "desc": "French mathematician, physicist and theologian",
+   "cause": null,
+   "last_words": "My God, forsake me not.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
+   "died": "19 August 1662"
+  },
+  {
+   "year": 1721,
+   "year_label": "1721",
+   "name": "Baron Johann de Kalb",
+   "kind": "individual",
+   "desc": "officer in the American War of Independence",
+   "cause": "speaking to a British officer after being mortally wounded and captured at the Battle of Camden",
+   "last_words": "I thank you, sir, for your generous sympathy, but I die the death I always prayed for, the death of a soldier fighting for the rights of man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_de_Kalb",
+   "died": "16 August 1780"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Richard Monckton Milnes, 1st Baron Houghton",
+   "kind": "individual",
+   "desc": "FRS, English poet and politician",
+   "cause": null,
+   "last_words": "My exit is the result of too many entrées.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Monckton_Milnes,_1st_Baron_Houghton",
+   "died": "11 August 1885"
+  },
+  {
+   "year": 1856,
+   "year_label": "1856",
+   "name": "Elbert Hubbard",
+   "kind": "individual",
+   "desc": "American writer and publisher",
+   "cause": "prior to dying with his wife in the sinking of the RMS Lusitania",
+   "last_words": "Well, they [German Empire] have got us. They are a damn sight worse than I ever thought they were.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
+   "died": "7 May 1915"
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "José Rizal",
+   "kind": "individual",
+   "desc": "Filipino nationalist, ophthalmologist and polymath",
+   "cause": "quoting Jesus prior to execution by firing squad for rebellion, sedition and conspiracy",
+   "last_words": "It is done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/José_Rizal",
+   "died": "30 December 1896"
+  }
+ ]
+}

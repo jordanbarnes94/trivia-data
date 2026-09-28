@@ -1,0 +1,62 @@
+{
+ "date": "07-31",
+ "died": [
+  {
+   "year": 1784,
+   "year_label": "1784",
+   "name": "Denis Diderot",
+   "kind": "individual",
+   "desc": "French philosopher",
+   "cause": null,
+   "last_words": "The first step towards philosophy is incredulity.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Denis_Diderot",
+   "born": "5 October 1713"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Andrew Johnson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "Oh, do not cry. Be good children, and we shall meet in heaven.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Johnson",
+   "born": "29 December 1808"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Joseph Roland Ernst",
+   "kind": "individual",
+   "desc": "American convicted murderer, neo-Nazi, and the second-to-last person to be executed by the state of New Jersey",
+   "cause": null,
+   "last_words": "You're not going to see anything.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Roland_Ernst",
+   "born": "17 February 1937"
+  }
+ ],
+ "born": [
+  {
+   "year": 1822,
+   "year_label": "1822",
+   "name": "Abram Hewitt",
+   "kind": "individual",
+   "desc": "United States Congressman and Mayor of New York City",
+   "cause": "removing his oxygen mask",
+   "last_words": "And now I am officially dead.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abram_Hewitt",
+   "died": "18 January 1903"
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "Rudolf Slánský",
+   "kind": "individual",
+   "desc": "Czech communist politician",
+   "cause": "prior to execution by hanging following charges of conspiracy and high treason at a show trial",
+   "last_words": "I've got what I deserved.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Slánský",
+   "died": "3 December 1952"
+  }
+ ]
+}

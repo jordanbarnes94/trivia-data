@@ -1,0 +1,128 @@
+{
+ "date": "11-10",
+ "died": [
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "Henry Wirz",
+   "kind": "individual",
+   "desc": "Confederate States Army officer",
+   "cause": "referring to his noose prior to execution for war crimes",
+   "last_words": "This is too tight.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Wirz",
+   "born": "25 November 1823"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "Mustafa Kemal Atatürk",
+   "kind": "individual",
+   "desc": "President of Turkey",
+   "cause": null,
+   "last_words": "Peace be upon you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atatürk",
+   "born": null
+  },
+  {
+   "year": 1941,
+   "year_label": "1941",
+   "name": "Karl Gravell",
+   "kind": "individual",
+   "desc": "GC, Royal Canadian Air Force Leading Aircraftman",
+   "cause": "after unsuccessful attempt to rescue Flying Officer James Robinson from wreckage of crashed Tiger Moth",
+   "last_words": "Did I get Jimmy out?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karl_Gravell",
+   "born": "27 September 1922"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Ernest M. McSorley",
+   "kind": "individual",
+   "desc": "Canadian sailor and captain of SS Edmund Fitzgerald",
+   "cause": "last transmission before ship went down in storm on Lake Superior",
+   "last_words": "We are holding our own.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernest_M._McSorley",
+   "born": "29 September 1912"
+  }
+ ],
+ "born": [
+  {
+   "year": 1483,
+   "year_label": "1483",
+   "name": "Martin Luther",
+   "kind": "individual",
+   "desc": "German theologian who started the Protestant Reformation",
+   "cause": null,
+   "last_words": "We are beggars, this is true.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther",
+   "died": "18 February 1546"
+  },
+  {
+   "year": 1728,
+   "year_label": "1728",
+   "name": "Oliver Goldsmith",
+   "kind": "individual",
+   "desc": "Anglo-Irish novelist, playwright and poet",
+   "cause": "in response to his physician asking if his mind was at ease",
+   "last_words": "No, it is not.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Goldsmith",
+   "died": "4 April 1774"
+  },
+  {
+   "year": 1759,
+   "year_label": "1759",
+   "name": "Friedrich Schiller",
+   "kind": "individual",
+   "desc": "German writer, philosopher and physician",
+   "cause": null,
+   "last_words": "Many things are growing clearer and clearer to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
+   "died": "9 May 1805"
+  },
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "Robert Blum",
+   "kind": "individual",
+   "desc": "German democratic politician and revolutionist",
+   "cause": "prior to execution by firing squad",
+   "last_words": "I am ready-let there be no mistake and no delay.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Blum",
+   "died": "9 November 1848"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Patrick Pearse",
+   "kind": "individual",
+   "desc": "Irish author and revolutionary",
+   "cause": "on his way to execution by firing squad",
+   "last_words": "(Whistling)",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Pearse",
+   "died": "3 May 1916"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Vachel Lindsay",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": "in his suicide note",
+   "last_words": "They tried to get me - I got them first!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vachel_Lindsay",
+   "died": "5 December 1931"
+  },
+  {
+   "year": 1893,
+   "year_label": "1893",
+   "name": "Lazar Kaganovich",
+   "kind": "individual",
+   "desc": "Soviet politician",
+   "cause": "when he watched a television news report featuring Gorbachev and Yeltsin",
+   "last_words": "This is a catastrophe.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lazar_Kaganovich",
+   "died": "25 July 1991"
+  }
+ ]
+}

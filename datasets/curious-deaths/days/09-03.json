@@ -1,0 +1,83 @@
+{
+ "date": "09-03",
+ "died": [
+  {
+   "year": 1634,
+   "year_label": "1634",
+   "name": "Edward Coke",
+   "kind": "individual",
+   "desc": "English barrister, judge and politician",
+   "cause": null,
+   "last_words": "Thy kingdom come, thy will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Coke",
+   "born": "1 February 1552"
+  },
+  {
+   "year": 1658,
+   "year_label": "1658",
+   "name": "Oliver Cromwell",
+   "kind": "individual",
+   "desc": "English general and statesman, Lord Protector",
+   "cause": null,
+   "last_words": "It is not my design to drink or to sleep, but my design is to make what haste I can to be gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Cromwell",
+   "born": "25 April 1599"
+  },
+  {
+   "year": 1667,
+   "year_label": "1667",
+   "name": "Alonso Cano",
+   "kind": "individual",
+   "desc": "Spanish painter, architect and sculptor",
+   "cause": "asking a priest to take away a badly carved crucifix",
+   "last_words": "Vex me not with this thing, but give me a simple cross, that I may adore it, both as it is in itself and as I can figure it in my mind.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alonso_Cano",
+   "born": "19 March 1601"
+  },
+  {
+   "year": 1792,
+   "year_label": "1792",
+   "name": "Marie Thérèse Louise of Savoy, Princesse de Lamballe",
+   "kind": "individual",
+   "desc": "confidante of Marie Antoinette",
+   "cause": "upon seeing bloody corpses in the courtyard where she was then murdered",
+   "last_words": "Fi horreur!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marie_Thérèse_Louise_of_Savoy,_Princesse_de_Lamballe",
+   "born": "8 September 1749"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "name": "Zhang Zongchang",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Chinese warlord, after being shot by an assassin",
+   "last_words": "No good!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zhang_Zongchang",
+   "born": "13 February 1881"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "E. E. Cummings",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": "to his wife, who was worried it was too hot for him to be chopping wood; he then suffered a stroke",
+   "last_words": "I'm going to stop now, but I'm going to sharpen the ax before I put it up, dear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/E._E._Cummings",
+   "born": "14 October 1894"
+  },
+  {
+   "year": 1970,
+   "year_label": "1970",
+   "name": "Vince Lombardi",
+   "kind": "individual",
+   "desc": "American football coach",
+   "cause": "to his wife",
+   "last_words": "Happy anniversary. I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vince_Lombardi",
+   "born": "11 June 1913"
+  }
+ ],
+ "born": []
+}

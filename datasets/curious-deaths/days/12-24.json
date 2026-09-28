@@ -1,0 +1,150 @@
+{
+ "date": "12-24",
+ "died": [
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "Adrienne de La Fayette",
+   "kind": "individual",
+   "desc": null,
+   "cause": "French marchioness who married Marquis de Lafayette",
+   "last_words": "I am all yours.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_de_La_Fayette",
+   "born": "2 November 1759"
+  },
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "Frédéric Bastiat",
+   "kind": "individual",
+   "desc": "French economist and writer",
+   "cause": null,
+   "last_words": "I am not able to explain myself.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frédéric_Bastiat",
+   "born": "30 June 1801"
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "William Makepeace Thackeray",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "to his valet",
+   "last_words": "Good night.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray",
+   "born": "18 July 1811"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Alban Berg",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": "to his wife, who had asked him to relax",
+   "last_words": "But I have so little time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alban_Berg",
+   "born": "9 February 1885"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Violette Neatley Anderson",
+   "kind": "individual",
+   "desc": "first African-American woman to practice law before the United States Supreme Court",
+   "cause": "speaking to Claude Albert Barnett while dying of cancer prior to Zeta Phi Beta's annual boule",
+   "last_words": "Tell the girls to keep on going ahead. Put over the boule with a bang. Don't let my passing throw the slightest shadow of gloom. The organization has a grand mission before it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Violette_Neatley_Anderson",
+   "born": "16 July 1882"
+  },
+  {
+   "year": 1983,
+   "year_label": "1983",
+   "name": "Paul Gégauff",
+   "kind": "individual",
+   "desc": "French director",
+   "cause": "before being killed by his Norwegian wife",
+   "last_words": "Kill me if you want, but stop bothering me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul_Gégauff",
+   "born": "10 August 1922"
+  }
+ ],
+ "born": [
+  {
+   "year": -3,
+   "year_label": "3 BC",
+   "name": "Galba",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "prior to beheading by supporters of Otho",
+   "last_words": "Strike, if it be for the Romans' good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Galba",
+   "died": "15 January 69"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Kit Carson",
+   "kind": "individual",
+   "desc": "American frontiersman",
+   "cause": null,
+   "last_words": "Wish I had time for just one more bowl of chili.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kit_Carson",
+   "died": "23 May 1868"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "Gabriel García Moreno",
+   "kind": "individual",
+   "desc": "President of Ecuador",
+   "cause": null,
+   "last_words": "God does not die!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_García_Moreno",
+   "died": "6 August 1875"
+  },
+  {
+   "year": 1837,
+   "year_label": "1837",
+   "name": "Empress Elisabeth of Austria",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when asked if she was in pain after being stabbed by Italian anarchist Luigi Lucheni The Empress of Austria was stabbed with a thin file by Italian anarchist Luigi Lucheni while strolling through Geneva with her lady-in-waiting Irma Sztáray. The wound pierced her pericardium and a lung. As her extremely tight corset held the wound closed, she did not realize what had happened (instead believing a passerby had struck her) and walked on for some time before collapsing.",
+   "last_words": "No. What has happened?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria",
+   "died": "10 September 1898"
+  },
+  {
+   "year": 1845,
+   "year_label": "1845",
+   "name": "George I",
+   "kind": "individual",
+   "desc": "king of Greece",
+   "cause": "shortly before being assassinated",
+   "last_words": "Tomorrow, when I pay my formal visit to the dreadnought Goeben, it is the fact that a German battleship is to honor a Greek King here in Salonika that will fill me with happiness and contentment.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_I_of_Greece",
+   "died": "18 March 1913"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "Art Scholl",
+   "kind": "individual",
+   "desc": "American aerobatic pilot",
+   "cause": "after his plane entered a flat inverted spin during filming of Top Gun",
+   "last_words": "I have a problem, I have a real problem.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Art_Scholl",
+   "died": "16 September 1985"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Johnny Frank Garrett",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I'd like to thank my family for loving me and taking care of me, and the rest of the world can kiss my ass.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Frank_Garrett",
+   "died": "11 February 1992"
+  }
+ ]
+}

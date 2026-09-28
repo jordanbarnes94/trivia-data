@@ -1,0 +1,117 @@
+{
+ "date": "03-29",
+ "died": [
+  {
+   "year": 1661,
+   "year_label": "1661",
+   "name": "Samuel Rutherford",
+   "kind": "individual",
+   "desc": "Scottish pastor",
+   "cause": null,
+   "last_words": "I bless the Lord that he gave me counsel.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Rutherford",
+   "born": null
+  },
+  {
+   "year": 1772,
+   "year_label": "1772",
+   "name": "Emanuel Swedenborg",
+   "kind": "individual",
+   "desc": "Swedish theologian, scientist, philosopher and mystic",
+   "cause": null,
+   "last_words": "What o'clock is it?\" (On being told) \"It is well; I thank you; God bless you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg",
+   "born": "29 January 1688"
+  },
+  {
+   "year": 1788,
+   "year_label": "1788",
+   "name": "Charles Wesley",
+   "kind": "individual",
+   "desc": "English Methodist leader and hymn writer",
+   "cause": null,
+   "last_words": "I shall be satisfied with Thy likeness- satisfied, satisfied!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Wesley",
+   "born": "18 December 1707"
+  },
+  {
+   "year": 1792,
+   "year_label": "1792",
+   "name": "Gustav III",
+   "kind": "individual",
+   "desc": "King of Sweden",
+   "cause": "13 days after being shot in the back at a masquerade",
+   "last_words": "I feel sleepy, and a moment of rest would do me good.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gustav_III",
+   "born": "24 January 1746"
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Samuel Drew",
+   "kind": "individual",
+   "desc": "Cornish Methodist theologian",
+   "cause": "last recorded words",
+   "last_words": "Thank God, to-morrow I shall join the glorious company above.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Drew",
+   "born": "6 March 1765"
+  },
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "John Jacob Astor",
+   "kind": "individual",
+   "desc": "German-American multi-millionaire businessman",
+   "cause": "to his son. Astor had been worried about an overdue rent payment. His son paid the woman's rent and claimed that she had paid it",
+   "last_words": "There, I told you that she would pay it if you went the right way to work with her.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Jacob_Astor",
+   "born": "17 July 1763"
+  },
+  {
+   "year": 1891,
+   "year_label": "1891",
+   "name": "Howard Crosby",
+   "kind": "individual",
+   "desc": "American Presbyterian preacher, scholar and professor",
+   "cause": null,
+   "last_words": "My heart is resting sweetly with Jesus, and my hand is in his.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Howard_Crosby_(minister)",
+   "born": "27 February 1826"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Robert Falcon Scott",
+   "kind": "individual",
+   "desc": "Royal Navy officer and Antarctic explorer",
+   "cause": "final diary entry on doomed Terra Nova Expedition",
+   "last_words": "Last Entry - For God's sake look after our people",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott",
+   "born": "6 June 1868"
+  }
+ ],
+ "born": [
+  {
+   "year": 1790,
+   "year_label": "1790",
+   "name": "John Tyler",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "Doctor, I am going. Perhaps it is best.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Tyler",
+   "died": "18 January 1862"
+  },
+  {
+   "year": 1949,
+   "year_label": "1949",
+   "name": "John Spenkelink",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "Capital punishment; them without the capital get the punishment.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Spenkelink",
+   "died": "25 May 1979"
+  }
+ ]
+}

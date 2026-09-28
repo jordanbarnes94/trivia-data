@@ -1,0 +1,194 @@
+{
+ "date": "11-30",
+ "died": [
+  {
+   "year": 1016,
+   "year_label": "1016",
+   "name": "Edmund Ironside",
+   "kind": "individual",
+   "desc": null,
+   "cause": "According to Henry of Huntington, the English king was stabbed while on a toilet by an assassin hiding underneath.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Ironside",
+   "born": null
+  },
+  {
+   "year": 1718,
+   "year_label": "1718",
+   "name": "Charles XII",
+   "kind": "individual",
+   "desc": "King of Sweden",
+   "cause": "when stepping down from his perch into an entrenchment just as he was shot in the head",
+   "last_words": "I am coming down now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_XII",
+   "born": "27 June 1682"
+  },
+  {
+   "year": 1812,
+   "year_label": "1812",
+   "name": "Harriet Newell",
+   "kind": "individual",
+   "desc": "American Christian missionary and memoirist",
+   "cause": "dying in Mauritius",
+   "last_words": "The pains, the groans, the dying strife. How long, O Lord, how long?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Newell",
+   "born": null
+  },
+  {
+   "year": 1900,
+   "year_label": "1900",
+   "name": "Oscar Wilde",
+   "kind": "individual",
+   "desc": "Irish playwright",
+   "cause": null,
+   "last_words": "My wallpaper and I are fighting a duel to the death. One or the other of us has to go.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde",
+   "born": "16 October 1854"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Martha Mansfield",
+   "kind": "individual",
+   "desc": null,
+   "cause": "While the 24-year-old American film actress was on location in San Antonio, Texas filming the American Civil War drama The Warrens of Virginia, a lit match was carelessly tossed by a crew member, which ignited the hoop skirts and ruffles of her Civil War costume. Co-star Wilfred Lytell and a chauffeur were able to extinguish the flames and rush her to a hospital, where she died the following day from her injuries.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Martha_Mansfield",
+   "born": "14 July 1899"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Tiny Tim",
+   "kind": "individual",
+   "desc": "American musician, ukulele player and musical archivist",
+   "cause": "to his wife after she asked if he was alright, right before collapsing on stage during a performance of \"Tip-Toe Through the Tulips\"",
+   "last_words": "No, I'm not!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tiny_Tim_(musician)",
+   "born": "12 April 1932"
+  }
+ ],
+ "born": [
+  {
+   "year": 1554,
+   "year_label": "1554",
+   "name": "Philip Sidney",
+   "kind": "individual",
+   "desc": "English poet and soldier",
+   "cause": "mortally wounded at the Battle of Zutphen, passing a cup of water to another wounded soldier",
+   "last_words": "Take it; thy need is greater than mine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Philip_Sidney",
+   "died": "17 October 1586"
+  },
+  {
+   "year": 1594,
+   "year_label": "1594",
+   "name": "John Cosin",
+   "kind": "individual",
+   "desc": "English churchman",
+   "cause": "raising his hand",
+   "last_words": "Lord!",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Cosin",
+   "died": "15 January 1672"
+  },
+  {
+   "year": 1614,
+   "year_label": "1614",
+   "name": "William Howard, 1st Viscount Stafford",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his executioner prior to beheading for alleged treason",
+   "last_words": "I do forgive you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Howard,_1st_Viscount_Stafford",
+   "died": "29 December 1680"
+  },
+  {
+   "year": 1667,
+   "year_label": "1667",
+   "name": "Jonathan Swift",
+   "kind": "individual",
+   "desc": "Anglo-Irish author and cleric",
+   "cause": "referring to George Frideric Handel, who had come to visit him",
+   "last_words": "Ah! A German and a genius! A prodigy-admit him!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift",
+   "died": "19 October 1745"
+  },
+  {
+   "year": 1807,
+   "year_label": "1807",
+   "name": "William Farr",
+   "kind": "individual",
+   "desc": "British epidemiologist",
+   "cause": null,
+   "last_words": "Lord, receive my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Farr",
+   "died": "14 April 1883"
+  },
+  {
+   "year": 1835,
+   "year_label": "1835",
+   "name": "Mark Twain",
+   "kind": "individual",
+   "desc": "American novelist",
+   "cause": "to his daughter Clara",
+   "last_words": "Give me my glasses.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain",
+   "died": "21 April 1910"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "Lucy Maud Montgomery",
+   "kind": "individual",
+   "desc": "OBE, Canadian author",
+   "cause": "conclusion of note found on her bedside table after her death. It may or may not have been a suicide note",
+   "last_words": "I have lost my mind by spells and I do not dare think what I may do in those spells. May God forgive me and I hope everyone else will forgive me even if they cannot understand. My position is too awful to endure and nobody realizes it. What an end to a life in which I tried always to do my best.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery",
+   "died": "24 April 1942"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "Winston Churchill",
+   "kind": "individual",
+   "desc": "prime minister of the United Kingdom",
+   "cause": null,
+   "last_words": "I'm bored with it all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Winston_Churchill",
+   "died": "24 January 1965"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "Knud Enemark Jensen",
+   "kind": "individual",
+   "desc": "Danish cyclist",
+   "cause": "shortly before collapsing to the pavement while competing in the 1960 Summer Olympics",
+   "last_words": "I'm dizzy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Knud_Enemark_Jensen",
+   "died": "26 August 1960"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "Abbie Hoffman",
+   "kind": "individual",
+   "desc": "American political and social activist",
+   "cause": "in note written prior to phenobarbital overdose",
+   "last_words": "It's too late. We can't win, they've gotten too powerful.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abbie_Hoffman",
+   "died": "12 April 1989"
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Tom Simpson",
+   "kind": "individual",
+   "desc": "British cyclist",
+   "cause": "asking to be put back on his bike prior to his death on Mont Ventoux during the 1967 Tour de France",
+   "last_words": "On! On! On!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tom_Simpson",
+   "died": "13 July 1967"
+  }
+ ]
+}

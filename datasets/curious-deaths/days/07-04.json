@@ -1,0 +1,150 @@
+{
+ "date": "07-04",
+ "died": [
+  {
+   "year": 1808,
+   "year_label": "1808",
+   "name": "Fisher Ames",
+   "kind": "individual",
+   "desc": "member of the U.S. House of Representatives",
+   "cause": null,
+   "last_words": "I have peace of mind. It may arise from stupidity, but I think it is founded on a belief of the Gospel. My hope is in the mercy of God through Jesus Christ.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fisher_Ames",
+   "born": "9 April 1758"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "John Adams",
+   "kind": "individual",
+   "desc": "Founding Father and second president of the United States",
+   "cause": "unaware that Jefferson had died earlier that same day",
+   "last_words": "Thomas Jefferson survives.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Adams",
+   "born": "19 October 1735"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "Thomas Jefferson",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "talking to his doctor",
+   "last_words": "No, doctor, nothing more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
+   "born": "2 April 1743"
+  },
+  {
+   "year": 1831,
+   "year_label": "1831",
+   "name": "James Monroe",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "referring to his close friend James Madison",
+   "last_words": "I regret that I should leave this world without again beholding him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Monroe",
+   "born": "28 April 1758"
+  },
+  {
+   "year": 1857,
+   "year_label": "1857",
+   "name": "Henry Montgomery Lawrence",
+   "kind": "individual",
+   "desc": "British military officer and statesman",
+   "cause": "mortally wounded at Siege of Lucknow",
+   "last_words": "Let there be no fuss about me; let me be buried with the men.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Montgomery_Lawrence",
+   "born": "28 June 1806"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Alfred Loewenstein",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 51-year-old financier and third-richest man in the world at the time, died while flying from England to Belgium on his private Fokker F.VII airplane. It is believed he fell out of the aircraft and into the water where he died.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Loewenstein",
+   "born": "11 March 1877"
+  },
+  {
+   "year": 1934,
+   "year_label": "1934",
+   "name": "Marie Skłodowska Curie",
+   "kind": "individual",
+   "desc": "Polish scientist",
+   "cause": "upon being offered a painkilling injection",
+   "last_words": "I don't want it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marie_Skłodowska_Curie",
+   "born": "7 November 1867"
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "Frank McAteer",
+   "kind": "individual",
+   "desc": "La Plata County, Colorado sergeant",
+   "cause": "to suspect who resisted arrest; McAteer then collapsed from a heart attack",
+   "last_words": "You know, it's people like you who put peace officers in hospitals or drive them to Pueblo.",
+   "wikipedia": "https://en.wikipedia.org/wiki/List_of_law_enforcement_officers_killed_in_the_line_of_duty_in_the_United_States",
+   "born": null
+  },
+  {
+   "year": 1984,
+   "year_label": "1984",
+   "name": "Reginald Tucker",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 29-year-old lawyer, who raced along a Chicago skyscraper corridor without wearing his glasses, crashed through a window and plunged 39 stories to his death during an early Fourth of July party. Police said portions of the man's body were scattered around the street near the 41-story Prudential Building in the city's downtown area. Several horrified onlookers attending holiday celebrations heard the glass shatter and saw him fall to his death.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1610,
+   "year_label": "1610",
+   "name": "Paul Scarron",
+   "kind": "individual",
+   "desc": "French poet, dramatist and novelist",
+   "cause": null,
+   "last_words": "Ah! mes enfans, you cannot cry as much for me as I have made you laugh in my time! I never thought that it was so easy a matter to laugh at the approach of death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul_Scarron",
+   "died": "6 October 1660"
+  },
+  {
+   "year": 1715,
+   "year_label": "1715",
+   "name": "Christian Fürchtegott Gellert",
+   "kind": "individual",
+   "desc": "German poet",
+   "cause": "on being told he had only an hour to live",
+   "last_words": "Now, God be praised, only one hour!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christian_Fürchtegott_Gellert",
+   "died": "13 December 1769"
+  },
+  {
+   "year": 1845,
+   "year_label": "1845",
+   "name": "Thomas John Barnardo",
+   "kind": "individual",
+   "desc": "Irish-born British philanthropist, founder of the Barnardo's charity",
+   "cause": "to his wife",
+   "last_words": "Syrie, my head is so heavy. Let me rest it on your face.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_John_Barnardo",
+   "died": "19 September 1905"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "Calvin Coolidge",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to a carpenter working on his house",
+   "last_words": "Good morning, Robert.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
+   "died": "5 January 1933"
+  }
+ ]
+}

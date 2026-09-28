@@ -1,0 +1,128 @@
+{
+ "date": "01-26",
+ "died": [
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "name": "Thomas Lovell Beddoes",
+   "kind": "individual",
+   "desc": "English poet, dramatist and physician",
+   "cause": "concluding his suicide note",
+   "last_words": "I am food for what I am good for-worms. I ought to have been among other things a good poet. Life was too great a bore on one peg & that a bad one.-Buy for Dr. Ecklin above mentioned Reade's best stomach pump.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Lovell_Beddoes",
+   "born": "30 June 1803"
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Vladimir Kappel",
+   "kind": "individual",
+   "desc": "White Russian military leader",
+   "cause": "dying during the Great Siberian Ice March",
+   "last_words": "Let my soldiers know that I've always been committed to them, loved them and proved it by my death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Kappel",
+   "born": "16 April 1883"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Alva Belmont",
+   "kind": "individual",
+   "desc": "American socialite and women's suffrage activist",
+   "cause": null,
+   "last_words": "The important thing is knowing how to live. Learn a lesson from my mistakes. I had too much power before I knew how to use it and it defeated me in the end. It drove all sweetness out of my life except the affection of my children. My trouble was I was born too late for the last generation and too early for this one. If you want to be happy, live in your own time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alva_Belmont",
+   "born": "17 January 1853"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Felix Hausdorff",
+   "kind": "individual",
+   "desc": "German mathematician",
+   "cause": "the conclusion of his suicide letter to his lawyer. Hausdorff, his wife and his sister-in-law committed suicide rather than be deported to the Endenich camp",
+   "last_words": "I am sorry that we cause you yet more effort beyond death, and I am convinced that you are doing what you can do (which perhaps is not very much). Forgive us our desertion! We wish you and all our friends to experience better times. Your truly devoted Felix Hausdorff",
+   "wikipedia": "https://en.wikipedia.org/wiki/Felix_Hausdorff",
+   "born": "8 November 1868"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Lucky Luciano",
+   "kind": "individual",
+   "desc": "Italian-American gangster",
+   "cause": "after meeting with a producer about a proposed film based on his life",
+   "last_words": "Tell Georgie I want to get in the movies one way or another.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Luciano",
+   "born": "24 November 1897"
+  },
+  {
+   "year": 1998,
+   "year_label": "1998",
+   "name": "Tom Lonergan",
+   "kind": "individual",
+   "desc": "American scuba diver",
+   "cause": "message written on dive slate. Lonergan and his wife Eileen disappeared in the Coral Sea off northeast Australia after being unintentionally abandoned by their dive boat",
+   "last_words": "[Mo]nday Jan 26; 1998 08am. To anyone can help us: We have been abandoned on A[gin]court Reef by MV Outer Edge 25 Jan 98 3pm. Please help us to rescue us before we die. Help!!!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Disappearance_of_Tom_and_Eileen_Lonergan",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1731,
+   "year_label": "1731",
+   "name": "Charles Lee",
+   "kind": "individual",
+   "desc": "Continental Army general",
+   "cause": "dying of fever in a Philadelphia tavern",
+   "last_words": "Stand by me, my brave grenadiers.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lee_(general)",
+   "died": "2 October 1782"
+  },
+  {
+   "year": 1763,
+   "year_label": "1763",
+   "name": "Charles XIV John",
+   "kind": "individual",
+   "desc": "King of Sweden and Norway",
+   "cause": "whispering the name of his son and heir",
+   "last_words": "Oscar.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_XIV_John",
+   "died": "8 March 1844"
+  },
+  {
+   "year": 1795,
+   "year_label": "1795",
+   "name": "Policarpa Salavarrieta",
+   "kind": "individual",
+   "desc": "Neogranadine seamstress and spy",
+   "cause": "prior to execution by firing squad for high treason",
+   "last_words": "Indolent people! How different your fate would be today if you knew the price of freedom! But it is not too late. See that - although a woman and young - I have more than enough courage to suffer death and a thousand more deaths. Do not forget this example [...] Miserable people, I pity you. Someday you will have more dignity! [...] I am dying to defend the rights of my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Policarpa_Salavarrieta",
+   "died": "14 November 1817"
+  },
+  {
+   "year": 1884,
+   "year_label": "1884",
+   "name": "Roy Chapman Andrews",
+   "kind": "individual",
+   "desc": "American explorer, adventurer and naturalist",
+   "cause": "dying of a heart attack",
+   "last_words": "There's that pain again! I can feel it in my arm and in my head.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Roy_Chapman_Andrews",
+   "died": "11 March 1960"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Nicolae Ceaușescu",
+   "kind": "individual",
+   "desc": "Romanian communist politician, dictator and president of the Romanian Communist Party from 1965 to 1989",
+   "cause": "executed by firing squad along with his wife Elena",
+   "last_words": "Long Live the Socialist Republic of Romania, independent and free.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicolae_Ceaușescu",
+   "died": "25 December 1989"
+  }
+ ]
+}

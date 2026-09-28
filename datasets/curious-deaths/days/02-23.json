@@ -1,0 +1,83 @@
+{
+ "date": "02-23",
+ "died": [
+  {
+   "year": 1766,
+   "year_label": "1766",
+   "name": "Stanisław Leszczyński",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The duke of Lorraine and former king of Poland died from wounds after his silk attire had caught fire from a spark while he was sitting near the fireplace in his Château de Lunéville.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Stanisław_Leszczyński",
+   "born": "20 October 1677"
+  },
+  {
+   "year": 1792,
+   "year_label": "1792",
+   "name": "Joshua Reynolds",
+   "kind": "individual",
+   "desc": "English painter",
+   "cause": null,
+   "last_words": "I have been fortunate in long good health and constant success, and I ought not to complain. I know that all things on earth must have an end, and now I am come to mine.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Reynolds",
+   "born": "16 July 1723"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "John Keats",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": null,
+   "last_words": "I can feel the daisies growing over me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Keats",
+   "born": "31 October 1795"
+  },
+  {
+   "year": 1848,
+   "year_label": "1848",
+   "name": "John Quincy Adams",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "after collapsing in the United States Capitol",
+   "last_words": "This is the last of Earth. I am content.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
+   "born": "11 July 1767"
+  },
+  {
+   "year": 1955,
+   "year_label": "1955",
+   "name": "Paul Claudel",
+   "kind": "individual",
+   "desc": "French writer and diplomat",
+   "cause": null,
+   "last_words": "Doctor, do you think it could have been the sausage?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul_Claudel",
+   "born": "6 August 1868"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Stan Laurel",
+   "kind": "individual",
+   "desc": "English actor, member of the duo Laurel and Hardy",
+   "cause": "to a nurse",
+   "last_words": "I'd rather be skiing than doing this.\" (when asked if he skied) \"No, but I'd rather be doing that than doing this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stan_Laurel",
+   "born": "16 June 1890"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Terry Melvin Sims",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "before his execution",
+   "last_words": "I love my family. I love all my friends and my rabbi",
+   "wikipedia": "https://en.wikipedia.org/wiki/Terry_Melvin_Sims",
+   "born": "5 February 1942"
+  }
+ ],
+ "born": []
+}

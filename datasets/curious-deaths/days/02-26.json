@@ -1,0 +1,95 @@
+{
+ "date": "02-26",
+ "died": [
+  {
+   "year": 1577,
+   "year_label": "1577",
+   "name": "Eric XIV",
+   "kind": "individual",
+   "desc": "ex-King of Sweden",
+   "cause": "when dying in prison from arsenic poisoning, quoting Jesus",
+   "last_words": "Lord God, into Thy Holy Hands I commit my spirit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eric_XIV_of_Sweden",
+   "born": "13 December 1533"
+  }
+ ],
+ "born": [
+  {
+   "year": 1714,
+   "year_label": "1714",
+   "name": "James Hervey",
+   "kind": "individual",
+   "desc": "English clergyman and writer",
+   "cause": null,
+   "last_words": "Precious salvation!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Hervey",
+   "died": "25 December 1758"
+  },
+  {
+   "year": 1732,
+   "year_label": "1732",
+   "name": "Francis Marion",
+   "kind": "individual",
+   "desc": "American military officer",
+   "cause": "Marion was an enslaver who committed wartime atrocities",
+   "last_words": "Thank God since I came to man's estate, I have never intentionally done wrong to anyone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Marion",
+   "died": "27 February 1795"
+  },
+  {
+   "year": 1786,
+   "year_label": "1786",
+   "name": "François Arago",
+   "kind": "individual",
+   "desc": "French mathematician, physicist and astronomer",
+   "cause": "to his associate Jean-Baptiste Biot",
+   "last_words": "I intend to resign my situation of perpetual secretary to the Academy, since I can no longer discharge its duties.",
+   "wikipedia": "https://en.wikipedia.org/wiki/François_Arago",
+   "died": "2 October 1853"
+  },
+  {
+   "year": 1802,
+   "year_label": "1802",
+   "name": "Victor Hugo",
+   "kind": "individual",
+   "desc": "French novelist",
+   "cause": null,
+   "last_words": "This is the fight of day and night. I see black light.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Victor_Hugo",
+   "died": "22 May 1885"
+  },
+  {
+   "year": 1845,
+   "year_label": "1845",
+   "name": "Alexander III of Russia",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when the priest placed his hands on his head after performing the last rites",
+   "last_words": "How good!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
+   "died": "1 November 1894"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Tex Avery",
+   "kind": "individual",
+   "desc": "American animator",
+   "cause": "to an animator while watching a baseball game, according to Chuck Jones",
+   "last_words": "I don't know where animators go when they die, but I guess there must be a lot of them. They could probably use a good director though.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tex_Avery",
+   "died": "26 August 1980"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Jackie Gleason",
+   "kind": "individual",
+   "desc": "American actor, comedian, writer, composer, and conductor",
+   "cause": null,
+   "last_words": "I always knew what I was doing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Gleason",
+   "died": "24 June 1987"
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "date": "06-18",
+ "died": [
+  {
+   "year": 1805,
+   "year_label": "1805",
+   "name": "Arthur Murphy",
+   "kind": "individual",
+   "desc": "Irish writer",
+   "cause": "quoting Alexander Pope",
+   "last_words": "Taught, half by reason, half by mere decay, / To welcome death, and calmly pass away.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Murphy_(writer)",
+   "born": "27 December 1727"
+  },
+  {
+   "year": 1815,
+   "year_label": "1815",
+   "name": "Thomas Picton",
+   "kind": "individual",
+   "desc": "Welsh officer of the British Army",
+   "cause": "before being shot in the temple at the Battle of Waterloo",
+   "last_words": "Charge! Hurrah! hurrah!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Picton",
+   "born": "24 August 1758"
+  },
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "name": "Edmund Ruffin",
+   "kind": "individual",
+   "desc": "Virginia planter and enslaver",
+   "cause": "conclusion of final diary entry before suicide",
+   "last_words": "And now with my latest writing and utterance, and with what will be near my latest breath, I here repeat and would willingly proclaim my unmitigated hatred to yankee rule – to all political, social and business connections with Yankees, and the perfidious, malignant and vile Yankee race.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Ruffin",
+   "born": "5 January 1794"
+  },
+  {
+   "year": 1875,
+   "year_label": "1875",
+   "name": "Victims of the Dublin whiskey fire",
+   "kind": "group",
+   "desc": null,
+   "cause": "At The Liberties, Dublin, Ireland (then part of the United Kingdom), a fire broke out at Laurence Malone's bonded storehouse on the corner of Ardee Street, where 5,000 hogsheads (262500 impgal) of whiskey were being stored. The heat caused the barrels in the storehouse to explode, sending a stream of whiskey flowing through the doors and windows of the burning building. The burning whiskey then flowed along the streets where it quickly demolished a row of small houses. Despite the damage from the fire, all of the resulting 13 fatalities were caused by alcohol poisoning after drinking the undiluted flooded whiskey.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dublin_whiskey_fire",
+   "born": null
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Samuel Butler",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": null,
+   "last_words": "Have you brought the chequebook, Alfred?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)",
+   "born": "4 December 1835"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Brian Oswald Donn-Byrne",
+   "kind": "individual",
+   "desc": "Irish novelist",
+   "cause": "prior to dying in auto accident",
+   "last_words": "I think I'll go for a drive before dinner – anyone coming?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne",
+   "born": "20 November 1889"
+  },
+  {
+   "year": 1959,
+   "year_label": "1959",
+   "name": "Ethel Barrymore",
+   "kind": "individual",
+   "desc": "American actress",
+   "cause": "to her maid, Anna Albert",
+   "last_words": "Are you happy? I'm happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ethel_Barrymore",
+   "born": "15 August 1879"
+  },
+  {
+   "year": 1974,
+   "year_label": "1974",
+   "name": "George Kelly",
+   "kind": "individual",
+   "desc": "American playwright and actor",
+   "cause": "to one of his nieces",
+   "last_words": "My dear, before you kiss me goodbye, fix your hair. It's a mess.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Kelly_(playwright)",
+   "born": "16 January 1887"
+  }
+ ],
+ "born": [
+  {
+   "year": 1482,
+   "year_label": "1482",
+   "name": "George Martinuzzi",
+   "kind": "individual",
+   "desc": "Archbishop of Esztergom",
+   "cause": "while being assassinated",
+   "last_words": "Jesu, Maria!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Martinuzzi",
+   "died": "16 December 1551"
+  },
+  {
+   "year": 1769,
+   "year_label": "1769",
+   "name": "Robert Stewart, Viscount Castlereagh",
+   "kind": "individual",
+   "desc": "Anglo-Irish statesman",
+   "cause": "to his personal physician, Dr. Charles Bankhead, after cutting his throat",
+   "last_words": "Bankhead, let me fall into your arms. It is all over.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Stewart,_Viscount_Castlereagh",
+   "died": "12 August 1822"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Anthony Strollo",
+   "kind": "individual",
+   "desc": "American gangster",
+   "cause": "to his wife prior to his disappearance",
+   "last_words": "I'm only going out for a few minutes. Besides, I'm wearing thermal underwear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Strollo",
+   "died": "8 April 1962"
+  },
+  {
+   "year": 1956,
+   "year_label": "1956",
+   "name": "Deborah Gail Stone",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 18-year-old hostess for the America Sings attraction at Disneyland died after being crushed between two walls around 11:00 pm. It is speculated that she either fell backward or tried to jump from one stage to another.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Gail_Stone",
+   "died": "8 July 1974"
+  },
+  {
+   "year": 1975,
+   "year_label": "1975",
+   "name": "Kyle Dinkheller",
+   "kind": "individual",
+   "desc": "American sheriff's deputy",
+   "cause": "while being shot to death by Andrew Howard Brannan",
+   "last_words": "Shoot, shoot, stop now!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kyle_Dinkheller",
+   "died": "12 January 1998"
+  }
+ ]
+}

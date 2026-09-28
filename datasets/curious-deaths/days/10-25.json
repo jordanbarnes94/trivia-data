@@ -1,0 +1,95 @@
+{
+ "date": "10-25",
+ "died": [
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "R. Stanton Walker",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 20-year-old was watching an amateur baseball game in Morristown, Ohio when a foul ball struck him in the hand, driving a knife he was passing to one of his friends into his chest. His friends asked if he was hurt and he said \"not much\", but the wound soon began to bleed heavily and he died within minutes.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Alexander of Greece",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 27-year-old Greek king died of sepsis after being bitten by a palace steward's pet Barbary macaque in his garden, while trying to break up a fight between his German shepherd and another monkey.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_of_Greece",
+   "born": "1 August 1893"
+  },
+  {
+   "year": 1957,
+   "year_label": "1957",
+   "name": "Albert Anastasia",
+   "kind": "individual",
+   "desc": "Italian-American mobster",
+   "cause": "He was assassinated while in the barber's chair at the Park Sheraton Hotel in Midtown Manhattan",
+   "last_words": "A quick haircut.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Albert_Anastasia",
+   "born": "26 September 1902"
+  }
+ ],
+ "born": [
+  {
+   "year": 1612,
+   "year_label": "1612",
+   "name": "James Graham, 1st Marquess of Montrose",
+   "kind": "individual",
+   "desc": null,
+   "cause": "prior to execution by hanging, beheading and quartering",
+   "last_words": "The covenant which I took, I own it and adhere to it. Bishops, I do not care for them. I never intended to advance their interests.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Graham,_1st_Marquess_of_Montrose",
+   "died": "21 May 1650"
+  },
+  {
+   "year": 1800,
+   "year_label": "1800",
+   "name": "Thomas Babington Macaulay",
+   "kind": "individual",
+   "desc": "British historian and politician",
+   "cause": "to his butler",
+   "last_words": "I shall retire early; I am very tired.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay",
+   "died": "28 December 1859"
+  },
+  {
+   "year": 1825,
+   "year_label": "1825",
+   "name": "Johann Strauss II",
+   "kind": "individual",
+   "desc": "Austrian composer",
+   "cause": "in response to being asked to get some sleep",
+   "last_words": "I will, whatever happens.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
+   "died": "3 June 1899"
+  },
+  {
+   "year": 1838,
+   "year_label": "1838",
+   "name": "Georges Bizet",
+   "kind": "individual",
+   "desc": "French composer",
+   "cause": null,
+   "last_words": "I am in a cold sweat. Is it the sweat of death? How are you going to tell my father?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georges_Bizet",
+   "died": "3 June 1875"
+  },
+  {
+   "year": 1881,
+   "year_label": "1881",
+   "name": "Pablo Picasso",
+   "kind": "individual",
+   "desc": "Spanish artist",
+   "cause": null,
+   "last_words": "Drink to me, drink to my health. You know I can't drink anymore.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Picasso",
+   "died": "8 April 1973"
+  }
+ ]
+}

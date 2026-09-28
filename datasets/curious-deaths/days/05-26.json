@@ -1,0 +1,106 @@
+{
+ "date": "05-26",
+ "died": [
+  {
+   "year": 735,
+   "year_label": "735",
+   "name": "Bede",
+   "kind": "individual",
+   "desc": "English Benedictine monk",
+   "cause": "to a scribe to whom he was dictating a translation of the Gospel of John",
+   "last_words": "You speak truth, all is finished now. Glory to God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bede",
+   "born": null
+  },
+  {
+   "year": 1982,
+   "year_label": "1982",
+   "name": "Robert Armitage",
+   "kind": "individual",
+   "desc": "GC GM, Royal Navy officer",
+   "cause": "prior to shooting and slightly wounding his wife and then killing himself",
+   "last_words": "I can't face it anymore.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Armitage_(Royal_Navy_officer)",
+   "born": "28 March 1905"
+  }
+ ],
+ "born": [
+  {
+   "year": 1700,
+   "year_label": "1700",
+   "name": "Nicolaus Zinzendorf",
+   "kind": "individual",
+   "desc": "German religious and social reformer and bishop of the Moravian Church",
+   "cause": "to his son-in-law",
+   "last_words": "Now, my dear son, I am going to the Saviour. I am ready; I am quite resigned to the will of my Lord. If He is no longer willing to make use of me here I am quite ready to go to Him, for there is nothing more in my way.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Zinzendorf",
+   "died": "9 May 1760"
+  },
+  {
+   "year": 1799,
+   "year_label": "1799",
+   "name": "Alexander Pushkin",
+   "kind": "individual",
+   "desc": "Russian poet",
+   "cause": "to his wife, Natalia Pushkina, after being mortally wounded in a duel with Georges-Charles de Heeckeren d'Anthès, who was rumored to be having an affair with Natalia",
+   "last_words": "Try to be forgotten. Go live in the country. Stay in mourning for two years, then remarry, but choose somebody decent.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
+   "died": "10 February 1837"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "John Wesley Hardin",
+   "kind": "individual",
+   "desc": "American outlaw and gunfighter",
+   "cause": "killed in an El Paso saloon by John Selman",
+   "last_words": "Four sixes to beat",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley_Hardin",
+   "died": "19 August 1895"
+  },
+  {
+   "year": 1877,
+   "year_label": "1877",
+   "name": "Isadora Duncan",
+   "kind": "individual",
+   "desc": "American/French dancer",
+   "cause": "just before dying in freak car accident The 50-year-old American dancer broke her neck in Nice, when her long scarf became entangled in the open-spoked wheel and rear axle of the Amilcar CGSS automobile in which she was riding.",
+   "last_words": "Farewell, my friends. I go to glory!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isadora_Duncan",
+   "died": "14 September 1927"
+  },
+  {
+   "year": 1883,
+   "year_label": "1883",
+   "name": "Peter Kürten",
+   "kind": "individual",
+   "desc": "German serial killer known as \"The Vampire of Düsseldorf\"",
+   "cause": "prior to execution by guillotine",
+   "last_words": "After my head is chopped off, will I still be able to hear, at least for a moment, the sound of my own blood gushing from the stump of my neck? That would be the pleasure to end all pleasures.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Peter_Kürten",
+   "died": "2 July 1931"
+  },
+  {
+   "year": 1886,
+   "year_label": "1886",
+   "name": "Al Jolson",
+   "kind": "individual",
+   "desc": "American singer and actor",
+   "cause": null,
+   "last_words": "This is it! I'm going. I'm going.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Al_Jolson",
+   "died": "23 October 1950"
+  },
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "John Wayne",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his daughter, Aissa Wayne, who had asked if he knew who she was",
+   "last_words": "Of course I know who you are. You're my girl. I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne",
+   "died": "11 June 1979"
+  }
+ ]
+}

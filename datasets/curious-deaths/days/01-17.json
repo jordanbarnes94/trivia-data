@@ -1,0 +1,117 @@
+{
+ "date": "01-17",
+ "died": [
+  {
+   "year": 356,
+   "year_label": "356",
+   "name": "Anthony the Great",
+   "kind": "individual",
+   "desc": "Christian monk from Egypt",
+   "cause": null,
+   "last_words": "And let my word be kept secret by you, so that no one knows the place but you alone. For in the resurrection of the dead I shall receive my body incorruptible once again from the Savior. Distribute my clothing. To Bishop Athanasius give the one sheepskin and the cloak on which I lie, which he gave to me new, but I have by now worn out. And to Bishop Serapion give the other sheepskin, and you keep the hair garment. And now God preserve you, children, for Antony is leaving and is with you no longer.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_the_Great",
+   "born": null
+  },
+  {
+   "year": 1893,
+   "year_label": "1893",
+   "name": "Rutherford B. Hayes",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "referring to his wife, Lucy Webb Hayes, who had died in 1889",
+   "last_words": "I know I am going where Lucy is.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes",
+   "born": "4 October 1822"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "name": "Gerrit Achterberg",
+   "kind": "individual",
+   "desc": "Dutch poet",
+   "cause": "to his companion, who had asked if she should bake some potatoes",
+   "last_words": "Yes, but not too many.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gerrit_Achterberg",
+   "born": "20 May 1905"
+  },
+  {
+   "year": 1977,
+   "year_label": "1977",
+   "name": "Gary Gilmore",
+   "kind": "individual",
+   "desc": "American criminal",
+   "cause": "prior to execution by firing squad",
+   "last_words": "Let's do it!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gary_Gilmore",
+   "born": "4 December 1940"
+  }
+ ],
+ "born": [
+  {
+   "year": 1706,
+   "year_label": "1706",
+   "name": "Benjamin Franklin",
+   "kind": "individual",
+   "desc": "American statesman and scientist",
+   "cause": "complaining about the difficulty of assuming a more comfortable position on his deathbed",
+   "last_words": "A dying man can do nothing easy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
+   "died": "17 April 1790"
+  },
+  {
+   "year": 1789,
+   "year_label": "1789",
+   "name": "August Neander",
+   "kind": "individual",
+   "desc": "German theologian and church historian",
+   "cause": null,
+   "last_words": "I am weary; I will now go to sleep. Good night!",
+   "wikipedia": "https://en.wikipedia.org/wiki/August_Neander",
+   "died": "14 July 1850"
+  },
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Anne Brontë",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "to her sister Charlotte",
+   "last_words": "Take courage, Charlotte; take courage.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anne_Brontë",
+   "died": "28 May 1849"
+  },
+  {
+   "year": 1853,
+   "year_label": "1853",
+   "name": "Alva Belmont",
+   "kind": "individual",
+   "desc": "American socialite and women's suffrage activist",
+   "cause": null,
+   "last_words": "The important thing is knowing how to live. Learn a lesson from my mistakes. I had too much power before I knew how to use it and it defeated me in the end. It drove all sweetness out of my life except the affection of my children. My trouble was I was born too late for the last generation and too early for this one. If you want to be happy, live in your own time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alva_Belmont",
+   "died": "26 January 1933"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Arnold Rothstein",
+   "kind": "individual",
+   "desc": "American mobster",
+   "cause": "when asked who had fatally shot him",
+   "last_words": "Me mudder did it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Rothstein",
+   "died": "6 November 1928"
+  },
+  {
+   "year": 1933,
+   "year_label": "1933",
+   "name": "Dalida",
+   "kind": "individual",
+   "desc": "Italian-French singer and actress",
+   "cause": "writing her suicide note",
+   "last_words": "Life is unbearable for me. Forgive me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dalida",
+   "died": "3 May 1987"
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "date": "10-24",
+ "died": [
+  {
+   "year": 1601,
+   "year_label": "1601",
+   "name": "Tycho Brahe",
+   "kind": "individual",
+   "desc": "Danish astronomer",
+   "cause": "to his assistant Johannes Kepler The Danish astronomer contracted a bladder or kidney ailment after attending a banquet in Prague and died eleven days later. According to Johannes Kepler's first-hand account, Brahe had refused to leave the banquet to relieve himself, because it would have been a breach of etiquette. After he had returned home, he was no longer able to urinate, except eventually in very small quantities and with excruciating pain. Though initially ascribed to a kidney stone, and later still to potential mercury poisoning, modern analyses indicate Brahe's death resulted from a fatal case of uremia caused by an inflamed prostate.",
+   "last_words": "May I not seem to have lived in vain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tycho_Brahe",
+   "born": "14 December 1546"
+  },
+  {
+   "year": 1655,
+   "year_label": "1655",
+   "name": "Pierre Gassendi",
+   "kind": "individual",
+   "desc": "French philosopher, Catholic priest, astronomer and mathematician",
+   "cause": null,
+   "last_words": "You see what is man's life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Gassendi",
+   "born": "22 January 1592"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "Ann Hasseltine Judson",
+   "kind": "individual",
+   "desc": "American foreign missionary",
+   "cause": "dying of smallpox in Amherst, Burma",
+   "last_words": "I feel quite well, only very weak.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ann_Hasseltine_Judson",
+   "born": "22 December 1789"
+  },
+  {
+   "year": 1842,
+   "year_label": "1842",
+   "name": "Bernardo O'Higgins",
+   "kind": "individual",
+   "desc": "Chilean independence leader and statesman",
+   "cause": null,
+   "last_words": "Magellan, Magellan!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bernardo_O'Higgins",
+   "born": "20 August 1778"
+  },
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Dutch Schultz",
+   "kind": "individual",
+   "desc": "American mobster",
+   "cause": "speaking in stream-of-consciousness babble after being shot",
+   "last_words": "The Baron says these things. I know what I am doing here with my collection of papers. It isn't worth a nickel to two guys like you or me but to a collector it is worth a fortune. It is priceless. I am going to turn it over to... Turn your back to me, please Henry. I am so sick now. The police are getting many complaints. Look out. I want that G-note. Look out for Jimmy Valentine for he is an old pal of mine. Come on, come on, Jim. Ok, ok, I am all through. Can't do another thing. Look out mamma, look out for her. You can't beat him. Police, mamma, Helen, mother, please take me out. I will settle the indictment. Come on, open the soap duckets. The chimney sweeps. Talk to the sword. Shut up, you got a big mouth! Please help me up, Henry. Max, come over here. French-Canadian bean soup. I want to pay. Let them leave me alone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dutch_Schultz",
+   "born": "6 August 1901"
+  },
+  {
+   "year": 1945,
+   "year_label": "1945",
+   "name": "Vidkun Quisling",
+   "kind": "individual",
+   "desc": "Norwegian politician",
+   "cause": "prior to execution by firing squad for murder and high treason",
+   "last_words": "I'm convicted unfairly and I die innocent.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
+   "born": "18 July 1887"
+  }
+ ],
+ "born": [
+  {
+   "year": 1561,
+   "year_label": "1561",
+   "name": "Anthony Babington",
+   "kind": "individual",
+   "desc": "English gentleman, conspirator in the Babington Plot",
+   "cause": "prior to being hanged, drawn and quartered for high treason",
+   "last_words": "The murder of the Queen had been represented to me as a deed lawful and meritorious. I die a firm Catholic.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Babington",
+   "died": "20 September 1586"
+  },
+  {
+   "year": 1765,
+   "year_label": "1765",
+   "name": "James Mackintosh",
+   "kind": "individual",
+   "desc": "FRS FRSE, Scottish jurist, politician and historian",
+   "cause": null,
+   "last_words": "Happy.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Mackintosh",
+   "died": "30 May 1832"
+  },
+  {
+   "year": 1798,
+   "year_label": "1798",
+   "name": "Massimo d'Azeglio",
+   "kind": "individual",
+   "desc": "Italian statesman, novelist and painter",
+   "cause": "seeing his estranged wife arrive at his bedside as he died",
+   "last_words": "Ah, Luisa, you always arrive just as I'm leaving.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Massimo_d'Azeglio",
+   "died": "15 January 1866"
+  }
+ ]
+}

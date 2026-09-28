@@ -1,0 +1,62 @@
+{
+ "date": "09-04",
+ "died": [
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "Edvard Grieg",
+   "kind": "individual",
+   "desc": "Norwegian composer and pianist",
+   "cause": null,
+   "last_words": "Well, if it must be so.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Grieg",
+   "born": "15 June 1843"
+  },
+  {
+   "year": 1967,
+   "year_label": "1967",
+   "name": "Vincent R. Capodanno",
+   "kind": "individual",
+   "desc": "United States Navy Roman Catholic chaplain and Medal of Honor recipient",
+   "cause": "to a wounded Marine before being killed during Operation Swift in the Vietnam War",
+   "last_words": "Stay quiet, Marine. You will be okay. Someone will be here to help you soon. God is with us all this day.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vincent_R._Capodanno",
+   "born": "13 February 1929"
+  },
+  {
+   "year": 1993,
+   "year_label": "1993",
+   "name": "Hervé Villechaize",
+   "kind": "individual",
+   "desc": "French-American actor",
+   "cause": "in a tape where he committed suicide over chronic pain relating to his dwarfism. presumably when he pulled the trigger, the gun did not go off instantly",
+   "last_words": "Well, I just have to do this, and everything will be fine. Kathy, it's not your fault, so don't worry. I love you. OK, I just need to pull this little trigger... Whoa. Well, I guess I just have to wait.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hervé_Villechaize",
+   "born": "23 April 1943"
+  }
+ ],
+ "born": [
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "Francis Octavius Grenfell",
+   "kind": "individual",
+   "desc": "VC, British Army officer",
+   "cause": "mortally wounded during World War I, referring to his squadron",
+   "last_words": "Tell them I died happy, loving them all.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Octavius_Grenfell",
+   "died": "24 May 1915"
+  },
+  {
+   "year": 1925,
+   "year_label": "1925",
+   "name": "Abdul Hafiz",
+   "kind": "individual",
+   "desc": "VC, Indian recipient of the Victoria Cross",
+   "cause": "mortally wounded at the Battle of Imphal",
+   "last_words": "Reorganise the post, I will give covering fire.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Abdul_Hafiz_(VC)",
+   "died": "6 April 1944"
+  }
+ ]
+}

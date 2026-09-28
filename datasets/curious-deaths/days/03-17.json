@@ -1,0 +1,95 @@
+{
+ "date": "03-17",
+ "died": [
+  {
+   "year": 180,
+   "year_label": "180",
+   "name": "Marcus Aurelius",
+   "kind": "individual",
+   "desc": "Roman emperor and philosopher",
+   "cause": null,
+   "last_words": "Go to the rising sun, for I am setting. Think more of death than of me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
+   "born": "26 April 121"
+  },
+  {
+   "year": 1713,
+   "year_label": "1713",
+   "name": "Juraj Jánošík",
+   "kind": "individual",
+   "desc": "Slovak highwayman known as \"the Slovak Robin Hood\"",
+   "cause": "refusing to name fellow robbers prior to jumping onto the hook on which he was to be hung",
+   "last_words": "If you have baked me so you also should eat me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Juraj_Jánošík",
+   "born": "25 January 1688"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Lawrence Oates",
+   "kind": "individual",
+   "desc": "British army officer and Antarctic explorer",
+   "cause": "prior to walking out of tent and into blizzard on Terra Nova Expedition",
+   "last_words": "I am just going outside and may be some time.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Oates",
+   "born": "17 March 1880"
+  },
+  {
+   "year": 1978,
+   "year_label": "1978",
+   "name": "Eddie Aikau",
+   "kind": "individual",
+   "desc": "American lifeguard and surfer",
+   "cause": "leaving voyaging canoe Hōkūleʻa after it began leaking to paddle to shore for help. The rest of the canoe's crew were rescued",
+   "last_words": "Don't worry, I can do it. I can get to land.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Aikau",
+   "born": "5 May 1946"
+  }
+ ],
+ "born": [
+  {
+   "year": 1754,
+   "year_label": "1754",
+   "name": "Madame Roland",
+   "kind": "individual",
+   "desc": "French revolutionary and writer",
+   "cause": "prior to execution by guillotine",
+   "last_words": "Oh Liberty, what crimes are committed in thy name!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Madame_Roland",
+   "died": "8 November 1793"
+  },
+  {
+   "year": 1777,
+   "year_label": "1777",
+   "name": "Patrick Brontë",
+   "kind": "individual",
+   "desc": "Irish Anglican priest and author, father of Charlotte, Branwell, Emily and Anne Brontë",
+   "cause": null,
+   "last_words": "While there is life there is will.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Brontë",
+   "died": "7 June 1861"
+  },
+  {
+   "year": 1919,
+   "year_label": "1919",
+   "name": "Nat King Cole",
+   "kind": "individual",
+   "desc": "American singer",
+   "cause": "saying his wife's name to a hospital nurse",
+   "last_words": "Maria.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nat_King_Cole",
+   "died": "15 February 1965"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "John Wayne Gacy",
+   "kind": "individual",
+   "desc": "American serial killer and sex offender",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "Kiss my ass.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne_Gacy",
+   "died": "10 May 1994"
+  }
+ ]
+}

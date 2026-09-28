@@ -1,0 +1,139 @@
+{
+ "date": "09-29",
+ "died": [
+  {
+   "year": 1703,
+   "year_label": "1703",
+   "name": "Charles de Saint-Évremond",
+   "kind": "individual",
+   "desc": "French soldier, author and hedonist",
+   "cause": "when a clergyman asked if he would be reconciled",
+   "last_words": "With all my heart: I would fain be reconciled to my stomach, which no longer performs its usual functions.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Saint-Évremond",
+   "born": "1 April 1613"
+  },
+  {
+   "year": 1851,
+   "year_label": "1851",
+   "name": "Paul-Thérèse-David d'Astros",
+   "kind": "individual",
+   "desc": "French Roman Catholic cardinal and archbishop",
+   "cause": null,
+   "last_words": "Neither life nor death, nor any being can separate us from Him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Paul-Thérèse-David_d'Astros",
+   "born": "15 October 1772"
+  },
+  {
+   "year": 1902,
+   "year_label": "1902",
+   "name": "Émile Zola",
+   "kind": "individual",
+   "desc": "French novelist, playwright and journalist",
+   "cause": "dying of carbon monoxide poisoning from an improperly ventilated chimney",
+   "last_words": "I feel sick. The dog is sick, too. We are both ill. It must be something we have eaten.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Émile_Zola",
+   "born": "2 April 1840"
+  },
+  {
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Milo Lemert",
+   "kind": "individual",
+   "desc": "United States Army soldier and recipient of the Medal of Honor",
+   "cause": "mortally wounded near Bellicourt, France, during World War I",
+   "last_words": "I'm all finished. Give them hell.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Milo_Lemert",
+   "born": "25 March 1890"
+  },
+  {
+   "year": 1942,
+   "year_label": "1942",
+   "name": "Matangini Hazra",
+   "kind": "individual",
+   "desc": "Indian revolutionary",
+   "cause": "repeatedly chanting words from protest song while being shot by British Indian police at the age of 72",
+   "last_words": "I bow to thee, Mother.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Matangini_Hazra",
+   "born": "19 October 1870"
+  }
+ ],
+ "born": [
+  {
+   "year": -106,
+   "year_label": "106 BC",
+   "name": "Pompey",
+   "kind": "individual",
+   "desc": "Roman general and statesman",
+   "cause": "to Lucius Septimius, one of his assassins",
+   "last_words": "Surely I am not mistaken, and you are an old comrade of mine!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pompey",
+   "died": "28 September 48 BC"
+  },
+  {
+   "year": 1511,
+   "year_label": "1511",
+   "name": "Michael Servetus",
+   "kind": "individual",
+   "desc": "Spanish theologian, physician and humanist",
+   "cause": "while being burned at the stake for heresy on a pyre of his own books",
+   "last_words": "Jesus, Son of the eternal God, have mercy on me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Servetus",
+   "died": "27 October 1553"
+  },
+  {
+   "year": 1547,
+   "year_label": "1547",
+   "name": "Miguel de Cervantes",
+   "kind": "individual",
+   "desc": "Spanish novelist",
+   "cause": null,
+   "last_words": "Already my foot is in the stirrup.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
+   "died": "22 April 1616"
+  },
+  {
+   "year": 1639,
+   "year_label": "1639",
+   "name": "William Russell, Lord Russell",
+   "kind": "individual",
+   "desc": null,
+   "cause": "after bidding farewell to his wife prior to execution by beheading for treason",
+   "last_words": "Now the bitterness of death is past.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Russell,_Lord_Russell",
+   "died": "21 July 1683"
+  },
+  {
+   "year": 1758,
+   "year_label": "1758",
+   "name": "Horatio Nelson, 1st Viscount Nelson",
+   "kind": "individual",
+   "desc": "Royal Navy admiral",
+   "cause": "mortally wounded at the Battle of Trafalgar",
+   "last_words": "Thank God, I have done my duty.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson",
+   "died": "21 October 1805"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Ernest M. McSorley",
+   "kind": "individual",
+   "desc": "Canadian sailor and captain of SS Edmund Fitzgerald",
+   "cause": "last transmission before ship went down in storm on Lake Superior",
+   "last_words": "We are holding our own.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernest_M._McSorley",
+   "died": "10 November 1975"
+  },
+  {
+   "year": 1952,
+   "year_label": "1952",
+   "name": "Arthur Gary Bishop",
+   "kind": "individual",
+   "desc": "American convicted sex offender and serial killer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I want to offer again my most profound and heartfelt apologies to my victims' families. I am truly sorry. I have tried my best to empathize with their grief and devastation and I hope they come to know of my concerns and prayers for them.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Gary_Bishop",
+   "died": "10 June 1988"
+  }
+ ]
+}

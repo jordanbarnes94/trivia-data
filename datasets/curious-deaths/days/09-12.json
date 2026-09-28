@@ -1,0 +1,95 @@
+{
+ "date": "09-12",
+ "died": [
+  {
+   "year": 1185,
+   "year_label": "1185",
+   "name": "Andronikos I Komnenos",
+   "kind": "individual",
+   "desc": "Byzantine Emperor",
+   "cause": "lynched by his former subjects",
+   "last_words": "Lord, have mercy upon me. Wilt thou break a bruised reed?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
+   "born": null
+  },
+  {
+   "year": 1764,
+   "year_label": "1764",
+   "name": "Jean-Philippe Rameau",
+   "kind": "individual",
+   "desc": "French composer",
+   "cause": "to his confessor",
+   "last_words": "What the devil do you mean to sing to me, priest? You are out of tune.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
+   "born": "25 September 1683"
+  },
+  {
+   "year": 1806,
+   "year_label": "1806",
+   "name": "Edward Thurlow, 1st Baron Thurlow",
+   "kind": "individual",
+   "desc": "British lawyer and politician",
+   "cause": null,
+   "last_words": "I'll be shot if I don't believe I'm dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Thurlow,_1st_Baron_Thurlow",
+   "born": "9 December 1731"
+  },
+  {
+   "year": 1819,
+   "year_label": "1819",
+   "name": "Gebhard Leberecht von Blücher",
+   "kind": "individual",
+   "desc": "Prussian field marshal",
+   "cause": "to his aide-de-camp, August Ludwig von Nostitz",
+   "last_words": "Nostitz, you have learned many a thing from me. Now you are to learn how peacefully a man can die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher",
+   "born": "16 December 1742"
+  },
+  {
+   "year": 1864,
+   "year_label": "1864",
+   "name": "Park Benjamin Sr.",
+   "kind": "individual",
+   "desc": "American poet, journalist and editor",
+   "cause": "when his wife asked him if he knew her",
+   "last_words": "Why should I not know you, Mary?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Park_Benjamin_Sr.",
+   "born": "14 August 1809"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Winston Ide",
+   "kind": "individual",
+   "desc": "Australian rugby union player",
+   "cause": "responding to requests to save himself during the sinking of the Rakuyo Maru",
+   "last_words": "I'm staying here. In any case, I can swim to Australia if I have to.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Winston_Ide",
+   "born": "17 September 1914"
+  },
+  {
+   "year": 1996,
+   "year_label": "1996",
+   "name": "Ricardo López",
+   "kind": "individual",
+   "desc": "Uruguayan-born American pest controller",
+   "cause": "before committing suicide with a gun after he mailed a bomb to Icelandic musician Björk, attempting to kill her",
+   "last_words": "This is for you!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_López_(stalker)",
+   "born": "14 January 1975"
+  }
+ ],
+ "born": [
+  {
+   "year": 1745,
+   "year_label": "1745",
+   "name": "François-Jean de la Barre",
+   "kind": "individual",
+   "desc": "French nobleman",
+   "cause": "prior to execution by beheading for blasphemy and sacrilege",
+   "last_words": "I did not think that they would put a young gentleman to death for such a trifle.",
+   "wikipedia": "https://en.wikipedia.org/wiki/François-Jean_de_la_Barre",
+   "died": "1 July 1766"
+  }
+ ]
+}

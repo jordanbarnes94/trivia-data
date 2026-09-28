@@ -1,0 +1,106 @@
+{
+ "date": "05-25",
+ "died": [
+  {
+   "year": 1085,
+   "year_label": "1085",
+   "name": "Pope Gregory VII",
+   "kind": "individual",
+   "desc": null,
+   "cause": "in exile in Salerno due to his conflicts with Henry IV, Holy Roman Emperor",
+   "last_words": "I have loved justice and hated iniquity; therefore I die in exile.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Gregory_VII",
+   "born": null
+  },
+  {
+   "year": 1510,
+   "year_label": "1510",
+   "name": "Georges d'Amboise",
+   "kind": "individual",
+   "desc": "French Roman Catholic cardinal and minister of state",
+   "cause": null,
+   "last_words": "I believe.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georges_d'Amboise",
+   "born": null
+  },
+  {
+   "year": 1569,
+   "year_label": "1569",
+   "name": "Bartolomeo Bartocci",
+   "kind": "individual",
+   "desc": "Italian trader",
+   "cause": "while burning at the stake for heresy",
+   "last_words": "Victory! Victory!",
+   "wikipedia": "https://en.wikipedia.org/wiki/:it:Bartolomeo_Bartocci",
+   "born": null
+  },
+  {
+   "year": 1802,
+   "year_label": "1802",
+   "name": "George Fordyce",
+   "kind": "individual",
+   "desc": "Scottish physician",
+   "cause": "to his daughter, who had been reading to him",
+   "last_words": "Stop, go out of the room; I am about to die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Fordyce",
+   "born": "18 November 1736"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "John Spenkelink",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "Capital punishment; them without the capital get the punishment.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Spenkelink",
+   "born": "29 March 1949"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "First officer James Dillard",
+   "kind": "individual",
+   "desc": "pilot of American Airlines Flight 191",
+   "cause": "last word heard before CVR cut off",
+   "last_words": "Damn!",
+   "wikipedia": "https://en.wikipedia.org/wiki/American_Airlines_Flight_191",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1803,
+   "year_label": "1803",
+   "name": "Ralph Waldo Emerson",
+   "kind": "individual",
+   "desc": "American author, philosopher and transcendentalist",
+   "cause": null,
+   "last_words": "O, that beautiful boy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+   "died": "27 April 1882"
+  },
+  {
+   "year": 1869,
+   "year_label": "1869",
+   "name": "Robbie Ross",
+   "kind": "individual",
+   "desc": "Canadian-British journalist, art critic and art dealer",
+   "cause": "referring to the inscription on John Keats' grave (\"Here lies One Whose Name was writ in Water\")",
+   "last_words": "Here lies one whose name was written in hot water.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robbie_Ross",
+   "died": "5 October 1918"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Max Aitken, 1st Baron Beaverbrook",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Canadian-British newspaper publisher, at his 85th birthday party held 15 days before his death",
+   "last_words": "This is my final word. It is time for me to become an apprentice once more. I have not settled in which direction.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Max_Aitken,_1st_Baron_Beaverbrook",
+   "died": "9 June 1964"
+  }
+ ]
+}

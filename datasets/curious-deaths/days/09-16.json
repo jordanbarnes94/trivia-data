@@ -1,0 +1,128 @@
+{
+ "date": "09-16",
+ "died": [
+  {
+   "year": 1380,
+   "year_label": "1380",
+   "name": "Charles V of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Ah, Jesus!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_V_of_France",
+   "born": "21 January 1338"
+  },
+  {
+   "year": 1701,
+   "year_label": "1701",
+   "name": "James II of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "in reply to Louis XIV telling him that he would acknowledge James' son, James Francis Edward Stuart, as King of England, Scotland and Ireland",
+   "last_words": "Grateful - in peace!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_II_of_England",
+   "born": "14 October 1633"
+  },
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "name": "Louis XVIII",
+   "kind": "individual",
+   "desc": "King of France",
+   "cause": null,
+   "last_words": "A king should die standing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVIII",
+   "born": "17 November 1755"
+  },
+  {
+   "year": 1847,
+   "year_label": "1847",
+   "name": "Grace Aguilar",
+   "kind": "individual",
+   "desc": "English author",
+   "cause": "quoting Job 13:15",
+   "last_words": "Though He slay me, yet will I trust in Him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Grace_Aguilar",
+   "born": "2 June 1816"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "name": "Edward Bouverie Pusey",
+   "kind": "individual",
+   "desc": "English churchman, Regius Professor of Hebrew at the University of Oxford",
+   "cause": null,
+   "last_words": "My God!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Bouverie_Pusey",
+   "born": "22 August 1800"
+  },
+  {
+   "year": 1951,
+   "year_label": "1951",
+   "name": "Joseph Vittori",
+   "kind": "individual",
+   "desc": "United States Marine and Medal of Honor recipient",
+   "cause": "prior to being killed in action at the Battle of the Punchbowl in the Korean War",
+   "last_words": "You go. I'll cover you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Vittori",
+   "born": "1 August 1929"
+  },
+  {
+   "year": 1985,
+   "year_label": "1985",
+   "name": "Art Scholl",
+   "kind": "individual",
+   "desc": "American aerobatic pilot",
+   "cause": "after his plane entered a flat inverted spin during filming of Top Gun",
+   "last_words": "I have a problem, I have a real problem.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Art_Scholl",
+   "born": "24 December 1931"
+  }
+ ],
+ "born": [
+  {
+   "year": 1678,
+   "year_label": "1678",
+   "name": "Henry St John, 1st Viscount Bolingbroke",
+   "kind": "individual",
+   "desc": "English politician",
+   "cause": "to Philip Stanhope, 4th Earl of Chesterfield. Bolingbroke also reaffirmed his Deist convictions",
+   "last_words": "God, who pleased me here, will do what he pleases with me hereafter, and he knows best what to do. May he bless you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_St_John,_1st_Viscount_Bolingbroke",
+   "died": "12 December 1751"
+  },
+  {
+   "year": 1796,
+   "year_label": "1796",
+   "name": "William Augustus Muhlenberg",
+   "kind": "individual",
+   "desc": "American Episcopal clergyman and educator",
+   "cause": "to a friend who had entered the room",
+   "last_words": "Good morning.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Augustus_Muhlenberg",
+   "died": "8 April 1877"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Alexander Schmorell",
+   "kind": "individual",
+   "desc": "Russian-German student and member of the White Rose resistance movement",
+   "cause": "on being asked if his name was Alexander Schmorell prior to his execution via guillotine",
+   "last_words": "Yes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Schmorell",
+   "died": "13 July 1943"
+  },
+  {
+   "year": 1920,
+   "year_label": "1920",
+   "name": "Hannie Schaft",
+   "kind": "individual",
+   "desc": "Dutch Resistance Fighter",
+   "cause": "mocking her two executioners after the first shot grazed off her",
+   "last_words": "I shoot better!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hannie_Schaft",
+   "died": "17 April 1945"
+  }
+ ]
+}

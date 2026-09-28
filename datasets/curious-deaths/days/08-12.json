@@ -1,0 +1,106 @@
+{
+ "date": "08-12",
+ "died": [
+  {
+   "year": -30,
+   "year_label": "30 BC",
+   "name": "Cleopatra",
+   "kind": "individual",
+   "desc": "pharaoh of Egypt",
+   "cause": "right before she reportedly committed suicide by letting an asp bite her",
+   "last_words": "Here thou art, then!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cleopatra",
+   "born": "13 January 69 BC"
+  },
+  {
+   "year": -30,
+   "year_label": "30 BC",
+   "name": "Charmion",
+   "kind": "individual",
+   "desc": "servant to Cleopatra",
+   "cause": "when one of Emperor Augustus' men asked her, \"Was this well done of your lady, Charmion?\" She then fell dead",
+   "last_words": "Extremely well, and as became the descendant of so many kings.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charmion_(servant_to_Cleopatra)",
+   "born": null
+  },
+  {
+   "year": 1822,
+   "year_label": "1822",
+   "name": "Robert Stewart, Viscount Castlereagh",
+   "kind": "individual",
+   "desc": "Anglo-Irish statesman",
+   "cause": "to his personal physician, Dr. Charles Bankhead, after cutting his throat",
+   "last_words": "Bankhead, let me fall into your arms. It is all over.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Stewart,_Viscount_Castlereagh",
+   "born": "18 June 1769"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Joseph P. Kennedy Jr.",
+   "kind": "individual",
+   "desc": "United States Navy lieutenant",
+   "cause": "radioing code phrase prior to explosion of plane on Operation Aphrodite mission",
+   "last_words": "Spade Flush.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_P._Kennedy_Jr.",
+   "born": "25 July 1915"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Ian Fleming",
+   "kind": "individual",
+   "desc": "English naval intelligence officer and novelist",
+   "cause": "to ambulance crew",
+   "last_words": "I am sorry to trouble you chaps. I don't know how you get along so fast with the traffic on the road these days.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ian_Fleming",
+   "born": "28 May 1908"
+  },
+  {
+   "year": 1985,
+   "year_label": "1985",
+   "name": "Captain Masami Takahama",
+   "kind": "individual",
+   "desc": null,
+   "cause": "pilot of Japan Air Lines Flight 123, just before the Boeing 747 crashed into a mountain",
+   "last_words": "It's... the end!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123",
+   "born": null
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Dmitry Kolesnikov",
+   "kind": "individual",
+   "desc": "Russian Navy officer",
+   "cause": "final note written before dying aboard sunken submarine Kursk",
+   "last_words": "It seems that there are no chances. Maybe 10 or 20 percent.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Kolesnikov",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1762,
+   "year_label": "1762",
+   "name": "George IV",
+   "kind": "individual",
+   "desc": "King of the United Kingdom of Great Britain and Ireland",
+   "cause": null,
+   "last_words": "O God! I am dying.\" (To his physician) \"This is death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_IV",
+   "died": "26 June 1830"
+  },
+  {
+   "year": 1880,
+   "year_label": "1880",
+   "name": "Radclyffe Hall",
+   "kind": "individual",
+   "desc": "English poet and author",
+   "cause": null,
+   "last_words": "What a life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Radclyffe_Hall",
+   "died": "7 October 1943"
+  }
+ ]
+}

@@ -1,0 +1,128 @@
+{
+ "date": "12-16",
+ "died": [
+  {
+   "year": 1551,
+   "year_label": "1551",
+   "name": "George Martinuzzi",
+   "kind": "individual",
+   "desc": "Archbishop of Esztergom",
+   "cause": "while being assassinated",
+   "last_words": "Jesu, Maria!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Martinuzzi",
+   "born": "18 June 1482"
+  },
+  {
+   "year": 1598,
+   "year_label": "1598",
+   "name": "Yi Sun-sin",
+   "kind": "individual",
+   "desc": "Korean naval commander",
+   "cause": "telling his nephew to hide his death by gunshot from his soldiers to avoid demoralizing them during the Battle of Noryang",
+   "last_words": "Do not announce my death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Yi_Sun-sin",
+   "born": "28 April 1545"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Antoine François, comte de Fourcroy",
+   "kind": "individual",
+   "desc": "French chemist",
+   "cause": null,
+   "last_words": "I am dead.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Antoine_François,_comte_de_Fourcroy",
+   "born": "15 June 1755"
+  }
+ ],
+ "born": [
+  {
+   "year": 1485,
+   "year_label": "1485",
+   "name": "Catherine of Aragon",
+   "kind": "individual",
+   "desc": "Queen of England",
+   "cause": "closing her last letter to her former husband, Henry VIII of England",
+   "last_words": "Mine eyes desire thee only. Farewell.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
+   "died": "7 January 1536"
+  },
+  {
+   "year": 1714,
+   "year_label": "1714",
+   "name": "George Whitefield",
+   "kind": "individual",
+   "desc": "Anglican cleric and evangelist",
+   "cause": "to a servant",
+   "last_words": "I am dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Whitefield",
+   "died": "30 September 1770"
+  },
+  {
+   "year": 1742,
+   "year_label": "1742",
+   "name": "Gebhard Leberecht von Blücher",
+   "kind": "individual",
+   "desc": "Prussian field marshal",
+   "cause": "to his aide-de-camp, August Ludwig von Nostitz",
+   "last_words": "Nostitz, you have learned many a thing from me. Now you are to learn how peacefully a man can die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher",
+   "died": "12 September 1819"
+  },
+  {
+   "year": 1770,
+   "year_label": "1770",
+   "name": "Ludwig van Beethoven",
+   "kind": "individual",
+   "desc": "German composer",
+   "cause": "being informed that his publisher had gifted him 12 bottles of wine",
+   "last_words": "Pity, pity - too late!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
+   "died": "26 March 1827"
+  },
+  {
+   "year": 1775,
+   "year_label": "1775",
+   "name": "Jane Austen",
+   "kind": "individual",
+   "desc": "English novelist",
+   "cause": "being asked by her sister Cassandra if she wanted something",
+   "last_words": "I want nothing but death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
+   "died": "18 July 1817"
+  },
+  {
+   "year": 1787,
+   "year_label": "1787",
+   "name": "Mary Russell Mitford",
+   "kind": "individual",
+   "desc": "English author and dramatist",
+   "cause": null,
+   "last_words": "If you wish for another cheerful evening with your old friend, there is no time to be lost.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Russell_Mitford",
+   "died": "10 January 1855"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Noël Coward",
+   "kind": "individual",
+   "desc": "English playwright, composer and performer",
+   "cause": "to Graham Payn, his life partner, and Cole Lesley, his secretary, while going to bed the night before he died",
+   "last_words": "Good night my darlings. I'll see you tomorrow.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Noël_Coward",
+   "died": "26 March 1973"
+  },
+  {
+   "year": 1929,
+   "year_label": "1929",
+   "name": "Robert M. Bond",
+   "kind": "individual",
+   "desc": "United States Air Force lieutenant general",
+   "cause": "prior to failed ejection from Mikoyan-Gurevich MiG-23 jet fighter-bomber",
+   "last_words": "I've got to get out, I'm out of control.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_M._Bond",
+   "died": "26 April 1984"
+  }
+ ]
+}

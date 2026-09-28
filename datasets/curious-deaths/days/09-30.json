@@ -1,0 +1,84 @@
+{
+ "date": "09-30",
+ "died": [
+  {
+   "year": 1770,
+   "year_label": "1770",
+   "name": "George Whitefield",
+   "kind": "individual",
+   "desc": "Anglican cleric and evangelist",
+   "cause": "to a servant",
+   "last_words": "I am dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Whitefield",
+   "born": "16 December 1714"
+  },
+  {
+   "year": 1897,
+   "year_label": "1897",
+   "name": "Thérèse of Lisieux",
+   "kind": "individual",
+   "desc": "French Catholic Carmelite nun and mystic",
+   "cause": null,
+   "last_words": "My God, I love You!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thérèse_of_Lisieux",
+   "born": "2 January 1873"
+  },
+  {
+   "year": 1955,
+   "year_label": "1955",
+   "name": "James Dean",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his friend Rolf Wütherich, moments before the car crash",
+   "last_words": "That guy's gotta stop... He'll see us.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Dean",
+   "born": "8 February 1931"
+  },
+  {
+   "year": 1960,
+   "year_label": "1960",
+   "name": "St John Philby",
+   "kind": "individual",
+   "desc": "British Arabist and intelligence officer",
+   "cause": null,
+   "last_words": "I am so bored.",
+   "wikipedia": "https://en.wikipedia.org/wiki/St_John_Philby",
+   "born": "3 April 1885"
+  }
+ ],
+ "born": [
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Buddy Rich",
+   "kind": "individual",
+   "desc": "American jazz drummer and bandleader",
+   "cause": "to a nurse who asked him, \"Is there anything you can't take?\" He then died during surgery",
+   "last_words": "Yeah, country music.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Buddy_Rich",
+   "died": "2 April 1987"
+  },
+  {
+   "year": 1923,
+   "year_label": "1923",
+   "name": "Ray Wetmore",
+   "kind": "individual",
+   "desc": "American World War II flying ace",
+   "cause": "prior to fatal crash of F-86 Sabre",
+   "last_words": "Say goodbye to my wife and kids.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ray_Wetmore",
+   "died": "14 February 1951"
+  },
+  {
+   "year": 1924,
+   "year_label": "1924",
+   "name": "Truman Capote",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": "He had been separated from his mother for several years during his childhood",
+   "last_words": "Mama- Mama- Mama.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Truman_Capote",
+   "died": "25 August 1984"
+  }
+ ]
+}

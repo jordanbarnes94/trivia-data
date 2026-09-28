@@ -1,0 +1,51 @@
+{
+ "date": "03-20",
+ "died": [
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Samuel Spencer",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 59-year-old North Carolina lawyer and former colonel was sleeping on a porch in Anson County while wearing a red cap. Spencer's bobbling head drew the attention of a turkey, which viewed Spencer as another turkey and fatally wounded him with its talons.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Spencer_(North_Carolina_politician)",
+   "born": "21 January 1734"
+  },
+  {
+   "year": 1964,
+   "year_label": "1964",
+   "name": "Brendan Behan",
+   "kind": "individual",
+   "desc": "Irish writer",
+   "cause": "to his wife Beatrice",
+   "last_words": "You made one mistake. You married me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brendan_Behan",
+   "born": "9 February 1923"
+  },
+  {
+   "year": 1995,
+   "year_label": "1995",
+   "name": "Thomas J. Grasso",
+   "kind": "individual",
+   "desc": "American double murderer",
+   "cause": "prior to execution by lethal injection",
+   "last_words": "I did not get my Spaghetti-Os. I got spaghetti. I want the press to know this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Grasso",
+   "born": "23 November 1962"
+  }
+ ],
+ "born": [
+  {
+   "year": 1828,
+   "year_label": "1828",
+   "name": "Henrik Ibsen",
+   "kind": "individual",
+   "desc": "Norwegian playwright",
+   "cause": "to his maid, who had said his health was improving",
+   "last_words": "On the contrary!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Ibsen",
+   "died": "23 May 1906"
+  }
+ ]
+}

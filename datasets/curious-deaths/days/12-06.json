@@ -1,0 +1,106 @@
+{
+ "date": "12-06",
+ "died": [
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "Thomas Washington Barber",
+   "kind": "individual",
+   "desc": "American abolitionist",
+   "cause": "shot along with his horse by slavery supporters near Lawrence, Kansas",
+   "last_words": "That fellow hit me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Washington_Barber",
+   "born": null
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Jefferson Davis",
+   "kind": "individual",
+   "desc": "President of the Confederate States of America",
+   "cause": null,
+   "last_words": "Pray, excuse me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jefferson_Davis",
+   "born": "3 June 1808"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Vince Coleman",
+   "kind": "individual",
+   "desc": "Canadian train dispatcher",
+   "cause": "warning an incoming train by telegraph of the impending Halifax Explosion",
+   "last_words": "Hold up the train. Ammunition ship afire in harbour making for Pier 6 and will explode. Guess this will be my last message. Goodbye, boys.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vince_Coleman_(train_dispatcher)",
+   "born": "13 March 1872"
+  },
+  {
+   "year": 1949,
+   "year_label": "1949",
+   "name": "Lead Belly",
+   "kind": "individual",
+   "desc": "American folk and blues singer, musician and songwriter",
+   "cause": null,
+   "last_words": "Doctor, if I put this here guitar down now, I ain't never gonna wake up.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lead_Belly",
+   "born": "20 January 1888"
+  },
+  {
+   "year": 1989,
+   "year_label": "1989",
+   "name": "Marc Lépine",
+   "kind": "individual",
+   "desc": "Canadian perpetrator of the École Polytechnique massacre",
+   "cause": "in which he killed fourteen women, before fatally shooting himself",
+   "last_words": "Ah, shit.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marc_Lépine",
+   "born": "26 October 1964"
+  },
+  {
+   "year": 2000,
+   "year_label": "2000",
+   "name": "Daniel Hittle",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "prior to his execution",
+   "last_words": "Sant Ajaib Singh. That's it",
+   "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Hittle",
+   "born": "1 March 1950"
+  }
+ ],
+ "born": [
+  {
+   "year": 1721,
+   "year_label": "1721",
+   "name": "Guillaume-Chrétien de Lamoignon de Malesherbes",
+   "kind": "individual",
+   "desc": "French statesman and government minister, defense counsel of Louis XVI",
+   "cause": "to the priest prior to his execution by guillotine",
+   "last_words": "Hold your tongue! your wretched chatter disgusts me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Guillaume-Chrétien_de_Lamoignon_de_Malesherbes",
+   "died": "22 April 1794"
+  },
+  {
+   "year": 1738,
+   "year_label": "1738",
+   "name": "William Ledyard",
+   "kind": "individual",
+   "desc": "American soldier, lieutenant colonel in the Connecticut militia",
+   "cause": "surrendering Fort Griswold during the Battle of Groton Heights. The British officer to whom Ledyard gave his sword in surrender immediately killed him with it",
+   "last_words": "I did, sir, but you do now.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Ledyard",
+   "died": "6 September 1781"
+  },
+  {
+   "year": 1794,
+   "year_label": "1794",
+   "name": "Luigi Lablache",
+   "kind": "individual",
+   "desc": "Italian operatic bass",
+   "cause": "After singing the first stanza of Home! Sweet Home! on his deathbed, his voice failed at the start of the second stanza",
+   "last_words": "Mid pleasures and palaces though we may roam / Be it ever so humble, there's no place like home / A charm from the skies seems to hallow us there / Which seek thro' the world, is ne'er met elsewhere / Home! Home! / Sweet, sweet home! / There's no place like home / There's no place like home!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Lablache",
+   "died": "23 January 1858"
+  }
+ ]
+}

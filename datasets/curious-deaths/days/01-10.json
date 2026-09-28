@@ -1,0 +1,139 @@
+{
+ "date": "01-10",
+ "died": [
+  {
+   "year": 1645,
+   "year_label": "1645",
+   "name": "William Laud",
+   "kind": "individual",
+   "desc": "Archbishop of Canterbury",
+   "cause": "spoken as the signal to the executioner at his beheading for treason",
+   "last_words": "Lord, receive my soul.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Laud",
+   "born": "7 October 1573"
+  },
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "Mary Russell Mitford",
+   "kind": "individual",
+   "desc": "English author and dramatist",
+   "cause": null,
+   "last_words": "If you wish for another cheerful evening with your old friend, there is no time to be lost.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Russell_Mitford",
+   "born": "16 December 1787"
+  },
+  {
+   "year": 1855,
+   "year_label": "1855",
+   "name": "Benjamin Parsons",
+   "kind": "individual",
+   "desc": "English congregational minister",
+   "cause": null,
+   "last_words": "I feel that I must come like the poor publican, like the thief on the cross, and like Mary Magdalene. I must come to the foot of the cross and be saved just in the same manner as they.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Parsons",
+   "born": null
+  },
+  {
+   "year": 1863,
+   "year_label": "1863",
+   "name": "Lyman Beecher",
+   "kind": "individual",
+   "desc": "American Presbyterian minister",
+   "cause": "quoting 2 Timothy 4:7-8",
+   "last_words": "I have fought a good fight, I have finished my course, I have kept the faith; henceforth there is laid up for me a crown, which God, the righteous Judge, will give me at that day. That is my testimony-write it down.-That is my testimony.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lyman_Beecher",
+   "born": "12 October 1775"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Frederick Harding Turner",
+   "kind": "individual",
+   "desc": "Scottish sportsman",
+   "cause": "shortly before being killed by a sniper during World War I",
+   "last_words": "By Jove, that has deafened my right ear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Harding_Turner",
+   "born": "29 May 1888"
+  },
+  {
+   "year": 1971,
+   "year_label": "1971",
+   "name": "Coco Chanel",
+   "kind": "individual",
+   "desc": "French fashion businesswoman",
+   "cause": "to her maid",
+   "last_words": "You see, this is how you die.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Coco_Chanel",
+   "born": "19 August 1883"
+  }
+ ],
+ "born": [
+  {
+   "year": 1686,
+   "year_label": "1686",
+   "name": "James Gardiner",
+   "kind": "individual",
+   "desc": "British Army officer",
+   "cause": "to a Jacobite officer after being mortally wounded at the Battle of Prestonpans",
+   "last_words": "You are fighting for an earthly crown; I am going to receive a heavenly one.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Gardiner_(British_Army_officer)",
+   "died": "21 September 1745"
+  },
+  {
+   "year": 1738,
+   "year_label": "1738",
+   "name": "Ethan Allen",
+   "kind": "individual",
+   "desc": "American patriot and militia general",
+   "cause": "on being told the angels were waiting for him",
+   "last_words": "Waiting, are they? Waiting, are they? Well, God damn 'em, let 'em wait!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ethan_Allen",
+   "died": "12 February 1789"
+  },
+  {
+   "year": 1769,
+   "year_label": "1769",
+   "name": "Michel Ney",
+   "kind": "individual",
+   "desc": "Marshal of the Empire",
+   "cause": "When executed by firing squad, he refused to wear a blindfold and was allowed the right to give the order to fire himself",
+   "last_words": "Soldiers, when I give the command to fire, fire straight at my heart. Wait for the order. It will be my last to you. I protest against my condemnation. I have fought a hundred battles for France, and not one against her ... Soldiers, fire!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Michel_Ney",
+   "died": "7 December 1815"
+  },
+  {
+   "year": 1893,
+   "year_label": "1893",
+   "name": "Vicente Huidobro",
+   "kind": "individual",
+   "desc": "Chilean poet",
+   "cause": "after regaining consciousness, he confessed to his loved ones that he was afraid and made his friend Henriette Petit cry when he stared at her and shouted this expression",
+   "last_words": "You ass-face!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Huidobro",
+   "died": "2 January 1948"
+  },
+  {
+   "year": 1939,
+   "year_label": "1939",
+   "name": "Sal Mineo",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "while being murdered",
+   "last_words": "Oh God! No! Help! Someone help!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sal_Mineo",
+   "died": "12 February 1976"
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Jim Croce",
+   "kind": "individual",
+   "desc": "American folk and rock singer-songwriter",
+   "cause": "in a letter written to his wife Ingrid shortly before he boarded a plane that killed him",
+   "last_words": "Remember, it's the first 60 years that count and I've got 30 to go. I love you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jim_Croce",
+   "died": "20 September 1973"
+  }
+ ]
+}

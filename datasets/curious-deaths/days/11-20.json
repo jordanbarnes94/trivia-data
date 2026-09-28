@@ -1,0 +1,73 @@
+{
+ "date": "11-20",
+ "died": [
+  {
+   "year": 1847,
+   "year_label": "1847",
+   "name": "Henry Francis Lyte",
+   "kind": "individual",
+   "desc": "Anglican poet",
+   "cause": null,
+   "last_words": "Peace! Joy!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Francis_Lyte",
+   "born": "1 June 1793"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Leo Tolstoy",
+   "kind": "individual",
+   "desc": "Russian novelist",
+   "cause": "to a station master in whose home he died",
+   "last_words": "But the peasants...how do the peasants die?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+   "born": "28 August 1828"
+  }
+ ],
+ "born": [
+  {
+   "year": 1739,
+   "year_label": "1739",
+   "name": "Jean-François de La Harpe",
+   "kind": "individual",
+   "desc": "French playwright, writer and literary critic",
+   "cause": "his final recorded words, spoken the day before his death",
+   "last_words": "I am grateful to Divine Mercy for having left me sufficient recollection to feel how consoling these prayers are to the dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-François_de_La_Harpe",
+   "died": "11 February 1803"
+  },
+  {
+   "year": 1874,
+   "year_label": "1874",
+   "name": "James Michael Curley",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "to his son while being wheeled out of surgery",
+   "last_words": "I wish to announce the first plank in my campaign for reelection...we're going to have the floors in this goddamned hospital smoothed out!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Michael_Curley",
+   "died": "12 November 1958"
+  },
+  {
+   "year": 1889,
+   "year_label": "1889",
+   "name": "Brian Oswald Donn-Byrne",
+   "kind": "individual",
+   "desc": "Irish novelist",
+   "cause": "prior to dying in auto accident",
+   "last_words": "I think I'll go for a drive before dinner – anyone coming?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brian_Oswald_Donn-Byrne",
+   "died": "18 June 1928"
+  },
+  {
+   "year": 1925,
+   "year_label": "1925",
+   "name": "Robert F. Kennedy",
+   "kind": "individual",
+   "desc": "American politician",
+   "cause": "speaking to medical attendants who lifted him onto a stretcher several minutes after he was fatally shot and lost consciousness shortly thereafter",
+   "last_words": "Don't lift me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_F._Kennedy",
+   "died": "6 June 1968"
+  }
+ ]
+}

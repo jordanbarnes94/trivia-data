@@ -1,0 +1,95 @@
+{
+ "date": "05-14",
+ "died": [
+  {
+   "year": 1610,
+   "year_label": "1610",
+   "name": "Henry IV of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": "while being assassinated by stabbing",
+   "last_words": "I am wounded.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_IV_of_France",
+   "born": "13 December 1553"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "August Strindberg",
+   "kind": "individual",
+   "desc": "Swedish author",
+   "cause": null,
+   "last_words": "Everything is atoned for.",
+   "wikipedia": "https://en.wikipedia.org/wiki/August_Strindberg",
+   "born": "22 January 1849"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "David Belasco",
+   "kind": "individual",
+   "desc": "American playwright and theater impresario",
+   "cause": null,
+   "last_words": "Doctor, I'm fighting for my life!",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Belasco",
+   "born": "25 July 1853"
+  },
+  {
+   "year": 1972,
+   "year_label": "1972",
+   "name": "Romas Kalanta",
+   "kind": "individual",
+   "desc": "Lithuanian high school student",
+   "cause": "prior to committing suicide by self-immolation to protest the Soviet regime in Lithuania",
+   "last_words": "Blame only the regime for my death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Romas_Kalanta",
+   "born": "22 February 1953"
+  },
+  {
+   "year": 1998,
+   "year_label": "1998",
+   "name": "Frank Sinatra",
+   "kind": "individual",
+   "desc": "American singer and actor",
+   "cause": null,
+   "last_words": "I'm losing it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Frank_Sinatra",
+   "born": "12 December 1915"
+  }
+ ],
+ "born": [
+  {
+   "year": 1727,
+   "year_label": "1727",
+   "name": "Thomas Gainsborough",
+   "kind": "individual",
+   "desc": "English painter",
+   "cause": null,
+   "last_words": "We are all going to Heaven, and van Dyke is of the company.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gainsborough",
+   "died": "2 August 1788"
+  },
+  {
+   "year": 1752,
+   "year_label": "1752",
+   "name": "Timothy Dwight IV",
+   "kind": "individual",
+   "desc": "American academic and educator",
+   "cause": "finishing his final manuscript",
+   "last_words": "There, I have done! Oh, what triumphant truth!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Dwight_IV",
+   "died": "11 January 1817"
+  },
+  {
+   "year": 1771,
+   "year_label": "1771",
+   "name": "Robert Owen",
+   "kind": "individual",
+   "desc": "Welsh textile manufacturer, philanthropist and social reformer",
+   "cause": null,
+   "last_words": "Relief has come.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Owen",
+   "died": "17 November 1858"
+  }
+ ]
+}

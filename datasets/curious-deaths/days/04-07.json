@@ -1,0 +1,95 @@
+{
+ "date": "04-07",
+ "died": [
+  {
+   "year": 1498,
+   "year_label": "1498",
+   "name": "Charles VIII of France",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The French king died as a result of striking his head on the lintel of a door while on his way to watch a game of real tennis.",
+   "last_words": "I hope never again to commit a mortal sin, nor even a venial one, if I can help it.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_VIII_of_France",
+   "born": "30 June 1470"
+  },
+  {
+   "year": 1668,
+   "year_label": "1668",
+   "name": "William Davenant",
+   "kind": "individual",
+   "desc": "English poet and playwright",
+   "cause": "setting aside the manuscript of a new poem",
+   "last_words": "I shall have to ask leave to desist, when I am interrupted by so great an experiment as dying.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Davenant",
+   "born": null
+  },
+  {
+   "year": 1891,
+   "year_label": "1891",
+   "name": "P. T. Barnum",
+   "kind": "individual",
+   "desc": "American showman",
+   "cause": "when asked if he wanted a drink of water",
+   "last_words": "Yes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/P._T._Barnum",
+   "born": "5 July 1810"
+  },
+  {
+   "year": 1928,
+   "year_label": "1928",
+   "name": "Alexander Bogdanov",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 54-year-old Soviet polymath and pioneer of blood transfusion died after exchanging his blood with his student who suffered from malaria and tuberculosis, presumably due to hemolytic transfusion reaction. Bogdanov's hypotheses were that the younger man's blood would rejuvenate his own aging body, and that his own blood, which he believed was resistant to tuberculosis, would treat the student's disease. The student injected with his blood made a complete recovery.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Bogdanov",
+   "born": "22 August 1873"
+  },
+  {
+   "year": 1979,
+   "year_label": "1979",
+   "name": "Amir-Abbas Hoveyda",
+   "kind": "individual",
+   "desc": "Prime Minister of Iran",
+   "cause": "during execution after the Iranian Revolution",
+   "last_words": "It wasn't supposed to end like this.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Amir-Abbas_Hoveyda",
+   "born": "18 February 1919"
+  }
+ ],
+ "born": [
+  {
+   "year": 1770,
+   "year_label": "1770",
+   "name": "William Wordsworth",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": "referring to his daughter, who had died three years earlier",
+   "last_words": "God bless you! Is that you, Dora?",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Wordsworth",
+   "died": "23 April 1850"
+  },
+  {
+   "year": 1780,
+   "year_label": "1780",
+   "name": "William Ellery Channing",
+   "kind": "individual",
+   "desc": "American Unitarian preacher and theologian",
+   "cause": null,
+   "last_words": "You need not be anxious concerning tonight. It will be very peaceful and quiet with me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Ellery_Channing",
+   "died": "2 October 1842"
+  },
+  {
+   "year": 1922,
+   "year_label": "1922",
+   "name": "Lothar Sieber",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 22-year-old Luftwaffe test pilot died while making the only manned test flight of the Bachem Ba 349 Natter vertical take-off bomber. On his fatal flight, Sieber became the first human to fly a vertically-launched rocket.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Lothar_Sieber",
+   "died": "1 March 1945"
+  }
+ ]
+}

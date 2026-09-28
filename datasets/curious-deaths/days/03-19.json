@@ -1,0 +1,106 @@
+{
+ "date": "03-19",
+ "died": [
+  {
+   "year": 1711,
+   "year_label": "1711",
+   "name": "Thomas Ken",
+   "kind": "individual",
+   "desc": "English bishop",
+   "cause": null,
+   "last_words": "God's will be done.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Ken",
+   "born": null
+  },
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "Thomas Bailey Aldrich",
+   "kind": "individual",
+   "desc": "American author and editor",
+   "cause": null,
+   "last_words": "In spite of it all, I am going to sleep; put out the lights.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Bailey_Aldrich",
+   "born": "11 November 1836"
+  }
+ ],
+ "born": [
+  {
+   "year": 1601,
+   "year_label": "1601",
+   "name": "Alonso Cano",
+   "kind": "individual",
+   "desc": "Spanish painter, architect and sculptor",
+   "cause": "asking a priest to take away a badly carved crucifix",
+   "last_words": "Vex me not with this thing, but give me a simple cross, that I may adore it, both as it is in itself and as I can figure it in my mind.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alonso_Cano",
+   "died": "3 September 1667"
+  },
+  {
+   "year": 1629,
+   "year_label": "1629",
+   "name": "Alexis of Russia",
+   "kind": "individual",
+   "desc": "Russian Tsar",
+   "cause": null,
+   "last_words": "I would never have married had I known that my time would be so brief. If I had known that, I would not have taken upon myself double tears.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alexis_of_Russia",
+   "died": "8 February 1676"
+  },
+  {
+   "year": 1809,
+   "year_label": "1809",
+   "name": "Nikolai Gogol",
+   "kind": "individual",
+   "desc": "Russian author of Ukrainian origin",
+   "cause": "in delirium",
+   "last_words": "Give me! Give me! Come on, give me! The ladder! Quick, pass me the ladder!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Nikolai_Gogol",
+   "died": "4 March 1852"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "David Livingstone",
+   "kind": "individual",
+   "desc": "Scottish physician, explorer and Christian missionary",
+   "cause": null,
+   "last_words": "Build me a hut to die in. I am going home.",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Livingstone",
+   "died": "1 May 1873"
+  },
+  {
+   "year": 1821,
+   "year_label": "1821",
+   "name": "Richard Francis Burton",
+   "kind": "individual",
+   "desc": "British polymath",
+   "cause": "to his wife, Isabel Burton",
+   "last_words": "Oh Puss, chloroform-ether-or I am a dead man.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Francis_Burton",
+   "died": "20 October 1890"
+  },
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "name": "William Allingham",
+   "kind": "individual",
+   "desc": "Irish poet, diarist and editor",
+   "cause": null,
+   "last_words": "I see such things as you can not dream of.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Allingham",
+   "died": "18 November 1889"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "Adolf Eichmann",
+   "kind": "individual",
+   "desc": "German-Austrian SS-Obersturmbannführer",
+   "cause": "mumbling prior to execution by hanging for war crimes",
+   "last_words": "I hope that all of you will follow me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Eichmann",
+   "died": "1 June 1962"
+  }
+ ]
+}

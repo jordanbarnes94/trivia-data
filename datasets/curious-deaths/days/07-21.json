@@ -1,0 +1,150 @@
+{
+ "date": "07-21",
+ "died": [
+  {
+   "year": 1683,
+   "year_label": "1683",
+   "name": "William Russell, Lord Russell",
+   "kind": "individual",
+   "desc": null,
+   "cause": "after bidding farewell to his wife prior to execution by beheading for treason",
+   "last_words": "Now the bitterness of death is past.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Russell,_Lord_Russell",
+   "born": "29 September 1639"
+  },
+  {
+   "year": 1796,
+   "year_label": "1796",
+   "name": "Robert Burns",
+   "kind": "individual",
+   "desc": "Scottish poet",
+   "cause": "referring to a Dumfries militia to which he belonged",
+   "last_words": "John, don't let the awkward squad fire over me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Burns",
+   "born": "25 January 1759"
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "Francis S. Bartow",
+   "kind": "individual",
+   "desc": "American and Confederate politician and brigade commander of the American Civil War",
+   "cause": "mortally wounded at the First Battle of Bull Run",
+   "last_words": "Boys, they've killed me, but never give it up!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_S._Bartow",
+   "born": "6 September 1816"
+  },
+  {
+   "year": 1861,
+   "year_label": "1861",
+   "name": "James Cameron",
+   "kind": "individual",
+   "desc": "Union colonel of the American Civil War",
+   "cause": "before being mortally wounded at the First Battle of Bull Run",
+   "last_words": "Scots, follow me!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Cameron_(Union_colonel)",
+   "born": "1 March 1800"
+  },
+  {
+   "year": 1878,
+   "year_label": "1878",
+   "name": "Sam Bass",
+   "kind": "individual",
+   "desc": "American train robber and outlaw",
+   "cause": "mortally wounded in gun battle with Texas Rangers",
+   "last_words": "Let me go... The world is bobbing around me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Bass_(outlaw)",
+   "born": "21 July 1851"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Robert G. Ingersoll",
+   "kind": "individual",
+   "desc": "American lawyer, free thought writer and orator",
+   "cause": "when his wife asked him how he felt",
+   "last_words": "O, better.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_G._Ingersoll",
+   "born": "11 August 1833"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "Claus von Stauffenberg",
+   "kind": "individual",
+   "desc": "German army officer",
+   "cause": "before being executed by the Nazis for his involvement in the failed 20 July plot",
+   "last_words": "Long live our sacred Germany!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Claus_von_Stauffenberg",
+   "born": "15 November 1907"
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "David Alan Kirwan",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 24-year-old tourist from La Cañada Flintridge, California, jumped into the alkaline (pH9) and scalding (202°F, or 202 F) Celestine Pool at Yellowstone National Park to save his friend's dog. The dog died within moments and its body dissolved in the hot spring. Kirwan, blinded and burned over his entire body, was airlifted to Salt Lake City and died the next day.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1657,
+   "year_label": "1657",
+   "name": "Marcello d'Aste",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic cardinal",
+   "cause": null,
+   "last_words": "I wish to die sitting, in tribute to the most worshipful will of my good and precious Jesus.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Marcello_d'Aste",
+   "died": "11 June 1709"
+  },
+  {
+   "year": 1827,
+   "year_label": "1827",
+   "name": "John George Wood",
+   "kind": "individual",
+   "desc": "English writer and populariser of natural history",
+   "cause": null,
+   "last_words": "Give me a large cup of tea.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_George_Wood",
+   "died": "3 March 1889"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Hart Crane",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": "prior to jumping off a cruise ship",
+   "last_words": "Goodbye, everybody!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hart_Crane",
+   "died": "27 April 1932"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Ernest Hemingway",
+   "kind": "individual",
+   "desc": "American author",
+   "cause": "before committing suicide with a shotgun",
+   "last_words": "Goodnight my kitten.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Hemingway",
+   "died": "2 July 1961"
+  },
+  {
+   "year": 1906,
+   "year_label": "1906",
+   "name": "Olena Teliha",
+   "kind": "individual",
+   "desc": "Ukrainian poet and activist",
+   "cause": "inscription written on the wall of her prison cell prior to her execution by the Gestapo",
+   "last_words": "Here Olena Teliha was sitting until she was shot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Olena_Teliha",
+   "died": "21 February 1942"
+  }
+ ]
+}

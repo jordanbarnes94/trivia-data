@@ -1,0 +1,84 @@
+{
+ "date": "04-23",
+ "died": [
+  {
+   "year": 1850,
+   "year_label": "1850",
+   "name": "William Wordsworth",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": "referring to his daughter, who had died three years earlier",
+   "last_words": "God bless you! Is that you, Dora?",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Wordsworth",
+   "born": "7 April 1770"
+  },
+  {
+   "year": 1868,
+   "year_label": "1868",
+   "name": "Ramón María Narváez",
+   "kind": "individual",
+   "desc": "1st Duke of Valencia, Spanish general and Prime Minister of Spain",
+   "cause": null,
+   "last_words": "I do not have to forgive my enemies. I have had them all shot.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ramón_María_Narváez",
+   "born": "5 August 1800"
+  },
+  {
+   "year": 1907,
+   "year_label": "1907",
+   "name": "Alferd Packer",
+   "kind": "individual",
+   "desc": "American prospector and wilderness guide",
+   "cause": "who had served 18 years in prison for killing and eating five of his traveling companions in 1874",
+   "last_words": "I'm not guilty of the charge.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alferd_Packer",
+   "born": "21 January 1842"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Rupert Brooke",
+   "kind": "individual",
+   "desc": "English poet",
+   "cause": "to William Denis Browne, who visited him on his deathbed",
+   "last_words": "Hullo.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Brooke",
+   "born": "3 August 1887"
+  }
+ ],
+ "born": [
+  {
+   "year": 1791,
+   "year_label": "1791",
+   "name": "James Buchanan",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": null,
+   "last_words": "Oh, Lord God Almighty, as thou wilt!",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan",
+   "died": "1 June 1868"
+  },
+  {
+   "year": 1813,
+   "year_label": "1813",
+   "name": "Stephen A. Douglas",
+   "kind": "individual",
+   "desc": "American politician, Senator from Illinois and 1860 Democratic presidential nominee",
+   "cause": null,
+   "last_words": "Death, death, death.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_A._Douglas",
+   "died": "3 June 1861"
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Hervé Villechaize",
+   "kind": "individual",
+   "desc": "French-American actor",
+   "cause": "in a tape where he committed suicide over chronic pain relating to his dwarfism. presumably when he pulled the trigger, the gun did not go off instantly",
+   "last_words": "Well, I just have to do this, and everything will be fine. Kathy, it's not your fault, so don't worry. I love you. OK, I just need to pull this little trigger... Whoa. Well, I guess I just have to wait.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hervé_Villechaize",
+   "died": "4 September 1993"
+  }
+ ]
+}

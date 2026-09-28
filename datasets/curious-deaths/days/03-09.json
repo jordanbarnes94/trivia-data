@@ -1,0 +1,73 @@
+{
+ "date": "03-09",
+ "died": [
+  {
+   "year": 1661,
+   "year_label": "1661",
+   "name": "Cardinal Mazarin",
+   "kind": "individual",
+   "desc": "Italian cardinal, diplomat and politician",
+   "cause": null,
+   "last_words": "O, my poor soul, what is to become of thee? Whither wilt thou go?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Mazarin",
+   "born": "14 July 1602"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Ian James Campbell",
+   "kind": "individual",
+   "desc": "American police officer",
+   "cause": "just before being fatally shot, in response to his killer asking if he had heard of the Little Lindbergh Law",
+   "last_words": "Yes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ian_James_Campbell",
+   "born": null
+  },
+  {
+   "year": 1981,
+   "year_label": "1981",
+   "name": "Steven Judy",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "prior to execution by electrocution",
+   "last_words": "I don't hold any grudges. This is my doing. Sorry it happened.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Steven_Judy",
+   "born": "24 May 1956"
+  }
+ ],
+ "born": [
+  {
+   "year": 1749,
+   "year_label": "1749",
+   "name": "Honoré Gabriel Riqueti, comte de Mirabeau",
+   "kind": "individual",
+   "desc": null,
+   "cause": null,
+   "last_words": "Let me die to the sound of delicious music.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Honoré_Gabriel_Riqueti,_comte_de_Mirabeau",
+   "died": "2 April 1791"
+  },
+  {
+   "year": 1773,
+   "year_label": "1773",
+   "name": "Isaac Hull",
+   "kind": "individual",
+   "desc": "United States Navy Commodore",
+   "cause": null,
+   "last_words": "I strike my flag.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Hull",
+   "died": "13 February 1843"
+  },
+  {
+   "year": 1954,
+   "year_label": "1954",
+   "name": "Bobby Sands",
+   "kind": "individual",
+   "desc": "Provisional Irish Republican Army volunteer and British Member of Parliament",
+   "cause": "final diary entry during hunger strike",
+   "last_words": "The day will dawn when all the people will have the desire for freedom ... And it's then that we'll see the rising of the moon.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Sands",
+   "died": "5 May 1981"
+  }
+ ]
+}

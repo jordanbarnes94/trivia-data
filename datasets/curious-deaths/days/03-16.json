@@ -1,0 +1,95 @@
+{
+ "date": "03-16",
+ "died": [
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "Caroline Yates",
+   "kind": "individual",
+   "desc": null,
+   "cause": "According to an autopsy during her inquest, the 25-year-old woman, living in Redfern, New South Wales at the time, died from peritonitis due to an internal injury inflicted by Dr. Sabowiski with the intent of \"procuring abortion\".",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1892,
+   "year_label": "1892",
+   "name": "Edward Augustus Freeman",
+   "kind": "individual",
+   "desc": "English historian and politician",
+   "cause": "his final diary entry",
+   "last_words": "Very weak. Rail to La Encina and Alicante.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Augustus_Freeman",
+   "born": "2 August 1823"
+  },
+  {
+   "year": 1898,
+   "year_label": "1898",
+   "name": "Aubrey Beardsley",
+   "kind": "individual",
+   "desc": "English illustrator and author",
+   "cause": null,
+   "last_words": "I am imploring you – burn all the indecent poems and drawings.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aubrey_Beardsley",
+   "born": "21 August 1872"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "Egon Friedell",
+   "kind": "individual",
+   "desc": "Austrian polymath",
+   "cause": "before jumping out a window to avoid capture by Gestapo",
+   "last_words": "Watch out, please.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Egon_Friedell",
+   "born": "21 January 1878"
+  },
+  {
+   "year": 1995,
+   "year_label": "1995",
+   "name": "Eric \"Eazy-E\" Wright",
+   "kind": "individual",
+   "desc": "American rapper who propelled West Coast rap and gangsta rap by leading the group N.W.A and its label, Ruthless Records",
+   "cause": "written as part of his final message to his fans while dying of AIDS. He slipped into a coma not long afterwards and died on March 26",
+   "last_words": "Now, I'm in the biggest fight of my life and it ain't easy. But I want to say much love to those who have been down with me and thanks for all your support. Just remember, It's your real time and your real life.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eazy-E",
+   "born": "7 September 1964"
+  }
+ ],
+ "born": [
+  {
+   "year": 1478,
+   "year_label": "1478",
+   "name": "Francisco Pizarro",
+   "kind": "individual",
+   "desc": "Spanish conquistador",
+   "cause": "after being stabbed by assassins",
+   "last_words": "Jesu!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
+   "died": "26 June 1541"
+  },
+  {
+   "year": 1751,
+   "year_label": "1751",
+   "name": "James Madison",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "to his niece, who had asked him what was the matter",
+   "last_words": "Nothing more than a change of mind, my dear.",
+   "wikipedia": "https://en.wikipedia.org/wiki/James_Madison",
+   "died": "28 June 1836"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Vladimir Komarov",
+   "kind": "individual",
+   "desc": "Soviet cosmonaut",
+   "cause": "final transmission before fatal crash of Soyuz 1 spacecraft",
+   "last_words": "Thank you for transmitting all of that. [Separation] occurred. [garbled]",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Komarov",
+   "died": "24 April 1967"
+  }
+ ]
+}

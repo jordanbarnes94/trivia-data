@@ -1,0 +1,73 @@
+{
+ "date": "08-28",
+ "died": [
+  {
+   "year": 1645,
+   "year_label": "1645",
+   "name": "Hugo Grotius",
+   "kind": "individual",
+   "desc": "Dutch humanist, diplomat, lawyer, theologian and writer",
+   "cause": null,
+   "last_words": "Be serious.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Grotius",
+   "born": "10 April 1583"
+  },
+  {
+   "year": 1648,
+   "year_label": "1648",
+   "name": "George Lisle",
+   "kind": "individual",
+   "desc": "Royalist leader in the English Civil War",
+   "cause": "when the officer in charge of his firing squad said they would hit him",
+   "last_words": "Ay! but I have been nearer to you, my friends, many a time, and you have missed me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Lisle_(Royalist)",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1592,
+   "year_label": "1592",
+   "name": "George Villiers, 1st Duke of Buckingham",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to his assassin, John Felton, after being stabbed by him",
+   "last_words": "Villaine!",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Villiers,_1st_Duke_of_Buckingham",
+   "died": "23 August 1628"
+  },
+  {
+   "year": 1749,
+   "year_label": "1749",
+   "name": "Johann Wolfgang von Goethe",
+   "kind": "individual",
+   "desc": "German statesman and writer",
+   "cause": null,
+   "last_words": "Do open the shutter in the bed-room, in order that more light may enter.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
+   "died": "22 March 1832"
+  },
+  {
+   "year": 1774,
+   "year_label": "1774",
+   "name": "Elizabeth Ann Seton",
+   "kind": "individual",
+   "desc": "SC, American Catholic religious sister and educator",
+   "cause": "saying the Anima Christi",
+   "last_words": "Soul of Christ, sanctify me; Body of Christ, save me; Blood of Christ, inebriate me; Water out of the side of Christ, strengthen me. Jesus, Mary, Joseph.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton",
+   "died": "4 January 1821"
+  },
+  {
+   "year": 1828,
+   "year_label": "1828",
+   "name": "Leo Tolstoy",
+   "kind": "individual",
+   "desc": "Russian novelist",
+   "cause": "to a station master in whose home he died",
+   "last_words": "But the peasants...how do the peasants die?",
+   "wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
+   "died": "20 November 1910"
+  }
+ ]
+}

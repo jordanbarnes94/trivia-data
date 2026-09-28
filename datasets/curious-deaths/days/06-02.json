@@ -1,0 +1,106 @@
+{
+ "date": "06-02",
+ "died": [
+  {
+   "year": 193,
+   "year_label": "193",
+   "name": "Didius Julianus",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "to his assassin",
+   "last_words": "But what evil have I done? Whom have I killed?\"",
+   "wikipedia": "https://en.wikipedia.org/wiki/Didius_Julianus",
+   "born": null
+  },
+  {
+   "year": 1833,
+   "year_label": "1833",
+   "name": "Simon Byrne",
+   "kind": "individual",
+   "desc": "Irish bare-knuckle boxer",
+   "cause": "dying after fight against James Burke",
+   "last_words": "If I should die, it will not be for the beating I received, but from mortification. I would rather have died than been beaten in that fight.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Simon_Byrne",
+   "born": null
+  },
+  {
+   "year": 1937,
+   "year_label": "1937",
+   "name": "Benjamin Taylor",
+   "kind": "individual",
+   "desc": null,
+   "cause": "During a carbuncle removal operation, an electric cautery ignited gases from the patient's lungs. This caused an explosion which killed Taylor and injured two nurses.",
+   "last_words": null,
+   "wikipedia": null,
+   "born": null
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "George S. Kaufman",
+   "kind": "individual",
+   "desc": "American playwright",
+   "cause": null,
+   "last_words": "I'm not afraid any more.",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_S._Kaufman",
+   "born": "16 November 1889"
+  },
+  {
+   "year": 1997,
+   "year_label": "1997",
+   "name": "Quimby Ghilotti",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 18-year-old from Napa, California, died on a school field trip when students tried to fit as many kids as possible on a water slide, causing it to collapse under their combined weight. At least 30 others were injured.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Hurricane_Harbor_Concord",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1690,
+   "year_label": "1690",
+   "name": "Louis Petit de Bachaumont",
+   "kind": "individual",
+   "desc": "French writer",
+   "cause": null,
+   "last_words": "The priest could never draw another thing from dying but 'Dear Sir, you are so kind.'",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louis_Petit_de_Bachaumont",
+   "died": "29 April 1771"
+  },
+  {
+   "year": 1773,
+   "year_label": "1773",
+   "name": "John Randolph of Roanoke",
+   "kind": "individual",
+   "desc": "American planter and politician",
+   "cause": null,
+   "last_words": "Write that word 'Remorse'; show it to me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_Randolph_of_Roanoke",
+   "died": "24 May 1833"
+  },
+  {
+   "year": 1816,
+   "year_label": "1816",
+   "name": "Grace Aguilar",
+   "kind": "individual",
+   "desc": "English author",
+   "cause": "quoting Job 13:15",
+   "last_words": "Though He slay me, yet will I trust in Him.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Grace_Aguilar",
+   "died": "16 September 1847"
+  },
+  {
+   "year": 1835,
+   "year_label": "1835",
+   "name": "Pope Pius X",
+   "kind": "individual",
+   "desc": "Italian Roman Catholic prelate and Pope",
+   "cause": null,
+   "last_words": "Now I begin to think the end is approaching. The Almighty in His inexhaustible goodness wishes to spare me the horrors which Europe is undergoing.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_X",
+   "died": "20 August 1914"
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "date": "11-14",
+ "died": [
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "name": "Policarpa Salavarrieta",
+   "kind": "individual",
+   "desc": "Neogranadine seamstress and spy",
+   "cause": "prior to execution by firing squad for high treason",
+   "last_words": "Indolent people! How different your fate would be today if you knew the price of freedom! But it is not too late. See that - although a woman and young - I have more than enough courage to suffer death and a thousand more deaths. Do not forget this example [...] Miserable people, I pity you. Someday you will have more dignity! [...] I am dying to defend the rights of my country.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Policarpa_Salavarrieta",
+   "born": "26 January 1795"
+  },
+  {
+   "year": 1825,
+   "year_label": "1825",
+   "name": "Jean Paul",
+   "kind": "individual",
+   "desc": "German Romantic writer",
+   "cause": "touching a wreath of flowers he had been given. Jean Paul had lost his senses of sight and smell before his death",
+   "last_words": "My beautiful flowers, my lovely flowers!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean_Paul",
+   "born": "21 March 1763"
+  },
+  {
+   "year": 1831,
+   "year_label": "1831",
+   "name": "Georg Wilhelm Friedrich Hegel",
+   "kind": "individual",
+   "desc": "German philosopher",
+   "cause": null,
+   "last_words": "Only one man ever understood me. And he really didn't understand me.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+   "born": "27 August 1770"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Dietrich von Hülsen-Haeseler",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Chief of the German Imperial Military Cabinet suffered a heart attack and died aged 56 after giving a ballet performance, crossdressing in a tutu, to Kaiser Wilhelm II and other members of a hunting party staying at Donaueschingen Palace. Shortly after ending his recital with a bow, he collapsed and was pronounced dead at the scene. The circumstances of his death were covered up by military officials so as not to further inflame public outrage over the Eulenburg affair, a government scandal dealing with accusations of homosexual behavior against members of the Kaiser's cabinet and entourage.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Dietrich_von_Hülsen-Haeseler",
+   "born": "13 February 1852"
+  }
+ ],
+ "born": [
+  {
+   "year": 1650,
+   "year_label": "1650",
+   "name": "William III of England",
+   "kind": "individual",
+   "desc": null,
+   "cause": "dying of pneumonia after breaking his collarbone, to his physician The king of England was riding his horse when it stumbled on a molehill. William fell and broke his collarbone, then contracted pneumonia and died several days later. After he died, Jacobites were said to have toasted in the mole's honour, calling it \"the little gentleman in the black velvet waistcoat\".",
+   "last_words": "Can this last long?",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_III_of_England",
+   "died": "8 March 1702"
+  },
+  {
+   "year": 1917,
+   "year_label": "1917",
+   "name": "Park Chung Hee",
+   "kind": "individual",
+   "desc": "3rd President of South Korea",
+   "cause": "in response to Cha Ji Cheol and a woman next to him asking if he was all right after being shot by Kim Jae-gyu, prior to being fatally shot in the head",
+   "last_words": "Yes, I am fine...",
+   "wikipedia": "https://en.wikipedia.org/wiki/Park_Chung_Hee",
+   "died": "26 October 1979"
+  },
+  {
+   "year": 1921,
+   "year_label": "1921",
+   "name": "Brian Keith",
+   "kind": "individual",
+   "desc": "American actor",
+   "cause": "to his wife Victoria",
+   "last_words": "Forgive me, but I don't want to live anymore. The pain is too bad. There's no point in trying to prolong this agony.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Brian_Keith",
+   "died": "24 June 1997"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "date": "03-23",
+ "died": [
+  {
+   "year": 59,
+   "year_label": "59",
+   "name": "Agrippina the Younger",
+   "kind": "individual",
+   "desc": "mother of Nero",
+   "cause": "to her murderer",
+   "last_words": "Strike here! Level your rage against the womb which gave birth to such a monster.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
+   "born": "6 November 15"
+  },
+  {
+   "year": 1879,
+   "year_label": "1879",
+   "name": "Eduardo Abaroa",
+   "kind": "individual",
+   "desc": "Bolivian hero of the War of the Pacific",
+   "cause": "responding to Chilean forces asking him to surrender",
+   "last_words": "Surrender? Your grandmother should surrender, you bastard!",
+   "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Abaroa",
+   "born": "13 October 1837"
+  },
+  {
+   "year": 1927,
+   "year_label": "1927",
+   "name": "Lala",
+   "kind": "individual",
+   "desc": "VC, Indian World War I Victoria Cross recipient",
+   "cause": "dying of polio",
+   "last_words": "We fought true.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lala_(VC)",
+   "born": "20 April 1876"
+  },
+  {
+   "year": 1931,
+   "year_label": "1931",
+   "name": "Bhagat Singh",
+   "kind": "individual",
+   "desc": "Indian revolutionary and Socialist, founder of Hindustan Socialist republican association",
+   "cause": null,
+   "last_words": "Long live Revolution",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Singh",
+   "born": "28 September 1907"
+  },
+  {
+   "year": 1961,
+   "year_label": "1961",
+   "name": "Valentin Bondarenko",
+   "kind": "individual",
+   "desc": "Soviet cosmonaut",
+   "cause": "fatally burned in altitude chamber fire",
+   "last_words": "Too much pain....Do something, please...to kill the pain.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Valentin_Bondarenko",
+   "born": "16 February 1937"
+  },
+  {
+   "year": 1994,
+   "year_label": "1994",
+   "name": "75 people on board Aeroflot Flight 593",
+   "kind": "group",
+   "desc": null,
+   "cause": "Relief captain Yaroslav Kudrinsky brought his two teenaged children to the cockpit of an Airbus A310 during an international passenger flight and allowed them to sit at the controls. His 15-year-old son unknowingly disengaged the autopilot; the aircraft was sent into a nosedive and crashed, with all occupants killed on impact.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Aeroflot_Flight_593",
+   "born": null
+  }
+ ],
+ "born": [
+  {
+   "year": 1749,
+   "year_label": "1749",
+   "name": "Pierre-Simon Laplace",
+   "kind": "individual",
+   "desc": "French scholar and polymath",
+   "cause": null,
+   "last_words": "What we know is little; what we are ignorant of is immense.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Simon_Laplace",
+   "died": "5 March 1827"
+  },
+  {
+   "year": 1921,
+   "year_label": "1921",
+   "name": "Donald Campbell",
+   "kind": "individual",
+   "desc": "British racer",
+   "cause": "just before fatal crash of Bluebird K7 hydroplane while trying to set new world water speed record",
+   "last_words": "The water's dark green and I can't see a bloody thing. Hallo the bow is up. I'm going. I'm on my back. I'm gone.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Donald_Campbell",
+   "died": "4 January 1967"
+  }
+ ]
+}

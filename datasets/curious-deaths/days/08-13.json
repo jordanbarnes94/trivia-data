@@ -1,0 +1,95 @@
+{
+ "date": "08-13",
+ "died": [
+  {
+   "year": 363,
+   "year_label": "363",
+   "name": "Cassian of Imola",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The pious schoolteacher was sentenced to death by Julian the Apostate and was handed over to his pupils to carry out the deed, which they did by binding him to a stake and stabbing him with their pens.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Cassian_of_Imola",
+   "born": null
+  },
+  {
+   "year": 1667,
+   "year_label": "1667",
+   "name": "Jeremy Taylor",
+   "kind": "individual",
+   "desc": "Anglican divine",
+   "cause": null,
+   "last_words": "My trust is in God.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Taylor",
+   "born": "15 August 1613"
+  },
+  {
+   "year": 1831,
+   "year_label": "1831",
+   "name": "Dic Penderyn",
+   "kind": "individual",
+   "desc": "Welsh laborer and coal miner",
+   "cause": "prior to execution by hanging for the non-fatal stabbing of a soldier during the Merthyr Rising. Another man confessed to the stabbing on his deathbed in 1874",
+   "last_words": "Oh God, what an injustice.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Dic_Penderyn",
+   "born": null
+  },
+  {
+   "year": 1946,
+   "year_label": "1946",
+   "name": "H. G. Wells",
+   "kind": "individual",
+   "desc": "English author and futurist",
+   "cause": null,
+   "last_words": "Go away. I'm all right.",
+   "wikipedia": "https://en.wikipedia.org/wiki/H._G._Wells",
+   "born": "21 September 1866"
+  },
+  {
+   "year": 1958,
+   "year_label": "1958",
+   "name": "Jack Cole",
+   "kind": "individual",
+   "desc": "American cartoonist, creator of Plastic Man",
+   "cause": "in his suicide note to Hugh Hefner",
+   "last_words": "Dear Hef, When you read this I shall be dead. I cannot go on living with myself and hurting those dear to me. What I do has nothing to do with you.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Cole_(artist)",
+   "born": "14 December 1914"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Hayato Ikeda",
+   "kind": "individual",
+   "desc": "former Prime Minister of Japan",
+   "cause": "a message to Kakuei Tanaka, former Secretary General of Liberal Democratic Party (Japan)",
+   "last_words": "″Front, your time and Kakuei Tanaka's era will come eventually. Politics must not be pampering to the people. I'll leave the rest to you.″",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hayato_Ikeda",
+   "born": "3 December 1899"
+  }
+ ],
+ "born": [
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "Alfred Hitchcock",
+   "kind": "individual",
+   "desc": "KBE, English filmmaker",
+   "cause": null,
+   "last_words": "One never knows the ending. One has to die to know exactly what happens after death, although Catholics have their hopes.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Hitchcock",
+   "died": "29 April 1980"
+  },
+  {
+   "year": 1938,
+   "year_label": "1938",
+   "name": "Bill Masterton",
+   "kind": "individual",
+   "desc": "Canadian American ice hockey player",
+   "cause": "after sustaining fatal head injury in NHL game",
+   "last_words": "Never again, never again.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Bill_Masterton",
+   "died": "15 January 1968"
+  }
+ ]
+}

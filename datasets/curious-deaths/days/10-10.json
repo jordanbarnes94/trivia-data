@@ -1,0 +1,84 @@
+{
+ "date": "10-10",
+ "died": [
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Karl August Varnhagen von Ense",
+   "kind": "individual",
+   "desc": "German biographer, diplomat and soldier",
+   "cause": "playing chess with his young niece",
+   "last_words": "I lost.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense",
+   "born": "21 February 1785"
+  },
+  {
+   "year": 1872,
+   "year_label": "1872",
+   "name": "William H. Seward",
+   "kind": "individual",
+   "desc": "United States Secretary of State",
+   "cause": "when asked if he had any final words",
+   "last_words": "Nothing, only 'love one another'.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_H._Seward",
+   "born": "16 May 1801"
+  },
+  {
+   "year": 1911,
+   "year_label": "1911",
+   "name": "Jack Daniel",
+   "kind": "individual",
+   "desc": "American alcohol businessman",
+   "cause": null,
+   "last_words": "One last drink, please.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Daniel",
+   "born": "5 September 1849"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "Édith Piaf",
+   "kind": "individual",
+   "desc": "French singer-songwriter",
+   "cause": "to her sister",
+   "last_words": "All the damn fool things you do in life you pay for.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Édith_Piaf",
+   "born": "19 December 1915"
+  }
+ ],
+ "born": [
+  {
+   "year": 1332,
+   "year_label": "1332",
+   "name": "Charles II of Navarre",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The contemporary chronicler Froissart relates that the king of Navarre, known as \"Charles the Bad\", suffering from illness in old age, was ordered by his physician to be tightly sewn into a linen sheet soaked in distilled spirits. The highly flammable sheet accidentally caught fire, and he later died of his injuries.",
+   "last_words": null,
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_Navarre",
+   "died": "1 January 1387"
+  },
+  {
+   "year": 1834,
+   "year_label": "1834",
+   "name": "Aleksis Kivi",
+   "kind": "individual",
+   "desc": "Finnish author and poet",
+   "cause": null,
+   "last_words": "I live.",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aleksis_Kivi",
+   "died": "31 December 1872"
+  },
+  {
+   "year": 1851,
+   "year_label": "1851",
+   "name": "William Robertson Nicoll",
+   "kind": "individual",
+   "desc": "Scottish minister and writer",
+   "cause": null,
+   "last_words": "I believe everything I have written about immortality.",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Robertson_Nicoll",
+   "died": "4 May 1923"
+  }
+ ]
+}
