@@ -9,8 +9,10 @@
    "desc": "Irish revolutionary",
    "cause": "when told a wound in his throat would reopen and cause him to bleed to death if he spoke. Tone died in prison under unclear circumstances (possibly suicide) while awaiting execution by hanging",
    "last_words": "I can yet find words to thank you, sir; it is the most welcome news you could give me. What should I wish to live for?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wolfe_Tone",
-   "born": "20 June 1763"
+   "born": "20 June 1763",
+   "died": "19 November 1798"
   },
   {
    "year": 1828,
@@ -20,8 +22,10 @@
    "desc": "Austrian composer",
    "cause": null,
    "last_words": "Here, here is my end.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert",
-   "born": "31 January 1797"
+   "born": "31 January 1797",
+   "died": "19 November 1828"
   },
   {
    "year": 1915,
@@ -31,8 +35,10 @@
    "desc": "Swedish-American labor activist",
    "cause": "Hill shouted these words after Deputy Shettler, who led his firing squad, called out the sequence of commands preparatory to firing (\"Ready, aim\")",
    "last_words": "Fire – go on and fire!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Hill_(activist)",
-   "born": "7 October 1879"
+   "born": "7 October 1879",
+   "died": "19 November 1915"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": null,
    "cause": "asking for his executioner to await his signal before beheading him",
    "last_words": "Stay for the sign.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_England",
    "died": "30 January 1649"
   },
@@ -55,6 +62,7 @@
    "desc": "American surveyor, soldier and militia officer",
    "cause": "dying after a stroke",
    "last_words": "Come on my brave boys! St. Vin.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Rogers_Clark",
    "died": "13 February 1818"
   },
@@ -66,6 +74,7 @@
    "desc": "American politician, clergyman and author",
    "cause": null,
    "last_words": "Peace!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alden_Bradford",
    "died": "26 October 1843"
   },
@@ -77,8 +86,21 @@
    "desc": "president of the United States",
    "cause": "to General David G. Swaim",
    "last_words": "Oh, Swaim, this terrible pain. Press your hand on it. Oh, Swaim. Oh, Swaim, can't you stop this?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_A._Garfield",
    "died": "19 September 1881"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "Richard A. Loeb",
+   "kind": "individual",
+   "desc": "American murderer",
+   "cause": "after being slashed 56 times with a razor in a prison fight",
+   "last_words": "I think I'm going to make it.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_A._Loeb",
+   "died": "28 January 1936"
   },
   {
    "year": 1917,
@@ -88,6 +110,7 @@
    "desc": "Indian politician and stateswoman",
    "cause": "prior to her assassination",
    "last_words": "Namaste...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Indira_Gandhi",
    "died": "31 October 1984"
   },
@@ -99,6 +122,7 @@
    "desc": "American child murder victim",
    "cause": "when asked if she wanted to be \"reborn\" by her murderers",
    "last_words": "No.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Candace_Newmaker",
    "died": "18 April 2000"
   }

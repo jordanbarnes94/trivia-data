@@ -9,8 +9,10 @@
    "desc": "Turco-Mongol conqueror, founder of the Timurid Empire",
    "cause": null,
    "last_words": "Never yet has death been frightened away by screaming.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Timur",
-   "born": "9 April 1336"
+   "born": "9 April 1336",
+   "died": "19 February 1405"
   },
   {
    "year": 1790,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "upon reading his death warrant",
    "last_words": "I see that you have made three spelling mistakes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_de_Mahy,_Marquis_de_Favras",
-   "born": "26 March 1744"
+   "born": "26 March 1744",
+   "died": "19 February 1790"
   },
   {
    "year": 1917,
@@ -31,8 +35,10 @@
    "desc": "United States Army general and Medal of Honor recipient",
    "cause": "while listening to an orchestra play \"The Blue Danube\" waltz in the lobby of The St. Anthony Hotel in San Antonio, Texas. He then collapsed from a heart attack",
    "last_words": "How beautiful it all is.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Funston",
-   "born": "11 September 1865"
+   "born": "11 September 1865",
+   "died": "19 February 1917"
   },
   {
    "year": 1945,
@@ -42,8 +48,10 @@
    "desc": "United States Marine Corps Gunnery Sergeant and Medal of Honor recipient",
    "cause": "prior to being killed at the Battle of Iwo Jima",
    "last_words": "C'mon you guys! Let's get these guns off the beach.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Basilone",
-   "born": "4 November 1916"
+   "born": "4 November 1916",
+   "died": "19 February 1945"
   },
   {
    "year": 1951,
@@ -53,8 +61,10 @@
    "desc": "French author",
    "cause": null,
    "last_words": "It is well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/André_Gide",
-   "born": "22 November 1869"
+   "born": "22 November 1869",
+   "died": "19 February 1951"
   },
   {
    "year": 1994,
@@ -64,8 +74,10 @@
    "desc": "English film director, stage designer and author",
    "cause": null,
    "last_words": "I want the world to be filled with white fluffy duckies.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Jarman",
-   "born": "31 January 1942"
+   "born": "31 January 1942",
+   "died": "19 February 1994"
   },
   {
    "year": 1994,
@@ -75,8 +87,10 @@
    "desc": null,
    "cause": "The 31-year-old died from kidney failure related to her cervical cancer at the emergency room of Riverside General Hospital in Riverside, California. While treating her, several of the hospital staff became ill, suffering from loss of consciousness, shortness of breath, and muscle spasms. Shortly before dying, she was allegedly covered with an oily sheen, which smelled of fruit and garlic.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Gloria_Ramirez",
-   "born": "11 January 1963"
+   "born": "11 January 1963",
+   "died": "19 February 1994"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "mathematician and astronomer",
    "cause": "paraphrasing Luke 2:29 KJV",
    "last_words": "Now, O Lord, set thy servant free.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
    "died": "24 May 1543"
   },
@@ -99,6 +114,7 @@
    "desc": null,
    "cause": "when asked if he was in pain",
    "last_words": "I would say 'somewhat,' but I cannot utter it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Frederick,_Prince_of_Wales",
    "died": "6 November 1612"
   },
@@ -110,6 +126,7 @@
    "desc": "English actor, playwright, theatre manager and producer",
    "cause": null,
    "last_words": "Oh, dear!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_Garrick",
    "died": "20 January 1779"
   },
@@ -121,6 +138,7 @@
    "desc": "fifth Chief Justice of the Philippines, Acting President of the Commonwealth of the Philippines",
    "cause": "bidding farewell to his son Pepito prior to execution by occupying Japanese forces. Abad Santos subsequently refused to be blindfolded for his execution and he declined the final cigarette which was offered to him",
    "last_words": "Take good care of your mother, your brother, and sisters. Tell them to live up to our name. God bless you, my son.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/José_Abad_Santos",
    "died": "2 May 1942"
   }

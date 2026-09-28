@@ -9,8 +9,10 @@
    "desc": "English surgeon",
    "cause": null,
    "last_words": "Is there anybody in the room?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Abernethy_(surgeon)",
-   "born": "3 April 1764"
+   "born": "3 April 1764",
+   "died": "20 April 1831"
   },
   {
    "year": 1933,
@@ -20,8 +22,10 @@
    "desc": "Australian aviator",
    "cause": "final note written on fuel card while dying after crash in Sahara Desert",
    "last_words": "So the beginning of the eighth day has dawned. It is still cool. I have no water....I am waiting patiently. Come soon please. Fever wracked me last night. Hope you get my full log. Bill.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Lancaster_(aviator)",
-   "born": "14 February 1898"
+   "born": "14 February 1898",
+   "died": "20 April 1933"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "Prophet of God in Islam",
    "cause": null,
    "last_words": "Oh God, the Friend Most High!\" or \"The prayer, the prayer! And fear Allah with regard to those whom your right hands possess",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad",
    "died": "8 June 632"
   },
@@ -44,6 +49,7 @@
    "desc": "American missionary to the Native Americans",
    "cause": "quoting Luke 2:29",
    "last_words": "Lord, now let thy servant depart in peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_Brainerd",
    "died": "9 October 1747"
   },
@@ -55,6 +61,7 @@
    "desc": "American Congregational minister and theologian",
    "cause": null,
    "last_words": "I am ready.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nathanael_Emmons",
    "died": "23 September 1840"
   },
@@ -66,6 +73,7 @@
    "desc": "Emperor of the French",
    "cause": "speaking to his doctor, Henri Conneau",
    "last_words": "We were not cowards at Sedan, were we?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Napoleon_III",
    "died": "9 January 1873"
   },
@@ -77,6 +85,7 @@
    "desc": "Union general of the American Civil War",
    "cause": "mortally wounded at the Battle of South Mountain",
    "last_words": "Yes, yes, I'm dead-good-by!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_L._Reno",
    "died": "14 September 1862"
   },
@@ -88,6 +97,7 @@
    "desc": "VC, Indian World War I Victoria Cross recipient",
    "cause": "dying of polio",
    "last_words": "We fought true.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lala_(VC)",
    "died": "23 March 1927"
   },
@@ -99,6 +109,7 @@
    "desc": "German Nazi statesman",
    "cause": "closing his last will before committing joint suicide with his wife Eva",
    "last_words": "Above all, I charge the leadership of the nation and their followers with the strict observance of the racial laws and with merciless resistance against the universal poisoners of all peoples, international Jewry.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Hitler",
    "died": "30 April 1945"
   },
@@ -110,6 +121,7 @@
    "desc": "United States Army Roman Catholic chaplain and Medal of Honor recipient",
    "cause": "dying in prisoner of war camp during the Korean War",
    "last_words": "As you see, I am crying too, not tears of pain but tears of joy, because I'll be with my God in a short time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Kapaun",
    "died": "23 May 1951"
   }

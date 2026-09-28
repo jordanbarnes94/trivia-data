@@ -9,8 +9,10 @@
    "desc": "Portuguese author",
    "cause": "addressing his friend Francisco",
    "last_words": "I no longer see you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Almeida_Garrett",
-   "born": "4 February 1799"
+   "born": "4 February 1799",
+   "died": "9 December 1854"
   }
  ],
  "born": [
@@ -22,6 +24,7 @@
    "desc": null,
    "cause": "mortally wounded at the Battle of Lützen (1632)",
    "last_words": "I have enough, brother; try to save your own life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden",
    "died": "16 November 1632"
   },
@@ -33,6 +36,7 @@
    "desc": "English poet and intellectual",
    "cause": null,
    "last_words": "Death is the great key that opens the palace of Eternity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Milton",
    "died": "8 November 1674"
   },
@@ -44,6 +48,7 @@
    "desc": "British lawyer and politician",
    "cause": null,
    "last_words": "I'll be shot if I don't believe I'm dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Thurlow,_1st_Baron_Thurlow",
    "died": "12 September 1806"
   },
@@ -55,6 +60,7 @@
    "desc": "American author and folklorist",
    "cause": "on being asked how he felt",
    "last_words": "I am about the extent of a tenth of a gnat's eyebrow better.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joel_Chandler_Harris",
    "died": "3 July 1908"
   },
@@ -66,6 +72,7 @@
    "desc": "American operatic soprano",
    "cause": "dying of pneumonia",
    "last_words": "I am not afraid to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Abbott",
    "died": "5 January 1891"
   },
@@ -77,6 +84,7 @@
    "desc": "Anglo-Australian military officer and war criminal",
    "cause": "to his firing squad",
    "last_words": "Shoot straight, you bastards. Don't make a mess of it!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Breaker_Morant",
    "died": "27 February 1902"
   }

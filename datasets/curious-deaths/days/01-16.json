@@ -9,8 +9,10 @@
    "desc": "English historian and Member of Parliament",
    "cause": null,
    "last_words": "My God! My God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Gibbon",
-   "born": "8 May 1737"
+   "born": "8 May 1737",
+   "died": "16 January 1794"
   },
   {
    "year": 1809,
@@ -20,8 +22,10 @@
    "desc": "British Army general",
    "cause": "mortally wounded at the Battle of Corunna. Moore then spoke of his mother and some other people, including Lady Hester Stanhope, before dying",
    "last_words": "It is a great satisfaction to me to know we have beaten the French. I hope the people of England will be satisfied. I hope my country will do me justice.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Moore_(British_Army_officer)",
-   "born": "13 November 1761"
+   "born": "13 November 1761",
+   "died": "16 January 1809"
   },
   {
    "year": 1935,
@@ -31,8 +35,10 @@
    "desc": "American mother of criminals",
    "cause": "to her son, Fred Barker, prior to their deaths in a shootout with the FBI",
    "last_words": "All right! Go ahead!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ma_Barker",
-   "born": "8 October 1873"
+   "born": "8 October 1873",
+   "died": "16 January 1935"
   },
   {
    "year": 1935,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 80-year-old woman in Armidale, New South Wales, was sitting with her daughter when she fell back dead after hearing a loud clap of thunder. Her last words were, \"That was very close.\"",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "16 January 1935"
   },
   {
    "year": 1936,
@@ -53,8 +61,10 @@
    "desc": "American serial killer, child rapist and cannibal",
    "cause": "prior to execution by electrocution",
    "last_words": "What a thrill it will be to die in the electric chair... the supreme thrill, the only one I haven't tried.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Fish",
-   "born": "19 May 1870"
+   "born": "19 May 1870",
+   "died": "16 January 1936"
   },
   {
    "year": 1968,
@@ -64,8 +74,10 @@
    "desc": "American evangelist, founder of Bob Jones University",
    "cause": "to his wife before entering semi-coma",
    "last_words": "Mary Gaston, get my shoes; I must go to preach.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Jones_Sr.",
-   "born": "30 October 1883"
+   "born": "30 October 1883",
+   "died": "16 January 1968"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English poet",
    "cause": "unable to remember what he wanted to say to his keeper at Bristol Newgate Prison. The keeper found Savage dead the next morning",
    "last_words": "I have something to say to you, sir... 'Tis gone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Savage_(poet)",
    "died": "1 August 1743"
   },
@@ -88,6 +101,7 @@
    "desc": "Italian dramatist and poet",
    "cause": "to Princess Louise of Stolberg-Gedern",
    "last_words": "Clasp my hand, my dear friend, I die!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vittorio_Alfieri",
    "died": "8 October 1803"
   },
@@ -99,6 +113,7 @@
    "desc": "American playwright and actor",
    "cause": "to one of his nieces",
    "last_words": "My dear, before you kiss me goodbye, fix your hair. It's a mess.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Kelly_(playwright)",
    "died": "18 June 1974"
   }

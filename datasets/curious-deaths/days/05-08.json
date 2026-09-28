@@ -9,8 +9,10 @@
    "desc": "Church of England clergyman and writer",
    "cause": null,
    "last_words": "Brother, brother, strong evidences, nothing but strong evidences will do in such an hour as this. I have looked here and looked there for them, and all have failed me, and so I cast myself on the sovereign, free and full grace of God in the covenant by Jesus Christ; and there, brother, there I have found peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Legh_Richmond",
-   "born": "29 January 1772"
+   "born": "29 January 1772",
+   "died": "8 May 1827"
   }
  ],
  "born": [
@@ -22,6 +24,7 @@
    "desc": "Bishop of London and abolitionist",
    "cause": null,
    "last_words": "O, that glorious sun!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Beilby_Porteus",
    "died": "13 May 1809"
   },
@@ -33,6 +36,7 @@
    "desc": "English historian and Member of Parliament",
    "cause": null,
    "last_words": "My God! My God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Gibbon",
    "died": "16 January 1794"
   },
@@ -44,6 +48,7 @@
    "desc": "American multimillionaire",
    "cause": null,
    "last_words": "I have had no real gratification or enjoyment of any sort more than my neighbor on the next block who is worth only half a million.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Vanderbilt",
    "died": "8 December 1885"
   },
@@ -55,6 +60,7 @@
    "desc": "American neurologist",
    "cause": null,
    "last_words": "I should like to record the thoughts of a dying man for the benefit of science, but it is impossible.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Miller_Beard",
    "died": "23 January 1883"
   }

@@ -9,8 +9,10 @@
    "desc": "German knight and Protestant leader",
    "cause": "when his chaplain asked if he wanted to confess prior to his death defending his castle",
    "last_words": "I have already confessed my sins to God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Franz_von_Sickingen",
-   "born": "2 March 1481"
+   "born": "2 March 1481",
+   "died": "7 May 1523"
   },
   {
    "year": 1815,
@@ -20,30 +22,10 @@
    "desc": "English Particular Baptist minister and theologian",
    "cause": "to a young minister",
    "last_words": "I have no religious joys; but I have a hope, in the strength of which I think I could plunge into eternity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fuller",
-   "born": "6 February 1754"
-  },
-  {
-   "year": 1915,
-   "year_label": "1915",
-   "name": "Charles Frohman",
-   "kind": "individual",
-   "desc": "American theater manager and producer",
-   "cause": "paraphrasing Peter Pan prior to dying in the sinking of the RMS Lusitania",
-   "last_words": "Why fear death? Death is only a beautiful adventure.",
-   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Frohman",
-   "born": "15 July 1856"
-  },
-  {
-   "year": 1915,
-   "year_label": "1915",
-   "name": "Elbert Hubbard",
-   "kind": "individual",
-   "desc": "American writer and publisher",
-   "cause": "prior to dying with his wife in the sinking of the RMS Lusitania",
-   "last_words": "Well, they [German Empire] have got us. They are a damn sight worse than I ever thought they were.",
-   "wikipedia": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
-   "born": "19 June 1856"
+   "born": "6 February 1754",
+   "died": "7 May 1815"
   },
   {
    "year": 1915,
@@ -53,8 +35,36 @@
    "desc": "American feminist and writer",
    "cause": "on her husband being asked \"What are you going to do?\" prior to the sinking of the RMS Lusitania",
    "last_words": "There does not seem to be anything to do.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Moore_Hubbard",
-   "born": "7 June 1861"
+   "born": "7 June 1861",
+   "died": "7 May 1915"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Charles Frohman",
+   "kind": "individual",
+   "desc": "American theater manager and producer",
+   "cause": "paraphrasing Peter Pan prior to dying in the sinking of the RMS Lusitania",
+   "last_words": "Why fear death? Death is only a beautiful adventure.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Frohman",
+   "born": "15 July 1856",
+   "died": "7 May 1915"
+  },
+  {
+   "year": 1915,
+   "year_label": "1915",
+   "name": "Elbert Hubbard",
+   "kind": "individual",
+   "desc": "American writer and publisher",
+   "cause": "prior to dying with his wife in the sinking of the RMS Lusitania",
+   "last_words": "Well, they [German Empire] have got us. They are a damn sight worse than I ever thought they were.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
+   "born": "19 June 1856",
+   "died": "7 May 1915"
   },
   {
    "year": 1917,
@@ -64,8 +74,10 @@
    "desc": "VC DSO2 MC, British World War I fighter ace",
    "cause": "said to a member of his ground crew before dying in a flying accident",
    "last_words": "I don't think so, I don't think so.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Ball",
-   "born": "14 August 1896"
+   "born": "14 August 1896",
+   "died": "7 May 1917"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Polish general and Marshal of the Empire",
    "cause": "While he was covering the French Army's retreat during the Battle of Leipzig, French forces prematurely blew up the only bridge over the White Elster before Poniatowski could reach it",
    "last_words": "Gentlemen, it behoves us now to die with honour.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Józef_Poniatowski",
    "died": "19 October 1813"
   },
@@ -88,6 +101,7 @@
    "desc": "German composer",
    "cause": "after being given a glass of wine",
    "last_words": "Ah, that tastes nice. Thank you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Brahms",
    "died": "3 April 1897"
   },
@@ -99,6 +113,7 @@
    "desc": "Canadian-American professional wrestler",
    "cause": "being interviewed on camera prior to fatal fall into ring at Over the Edge (1999) The 34-year-old Canadian professional wrestler fell to his death during the World Wrestling Federation's Over the Edge pay-per-view event. He was supposed to be lowered into the ring from the rafters as part of his Blue Blazer persona's entrance, but the equipment lowering him into the ring malfunctioned, causing him to fall 78 ft and land chest-first on the top rope. The impact severed his aorta, causing death within minutes.",
    "last_words": "Oooh, the Godfather, just saying his name makes my blue blood boil. OHHH! The Godfather, my arch nemesis, he represents everything that's wrong with the WWF. But fear not, because I, the Blue Blazer, will always triumph over evil doers, and you know why, because I always take my vitamins, say my prayers, and drink my milk, WHOOO!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Hart",
    "died": "23 May 1999"
   }

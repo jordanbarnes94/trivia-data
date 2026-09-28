@@ -9,8 +9,10 @@
    "desc": "French chef",
    "cause": "to a pupil",
    "last_words": "My boy, the quenelles de sole were splendid, but the peas were poor. You should shake the pan gently, all the time, like this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie-Antoine_Carême",
-   "born": "8 June 1784"
+   "born": "8 June 1784",
+   "died": "12 January 1833"
   },
   {
    "year": 1871,
@@ -20,8 +22,10 @@
    "desc": "English churchman",
    "cause": "requesting that the Archdeacon participate in his funeral",
    "last_words": "Will you tell the Archdeacon?– will you move a vote of thanks for his kindness in performing the ceremony?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Alford_(theologian)",
-   "born": "7 October 1810"
+   "born": "7 October 1810",
+   "died": "12 January 1871"
   },
   {
    "year": 1998,
@@ -31,8 +35,10 @@
    "desc": "American sheriff's deputy",
    "cause": "while being shot to death by Andrew Howard Brannan",
    "last_words": "Shoot, shoot, stop now!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kyle_Dinkheller",
-   "born": "18 June 1975"
+   "born": "18 June 1975",
+   "died": "12 January 1998"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Irish statesman and philosopher",
    "cause": null,
    "last_words": "God bless you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Burke",
    "died": "9 July 1797"
   },
@@ -55,8 +62,21 @@
    "desc": "Baltic German Nazi theorist and ideologue",
    "cause": "when asked if he had anything to say prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
    "last_words": "No.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Rosenberg",
    "died": "16 October 1946"
+  },
+  {
+   "year": 1910,
+   "year_label": "1910",
+   "name": "Tony Morabito",
+   "kind": "individual",
+   "desc": "founder of the San Francisco 49ers",
+   "cause": "to the priest who gave him final absolution",
+   "last_words": "Thank you father.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tony_Morabito",
+   "died": "27 October 1957"
   }
  ]
 }

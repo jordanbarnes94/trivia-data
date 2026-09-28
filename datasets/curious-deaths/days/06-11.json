@@ -9,8 +9,10 @@
    "desc": "conqueror and king of Macedonia",
    "cause": "when asked to whom his vast empire should belong after his death",
    "last_words": "To the strongest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_the_Great",
-   "born": "20 July 356 BC"
+   "born": "20 July 356 BC",
+   "died": "11 June 323 BC"
   },
   {
    "year": 1709,
@@ -20,8 +22,10 @@
    "desc": "Italian Roman Catholic cardinal",
    "cause": null,
    "last_words": "I wish to die sitting, in tribute to the most worshipful will of my good and precious Jesus.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marcello_d'Aste",
-   "born": "21 July 1657"
+   "born": "21 July 1657",
+   "died": "11 June 1709"
   },
   {
    "year": 1936,
@@ -31,8 +35,10 @@
    "desc": "American author and creator of Conan the Barbarian",
    "cause": "his suicide note, a quotation from \"The House of Cæsar\" by Viola Garvin",
    "last_words": "All fled, all done, so lift me on the pyre. The feast is over, and the lamps expire.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Howard",
-   "born": "22 January 1906"
+   "born": "22 January 1906",
+   "died": "11 June 1936"
   },
   {
    "year": 1963,
@@ -42,8 +48,10 @@
    "desc": "Vietnamese Mahayana Buddhist monk",
    "cause": "prior to self-immolation",
    "last_words": "vi \"Nam mô A Di Đà Phật\" homage to Amitābha",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thích_Quảng_Đức",
-   "born": null
+   "born": null,
+   "died": "11 June 1963"
   },
   {
    "year": 1979,
@@ -53,8 +61,10 @@
    "desc": "American actor",
    "cause": "to his daughter, Aissa Wayne, who had asked if he knew who she was",
    "last_words": "Of course I know who you are. You're my girl. I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne",
-   "born": "26 May 1907"
+   "born": "26 May 1907",
+   "died": "11 June 1979"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "American physician and Patriot",
    "cause": "mortally wounded at the Battle of Bunker Hill",
    "last_words": "I am a dead man: fight on, my brave fellows, for the salvation of your country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Warren",
    "died": "17 June 1775"
   },
@@ -77,6 +88,7 @@
    "desc": "German composer and conductor",
    "cause": "holding a copy of Mozart's Clarinet Concerto",
    "last_words": "I would give anything just to have written this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Strauss",
    "died": "8 September 1949"
   },
@@ -88,8 +100,21 @@
    "desc": "Italian immigrant anarchist",
    "cause": "prior to execution by electrocution",
    "last_words": "I wish to forgive some people for what they are now doing to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bartolomeo_Vanzetti",
    "died": "23 August 1927"
+  },
+  {
+   "year": 1908,
+   "year_label": "1908",
+   "name": "Saint Francisco Marto",
+   "kind": "individual",
+   "desc": "Portuguese Marian mysticist",
+   "cause": "to his cousin Lúcia",
+   "last_words": "Goodbye, until Heaven!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francisco_and_Jacinta_Marto",
+   "died": "4 April 1919"
   },
   {
    "year": 1913,
@@ -99,8 +124,21 @@
    "desc": "American football coach",
    "cause": "to his wife",
    "last_words": "Happy anniversary. I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vince_Lombardi",
    "died": "3 September 1970"
+  },
+  {
+   "year": 1980,
+   "year_label": "1980",
+   "name": "Azaria Chamberlain",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The 9-week-old infant was dragged off and killed by a wild dingo during a family camping trip to Uluru in the Northern Territory. This was the first recorded instance of a dingo killing a human. Azaria's parents, Lindy and Michael Chamberlain, received intense media speculation due to the perceived implausibility of a dingo attack; in a highly-publicized trial, Lindy was convicted of murder and Michael named as an accessory. Their convictions were later overturned after Azaria's matinee jacket was discovered in an area with many dingo lairs nearby.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Azaria_Chamberlain",
+   "died": "17 August 1980"
   }
  ]
 }

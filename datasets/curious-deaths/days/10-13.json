@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The French prince who co-ruled with Louis VI died while riding through Paris when his horse tripped over a black pig that was running out of a dung heap.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_France_(1116–1131)",
-   "born": "29 August 1116"
+   "born": "29 August 1116",
+   "died": "13 October 1131"
   },
   {
    "year": 1812,
@@ -20,8 +22,10 @@
    "desc": "KB, British Army officer",
    "cause": "mortally wounded at the Battle of Queenston Heights",
    "last_words": "Push on the York Volunteers.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Brock",
-   "born": "6 October 1769"
+   "born": "6 October 1769",
+   "died": "13 October 1812"
   },
   {
    "year": 1815,
@@ -31,8 +35,10 @@
    "desc": "King of Naples",
    "cause": "to his firing squad",
    "last_words": "Soldiers, save my face; aim at my heart. Farewell.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joachim_Murat",
-   "born": "25 March 1767"
+   "born": "25 March 1767",
+   "died": "13 October 1815"
   },
   {
    "year": 1974,
@@ -42,8 +48,10 @@
    "desc": "Soviet footballer",
    "cause": "trying to exit a stuck elevator before it began moving, crushing him to death",
    "last_words": "I don't want my jeans to get dirty...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anatoli_Kozhemyakin",
-   "born": "24 February 1953"
+   "born": "24 February 1953",
+   "died": "13 October 1974"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "Bolivian hero of the War of the Pacific",
    "cause": "responding to Chilean forces asking him to surrender",
    "last_words": "Surrender? Your grandmother should surrender, you bastard!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eduardo_Abaroa",
    "died": "23 March 1879"
   },
@@ -66,6 +75,7 @@
    "desc": "American comedian",
    "cause": "asking about the availability of drugs",
    "last_words": "Do you know where I can get any shit?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lenny_Bruce",
    "died": "3 August 1966"
   },
@@ -77,6 +87,7 @@
    "desc": "United States Naval Aviator",
    "cause": "mentioning his wife while trapped and dying in cockpit after being shot down during the Battle of Chosin Reservoir in the Korean War. Thomas J. Hudner Jr. received the Medal of Honor for his unsuccessful attempt to rescue Brown",
    "last_words": "Tell Daisy that I love her.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_L._Brown",
    "died": "4 December 1950"
   },
@@ -88,6 +99,7 @@
    "desc": null,
    "cause": "The 35-year-old electronic musician, better known as Kemistry, was a front-seat passenger in a car travelling on the M3 motorway in Hampshire, behind a van which dislodged a cat's eye in the road. The metal body flew through the windscreen hitting Olusanya in the face, killing her instantly.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kemistry",
    "died": "25 April 1999"
   }

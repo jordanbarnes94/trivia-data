@@ -9,8 +9,10 @@
    "desc": "queen regnant of England",
    "cause": null,
    "last_words": "All my possessions for a moment of time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
-   "born": "7 September 1533"
+   "born": "7 September 1533",
+   "died": "24 March 1603"
   },
   {
    "year": 1773,
@@ -20,8 +22,10 @@
    "desc": "British statesman and diplomat",
    "cause": "asking a servant to seat his godson, Solomon Dayrolles",
    "last_words": "Give Dayrolles a chair.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Stanhope,_4th_Earl_of_Chesterfield",
-   "born": "22 September 1694"
+   "born": "22 September 1694",
+   "died": "24 March 1773"
   },
   {
    "year": 1877,
@@ -31,8 +35,10 @@
    "desc": "British journalist, businessman and essayist",
    "cause": "declining help rearranging his pillows",
    "last_words": "Let me have my own fidgets.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Bagehot",
-   "born": "3 February 1826"
+   "born": "3 February 1826",
+   "died": "24 March 1877"
   },
   {
    "year": 1882,
@@ -42,8 +48,10 @@
    "desc": "American poet",
    "cause": "to his sister",
    "last_words": "Now I know that I must be very ill, since you have been sent for.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow",
-   "born": "27 February 1807"
+   "born": "27 February 1807",
+   "died": "24 March 1882"
   },
   {
    "year": 1909,
@@ -53,8 +61,10 @@
    "desc": "Irish author",
    "cause": null,
    "last_words": "It is no use fighting death any more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Millington_Synge",
-   "born": "16 April 1871"
+   "born": "16 April 1871",
+   "died": "24 March 1909"
   },
   {
    "year": 1975,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "After watching the \"Kung Fu Kapers\" episode of The Goodies, the resident of King's Lynn, Norfolk, laughed continuously for 25 minutes and then fell dead on his sofa from heart failure due to what doctors discovered years later, via his granddaughter, was a genetic condition called Long QT syndrome.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "24 March 1975"
   },
   {
    "year": 1980,
@@ -75,8 +87,10 @@
    "desc": "Salvadoran Roman Catholic prelate",
    "cause": "assassinated while giving a sermon",
    "last_words": "May God have mercy on the assassins.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Óscar_Romero",
-   "born": "15 August 1917"
+   "born": "15 August 1917",
+   "died": "24 March 1980"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "French aeronaut",
    "cause": "prior to lighting fireworks that ignited the gas in her balloon, causing it to crash and Blanchard to fall to her death",
    "last_words": "Let's go, this will be for the last time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Blanchard",
    "died": "6 July 1819"
   },
@@ -99,6 +114,7 @@
    "desc": "British textile designer, poet and socialist",
    "cause": "to his family doctor",
    "last_words": "I want to get mumbo-jumbo out of the world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Morris",
    "died": "3 October 1896"
   },
@@ -110,6 +126,7 @@
    "desc": null,
    "cause": "The 52-year-old Hungarian-American escape artist, illusionist, and stunt performer reportedly died from a punch from college student J. Gordon Whitehead, which gave him \"peritonitis, caused by a ruptured appendix.\" However, other stories claim he was murdered. Who or what killed Houdini is still under speculation.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Houdini",
    "died": "31 October 1926"
   }

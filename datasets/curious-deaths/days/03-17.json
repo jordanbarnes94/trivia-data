@@ -9,8 +9,10 @@
    "desc": "Roman emperor and philosopher",
    "cause": null,
    "last_words": "Go to the rising sun, for I am setting. Think more of death than of me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
-   "born": "26 April 121"
+   "born": "26 April 121",
+   "died": "17 March 180"
   },
   {
    "year": 1713,
@@ -20,8 +22,10 @@
    "desc": "Slovak highwayman known as \"the Slovak Robin Hood\"",
    "cause": "refusing to name fellow robbers prior to jumping onto the hook on which he was to be hung",
    "last_words": "If you have baked me so you also should eat me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Juraj_Jánošík",
-   "born": "25 January 1688"
+   "born": "25 January 1688",
+   "died": "17 March 1713"
   },
   {
    "year": 1912,
@@ -31,8 +35,10 @@
    "desc": "British army officer and Antarctic explorer",
    "cause": "prior to walking out of tent and into blizzard on Terra Nova Expedition",
    "last_words": "I am just going outside and may be some time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lawrence_Oates",
-   "born": "17 March 1880"
+   "born": "17 March 1880",
+   "died": "17 March 1912"
   },
   {
    "year": 1978,
@@ -42,8 +48,10 @@
    "desc": "American lifeguard and surfer",
    "cause": "leaving voyaging canoe Hōkūleʻa after it began leaking to paddle to shore for help. The rest of the canoe's crew were rescued",
    "last_words": "Don't worry, I can do it. I can get to land.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Aikau",
-   "born": "5 May 1946"
+   "born": "5 May 1946",
+   "died": "17 March 1978"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "French revolutionary and writer",
    "cause": "prior to execution by guillotine",
    "last_words": "Oh Liberty, what crimes are committed in thy name!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Madame_Roland",
    "died": "8 November 1793"
   },
@@ -66,6 +75,7 @@
    "desc": "Irish Anglican priest and author, father of Charlotte, Branwell, Emily and Anne Brontë",
    "cause": null,
    "last_words": "While there is life there is will.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Brontë",
    "died": "7 June 1861"
   },
@@ -77,6 +87,7 @@
    "desc": "American singer",
    "cause": "saying his wife's name to a hospital nurse",
    "last_words": "Maria.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nat_King_Cole",
    "died": "15 February 1965"
   },
@@ -88,6 +99,7 @@
    "desc": "American serial killer and sex offender",
    "cause": "prior to execution by lethal injection",
    "last_words": "Kiss my ass.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne_Gacy",
    "died": "10 May 1994"
   }

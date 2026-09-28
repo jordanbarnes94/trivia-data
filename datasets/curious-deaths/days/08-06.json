@@ -9,8 +9,10 @@
    "desc": "Castilian Catholic priest, founder of the Dominican Order, when asked where he wanted to be buried",
    "cause": null,
    "last_words": "Under the feet of my friars.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Dominic",
-   "born": null
+   "born": "8 August 1170",
+   "died": "6 August 1221"
   },
   {
    "year": 1661,
@@ -20,8 +22,10 @@
    "desc": "Abbess of the Abbey of Port-Royal",
    "cause": null,
    "last_words": "Jesus, oh Jesus, you are my God, my justice, my strength, my all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Angélique_Arnauld",
-   "born": "8 September 1591"
+   "born": "8 September 1591",
+   "died": "6 August 1661"
   },
   {
    "year": 1753,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "The Russian physicist was killed when a globe of ball lightning which he created in his laboratory struck him in the forehead.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann",
-   "born": "11 July 1711"
+   "born": "11 July 1711",
+   "died": "6 August 1753"
   },
   {
    "year": 1875,
@@ -42,8 +48,10 @@
    "desc": "President of Ecuador",
    "cause": null,
    "last_words": "God does not die!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_García_Moreno",
-   "born": "24 December 1821"
+   "born": "24 December 1821",
+   "died": "6 August 1875"
   },
   {
    "year": 1885,
@@ -53,8 +61,10 @@
    "desc": "Austrian mountain climber",
    "cause": "referring to route on south face of the Meije prior to falling to his death",
    "last_words": "It doesn't seem to go!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Zsigmondy",
-   "born": "11 August 1861"
+   "born": "11 August 1861",
+   "died": "6 August 1885"
   },
   {
    "year": 1959,
@@ -64,8 +74,10 @@
    "desc": "American playwright, screenwriter and film director",
    "cause": null,
    "last_words": "I should have had the pickle.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Preston_Sturges",
-   "born": "29 August 1898"
+   "born": "29 August 1898",
+   "died": "6 August 1959"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "French Roman Catholic archbishop, theologian and writer",
    "cause": "quoting Jesus",
    "last_words": "Not my will, but thine be done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Fénelon",
    "died": "7 January 1715"
   },
@@ -88,6 +101,7 @@
    "desc": "FRS, Poet Laureate of the United Kingdom",
    "cause": "He then blessed his wife and son",
    "last_words": "I have opened it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson",
    "died": "6 October 1892"
   },
@@ -99,6 +113,7 @@
    "desc": "American and Confederate politician and English barrister after the American Civil War",
    "cause": "in a letter",
    "last_words": "What I require is warmth-will it never come?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Judah_P._Benjamin",
    "died": "6 May 1884"
   },
@@ -110,6 +125,7 @@
    "desc": "French writer and diplomat",
    "cause": null,
    "last_words": "Doctor, do you think it could have been the sausage?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Claudel",
    "died": "23 February 1955"
   },
@@ -121,6 +137,7 @@
    "desc": "American mobster",
    "cause": "speaking in stream-of-consciousness babble after being shot",
    "last_words": "The Baron says these things. I know what I am doing here with my collection of papers. It isn't worth a nickel to two guys like you or me but to a collector it is worth a fortune. It is priceless. I am going to turn it over to... Turn your back to me, please Henry. I am so sick now. The police are getting many complaints. Look out. I want that G-note. Look out for Jimmy Valentine for he is an old pal of mine. Come on, come on, Jim. Ok, ok, I am all through. Can't do another thing. Look out mamma, look out for her. You can't beat him. Police, mamma, Helen, mother, please take me out. I will settle the indictment. Come on, open the soap duckets. The chimney sweeps. Talk to the sword. Shut up, you got a big mouth! Please help me up, Henry. Max, come over here. French-Canadian bean soup. I want to pay. Let them leave me alone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dutch_Schultz",
    "died": "24 October 1935"
   },
@@ -132,6 +149,7 @@
    "desc": "American actress, television producer and studio executive",
    "cause": "when asked if she wanted anything",
    "last_words": "My Florida water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucille_Ball",
    "died": "26 April 1989"
   }

@@ -9,8 +9,10 @@
    "desc": "Portuguese Catholic priest and Franciscan friar",
    "cause": null,
    "last_words": "I see my God. He calls me to Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_of_Padua",
-   "born": "15 August 1195"
+   "born": "15 August 1195",
+   "died": "13 June 1231"
   },
   {
    "year": 1776,
@@ -20,8 +22,10 @@
    "desc": "English psychiatrist",
    "cause": "to his caretaker",
    "last_words": "Young man, you have heard, no doubt, how great are the terrors of death. This night will probably afford you some experience; but you may learn, and may you profit by the example, that a conscientious endeavor to perform his duty through life will ever close a Christian's eyes with comfort and tranquility!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Battie",
-   "born": "1 September 1703"
+   "born": "1 September 1703",
+   "died": "13 June 1776"
   },
   {
    "year": 1930,
@@ -31,8 +35,10 @@
    "desc": "British land speed and water speed record pioneer",
    "cause": "mortally injured in crash of Miss England II. He was asking his wife about the fates of his chief engineer (who was killed) and his mechanic (who survived), and whether they had broken the water speed record (they had)",
    "last_words": "How are the lads? Did we do it?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Segrave",
-   "born": "22 September 1896"
+   "born": "22 September 1896",
+   "died": "13 June 1930"
   },
   {
    "year": 1981,
@@ -42,8 +48,10 @@
    "desc": "Italian child",
    "cause": "moments before he died after falling in a well",
    "last_words": "Mama!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfredo_Rampi",
-   "born": "11 April 1975"
+   "born": "11 April 1975",
+   "died": "13 June 1981"
   },
   {
    "year": 1986,
@@ -53,8 +61,10 @@
    "desc": "American clarinetist",
    "cause": "to his friend Carol Smith, who discovered him pale and slumped on his couch after suffering an apparent heart attack",
    "last_words": "Don't worry. It's all right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benny_Goodman",
-   "born": "30 May 1909"
+   "born": "30 May 1909",
+   "died": "13 June 1986"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "United States Army general",
    "cause": null,
    "last_words": "James, take good care of the horses.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Winfield_Scott",
    "died": "29 May 1866"
   },
@@ -77,6 +88,7 @@
    "desc": "English educator and historian",
    "cause": "to his physician, who had described his serious prognosis and treatment",
    "last_words": "Ah, very well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Arnold",
    "died": "12 June 1842"
   },
@@ -88,6 +100,7 @@
    "desc": "Irish poet and dramatist",
    "cause": null,
    "last_words": "You can refute Hegel, but not the Saint or the Song of Sixpence.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._B._Yeats",
    "died": "28 January 1939"
   },
@@ -99,6 +112,7 @@
    "desc": "Peruvian aviator",
    "cause": "after being fatally injured in airplane crash",
    "last_words": "Higher. Always higher.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jorge_Chávez",
    "died": "27 September 1910"
   },
@@ -110,6 +124,7 @@
    "desc": "American baseball player",
    "cause": "final radio transmission before crash of his ERCO Ercoupe into Chesapeake Bay",
    "last_words": "75-Hotel. I'm going into the water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Gastall",
    "died": "20 September 1956"
   }

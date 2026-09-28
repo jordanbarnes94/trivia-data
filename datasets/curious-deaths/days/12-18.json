@@ -9,8 +9,10 @@
    "desc": "Florentine banker",
    "cause": "He carved this line from Virgil's Aeneid on a mantelpiece with his sword as his suicide note",
    "last_words": "May an avenger arise from my bones.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Strozzi_the_Younger",
-   "born": "4 January 1489"
+   "born": "4 January 1489",
+   "died": "18 December 1538"
   },
   {
    "year": 1803,
@@ -20,8 +22,10 @@
    "desc": "German philosopher, theologian, poet and literary critic",
    "cause": null,
    "last_words": "Refresh me with a great thought.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottfried_Herder",
-   "born": "25 August 1744"
+   "born": "25 August 1744",
+   "died": "18 December 1803"
   },
   {
    "year": 1809,
@@ -31,8 +35,10 @@
    "desc": "Scottish teacher",
    "cause": "imagining himself still at work",
    "last_words": "It grows dark, boys, you may go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Adam",
-   "born": "24 June 1741"
+   "born": "24 June 1741",
+   "died": "18 December 1809"
   },
   {
    "year": 1980,
@@ -42,8 +48,10 @@
    "desc": "English writer",
    "cause": null,
    "last_words": "This is where the real fun starts.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ben_Travers",
-   "born": "12 November 1886"
+   "born": "12 November 1886",
+   "died": "18 December 1980"
   },
   {
    "year": 1997,
@@ -53,8 +61,10 @@
    "desc": "American actor and comedian",
    "cause": "to a prostitute, leaving his Chicago apartment",
    "last_words": "Please don't leave me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Farley",
-   "born": "15 February 1964"
+   "born": "15 February 1964",
+   "died": "18 December 1997"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "English Methodist leader and hymn writer",
    "cause": null,
    "last_words": "I shall be satisfied with Thy likeness- satisfied, satisfied!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Wesley",
    "died": "29 March 1788"
   },
@@ -77,6 +88,7 @@
    "desc": "Union general of the American Civil War",
    "cause": "mortally wounded at the Battle of Fredericksburg",
    "last_words": "Tell McClellan that my last regret as a military man is that I did not die serving under him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Dashiell_Bayard",
    "died": "14 December 1862"
   },
@@ -88,6 +100,7 @@
    "desc": "heir to the throne of Austria-Hungary",
    "cause": "on his way to a hospital after being fatally shot by a Serbian nationalist",
    "last_words": "It is nothing... it is nothing...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria",
    "died": "28 June 1914"
   },
@@ -99,6 +112,7 @@
    "desc": "English actress",
    "cause": "looking in a mirror",
    "last_words": "If this is what viral pneumonia does to one, I really don't think I shall bother to have it again.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gladys_Cooper",
    "died": "17 November 1971"
   },
@@ -110,6 +124,7 @@
    "desc": "American volcanologist",
    "cause": "reporting the 1980 eruption of Mount St. Helens from observation post",
    "last_words": "Vancouver! Vancouver! This is it!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_A._Johnston",
    "died": "18 May 1980"
   }

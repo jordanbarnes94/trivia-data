@@ -9,8 +9,10 @@
    "desc": "French Calvinist religious leader and scholar",
    "cause": null,
    "last_words": "I begin to perceive and feel the joys of eternal life. I shall soon behold Him, who was sacrificed for men; I long for the blessed sight. All else is to me as dross: there is nothing that could make me wish to live one hour longer.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Justus_Scaliger",
-   "born": "5 August 1540"
+   "born": "5 August 1540",
+   "died": "21 January 1609"
   },
   {
    "year": 1766,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "English actor",
    "last_words": "I could wish this tragic scene were over, but I hope to go through it with becoming dignity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Quin",
-   "born": "24 February 1693"
+   "born": "24 February 1693",
+   "died": "21 January 1766"
   },
   {
    "year": 1793,
@@ -31,8 +35,10 @@
    "desc": "king of France",
    "cause": "speaking to his executioners prior to his execution by guillotine",
    "last_words": "Frenchmen, I die guiltless of the crimes imputed to me. Pray God my blood fall not on France!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVI",
-   "born": "23 August 1754"
+   "born": "23 August 1754",
+   "died": "21 January 1793"
   },
   {
    "year": 1823,
@@ -42,8 +48,10 @@
    "desc": "American missionary for the Moravian Church",
    "cause": null,
    "last_words": "Golgotha, Gethsemene.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Heckewelder",
-   "born": "12 March 1743"
+   "born": "12 March 1743",
+   "died": "21 January 1823"
   },
   {
    "year": 1855,
@@ -53,8 +61,10 @@
    "desc": "English Methodist minister",
    "cause": "announcing the first lines of a hymn to his congregation. He then fell dead as they sang the second line",
    "last_words": "Thee while the first Archangel sings, He hides his face behind his wings.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Beaumont_(1794-1855)",
-   "born": null
+   "born": null,
+   "died": "21 January 1855"
   },
   {
    "year": 1924,
@@ -64,8 +74,10 @@
    "desc": "Russian communist statesman and revolutionary",
    "cause": "to his dog who brought him a dead bird",
    "last_words": "Good dog.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
-   "born": "22 April 1870"
+   "born": "22 April 1870",
+   "died": "21 January 1924"
   },
   {
    "year": 1932,
@@ -75,8 +87,10 @@
    "desc": "American murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "You sons of bitches. Give my love to Mother.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Crowley",
-   "born": "31 October 1911"
+   "born": "31 October 1911",
+   "died": "21 January 1932"
   },
   {
    "year": 1932,
@@ -86,8 +100,10 @@
    "desc": "English writer and critic",
    "cause": null,
    "last_words": "If this is dying, then I don't think much of it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lytton_Strachey",
-   "born": "1 March 1880"
+   "born": "1 March 1880",
+   "died": "21 January 1932"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Ah, Jesus!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_V_of_France",
    "died": "16 September 1380"
   },
@@ -110,6 +127,7 @@
    "desc": null,
    "cause": "The 59-year-old North Carolina lawyer and former colonel was sleeping on a porch in Anson County while wearing a red cap. Spencer's bobbling head drew the attention of a turkey, which viewed Spencer as another turkey and fatally wounded him with its talons.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Spencer_(North_Carolina_politician)",
    "died": "20 March 1793"
   },
@@ -121,6 +139,7 @@
    "desc": "French Protestant churchman",
    "cause": null,
    "last_words": "This oppression is altogether physical: God is not the less with me. I am waiting for Him in the faith of Jesus Christ and of the Holy Spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adolphe_Monod",
    "died": "6 April 1856"
   },
@@ -132,6 +151,7 @@
    "desc": "American and Confederate soldier and general of the American Civil War",
    "cause": "dying of pneumonia after being wounded by friendly fire",
    "last_words": "Order A.P. Hill to prepare for action! Pass the infantry to the front rapidly! Tell Major Hawks.... Let us cross over the river and rest under the shade of the trees.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_Jackson",
    "died": "10 May 1863"
   },
@@ -143,6 +163,7 @@
    "desc": "American prospector and wilderness guide",
    "cause": "who had served 18 years in prison for killing and eating five of his traveling companions in 1874",
    "last_words": "I'm not guilty of the charge.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alferd_Packer",
    "died": "23 April 1907"
   },
@@ -154,6 +175,7 @@
    "desc": "Austrian polymath",
    "cause": "before jumping out a window to avoid capture by Gestapo",
    "last_words": "Watch out, please.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Egon_Friedell",
    "died": "16 March 1938"
   },
@@ -165,6 +187,7 @@
    "desc": "United States Navy officer and Medal of Honor recipient",
    "cause": "mortally wounded aboard USS California (BB-44) during the attack on Pearl Harbor",
    "last_words": "Leave me alone! I am done for. Get out of here before the magazines go off.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_C._Jones",
    "died": "7 December 1941"
   }

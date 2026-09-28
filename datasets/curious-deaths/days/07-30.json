@@ -9,8 +9,10 @@
    "desc": "English reformer and Protestant martyr",
    "cause": "while being burned at the stake for heresy",
    "last_words": "I trust in no good works that ever I did, but only in the death of Christ. I do not doubt but through Him to inherit the kingdom of Heaven. But imagine not that I speak against good works, for they are to be done, and verily they that do them not shall never enter into the kingdom of God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Barnes_(martyr)",
-   "born": null
+   "born": null,
+   "died": "30 July 1540"
   },
   {
    "year": 1718,
@@ -20,8 +22,10 @@
    "desc": "English writer and religious thinker, founder of the Province of Pennsylvania",
    "cause": null,
    "last_words": "To be like Christ is to be a Christian.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Penn",
-   "born": "14 October 1644"
+   "born": "14 October 1644",
+   "died": "30 July 1718"
   },
   {
    "year": 1771,
@@ -31,8 +35,10 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "Molly, I shall die!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gray",
-   "born": "26 December 1716"
+   "born": "26 December 1716",
+   "died": "30 July 1771"
   },
   {
    "year": 1898,
@@ -42,8 +48,10 @@
    "desc": "German statesman",
    "cause": "writing on a piece of paper with unknown meaning",
    "last_words": "House.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
-   "born": "1 April 1815"
+   "born": "1 April 1815",
+   "died": "30 July 1898"
   },
   {
    "year": 1915,
@@ -53,8 +61,10 @@
    "desc": "American police officer",
    "cause": "prior to execution by electrocution for murder",
    "last_words": "Oh, Lord, I proclaim to the world that I am innocent of this crime.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Becker",
-   "born": "26 July 1870"
+   "born": "26 July 1870",
+   "died": "30 July 1915"
   },
   {
    "year": 1937,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "The 62-year-old defrocked Anglican vicar died while re-enacting the story of Daniel in the Lions' Den at a sideshow in Skegness, by entering a cage containing two lions, which then mauled and fatally injured him; his death may have also been contributed to by being accidentally poisoned with insulin by a doctor who wrongly believed Davidson to be a diabetic.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Davidson",
-   "born": "14 July 1875"
+   "born": "14 July 1875",
+   "died": "30 July 1937"
   },
   {
    "year": 1945,
@@ -75,8 +87,10 @@
    "desc": null,
    "cause": "After completing the classified mission of delivering a component for the Little Boy atomic bomb, the American heavy cruiser was sunk by the Imperial Japanese Navy submarine I-58. Of 1,195 crewmen aboard, about 300 went down with the ship. The remaining 890 faced hypothermia, dehydration, saltwater poisoning, and shark attacks while stranded in the open ocean for four days, with few lifeboats and almost no food or water. Only 316 survived the sinking; no U.S. warship sunk at sea has lost more sailors.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/USS_Indianapolis_(CA-35)",
-   "born": null
+   "born": null,
+   "died": "30 July 1945"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "English novelist",
    "cause": "to her sister Charlotte",
    "last_words": "If you will send for a doctor I will see him now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Brontë",
    "died": "19 December 1848"
   },
@@ -99,6 +114,7 @@
    "desc": "Indonesian communist and Communist Party of Indonesia leader",
    "cause": "prior to being summarily executed by Jasir Hadibroto and other executioners from the army. It was said that his last words were 30 minutes of inflaming speech against the army, resulting in the executioners shortly firing lethal shots after he shouted \"Long live, PKI!\"",
    "last_words": "I am the only one who held the largest responsibility of the failed G30S and supported by other PKI members and mass organizations under the PKI [...] Rather I am being captured, better you kill me...! [...] Long live, PKI!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/D._N._Aidit",
    "died": "22 November 1965"
   }

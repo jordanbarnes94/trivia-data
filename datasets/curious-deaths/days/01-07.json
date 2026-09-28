@@ -9,8 +9,10 @@
    "desc": "Queen of England",
    "cause": "closing her last letter to her former husband, Henry VIII of England",
    "last_words": "Mine eyes desire thee only. Farewell.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
-   "born": "16 December 1485"
+   "born": "16 December 1485",
+   "died": "7 January 1536"
   },
   {
    "year": 1715,
@@ -20,8 +22,10 @@
    "desc": "French Roman Catholic archbishop, theologian and writer",
    "cause": "quoting Jesus",
    "last_words": "Not my will, but thine be done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Fénelon",
-   "born": "6 August 1651"
+   "born": "6 August 1651",
+   "died": "7 January 1715"
   },
   {
    "year": 1929,
@@ -31,8 +35,10 @@
    "desc": "English dramatist",
    "cause": "when his nurse and his niece asked which of them he would prefer to stay with him",
    "last_words": "The prettier. Now fight for it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Arthur_Jones",
-   "born": "20 September 1851"
+   "born": "20 September 1851",
+   "died": "7 January 1929"
   },
   {
    "year": 1948,
@@ -42,8 +48,10 @@
    "desc": "Kentucky Air National Guard captain",
    "cause": "during fatal pursuit of UFO",
    "last_words": "The object is directly ahead of and above me now, moving at about half my speed... It appears to be a metallic object or possibly reflection of Sun from a metallic object, and it is of tremendous size... I'm still climbing... I'm trying to close in for a better look.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_F._Mantell",
-   "born": null
+   "born": null,
+   "died": "7 January 1948"
   },
   {
    "year": 1948,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 25-year-old P-51 Mustang fighter pilot crashed while in pursuit of an unidentified flying object near Franklin, Kentucky, thus becoming the first person known to have died as a result of a UFO sighting. Officially, the object remains unidentified, though the most likely explanation is that it was a U.S. Navy Skyhook balloon.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Mantell",
-   "born": null
+   "born": null,
+   "died": "7 January 1948"
   },
   {
    "year": 1989,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "a last message to Shoichi Fujimori, commissioner of Imperial Household Agency",
    "last_words": "I believe that the image of walking through, these turbulent times live on people's hearts for a long time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hirohito",
-   "born": "29 April 1901"
+   "born": "29 April 1901",
+   "died": "7 January 1989"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "first Caliph of Córdoba",
    "cause": null,
    "last_words": "I have now reigned above fifty years in victory or peace; beloved by my subjects, dreaded by my enemies, and respected by my allies. Riches and honors, power and pleasure, have waited on my call, nor does any earthly blessing appear to have been wanting to my felicity. In this situation, I have diligently numbered the days of pure and genuine happiness which have fallen to my lot: they amount to Fourteen:-O man! place not thy confidence in this present world!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abd_al-Rahman_III",
    "died": "15 October 961"
   },
@@ -88,6 +101,7 @@
    "desc": null,
    "cause": "dying of postpartum bleeding",
    "last_words": "You make me drunk. Pray leave me quiet. I feel it affects my head.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Princess_Charlotte_of_Wales_(1796–1817)",
    "died": "6 November 1817"
   },
@@ -99,6 +113,7 @@
    "desc": "president of the United States",
    "cause": "referring to soup he had eaten",
    "last_words": "The nourishment is palatable.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Millard_Fillmore",
    "died": "8 March 1874"
   }

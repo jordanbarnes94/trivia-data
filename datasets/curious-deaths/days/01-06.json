@@ -9,8 +9,10 @@
    "desc": "French Christian theologian",
    "cause": "dying in ascetic solitude on the island of Saint-Cosme near Tours",
    "last_words": "I shall not long hesitate between conscience and the Pope, for I shall soon appear in the presence of God, to be acquitted, I hope; to be condemned, I fear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Berengar_of_Tours",
-   "born": null
+   "born": null,
+   "died": "6 January 1088"
   },
   {
    "year": 1901,
@@ -20,8 +22,10 @@
    "desc": "American industrialist, founder of Armour and Company",
    "cause": null,
    "last_words": "I am not afraid to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Danforth_Armour",
-   "born": "16 May 1832"
+   "born": "16 May 1832",
+   "died": "6 January 1901"
   },
   {
    "year": 1919,
@@ -31,8 +35,10 @@
    "desc": "president of the United States and Medal of Honor recipient",
    "cause": "to family servant James E. Amos",
    "last_words": "Please put out that light, James.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Roosevelt",
-   "born": "27 October 1858"
+   "born": "27 October 1858",
+   "died": "6 January 1919"
   },
   {
    "year": 1937,
@@ -42,8 +48,10 @@
    "desc": "C.S.C., Canadian Roman Catholic lay brother",
    "cause": null,
    "last_words": "My God, how it hurts! Oh I suffer!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/André_Bessette",
-   "born": "9 August 1845"
+   "born": "9 August 1845",
+   "died": "6 January 1937"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "American statesman and United States Senator",
    "cause": "to Samuel Hooper, his former father-in-law",
    "last_words": "Sit down.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sumner",
    "died": "11 March 1874"
   },
@@ -66,6 +75,7 @@
    "desc": "United States Army officer and Medal of Honor recipient",
    "cause": "prior to falling on two grenades during the Vietnam War",
    "last_words": "Grenades. Grenades.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ruppert_L._Sargent",
    "died": "15 March 1967"
   }

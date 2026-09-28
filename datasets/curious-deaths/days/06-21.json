@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "kissing a crucifix",
    "last_words": "Jesus.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_III_of_England",
-   "born": "13 November 1312"
+   "born": "13 November 1312",
+   "died": "21 June 1377"
   },
   {
    "year": 1527,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "Italian Renaissance diplomat, philosopher and writer",
    "last_words": "I desire to go to hell, and not to heaven. In the former place I shall enjoy the company of popes, kings, and princes, while in the latter are only beggars, monks, hermits, and apostles.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Niccolò_Machiavelli",
-   "born": "3 May 1469"
+   "born": "3 May 1469",
+   "died": "21 June 1527"
   },
   {
    "year": 1730,
@@ -31,8 +35,10 @@
    "desc": "enslaved woman from Bermuda",
    "cause": "looking at the logs prepared to fuel her burning at the stake for poisoning",
    "last_words": "Ain't they darlin'?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sally_Basset",
-   "born": null
+   "born": null,
+   "died": "21 June 1730"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "New England Puritan clergyman, president of Harvard College",
    "cause": null,
    "last_words": "Be fruitful.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Increase_Mather",
    "died": "23 August 1723"
   },
@@ -55,6 +62,7 @@
    "desc": "English philosopher and deist",
    "cause": null,
    "last_words": "I have always endeavored, to the best of my ability, to serve God, my king and my country. I go to the place God has designed for those who love him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Collins_(philosopher)",
    "died": "13 December 1729"
   },
@@ -66,6 +74,7 @@
    "desc": null,
    "cause": "while being executed by firing squad for involvement in a plot to restore Mohammad Ali Shah Qajar to the Persian throne",
    "last_words": "Long live Shah Muhammad Ali!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Ali_Shah_Qajar",
    "died": "6 September 1911"
   },
@@ -77,6 +86,7 @@
    "desc": "President of the Government of Catalonia",
    "cause": "prior to execution by firing squad",
    "last_words": "For Catalonia!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lluís_Companys",
    "died": "15 October 1940"
   },
@@ -88,6 +98,7 @@
    "desc": "French philosopher and writer",
    "cause": "to his partner, Simone de Beauvoir",
    "last_words": "I love you very much, my dear Beaver.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
    "died": "15 April 1980"
   }

@@ -2,6 +2,19 @@
  "date": "10-08",
  "died": [
   {
+   "year": -169,
+   "year_label": "169 BC",
+   "name": "Ennius",
+   "kind": "individual",
+   "desc": null,
+   "cause": "lines dictated to be engraved on his memorial. Only fragments of his works now survive",
+   "last_words": "Let no one weep for me, or celebrate my funeral with mourning; for I still live, as I pass to and fro through the mouths of men.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ennius",
+   "born": "16 July 239 BC",
+   "died": "8 October 169 BC"
+  },
+  {
    "year": 1793,
    "year_label": "1793",
    "name": "John Hancock",
@@ -9,8 +22,10 @@
    "desc": "American merchant, statesman and Patriot",
    "cause": null,
    "last_words": "I shall look forward to a pleasant time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Hancock",
-   "born": "23 January 1737"
+   "born": "23 January 1737",
+   "died": "8 October 1793"
   },
   {
    "year": 1803,
@@ -20,19 +35,10 @@
    "desc": "Italian dramatist and poet",
    "cause": "to Princess Louise of Stolberg-Gedern",
    "last_words": "Clasp my hand, my dear friend, I die!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vittorio_Alfieri",
-   "born": "16 January 1749"
-  },
-  {
-   "year": 1901,
-   "year_label": "1901",
-   "name": "William Thomas Maxwell",
-   "kind": "individual",
-   "desc": "American tracker and deputized sheriff",
-   "cause": "telling the Smith Gang to surrender prior to the Battleground Gunfight",
-   "last_words": "Come right out this way.",
-   "wikipedia": "https://en.wikipedia.org/wiki/William_Thomas_Maxwell",
-   "born": null
+   "born": "16 January 1749",
+   "died": "8 October 1803"
   },
   {
    "year": 1901,
@@ -42,8 +48,23 @@
    "desc": "Arizona Ranger",
    "cause": "handing a silver dollar to posse member Henry Barrett after being mortally wounded in Battleground Gunfight",
    "last_words": "Give this to my wife. It, and the month's wages coming to me, will be all she will ever have.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Carlos_Tafolla",
-   "born": null
+   "born": null,
+   "died": "8 October 1901"
+  },
+  {
+   "year": 1901,
+   "year_label": "1901",
+   "name": "William Thomas Maxwell",
+   "kind": "individual",
+   "desc": "American tracker and deputized sheriff",
+   "cause": "telling the Smith Gang to surrender prior to the Battleground Gunfight",
+   "last_words": "Come right out this way.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Thomas_Maxwell",
+   "born": null,
+   "died": "8 October 1901"
   },
   {
    "year": 1921,
@@ -53,8 +74,10 @@
    "desc": null,
    "cause": "The 58-year-old U.S. Representative and Gore–McLemore resolution supporter died of anthrax he contracted from his shaving brush.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_F._Farley",
-   "born": "1 March 1863"
+   "born": "1 March 1863",
+   "died": "8 October 1921"
   },
   {
    "year": 1953,
@@ -64,8 +87,10 @@
    "desc": "English contralto singer",
    "cause": "to a nurse while dying of breast cancer",
    "last_words": "Wouldn't it be lovely if I could just go to sleep and not wake up again?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kathleen_Ferrier",
-   "born": "22 April 1912"
+   "born": "22 April 1912",
+   "died": "8 October 1953"
   },
   {
    "year": 1967,
@@ -75,8 +100,10 @@
    "desc": "Prime Minister of the United Kingdom",
    "cause": "to his aide, Charlie Griffiths",
    "last_words": "Hullo, Griff. How are you getting on?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clement_Attlee",
-   "born": "3 January 1883"
+   "born": "3 January 1883",
+   "died": "8 October 1967"
   }
  ],
  "born": [
@@ -88,6 +115,7 @@
    "desc": "German Lutheran missionary to India",
    "cause": null,
    "last_words": "Had it pleased my Lord to spare me longer I should have been glad. I should then have been able to speak yet a word to the sick and poor; but His will be done! May He, in mercy, but receive me! Into Thy hands I commend my spirit; Thou has redeemed me, O Thou faithful God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Friedrich_Schwarz",
    "died": "13 February 1798"
   },
@@ -99,6 +127,7 @@
    "desc": "American mother of criminals",
    "cause": "to her son, Fred Barker, prior to their deaths in a shootout with the FBI",
    "last_words": "All right! Go ahead!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ma_Barker",
    "died": "16 January 1935"
   },
@@ -110,6 +139,7 @@
    "desc": "German general",
    "cause": "prior to being executed as part of the post-conspiracy purge after the failure of the 20 July plot",
    "last_words": "I die, because it was ordered. I had always wanted only the best for Germany.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Fromm",
    "died": "12 March 1945"
   }

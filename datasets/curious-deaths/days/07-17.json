@@ -9,8 +9,10 @@
    "desc": "Scottish economist",
    "cause": null,
    "last_words": "I believe we shall adjourn this meeting to another place.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith",
-   "born": null
+   "born": null,
+   "died": "17 July 1790"
   },
   {
    "year": 1793,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "prior to execution by guillotine",
    "last_words": "One man have I slain to save a hundred thousand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Corday",
-   "born": "27 July 1768"
+   "born": "27 July 1768",
+   "died": "17 July 1793"
   },
   {
    "year": 1859,
@@ -31,8 +35,10 @@
    "desc": "queen consort of Portugal",
    "cause": null,
    "last_words": "Comfort my Peter.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stephanie_of_Hohenzollern-Sigmaringen",
-   "born": "15 July 1837"
+   "born": "15 July 1837",
+   "died": "17 July 1859"
   },
   {
    "year": 1918,
@@ -42,8 +48,10 @@
    "desc": "last Emperor of Russia",
    "cause": "quoting Jesus to Yakov Yurovsky upon being informed he and his family were to be put to death",
    "last_words": "You know not what you do.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_II_of_Russia",
-   "born": "18 May 1868"
+   "born": "18 May 1868",
+   "died": "17 July 1918"
   },
   {
    "year": 1923,
@@ -53,8 +61,10 @@
    "desc": "Scottish literary scholar",
    "cause": "to his hiking companions on the Pizzo Bianco before suffering a heart attack",
    "last_words": "I thought this was the most beautiful spot in the world, and now I know it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._P._Ker",
-   "born": "30 August 1855"
+   "born": "30 August 1855",
+   "died": "17 July 1923"
   },
   {
    "year": 1942,
@@ -64,8 +74,10 @@
    "desc": "American journalist and society columnist",
    "cause": null,
    "last_words": "Oh Mother, how beautiful it is!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maury_Henry_Biddle_Paul",
-   "born": "14 April 1890"
+   "born": "14 April 1890",
+   "died": "17 July 1942"
   },
   {
    "year": 1953,
@@ -75,8 +87,10 @@
    "desc": "American actress known for playing Peter Pan",
    "cause": null,
    "last_words": "Life is still full of joy. Thumbs up for joy and adventure.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maude_Adams",
-   "born": "11 November 1872"
+   "born": "11 November 1872",
+   "died": "17 July 1953"
   },
   {
    "year": 1996,
@@ -86,8 +100,10 @@
    "desc": "pilot of TWA Flight 800",
    "cause": "as it was cruising over Long Island prior to breaking up",
    "last_words": "Power's set.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/TWA_Flight_800",
-   "born": null
+   "born": null,
+   "died": "17 July 1996"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "English Christian minister, hymn writer and theologian",
    "cause": null,
    "last_words": "Waiting God's leave to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Watts",
    "died": "25 November 1748"
   },
@@ -110,6 +127,7 @@
    "desc": "German-American multi-millionaire businessman",
    "cause": "to his son. Astor had been worried about an overdue rent payment. His son paid the woman's rent and claimed that she had paid it",
    "last_words": "There, I told you that she would pay it if you went the right way to work with her.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Jacob_Astor",
    "died": "29 March 1848"
   }

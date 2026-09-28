@@ -9,8 +9,10 @@
    "desc": "French philosopher",
    "cause": null,
    "last_words": "The first step towards philosophy is incredulity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Diderot",
-   "born": "5 October 1713"
+   "born": "5 October 1713",
+   "died": "31 July 1784"
   },
   {
    "year": 1875,
@@ -20,8 +22,10 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "Oh, do not cry. Be good children, and we shall meet in heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Johnson",
-   "born": "29 December 1808"
+   "born": "29 December 1808",
+   "died": "31 July 1875"
   },
   {
    "year": 1962,
@@ -31,8 +35,10 @@
    "desc": "American convicted murderer, neo-Nazi, and the second-to-last person to be executed by the state of New Jersey",
    "cause": null,
    "last_words": "You're not going to see anything.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Roland_Ernst",
-   "born": "17 February 1937"
+   "born": "17 February 1937",
+   "died": "31 July 1962"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "United States Congressman and Mayor of New York City",
    "cause": "removing his oxygen mask",
    "last_words": "And now I am officially dead.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abram_Hewitt",
    "died": "18 January 1903"
   },
@@ -55,6 +62,7 @@
    "desc": "Czech communist politician",
    "cause": "prior to execution by hanging following charges of conspiracy and high treason at a show trial",
    "last_words": "I've got what I deserved.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Slánský",
    "died": "3 December 1952"
   }

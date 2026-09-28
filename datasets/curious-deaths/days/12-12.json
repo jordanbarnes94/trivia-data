@@ -9,8 +9,10 @@
    "desc": "English politician",
    "cause": "to Philip Stanhope, 4th Earl of Chesterfield. Bolingbroke also reaffirmed his Deist convictions",
    "last_words": "God, who pleased me here, will do what he pleases with me hereafter, and he knows best what to do. May he bless you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_St_John,_1st_Viscount_Bolingbroke",
-   "born": "16 September 1678"
+   "born": "16 September 1678",
+   "died": "12 December 1751"
   },
   {
    "year": 1777,
@@ -20,8 +22,10 @@
    "desc": "Swiss anatomist and physiologist",
    "cause": "to his friend Dr. Rosselet",
    "last_words": "My friend, the artery ceases to beat.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albrecht_von_Haller",
-   "born": "16 October 1708"
+   "born": "16 October 1708",
+   "died": "12 December 1777"
   },
   {
    "year": 1939,
@@ -31,8 +35,10 @@
    "desc": "American actor and filmmaker",
    "cause": "to an attendant who asked how he was",
    "last_words": "Never felt better.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Fairbanks",
-   "born": "23 May 1883"
+   "born": "23 May 1883",
+   "died": "12 December 1939"
   },
   {
    "year": 1968,
@@ -42,8 +48,10 @@
    "desc": "American actress",
    "cause": null,
    "last_words": "Codeine... bourbon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tallulah_Bankhead",
-   "born": "31 January 1902"
+   "born": "31 January 1902",
+   "died": "12 December 1968"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English physician and natural philosopher",
    "cause": "urging his daughter to bleed him",
    "last_words": "Emma, will you? There is no time to be lost.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erasmus_Darwin",
    "died": "18 April 1802"
   },
@@ -66,6 +75,7 @@
    "desc": null,
    "cause": "to his wife, Elizabeth Alexeievna (Louise of Baden)",
    "last_words": "You must be tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
    "died": "1 December 1825"
   },
@@ -77,6 +87,7 @@
    "desc": "American singer and actor",
    "cause": null,
    "last_words": "I'm losing it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Sinatra",
    "died": "14 May 1998"
   }

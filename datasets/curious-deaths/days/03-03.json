@@ -9,8 +9,10 @@
    "desc": "seventh Mughal emperor",
    "cause": "in a letter to his youngest son, Muhammad Kam Bakhsh",
    "last_words": "Wherever I look I see nothing but the Divinity.-I have committed numerous crimes and I know not with what punishments I may be seized.-The agonies of death come upon me fast.-I am going. Whatever good or evil I have done, it was for you. No one has seen the departure of his own soul; but I know that mine is departing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aurangzeb",
-   "born": "3 November 1618"
+   "born": "3 November 1618",
+   "died": "3 March 1707"
   },
   {
    "year": 1889,
@@ -20,8 +22,10 @@
    "desc": "English writer and populariser of natural history",
    "cause": null,
    "last_words": "Give me a large cup of tea.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_George_Wood",
-   "born": "21 July 1827"
+   "born": "21 July 1827",
+   "died": "3 March 1889"
   },
   {
    "year": 1944,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "At around midnight on 3 March 1944, a freight train headed from Naples to Potenza came to a stop inside the Armi tunnel in the town of Balvano due to its inability to climb over an incline. Due to a combination of carbon monoxide produced by poor-quality coal used on the locomotives and the lack of ventilation inside the tunnel, at least 517 people (most of whom were stowaway passengers) died as a result of carbon monoxide poisoning. The disaster remains the deadliest train accident in Italian history.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Balvano_train_disaster",
-   "born": null
+   "born": null,
+   "died": "3 March 1944"
   },
   {
    "year": 1959,
@@ -42,8 +48,10 @@
    "desc": "American actor and comedian",
    "cause": "asking a nurse to change his position in bed",
    "last_words": "I think I'll be more comfortable.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lou_Costello",
-   "born": "6 March 1906"
+   "born": "6 March 1906",
+   "died": "3 March 1959"
   },
   {
    "year": 1983,
@@ -53,8 +61,10 @@
    "desc": "Belgian cartoonist",
    "cause": null,
    "last_words": "I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hergé",
-   "born": "22 May 1907"
+   "born": "22 May 1907",
+   "died": "3 March 1983"
   },
   {
    "year": 1992,
@@ -64,8 +74,10 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "I just want everybody to know that I think the prosecutor and Bill Scott [a fellow inmate who testified against Ellis] are some sorry s.o.bs.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Texas,_1990–1999",
-   "born": null
+   "born": null,
+   "died": "3 March 1992"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Scottish-American inventor",
    "cause": "replying to his deaf wife Mabel's plea \"Don't leave me.\"",
    "last_words": "No.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
    "died": "2 August 1922"
   }

@@ -9,8 +9,10 @@
    "desc": "Dutch humanist, diplomat, lawyer, theologian and writer",
    "cause": null,
    "last_words": "Be serious.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hugo_Grotius",
-   "born": "10 April 1583"
+   "born": "10 April 1583",
+   "died": "28 August 1645"
   },
   {
    "year": 1648,
@@ -20,8 +22,10 @@
    "desc": "Royalist leader in the English Civil War",
    "cause": "when the officer in charge of his firing squad said they would hit him",
    "last_words": "Ay! but I have been nearer to you, my friends, many a time, and you have missed me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Lisle_(Royalist)",
-   "born": null
+   "born": null,
+   "died": "28 August 1648"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": null,
    "cause": "to his assassin, John Felton, after being stabbed by him",
    "last_words": "Villaine!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Villiers,_1st_Duke_of_Buckingham",
    "died": "23 August 1628"
   },
@@ -44,6 +49,7 @@
    "desc": "German statesman and writer",
    "cause": null,
    "last_words": "Do open the shutter in the bed-room, in order that more light may enter.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
    "died": "22 March 1832"
   },
@@ -55,6 +61,7 @@
    "desc": "SC, American Catholic religious sister and educator",
    "cause": "saying the Anima Christi",
    "last_words": "Soul of Christ, sanctify me; Body of Christ, save me; Blood of Christ, inebriate me; Water out of the side of Christ, strengthen me. Jesus, Mary, Joseph.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton",
    "died": "4 January 1821"
   },
@@ -66,6 +73,7 @@
    "desc": "Russian novelist",
    "cause": "to a station master in whose home he died",
    "last_words": "But the peasants...how do the peasants die?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leo_Tolstoy",
    "died": "20 November 1910"
   }

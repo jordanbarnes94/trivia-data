@@ -9,8 +9,10 @@
    "desc": "Anglican cleric and hymn writer, author of \"Rock of Ages\"",
    "cause": null,
    "last_words": "No mortal man can live after the glories which God has manifested to my soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Augustus_Toplady",
-   "born": "4 November 1740"
+   "born": "4 November 1740",
+   "died": "11 August 1778"
   },
   {
    "year": 1885,
@@ -20,8 +22,10 @@
    "desc": "FRS, English poet and politician",
    "cause": null,
    "last_words": "My exit is the result of too many entrées.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Monckton_Milnes,_1st_Baron_Houghton",
-   "born": "19 June 1809"
+   "born": "19 June 1809",
+   "died": "11 August 1885"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "English physician",
    "cause": "as his servants dressed him for bed",
    "last_words": "What an idle piece of ceremony this buttoning and unbuttoning is to me, now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Brocklesby",
    "died": "11 December 1797"
   },
@@ -44,6 +49,7 @@
    "desc": "American lawyer, free thought writer and orator",
    "cause": "when his wife asked him how he felt",
    "last_words": "O, better.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_G._Ingersoll",
    "died": "21 July 1899"
   },
@@ -55,6 +61,7 @@
    "desc": "President of France",
    "cause": "mortally wounded by assassin, to Dr. Antonin Poncet, who told him his friends were there",
    "last_words": "I am grateful for your presence.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sadi_Carnot_(statesman)",
    "died": "25 June 1894"
   },
@@ -66,6 +73,7 @@
    "desc": "Austrian mountain climber",
    "cause": "referring to route on south face of the Meije prior to falling to his death",
    "last_words": "It doesn't seem to go!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Zsigmondy",
    "died": "6 August 1885"
   }

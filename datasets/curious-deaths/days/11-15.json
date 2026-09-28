@@ -9,8 +9,10 @@
    "desc": "composer of Italian and French opera",
    "cause": "when asked whether a tenor or a bass should sing the role of Christ in The Last Judgement",
    "last_words": "If you wait a little, I shall be able to tell you from personal experience.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christoph_Willibald_Gluck",
-   "born": "2 July 1714"
+   "born": "2 July 1714",
+   "died": "15 November 1787"
   },
   {
    "year": 1853,
@@ -20,8 +22,10 @@
    "desc": "queen regnant of Portugal",
    "cause": "addressing her surgeon during her eleventh childbirth",
    "last_words": "Teixeira? If I am in danger, tell me; do not deceive me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maria_II_of_Portugal",
-   "born": "4 April 1819"
+   "born": "4 April 1819",
+   "died": "15 November 1853"
   },
   {
    "year": 1908,
@@ -31,8 +35,10 @@
    "desc": "de facto ruler of China",
    "cause": null,
    "last_words": "Never again allow a woman to hold the supreme power in the State... [and] be careful not to allow eunuchs to meddle in government affairs.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Empress_Dowager_Cixi",
-   "born": "29 November 1835"
+   "born": "29 November 1835",
+   "died": "15 November 1908"
   },
   {
    "year": 1914,
@@ -42,8 +48,10 @@
    "desc": "Canton Professionals center",
    "cause": "to Canton manager Jack Cusack, after suffering fractured back and severed spinal cord while tackling the Akron Indians' Joe Collins",
    "last_words": "I know I must go, but I'm satisfied, for we beat Peggy Parratt.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harry_Turner_(American_football)",
-   "born": "5 March 1887"
+   "born": "5 March 1887",
+   "died": "15 November 1914"
   },
   {
    "year": 1967,
@@ -53,8 +61,10 @@
    "desc": "American astronaut",
    "cause": "prior to crash of North American X-15 spaceplane",
    "last_words": "I'm in a spin.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_J._Adams",
-   "born": "5 May 1930"
+   "born": "5 May 1930",
+   "died": "15 November 1967"
   },
   {
    "year": 1983,
@@ -64,8 +74,10 @@
    "desc": "English actor",
    "cause": null,
    "last_words": "It's all been rather lovely.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Le_Mesurier",
-   "born": "5 April 1912"
+   "born": "5 April 1912",
+   "died": "15 November 1983"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "American newspaper publisher and politician",
    "cause": null,
    "last_words": "I want to go home.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thurlow_Weed",
    "died": "22 November 1882"
   },
@@ -88,6 +101,7 @@
    "desc": "German army officer",
    "cause": "before being executed by the Nazis for his involvement in the failed 20 July plot",
    "last_words": "Long live our sacred Germany!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Claus_von_Stauffenberg",
    "died": "21 July 1944"
   }

@@ -9,8 +9,10 @@
    "desc": "European monarch",
    "cause": "quoting Jesus",
    "last_words": "Lord, into Thy hands I commend my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlemagne",
-   "born": "10 April 742"
+   "born": "10 April 742",
+   "died": "28 January 814"
   },
   {
    "year": 1547,
@@ -20,8 +22,10 @@
    "desc": "King of England",
    "cause": null,
    "last_words": "All is lost! Monks, monks, monks!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VIII",
-   "born": "28 June 1491"
+   "born": "28 June 1491",
+   "died": "28 January 1547"
   },
   {
    "year": 1861,
@@ -31,8 +35,10 @@
    "desc": "French author of Scenes of Bohemian Life",
    "cause": null,
    "last_words": "No noise, no music, no bohemia!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Murger",
-   "born": "27 March 1822"
+   "born": "27 March 1822",
+   "died": "28 January 1861"
   },
   {
    "year": 1918,
@@ -42,8 +48,10 @@
    "desc": "VC, Royal Navy officer",
    "cause": "before being killed by a shell on the deck of HMS E14 in the Dardanelles during World War I",
    "last_words": "We are in the hands of God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Geoffrey_Saxton_White",
-   "born": "2 July 1886"
+   "born": "2 July 1886",
+   "died": "28 January 1918"
   },
   {
    "year": 1936,
@@ -53,8 +61,10 @@
    "desc": "American murderer",
    "cause": "after being slashed 56 times with a razor in a prison fight",
    "last_words": "I think I'm going to make it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_A._Loeb",
-   "born": null
+   "born": "19 November 1904",
+   "died": "28 January 1936"
   },
   {
    "year": 1939,
@@ -64,8 +74,10 @@
    "desc": "Irish poet and dramatist",
    "cause": null,
    "last_words": "You can refute Hegel, but not the Saint or the Song of Sixpence.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._B._Yeats",
-   "born": "13 June 1865"
+   "born": "13 June 1865",
+   "died": "28 January 1939"
   },
   {
    "year": 1986,
@@ -75,8 +87,10 @@
    "desc": "American astronaut",
    "cause": "last recorded transmission of Space Shuttle Challenger to air-to-ground voice loop from capsule communicator Richard O. Covey, who was stationed in Houston",
    "last_words": "*\"Roger, go at throttle up.\"",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_R._Scobee",
-   "born": "19 May 1939"
+   "born": "19 May 1939",
+   "died": "28 January 1986"
   },
   {
    "year": 1986,
@@ -86,8 +100,10 @@
    "desc": "American astronaut",
    "cause": "one minute and thirteen seconds after liftoff",
    "last_words": "*\"Uh oh.\"",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_J._Smith",
-   "born": "30 April 1945"
+   "born": "30 April 1945",
+   "died": "28 January 1986"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": null,
    "cause": null,
    "last_words": "We heartily desire our executors to consider how behoofful it is to be prayed for.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
    "died": "21 April 1509"
   },
@@ -110,6 +127,7 @@
    "desc": "Cuban author and national hero",
    "cause": "addressing trooper Angel de la Guardia during the Battle of Dos Ríos",
    "last_words": "Charge, young man!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/José_Martí",
    "died": "19 May 1895"
   },
@@ -121,6 +139,7 @@
    "desc": "Australian rules footballer and police constable",
    "cause": "accidentally shot by police colleague",
    "last_words": "What happened? It got me in the thigh.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clyde_Smith_(footballer)",
    "died": "5 January 1935"
   },
@@ -132,6 +151,7 @@
    "desc": null,
    "cause": "The 39-year-old lawyer from Toronto fell to his death from the 24th floor of the Toronto-Dominion Centre while demonstrating that its windows were \"unbreakable\". He threw himself against one, which, true to his assertion, did not break, but instead popped out of its frame.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Garry_Hoy",
    "died": "9 July 1993"
   }

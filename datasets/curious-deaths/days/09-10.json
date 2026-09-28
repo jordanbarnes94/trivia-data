@@ -9,8 +9,10 @@
    "desc": "English writer and feminist philosopher",
    "cause": "to her husband, William Godwin, while dying from the effects of giving birth to Mary Shelley",
    "last_words": "I know what you are thinking of, but I have nothing to communicate on the subject of religion.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft",
-   "born": "27 April 1759"
+   "born": "27 April 1759",
+   "died": "10 September 1797"
   },
   {
    "year": 1813,
@@ -20,8 +22,10 @@
    "desc": "leader of the Shawnee",
    "cause": "to his son",
    "last_words": "So live your life that the fear of death can never enter your heart. Trouble no one about their religion; respect others in their view, and demand that they respect yours. Love your life, perfect your life, beautify all things in your life. Seek to make your life long and its purpose in the service of your people. Prepare a noble death song for the day when you go over the great divide.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tecumseh",
-   "born": null
+   "born": "9 March 1768",
+   "died": "10 September 1813"
   },
   {
    "year": 1857,
@@ -31,8 +35,10 @@
    "desc": "Russian Roman Catholic mystic",
    "cause": null,
    "last_words": "It will soon be time for mass. They must raise me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Swetchine",
-   "born": "22 November 1782"
+   "born": "22 November 1782",
+   "died": "10 September 1857"
   },
   {
    "year": 1898,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "when asked if she was in pain after being stabbed by Italian anarchist Luigi Lucheni The Empress of Austria was stabbed with a thin file by Italian anarchist Luigi Lucheni while strolling through Geneva with her lady-in-waiting Irma Sztáray. The wound pierced her pericardium and a lung. As her extremely tight corset held the wound closed, she did not realize what had happened (instead believing a passerby had struck her) and walked on for some time before collapsing.",
    "last_words": "No. What has happened?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria",
-   "born": "24 December 1837"
+   "born": "24 December 1837",
+   "died": "10 September 1898"
   },
   {
    "year": 1935,
@@ -53,8 +61,10 @@
    "desc": "United States Senator",
    "cause": "after being fatally shot",
    "last_words": "I wonder why he shot me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Huey_Long",
-   "born": "30 August 1893"
+   "born": "30 August 1893",
+   "died": "10 September 1935"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Continental Navy captain",
    "cause": "wounded in battle between USS Randolph and HMS Yarmouth. While the surgeon was treating Biddle, the Randolph exploded, killing all but four crewmembers",
    "last_words": "Bring me a chair; carry me forward; and there the surgeon will dress my wound.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Biddle_(naval_officer)",
    "died": "7 March 1778"
   },
@@ -77,6 +88,7 @@
    "desc": "Jewish-born Russian historian, writer and activist",
    "cause": "prior to his murder in the Riga Ghetto at the time of the Rumbula massacre",
    "last_words": "If you survive, never forget what is happening here, give evidence, write and rewrite, keep alive each word and each gesture, each cry and each tear!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Dubnow",
    "died": "8 December 1941"
   },
@@ -88,6 +100,7 @@
    "desc": "United States Army soldier and Medal of Honor recipient",
    "cause": "prior to falling on a grenade to protect wounded soldiers during the Vietnam War",
    "last_words": "Somebody's got to care.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Garfield_M._Langhorn",
    "died": "15 January 1969"
   }

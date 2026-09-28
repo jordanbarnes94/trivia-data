@@ -9,8 +9,10 @@
    "desc": "member of the U.S. House of Representatives",
    "cause": null,
    "last_words": "I have peace of mind. It may arise from stupidity, but I think it is founded on a belief of the Gospel. My hope is in the mercy of God through Jesus Christ.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Fisher_Ames",
-   "born": "9 April 1758"
+   "born": "9 April 1758",
+   "died": "4 July 1808"
   },
   {
    "year": 1826,
@@ -20,8 +22,10 @@
    "desc": "Founding Father and second president of the United States",
    "cause": "unaware that Jefferson had died earlier that same day",
    "last_words": "Thomas Jefferson survives.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Adams",
-   "born": "19 October 1735"
+   "born": "19 October 1735",
+   "died": "4 July 1826"
   },
   {
    "year": 1826,
@@ -31,8 +35,10 @@
    "desc": "president of the United States",
    "cause": "talking to his doctor",
    "last_words": "No, doctor, nothing more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
-   "born": "2 April 1743"
+   "born": "2 April 1743",
+   "died": "4 July 1826"
   },
   {
    "year": 1831,
@@ -42,8 +48,10 @@
    "desc": "president of the United States",
    "cause": "referring to his close friend James Madison",
    "last_words": "I regret that I should leave this world without again beholding him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Monroe",
-   "born": "28 April 1758"
+   "born": "28 April 1758",
+   "died": "4 July 1831"
   },
   {
    "year": 1857,
@@ -53,8 +61,10 @@
    "desc": "British military officer and statesman",
    "cause": "mortally wounded at Siege of Lucknow",
    "last_words": "Let there be no fuss about me; let me be buried with the men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Montgomery_Lawrence",
-   "born": "28 June 1806"
+   "born": "28 June 1806",
+   "died": "4 July 1857"
   },
   {
    "year": 1928,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "The 51-year-old financier and third-richest man in the world at the time, died while flying from England to Belgium on his private Fokker F.VII airplane. It is believed he fell out of the aircraft and into the water where he died.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Loewenstein",
-   "born": "11 March 1877"
+   "born": "11 March 1877",
+   "died": "4 July 1928"
   },
   {
    "year": 1934,
@@ -75,8 +87,10 @@
    "desc": "Polish scientist",
    "cause": "upon being offered a painkilling injection",
    "last_words": "I don't want it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Skłodowska_Curie",
-   "born": "7 November 1867"
+   "born": "7 November 1867",
+   "died": "4 July 1934"
   },
   {
    "year": 1981,
@@ -86,8 +100,10 @@
    "desc": "La Plata County, Colorado sergeant",
    "cause": "to suspect who resisted arrest; McAteer then collapsed from a heart attack",
    "last_words": "You know, it's people like you who put peace officers in hospitals or drive them to Pueblo.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_law_enforcement_officers_killed_in_the_line_of_duty_in_the_United_States",
-   "born": null
+   "born": null,
+   "died": "4 July 1981"
   },
   {
    "year": 1984,
@@ -97,8 +113,10 @@
    "desc": null,
    "cause": "The 29-year-old lawyer, who raced along a Chicago skyscraper corridor without wearing his glasses, crashed through a window and plunged 39 stories to his death during an early Fourth of July party. Police said portions of the man's body were scattered around the street near the 41-story Prudential Building in the city's downtown area. Several horrified onlookers attending holiday celebrations heard the glass shatter and saw him fall to his death.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "4 July 1984"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": "French poet, dramatist and novelist",
    "cause": null,
    "last_words": "Ah! mes enfans, you cannot cry as much for me as I have made you laugh in my time! I never thought that it was so easy a matter to laugh at the approach of death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Scarron",
    "died": "6 October 1660"
   },
@@ -121,6 +140,7 @@
    "desc": "German poet",
    "cause": "on being told he had only an hour to live",
    "last_words": "Now, God be praised, only one hour!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Fürchtegott_Gellert",
    "died": "13 December 1769"
   },
@@ -132,6 +152,7 @@
    "desc": "Irish-born British philanthropist, founder of the Barnardo's charity",
    "cause": "to his wife",
    "last_words": "Syrie, my head is so heavy. Let me rest it on your face.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_John_Barnardo",
    "died": "19 September 1905"
   },
@@ -143,6 +164,7 @@
    "desc": "president of the United States",
    "cause": "to a carpenter working on his house",
    "last_words": "Good morning, Robert.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
    "died": "5 January 1933"
   }

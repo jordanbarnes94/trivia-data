@@ -9,8 +9,10 @@
    "desc": "Italian Dominican friar",
    "cause": "when asked before his execution if he was resigned to death",
    "last_words": "My Lord died innocent of all crimes, for my sins; and shall not I willingly give my soul for the love of Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Girolamo_Savonarola",
-   "born": "21 September 1452"
+   "born": "21 September 1452",
+   "died": "23 May 1498"
   },
   {
    "year": 1868,
@@ -20,8 +22,10 @@
    "desc": "American frontiersman",
    "cause": null,
    "last_words": "Wish I had time for just one more bowl of chili.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kit_Carson",
-   "born": "24 December 1809"
+   "born": "24 December 1809",
+   "died": "23 May 1868"
   },
   {
    "year": 1906,
@@ -31,8 +35,10 @@
    "desc": "Norwegian playwright",
    "cause": "to his maid, who had said his health was improving",
    "last_words": "On the contrary!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henrik_Ibsen",
-   "born": "20 March 1828"
+   "born": "20 March 1828",
+   "died": "23 May 1906"
   },
   {
    "year": 1945,
@@ -42,8 +48,10 @@
    "desc": "German Nazi officer",
    "cause": "last words said during his suicide shortly after biting into a hidden potassium cyanide pill before collapsing dead onto the floor of the headquarters of the Second British Army in Lüneburg",
    "last_words": "I am Heinrich Himmler.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Himmler",
-   "born": "7 October 1900"
+   "born": "7 October 1900",
+   "died": "23 May 1945"
   },
   {
    "year": 1951,
@@ -53,8 +61,10 @@
    "desc": "United States Army Roman Catholic chaplain and Medal of Honor recipient",
    "cause": "dying in prisoner of war camp during the Korean War",
    "last_words": "As you see, I am crying too, not tears of pain but tears of joy, because I'll be with my God in a short time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emil_Kapaun",
-   "born": "20 April 1916"
+   "born": "20 April 1916",
+   "died": "23 May 1951"
   },
   {
    "year": 1969,
@@ -64,8 +74,10 @@
    "desc": "United States Air Force airman",
    "cause": "final transmission before crashing into the English Channel in a stolen aircraft",
    "last_words": "I'm doing all right, I'm doing all right, uh.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/United_States_Air_Force",
-   "born": null
+   "born": null,
+   "died": "23 May 1969"
   },
   {
    "year": 1999,
@@ -75,8 +87,10 @@
    "desc": "Canadian-American professional wrestler",
    "cause": "being interviewed on camera prior to fatal fall into ring at Over the Edge (1999) The 34-year-old Canadian professional wrestler fell to his death during the World Wrestling Federation's Over the Edge pay-per-view event. He was supposed to be lowered into the ring from the rafters as part of his Blue Blazer persona's entrance, but the equipment lowering him into the ring malfunctioned, causing him to fall 78 ft and land chest-first on the top rope. The impact severed his aorta, causing death within minutes.",
    "last_words": "Oooh, the Godfather, just saying his name makes my blue blood boil. OHHH! The Godfather, my arch nemesis, he represents everything that's wrong with the WWF. But fear not, because I, the Blue Blazer, will always triumph over evil doers, and you know why, because I always take my vitamins, say my prayers, and drink my milk, WHOOO!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Owen_Hart",
-   "born": "7 May 1965"
+   "born": "7 May 1965",
+   "died": "23 May 1999"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": null,
    "cause": "before dying at the Battle of Evesham",
    "last_words": "By the arm of St. James, it is time to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
    "died": "4 August 1265"
   },
@@ -99,6 +114,7 @@
    "desc": "Scottish anatomist and physician",
    "cause": null,
    "last_words": "If I had strength to hold a pen, I would write down how easy and pleasant a thing it is to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Hunter_(anatomist)",
    "died": "30 March 1783"
   },
@@ -110,6 +126,7 @@
    "desc": "English poet, author and humorist",
    "cause": null,
    "last_words": "Dying, Dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hood",
    "died": "3 May 1845"
   },
@@ -121,6 +138,7 @@
    "desc": "German aviation pioneer",
    "cause": "fatally injured in glider crash",
    "last_words": "Sacrifices must be made.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Otto_Lilienthal",
    "died": "10 August 1896"
   },
@@ -132,6 +150,7 @@
    "desc": "American actor and filmmaker",
    "cause": "to an attendant who asked how he was",
    "last_words": "Never felt better.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Douglas_Fairbanks",
    "died": "12 December 1939"
   },
@@ -143,6 +162,7 @@
    "desc": "German politician and lawyer",
    "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
    "last_words": "I am thankful for the kind of treatment during my captivity and I ask God to accept me with mercy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Frank",
    "died": "16 October 1946"
   },
@@ -154,6 +174,7 @@
    "desc": null,
    "cause": "The 42-year-old American author of Goodnight Moon was hospitalized, either for an inflamed appendix or for an ovarian cyst. To prove how healthy she was after treatment, she kicked her foot in the air, dislodging a blood clot in her leg. The blood clot quickly travelled to her brain, and she died in emergency surgery.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Wise_Brown",
    "died": "13 November 1952"
   },
@@ -165,6 +186,7 @@
    "desc": "British actor",
    "cause": null,
    "last_words": "Give me a fucking pre-med you fuckers, I'm a personal friend of Sir Lancelot Spratt.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vivian_MacKerrell",
    "died": "2 March 1995"
   }

@@ -9,8 +9,10 @@
    "desc": "former Queen of France",
    "cause": "looking at her formerly beautiful hands",
    "last_words": "Monsieur de Montaigu, consider what I owe to God, the favor He has shown me, and the great indulgence for which I am beholden to Him. Observe how they are swelled; time to depart.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anne_of_Austria",
-   "born": "22 September 1601"
+   "born": "22 September 1601",
+   "died": "20 January 1666"
   },
   {
    "year": 1779,
@@ -20,8 +22,10 @@
    "desc": "English actor, playwright, theatre manager and producer",
    "cause": null,
    "last_words": "Oh, dear!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_Garrick",
-   "born": "19 February 1717"
+   "born": "19 February 1717",
+   "died": "20 January 1779"
   },
   {
    "year": 1790,
@@ -31,8 +35,10 @@
    "desc": "English philanthropist and prison reformer",
    "cause": "dying of typhus contracted on a prison visit in Kherson",
    "last_words": "Suffer no pomp at my funeral, nor monumental inscription where I am laid. Lay me quietly in the earth and put a sun-dial over my grave, and let me be forgotten.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Howard_(prison_reformer)",
-   "born": "2 September 1726"
+   "born": "2 September 1726",
+   "died": "20 January 1790"
   },
   {
    "year": 1793,
@@ -42,8 +48,10 @@
    "desc": "French politician",
    "cause": "assassinated because he voted in favor of Louis XVI's execution the following day",
    "last_words": "I am cold.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis-Michel_le_Peletier,_marquis_de_Saint-Fargeau",
-   "born": "29 May 1760"
+   "born": "29 May 1760",
+   "died": "20 January 1793"
   },
   {
    "year": 1936,
@@ -53,8 +61,10 @@
    "desc": "king of the United Kingdom",
    "cause": "to a nurse giving him a sedative. The King was euthanized on the orders of his doctor, Bertrand Dawson, 1st Viscount Dawson of Penn",
    "last_words": "God damn you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_V",
-   "born": "3 June 1865"
+   "born": "3 June 1865",
+   "died": "20 January 1936"
   },
   {
    "year": 1937,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "The 33-year-old hatcheck girl was accidentally electrocuted by a homemade booby trap, consisting of powered wires hidden within drapes, that her fiance had installed after her apartment was broken into a few months prior. Falling onto one wire, with another dangling above her arm, she completed the circuit each time the dangling wire touched her; she died slowly from the repeating doses of electricity.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "20 January 1937"
   },
   {
    "year": 1985,
@@ -75,8 +87,10 @@
    "desc": "Czech-Canadian stuntman",
    "cause": "prior to fatal barrel drop from ceiling of Houston Astrodome",
    "last_words": "I'm ready. It feels good. It's a go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karel_Soucek",
-   "born": "19 April 1947"
+   "born": "19 April 1947",
+   "died": "20 January 1985"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": null,
    "cause": "when being advised to surrender, and to hand over his sword to the victors of the Battle of Alcácer Quibir",
    "last_words": "Royal freedom will only be lost with life",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_of_Portugal",
    "died": "4 August 1578"
   },
@@ -99,6 +114,7 @@
    "desc": "American folk and blues singer, musician and songwriter",
    "cause": null,
    "last_words": "Doctor, if I put this here guitar down now, I ain't never gonna wake up.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lead_Belly",
    "died": "6 December 1949"
   },
@@ -110,6 +126,7 @@
    "desc": "Soviet test pilot",
    "cause": "fatally injured in crash of Polikarpov I-180 fighter prototype",
    "last_words": "Do not blame anyone. It's my fault.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Valery_Chkalov",
    "died": "15 December 1938"
   },
@@ -121,6 +138,7 @@
    "desc": "American stock car racer",
    "cause": "inside his burning car after 24 May 1964 wreck during the World 600 at Charlotte Motor Speedway. Roberts survived for six weeks before dying of his injuries",
    "last_words": "My God, Ned, help me! I'm on fire!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Fireball_Roberts",
    "died": "2 July 1964"
   }

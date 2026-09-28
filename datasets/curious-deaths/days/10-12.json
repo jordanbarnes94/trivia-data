@@ -9,8 +9,10 @@
    "desc": "Greek statesman and orator",
    "cause": "to Archias of Thurii; Demosthenes had taken poison to avoid arrest by Archias",
    "last_words": "Now, as soon as you please you may commence the part of Creon in the tragedy, and cast out this body of mine unburied. But, O gracious Neptune, I, for my part, while I am yet alive, arise up and depart out of this sacred place; though Antipater and the Macedonians have not left so much as thy temple unpolluted.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Demosthenes",
-   "born": null
+   "born": null,
+   "died": "12 October 322 BC"
   },
   {
    "year": 1870,
@@ -20,8 +22,10 @@
    "desc": "United States and Confederate States soldier and general",
    "cause": null,
    "last_words": "Tell Hill he must come up! Strike the tent!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Lee",
-   "born": "19 January 1807"
+   "born": "19 January 1807",
+   "died": "12 October 1870"
   },
   {
    "year": 1915,
@@ -31,8 +35,10 @@
    "desc": "British nurse",
    "cause": "executed by firing squad in German-occupied Belgium for having helped Allied soldiers escape to the then-neutral Netherlands during World War I. She said this on the night before her execution to Reverend H. Stirling Gahan, the Anglican chaplain who had been allowed to see her and to give her Holy Communion",
    "last_words": "We shall meet again.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Cavell",
-   "born": "4 December 1865"
+   "born": "4 December 1865",
+   "died": "12 October 1915"
   },
   {
    "year": 1924,
@@ -42,8 +48,10 @@
    "desc": "French writer and journalist",
    "cause": null,
    "last_words": "So this is what it is like to die – it takes a long time!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anatole_France",
-   "born": "16 April 1844"
+   "born": "16 April 1844",
+   "died": "12 October 1924"
   },
   {
    "year": 1960,
@@ -53,8 +61,10 @@
    "desc": "then-chairman of the Japan Socialist Party",
    "cause": "criticizing the LDP, seconds before being stabbed with a wakizashi by 17-year-old Otoya Yamaguchi",
    "last_words": "During the election, they keep policies that would be unpopular with the public a secret, and then once they have won a majority in the election, they will...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Inejirō_Asanuma",
-   "born": "27 December 1898"
+   "born": "27 December 1898",
+   "died": "12 October 1960"
   },
   {
    "year": 1971,
@@ -64,8 +74,10 @@
    "desc": "American rock and roll and rockabilly musician",
    "cause": "dying of a bleeding ulcer while in his mother's trailer",
    "last_words": "Mama, if I get through this, I swear I'll be a better man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gene_Vincent",
-   "born": "11 February 1935"
+   "born": "11 February 1935",
+   "died": "12 October 1971"
   },
   {
    "year": 1992,
@@ -75,8 +87,10 @@
    "desc": "American scuba diver",
    "cause": "dying from decompression sickness after wreck dive aboard German submarine U-869",
    "last_words": "I'm dying. Tell Sue I'm sorry and that I love her.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Dive",
-   "born": null
+   "born": null,
+   "died": "12 October 1992"
   },
   {
    "year": 1997,
@@ -86,8 +100,10 @@
    "desc": "American singer-songwriter",
    "cause": "asking if he had transmitted a four-digit code properly prior to crash of his experimental Rutan Long-EZ aircraft",
    "last_words": "Do you have it now?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Denver",
-   "born": "31 December 1943"
+   "born": "31 December 1943",
+   "died": "12 October 1997"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "of England",
    "cause": null,
    "last_words": "Lord take my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_VI",
    "died": "6 July 1553"
   },
@@ -110,6 +127,7 @@
    "desc": "wife of Charles Wesley",
    "cause": null,
    "last_words": "Open the gates! Open the gates!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Wesley",
    "died": "28 December 1822"
   },
@@ -121,6 +139,7 @@
    "desc": "American Presbyterian minister",
    "cause": "quoting 2 Timothy 4:7-8",
    "last_words": "I have fought a good fight, I have finished my course, I have kept the faith; henceforth there is laid up for me a crown, which God, the righteous Judge, will give me at that day. That is my testimony-write it down.-That is my testimony.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lyman_Beecher",
    "died": "10 January 1863"
   },
@@ -132,6 +151,7 @@
    "desc": "Danish-American comedian and actor",
    "cause": "wrote it on his suicide note",
    "last_words": "To Frances and all my friends-goodbye",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Dane",
    "died": "14 April 1934"
   },
@@ -143,6 +163,7 @@
    "desc": "German Jewish philosopher and Discalced Carmelite nun",
    "cause": "to her sister Rosa prior to their deportation to the Auschwitz concentration camp, where they were killed in a mass gas chamber",
    "last_words": "Come, we are going for our people!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Stein",
    "died": "9 August 1942"
   }

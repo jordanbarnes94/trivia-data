@@ -9,8 +9,10 @@
    "desc": "Emir of Afghanistan",
    "cause": "to Habibullah Khan",
    "last_words": "My last words to you, my son and successor, are: Never trust the Russians.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abdur_Rahman_Khan",
-   "born": null
+   "born": null,
+   "died": "1 October 1901"
   }
  ],
  "born": [
@@ -22,6 +24,7 @@
    "desc": "English novelist and art collector",
    "cause": "in a message to his daughter",
    "last_words": "Come quick! Quick!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Beckford_(novelist)",
    "died": "2 May 1844"
   },
@@ -33,6 +36,7 @@
    "desc": "United States naval officer",
    "cause": "mortally wounded by British fire. His words became a popular naval battle cry",
    "last_words": "Don't give up the ship. Fight her till she sinks.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Lawrence",
    "died": "4 June 1813"
   },
@@ -44,6 +48,7 @@
    "desc": "Austrian actor and cabaret performer",
    "cause": "said prior to collapsing and dying of exhaustion in Buchenwald concentration camp",
    "last_words": "I am sick – I have a fever...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Morgan_(actor)",
    "died": "10 December 1938"
   },
@@ -55,6 +60,7 @@
    "desc": "American rock musician and traffic reporter",
    "cause": "prior to fatal crash of WNBC Radio helicopter into Hudson River",
    "last_words": "Hit the water! Hit the water! Hit the water!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Dornacker",
    "died": "22 October 1986"
   }

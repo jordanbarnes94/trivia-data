@@ -9,8 +9,10 @@
    "desc": "French politician and leader of the Royalist Vendéan insurrection",
    "cause": "mortally wounded at the Second Battle of Cholet. He was ordering the pardon of five thousand Republican prisoners whom his troops intended to kill",
    "last_words": "Pardon for the prisoners, Bonchamps commands it!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Bonchamps",
-   "born": "10 May 1760"
+   "born": "10 May 1760",
+   "died": "18 October 1793"
   },
   {
    "year": 1802,
@@ -20,8 +22,10 @@
    "desc": "French operatic soprano",
    "cause": "when a priest asked how much she had suffered",
    "last_words": "Ah! The times were good! It was I who was so unhappy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Arnould",
-   "born": "13 February 1740"
+   "born": "13 February 1740",
+   "died": "18 October 1802"
   },
   {
    "year": 1817,
@@ -31,8 +35,10 @@
    "desc": "Portuguese military officer",
    "cause": "sentenced to death after being accused of leading a conspiracy against the country's British military government in the name of King John VI",
    "last_words": "I have always loved the Fatherland and I was never a traitor. Forgive me, all; and you soldiers, who have always been my people, keep serving the Fatherland as always the Portuguese have.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gomes_Freire_de_Andrade",
-   "born": "27 January 1757"
+   "born": "27 January 1757",
+   "died": "18 October 1817"
   },
   {
    "year": 1862,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 21-year-old American baseball player from Manhattan died from abdominal pain, possibly caused by pitching or swinging at the ball, which likely gave him a ruptured bladder or a ruptured hernia.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Creighton",
-   "born": "15 April 1841"
+   "born": "15 April 1841",
+   "died": "18 October 1862"
   },
   {
    "year": 1865,
@@ -53,8 +61,10 @@
    "desc": "Prime Minister of the United Kingdom",
    "cause": "pondering diplomatic treaties",
    "last_words": "That's Article 98; now go on to the next.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_John_Temple,_3rd_Viscount_Palmerston",
-   "born": "20 October 1784"
+   "born": "20 October 1784",
+   "died": "18 October 1865"
   },
   {
    "year": 1931,
@@ -64,8 +74,10 @@
    "desc": "American inventor",
    "cause": "speaking words of unclear meaning as he was dying",
    "last_words": "It's very beautiful over there.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Edison",
-   "born": "11 February 1847"
+   "born": "11 February 1847",
+   "died": "18 October 1931"
   },
   {
    "year": 1984,
@@ -75,8 +87,10 @@
    "desc": "American actor and model",
    "cause": "prior to dying by accidental self-inflicted blank cartridge gunshot to the head The 26-year-old American actor died after playing a simulated Russian roulette with a .44 Magnum pistol loaded with blanks. They contained paper wadding and when he pulled the trigger against his temple, the wadding was propelled with a force that broke his skull, causing massive brain bleeding.",
    "last_words": "Can you believe this crap?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jon-Erik_Hexum",
-   "born": "5 November 1957"
+   "born": "5 November 1957",
+   "died": "18 October 1984"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "British Nonconformist minister and author",
    "cause": null,
    "last_words": "A life spent in the service of God, and communion with Him, is the most comfortable and pleasant life that any one can live in this present world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Henry",
    "died": "22 June 1714"
   },
@@ -99,6 +114,7 @@
    "desc": "English novelist and poet",
    "cause": "fatally burned while trying to save his library from a fire",
    "last_words": "By the Immortal God, I will not move.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Love_Peacock",
    "died": "23 January 1866"
   },
@@ -110,6 +126,7 @@
    "desc": null,
    "cause": "The 57-year-old Ukrainian-American film director died while shooting the TV miniseries World War III in Portland, Oregon, after he walked into the tail rotor blades of a helicopter and was partially decapitated.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Sagal",
    "died": "22 May 1981"
   },
@@ -121,6 +138,7 @@
    "desc": "accused of killing Kennedy and Tippit",
    "cause": "shortly before he was shot by Jack Ruby The 24-year old assassin of President John F. Kennedy was being led through the basement of the Dallas Police Headquarters to be transferred to the county jail when he was shot at point-blank range by local nightclub owner Jack Ruby. The entire incident was filmed and broadcast live by NBC, making it the first death and first murder to occur on a live television broadcast.",
    "last_words": "I want to see the American Civil Liberties Union.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald",
    "died": "24 November 1963"
   }

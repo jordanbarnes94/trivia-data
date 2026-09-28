@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The 1st Duke of Clarence was allegedly executed by drowning in a barrel of Malmsey wine, apparently his own choice once he accepted he was to be killed.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Plantagenet,_Duke_of_Clarence",
-   "born": "21 October 1449"
+   "born": "21 October 1449",
+   "died": "18 February 1478"
   },
   {
    "year": 1535,
@@ -20,8 +22,10 @@
    "desc": "German polymath and occultist",
    "cause": "to his black dog (allegedly his familiar)",
    "last_words": "Begone thou wretched beast, which hast utterly undone me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Cornelius_Agrippa",
-   "born": "14 September 1486"
+   "born": "14 September 1486",
+   "died": "18 February 1535"
   },
   {
    "year": 1546,
@@ -31,8 +35,10 @@
    "desc": "German theologian who started the Protestant Reformation",
    "cause": null,
    "last_words": "We are beggars, this is true.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther",
-   "born": "10 November 1483"
+   "born": "10 November 1483",
+   "died": "18 February 1546"
   },
   {
    "year": 1564,
@@ -42,8 +48,10 @@
    "desc": "Italian artist and poet",
    "cause": null,
    "last_words": "I'm still learning.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michelangelo",
-   "born": "6 March 1475"
+   "born": "6 March 1475",
+   "died": "18 February 1564"
   },
   {
    "year": 1820,
@@ -53,8 +61,10 @@
    "desc": "American alleged serial killer",
    "cause": "prior to execution by hanging",
    "last_words": "If any of you have a message for the devil, give it to me, for I am about to meet him!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lavinia_Fisher",
-   "born": null
+   "born": null,
+   "died": "18 February 1820"
   },
   {
    "year": 1886,
@@ -64,8 +74,10 @@
    "desc": "American temperance orator",
    "cause": "The inaudible final word may have been \"clean\"",
    "last_words": "Young man, keep your record-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bartholomew_Gough",
-   "born": "22 August 1817"
+   "born": "22 August 1817",
+   "died": "18 February 1886"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "of England",
    "cause": "French forces had captured Calais from England earlier that year",
    "last_words": "After I am dead, you will find Calais written upon my heart.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_I",
    "died": "17 November 1558"
   },
@@ -88,6 +101,7 @@
    "desc": "American financier and philanthropist",
    "cause": null,
    "last_words": "It is a great mystery, but I shall know all soon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Peabody",
    "died": "4 November 1869"
   },
@@ -99,6 +113,7 @@
    "desc": "Confederate brigadier general of the American Civil War",
    "cause": "prior to being mortally wounded at the Battle of Gettysburg",
    "last_words": "Give them the cold steel, boys.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Armistead",
    "died": "5 July 1863"
   },
@@ -110,6 +125,7 @@
    "desc": "American newspaper columnist",
    "cause": "to his wife",
    "last_words": "Snooks, will you please turn this way? I like to look at your face.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/O._O._McIntyre",
    "died": "14 February 1938"
   },
@@ -121,6 +137,7 @@
    "desc": "American college football player",
    "cause": "to Knute Rockne while dying of pneumonia",
    "last_words": "Some day, when things look real tough for Notre Dame [Notre Dame Fighting Irish football], ask the boys to go out there and win one for the Gipper.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Gipp",
    "died": "14 December 1920"
   },
@@ -132,6 +149,7 @@
    "desc": "Prime Minister of Iran",
    "cause": "during execution after the Iranian Revolution",
    "last_words": "It wasn't supposed to end like this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Amir-Abbas_Hoveyda",
    "died": "7 April 1979"
   },
@@ -143,6 +161,7 @@
    "desc": "American soldier",
    "cause": "to the attending military chaplain, before his execution for desertion",
    "last_words": "Okay, Father. I'll pray that you don't follow me too soon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Slovik",
    "died": "31 January 1945"
   }

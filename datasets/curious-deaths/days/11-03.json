@@ -9,8 +9,10 @@
    "desc": "English priest and theologian",
    "cause": null,
    "last_words": "Good Doctor, God hath heard my daily petitions, for I am at peace with all men, and He is at peace with me; and from that blessed assurance I feel that inward joy which this world can neither give nor take from me: my conscience beareth me this witness, and this witness makes the thoughts of death joyful. I could wish to live to do the Church more service, but cannot hope it, for my days are passed as a shadow that returns not.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Hooker",
-   "born": null
+   "born": "25 March 1554",
+   "died": "3 November 1600"
   },
   {
    "year": 1808,
@@ -20,8 +22,10 @@
    "desc": "English Unitarian theologian and clergyman",
    "cause": "to a friend who suggested that Lindsey was strengthened by the saying, \"Whatever is, is right\"",
    "last_words": "No, whatever is, is best.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theophilus_Lindsey",
-   "born": "20 June 1723"
+   "born": "20 June 1723",
+   "died": "3 November 1808"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "Roman poet",
    "cause": "forced to commit suicide after joining in a conspiracy against Nero. He died quoting lines from his own epic poem Pharsalia",
    "last_words": "Asunder flies the man- / No single wound the gaping rupture seems, / Where trickling crimson flows the tender streams; / But from an opening horrible and wide / A thousand vessels pour the bursting tide: / At once the winding channel's course was broke, / Where wandering life her mazy journey took.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucan",
    "died": "30 April 65"
   },
@@ -44,6 +49,7 @@
    "desc": "seventh Mughal emperor",
    "cause": "in a letter to his youngest son, Muhammad Kam Bakhsh",
    "last_words": "Wherever I look I see nothing but the Divinity.-I have committed numerous crimes and I know not with what punishments I may be seized.-The agonies of death come upon me fast.-I am going. Whatever good or evil I have done, it was for you. No one has seen the departure of his own soul; but I know that mine is departing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aurangzeb",
    "died": "3 March 1707"
   },
@@ -55,6 +61,7 @@
    "desc": "founder of Anglo Texas, Secretary of State of the Republic of Texas",
    "cause": null,
    "last_words": "Texas recognized! Archer told me so. Did you see it in the papers?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_F._Austin",
    "died": "27 December 1836"
   },
@@ -66,6 +73,7 @@
    "desc": "American poet, journalist and editor",
    "cause": "He had fallen and hit his head on the sidewalk; Miss Fairchild was his niece",
    "last_words": "Whose house is this? What street are we in? Why did you bring me here? Would you like to see Miss Fairchild?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Cullen_Bryant",
    "died": "12 June 1878"
   },
@@ -77,6 +85,7 @@
    "desc": "Italian opera composer",
    "cause": null,
    "last_words": "Perhaps some day they will hear my music without even saying 'Poor Bellini'.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Bellini",
    "died": "23 September 1835"
   },
@@ -88,6 +97,7 @@
    "desc": "Japanese cartoonist",
    "cause": "to a nurse who tried to take away his drawing equipment",
    "last_words": "I'm begging you, let me work!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Osamu_Tezuka",
    "died": "9 February 1989"
   }

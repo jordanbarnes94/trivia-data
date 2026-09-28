@@ -9,8 +9,10 @@
    "desc": "Archbishop of Canterbury",
    "cause": null,
    "last_words": "Yes, if it be His will, I shall obey it willingly. But were He to let me stay with you a little longer till I have resolved a problem about the origin of the soul, I would gladly accept the boon; for I do not know whether anyone will work it out when I am gone. If I could but eat, I think I should pick up a little strength. I feel no pain in any part of my body; only I cannot retain nourishment, and that exhausts me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
-   "born": null
+   "born": null,
+   "died": "21 April 1109"
   },
   {
    "year": 1142,
@@ -20,8 +22,10 @@
    "desc": "French philosopher and theologian",
    "cause": null,
    "last_words": "I don't know.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Peter_Abelard",
-   "born": null
+   "born": "12 February 1079",
+   "died": "21 April 1142"
   },
   {
    "year": 1509,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": null,
    "last_words": "We heartily desire our executors to consider how behoofful it is to be prayed for.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VII_of_England",
-   "born": "28 January 1457"
+   "born": "28 January 1457",
+   "died": "21 April 1509"
   },
   {
    "year": 1701,
@@ -42,8 +48,10 @@
    "desc": "daimyō of the Akō Domain in Japan",
    "cause": "death poem for his seppuku",
    "last_words": "I wish I could enjoy / the rest of Spring / as the cherry blossoms are yet in bloom / in spite of the spring breeze / which is attempting to blow off all their petals.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Asano_Naganori",
-   "born": "28 September 1667"
+   "born": "28 September 1667",
+   "died": "21 April 1701"
   },
   {
    "year": 1753,
@@ -53,8 +61,10 @@
    "desc": "English educator and clergyman",
    "cause": null,
    "last_words": "Christ Jesus the Saviour of sinners and life of the dead. I am going, going to Glory! Farewell sin! Farewell death! Praise the Lord!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Newton_(academic)",
-   "born": null
+   "born": "8 November 1676",
+   "died": "21 April 1753"
   },
   {
    "year": 1910,
@@ -64,8 +74,10 @@
    "desc": "American novelist",
    "cause": "to his daughter Clara",
    "last_words": "Give me my glasses.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain",
-   "born": "30 November 1835"
+   "born": "30 November 1835",
+   "died": "21 April 1910"
   },
   {
    "year": 1918,
@@ -75,8 +87,10 @@
    "desc": "or the Red Baron",
    "cause": "mortally wounded at the Fourth Battle of Ypres",
    "last_words": "Kaputt.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Manfred_von_Richthofen",
-   "born": "2 May 1892"
+   "born": "2 May 1892",
+   "died": "21 April 1918"
   },
   {
    "year": 1924,
@@ -86,8 +100,10 @@
    "desc": "Italian actress",
    "cause": null,
    "last_words": "We must stir ourselves. Move on! Work, work! Cover me! Must move on! Must work! Cover me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eleonora_Duse",
-   "born": "3 October 1858"
+   "born": "3 October 1858",
+   "died": "21 April 1924"
   },
   {
    "year": 1992,
@@ -97,8 +113,10 @@
    "desc": "American kidnapper and murderer",
    "cause": "prior to execution by gas chamber",
    "last_words": "You can be a king or a street sweeper, but everyone dances with the Grim Reaper.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Alton_Harris",
-   "born": "15 January 1953"
+   "born": "15 January 1953",
+   "died": "21 April 1992"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": null,
    "cause": "The Venetian Captain-General of Famagusta in Cyprus was gruesomely killed after the Ottomans took over the city. This was in contravention of negotiated safe passage after the Ottoman Empire took Famagusta. He was dragged around the walls with sacks of earth and stone on his back; next, he was tied to a chair and hoisted to the yardarm of the Turkish flagship, where he was exposed to the taunts of the sailors. Finally, he was taken to his place of execution in the main square, tied naked to a column, and flayed alive. Bragadin's skin was stuffed with straw and sewn, reinvested with his military insignia, and exhibited riding an ox in a mocking procession along the streets of Famagusta. The macabre trophy was hoisted upon the masthead pennant of the personal galley of the Ottoman commander, Amir al-bahr Mustafa Pasha, to be taken to Constantinople as a gift for Sultan Selim II. Bragadin's skin was stolen in 1580 by a Venetian seaman and brought back to Venice, where it was received as a returning hero.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Antonio_Bragadin",
    "died": "17 August 1571"
   },
@@ -121,6 +140,7 @@
    "desc": "English author",
    "cause": "addressing her husband Arthur",
    "last_words": "Oh, I am not going to die, am I? He will not separate us. We have been so happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Brontë",
    "died": "31 March 1855"
   },
@@ -132,6 +152,7 @@
    "desc": "American operatic baritone",
    "cause": "performing in La Forza del Destino at the Metropolitan Opera before dying on stage",
    "last_words": "He is safe! He is safe! Oh, joy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Warren",
    "died": "4 March 1960"
   }

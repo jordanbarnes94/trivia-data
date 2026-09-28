@@ -9,8 +9,10 @@
    "desc": "Russian major general and Decembrist",
    "cause": "he died mid-sentence as he was writing his memoirs",
    "last_words": "The Emperor said to me: 'I....'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sergey_Volkonsky",
-   "born": "8 December 1788"
+   "born": "8 December 1788",
+   "died": "10 December 1865"
   },
   {
    "year": 1936,
@@ -20,8 +22,10 @@
    "desc": "Italian playwright",
    "cause": null,
    "last_words": "The hearse, the horse, the driver and-enough!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Pirandello",
-   "born": "28 June 1867"
+   "born": "28 June 1867",
+   "died": "10 December 1936"
   },
   {
    "year": 1938,
@@ -31,8 +35,10 @@
    "desc": "Austrian actor and cabaret performer",
    "cause": "said prior to collapsing and dying of exhaustion in Buchenwald concentration camp",
    "last_words": "I am sick – I have a fever...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Morgan_(actor)",
-   "born": "1 October 1886"
+   "born": "1 October 1886",
+   "died": "10 December 1938"
   },
   {
    "year": 1946,
@@ -42,8 +48,10 @@
    "desc": "American newspaperman and short-story writer",
    "cause": null,
    "last_words": "You can keep the things of bronze and stone and give me one man to remember me just once a year.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Damon_Runyon",
-   "born": "4 October 1884"
+   "born": "4 October 1884",
+   "died": "10 December 1946"
   },
   {
    "year": 1968,
@@ -53,8 +61,10 @@
    "desc": "Swiss Reformed theologian",
    "cause": "over the telephone to his friend Eduard Thurneysen",
    "last_words": "God sits in the regiments! That is why I am not afraid. Stay confident in also the darkest moments! Let us hope not fall, the hope for all people, for all the peoples of the world. God let us not fall, not a single one of us and all of us together. It is governed.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Barth",
-   "born": "10 May 1886"
+   "born": "10 May 1886",
+   "died": "10 December 1968"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "American poet",
    "cause": null,
    "last_words": "I must go in, for the fog is rising. (when offered a drink of water) Oh, is that all it is?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Dickinson",
    "died": "15 May 1886"
   }

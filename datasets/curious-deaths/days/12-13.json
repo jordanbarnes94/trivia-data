@@ -9,8 +9,10 @@
    "desc": "English philosopher and deist",
    "cause": null,
    "last_words": "I have always endeavored, to the best of my ability, to serve God, my king and my country. I go to the place God has designed for those who love him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Collins_(philosopher)",
-   "born": "21 June 1676"
+   "born": "21 June 1676",
+   "died": "13 December 1729"
   },
   {
    "year": 1769,
@@ -20,8 +22,10 @@
    "desc": "German poet",
    "cause": "on being told he had only an hour to live",
    "last_words": "Now, God be praised, only one hour!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Fürchtegott_Gellert",
-   "born": "4 July 1715"
+   "born": "4 July 1715",
+   "died": "13 December 1769"
   },
   {
    "year": 1784,
@@ -31,8 +35,10 @@
    "desc": "English writer",
    "cause": "to Miss Morris, a young woman",
    "last_words": "God bless you, my dear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Johnson",
-   "born": "18 September 1709"
+   "born": "18 September 1709",
+   "died": "13 December 1784"
   },
   {
    "year": 1863,
@@ -42,8 +48,10 @@
    "desc": "English surgeon",
    "cause": "breathing with difficulty on his deathbed and then taking his own pulse",
    "last_words": "Congestion. Stopped.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Henry_Green",
-   "born": "1 November 1791"
+   "born": "1 November 1791",
+   "died": "13 December 1863"
   },
   {
    "year": 1945,
@@ -53,8 +61,10 @@
    "desc": "SS concentration camp guard",
    "cause": "prior to her execution by hanging",
    "last_words": "Quick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Irma_Grese",
-   "born": "7 October 1923"
+   "born": "7 October 1923",
+   "died": "13 December 1945"
   },
   {
    "year": 1979,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "While attending a 9 December NFL game at Shea Stadium, the 20-year-old native of Nashua, New Hampshire was struck in the head by a radio-controlled aircraft shaped like a lawn mower being flown by a local model plane club during halftime. He died four days later. Another spectator was also injured, but recovered.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "13 December 1979"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "ex-King of Sweden",
    "cause": "when dying in prison from arsenic poisoning, quoting Jesus",
    "last_words": "Lord God, into Thy Holy Hands I commit my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eric_XIV_of_Sweden",
    "died": "26 February 1577"
   },
@@ -88,6 +101,7 @@
    "desc": null,
    "cause": "while being assassinated by stabbing",
    "last_words": "I am wounded.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_IV_of_France",
    "died": "14 May 1610"
   },
@@ -99,6 +113,7 @@
    "desc": "German writer and literary critic",
    "cause": null,
    "last_words": "Write! Write! Write! Paper! Pencil!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine",
    "died": "17 February 1856"
   },
@@ -110,6 +125,7 @@
    "desc": "FRS, English Anglican priest and ecclesiastical historian",
    "cause": "final recorded words",
    "last_words": "I wish Vaughan to preach my funeral sermon, because he has known me longest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Penrhyn_Stanley",
    "died": "18 July 1881"
   },
@@ -121,6 +137,7 @@
    "desc": "American Episcopal clergyman and author, Bishop of Massachusetts",
    "cause": "final written words",
    "last_words": "There is no other life but the eternal.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Phillips_Brooks",
    "died": "23 January 1893"
   }

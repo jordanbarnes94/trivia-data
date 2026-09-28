@@ -9,8 +9,10 @@
    "desc": "English novelist",
    "cause": "to her sister Charlotte",
    "last_words": "If you will send for a doctor I will see him now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Brontë",
-   "born": "30 July 1818"
+   "born": "30 July 1818",
+   "died": "19 December 1848"
   },
   {
    "year": 1878,
@@ -20,8 +22,10 @@
    "desc": "American poet, literary critic, translator, travel author and diplomat",
    "cause": null,
    "last_words": "I want, oh, you know what I mean, the stuff of life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bayard_Taylor",
-   "born": "11 January 1825"
+   "born": "11 January 1825",
+   "died": "19 December 1878"
   },
   {
    "year": 1905,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "The daughter of a farmer in Watervale near Murrumburrah in New South Wales was killed when one of a group of horses attempting to escape from a paddock knocked her down, causing her neck to snap.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "19 December 1905"
   },
   {
    "year": 1908,
@@ -42,8 +48,10 @@
    "desc": "American baseball player",
    "cause": "said to his friend before committing suicide with a shotgun",
    "last_words": "Watch me do a trick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Reddy_Foster",
-   "born": null
+   "born": null,
+   "died": "19 December 1908"
   },
   {
    "year": 1941,
@@ -53,8 +61,10 @@
    "desc": "Canadian Army officer",
    "cause": "over the radio to his commanders prior to leaving his headquarters building during the Battle of Hong Kong",
    "last_words": "Going outside to fight it out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_K._Lawson",
-   "born": "27 December 1887"
+   "born": "27 December 1887",
+   "died": "19 December 1941"
   },
   {
    "year": 1945,
@@ -64,8 +74,10 @@
    "desc": "British fascist",
    "cause": "to his executioner, Albert Pierrepoint, prior to hanging for high treason",
    "last_words": "Oh Pierrepoint.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Amery",
-   "born": "14 March 1912"
+   "born": "14 March 1912",
+   "died": "19 December 1945"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "American physicist",
    "cause": "writing in a scientific log",
    "last_words": "The following is a report on the measurement of the velocity of light made at the Irvine Ranch, near Santa Ana, California, during the period of September 1929 to-.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_A._Michelson",
    "died": "9 May 1931"
   },
@@ -88,6 +101,7 @@
    "desc": "Ottoman prince",
    "cause": "note found in his pocket after he starved to death in a French public park",
    "last_words": "If I die, do not blame anyone because I am starving. I was making a living by playing piano in a movie theater. Now I can not find this job either. You bury me as a Muslim.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Şehzade_Ahmed_Nuri",
    "died": "7 August 1944"
   },
@@ -99,6 +113,7 @@
    "desc": "French singer-songwriter",
    "cause": "to her sister",
    "last_words": "All the damn fool things you do in life you pay for.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Édith_Piaf",
    "died": "10 October 1963"
   }

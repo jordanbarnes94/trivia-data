@@ -9,8 +9,10 @@
    "desc": "English actor and theater manager",
    "cause": null,
    "last_words": "My hope is in Christ.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bannister_(actor)",
-   "born": "12 May 1760"
+   "born": "12 May 1760",
+   "died": "7 November 1836"
   },
   {
    "year": 1850,
@@ -20,8 +22,10 @@
    "desc": "French poet and dramatist",
    "cause": "to his confessor",
    "last_words": "Ah! Coquereau, I forgot to mention one of the greatest faults of my life. I have spoken badly of Charles X!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Félix_Arvers",
-   "born": "23 July 1806"
+   "born": "23 July 1806",
+   "died": "7 November 1850"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "French mathematician",
    "cause": "responding to the question \"What is the square of 12?\" on his deathbed",
    "last_words": "One hundred and forty-four.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Fantet_de_Lagny",
    "died": "11 April 1734"
   },
@@ -44,6 +49,7 @@
    "desc": "Polish scientist",
    "cause": "upon being offered a painkilling injection",
    "last_words": "I don't want it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Skłodowska_Curie",
    "died": "4 July 1934"
   }

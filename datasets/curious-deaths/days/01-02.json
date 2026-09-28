@@ -9,8 +9,10 @@
    "desc": "Chilean poet",
    "cause": "after regaining consciousness, he confessed to his loved ones that he was afraid and made his friend Henriette Petit cry when he stared at her and shouted this expression",
    "last_words": "You ass-face!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vicente_Huidobro",
-   "born": "10 January 1893"
+   "born": "10 January 1893",
+   "died": "2 January 1948"
   }
  ],
  "born": [
@@ -22,6 +24,7 @@
    "desc": "British Army general",
    "cause": "mortally wounded at the Battle of the Plains of Abraham, on learning that the French forces were fleeing",
    "last_words": "Go, one of you, to Colonel Burton; tell him to march Webb's regiment down to Charles River, to cut off their retreat from the bridge. Now, God be praised, I will die in peace!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Wolfe",
    "died": "13 September 1759"
   },
@@ -33,6 +36,7 @@
    "desc": "French Catholic Carmelite nun and mystic",
    "cause": null,
    "last_words": "My God, I love You!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thérèse_of_Lisieux",
    "died": "30 September 1897"
   },
@@ -44,6 +48,7 @@
    "desc": "VC, Canadian Expeditionary Force officer",
    "cause": "mortally wounded at the Battle of Moreuil Wood in World War I",
    "last_words": "Carry on boys. We have won.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gordon_Flowerdew",
    "died": "31 March 1918"
   },
@@ -55,6 +60,7 @@
    "desc": "Swedish nobleman and diplomat",
    "cause": "on being wished good luck by a journalist prior to his assassination",
    "last_words": "I'll need it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Folke_Bernadotte",
    "died": "17 September 1948"
   }

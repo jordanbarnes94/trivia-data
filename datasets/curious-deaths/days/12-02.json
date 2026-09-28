@@ -9,8 +9,10 @@
    "desc": "American abolitionist",
    "cause": "final written words prior to execution by hanging",
    "last_words": "I, John Brown, am now quite certain that the crimes of this guilty land will never be purged away but with Blood. I had, as I now think, vainly flattered myself that without very much bloodshed it might be done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_(abolitionist)",
-   "born": "9 May 1800"
+   "born": "9 May 1800",
+   "died": "2 December 1859"
   },
   {
    "year": 1985,
@@ -20,8 +22,10 @@
    "desc": "English poet and novelist",
    "cause": "to his nurse",
    "last_words": "I am going to the inevitable.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Larkin",
-   "born": "9 August 1922"
+   "born": "9 August 1922",
+   "died": "2 December 1985"
   },
   {
    "year": 1986,
@@ -31,8 +35,10 @@
    "desc": "Cuban-American bandleader, actor and film and television producer",
    "cause": "over the phone to his former wife, Lucille Ball",
    "last_words": "I love you too, honey. Good luck with your show.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Desi_Arnaz",
-   "born": "2 March 1917"
+   "born": "2 March 1917",
+   "died": "2 December 1986"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Irish soldier, major general in the Continental Army",
    "cause": "killed at the Battle of Quebec (1775)",
    "last_words": "What news from Boston?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Montgomery",
    "died": "31 December 1775"
   },
@@ -55,6 +62,7 @@
    "desc": null,
    "cause": null,
    "last_words": "May God grant me these last wishes-peace and prosperity for Brazil.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil",
    "died": "5 December 1891"
   },
@@ -66,6 +74,7 @@
    "desc": "British conductor",
    "cause": "to his wife after awakening during the night",
    "last_words": "Anyway, I can get a good rest in the morning. There's no rehearsal till three.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Barbirolli",
    "died": "29 July 1970"
   }

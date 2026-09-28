@@ -1,6 +1,20 @@
 {
  "date": "10-30",
- "died": [],
+ "died": [
+  {
+   "year": 1858,
+   "year_label": "1858",
+   "name": "Victims of the 1858 Bradford sweets poisoning",
+   "kind": "group",
+   "desc": null,
+   "cause": "In Bradford, England, a batch of sweets accidentally poisoned with arsenic trioxide were sold by William Hardaker, colloquially referred to as \"Humbug Billy\". Around five boxes of sweets were delivered and sold. Around 20 people died and 200 people suffered from the effects of the poison.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/1858_Bradford_sweets_poisoning",
+   "born": null,
+   "died": "30 October 1858"
+  }
+ ],
  "born": [
   {
    "year": 1751,
@@ -10,6 +24,7 @@
    "desc": "Irish satirist, playwright and poet",
    "cause": "dying in poverty",
    "last_words": "I am absolutely undone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan",
    "died": "7 July 1816"
   },
@@ -21,6 +36,7 @@
    "desc": "French poet",
    "cause": "to his friend and fellow poet Jean-Antoine Roucher prior to their executions by guillotine",
    "last_words": "Yet I had something there!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/André_Chénier",
    "died": "25 July 1794"
   },
@@ -32,6 +48,7 @@
    "desc": null,
    "cause": "The 35-year-old American baseball player for the Phillies died after being removed from a train due to drunken horseplay, falling off International Bridge above Niagara Falls. Sam Kingston, a local night watchman, was the last to see him alive, reportedly scuffling with him. Kingston's account of the incident was spotty and inconsistent; it is unclear whether Delahanty was intentionally pushed, accidentally fell, or decided to jump.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ed_Delahanty",
    "died": "2 July 1903"
   },
@@ -43,6 +60,7 @@
    "desc": "American evangelist, founder of Bob Jones University",
    "cause": "to his wife before entering semi-coma",
    "last_words": "Mary Gaston, get my shoes; I must go to preach.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Jones_Sr.",
    "died": "16 January 1968"
   }

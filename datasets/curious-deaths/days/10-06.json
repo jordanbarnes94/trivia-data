@@ -9,8 +9,10 @@
    "desc": "English scholar and Bible translator",
    "cause": "before being strangled and burned at the stake for heresy",
    "last_words": "Lord, open the King of England's eyes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Tyndale",
-   "born": null
+   "born": null,
+   "died": "6 October 1536"
   },
   {
    "year": 1660,
@@ -20,8 +22,10 @@
    "desc": "French poet, dramatist and novelist",
    "cause": null,
    "last_words": "Ah! mes enfans, you cannot cry as much for me as I have made you laugh in my time! I never thought that it was so easy a matter to laugh at the approach of death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Scarron",
-   "born": "4 July 1610"
+   "born": "4 July 1610",
+   "died": "6 October 1660"
   },
   {
    "year": 1892,
@@ -31,8 +35,10 @@
    "desc": "FRS, Poet Laureate of the United Kingdom",
    "cause": "He then blessed his wife and son",
    "last_words": "I have opened it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred,_Lord_Tennyson",
-   "born": "6 August 1809"
+   "born": "6 August 1809",
+   "died": "6 October 1892"
   },
   {
    "year": 1989,
@@ -42,8 +48,10 @@
    "desc": "American actress",
    "cause": "spoken to a nurse before she died",
    "last_words": "I'm so tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bette_Davis",
-   "born": "5 April 1908"
+   "born": "5 April 1908",
+   "died": "6 October 1989"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English Protestant martyr",
    "cause": "while being burned at the stake for heresy",
    "last_words": "Merciful Father of heaven, for Jesus Christ my Savior's sake, receive my soul into Thy hand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rowland_Taylor",
    "died": "9 February 1555"
   },
@@ -66,6 +75,7 @@
    "desc": "KB, British Army officer",
    "cause": "mortally wounded at the Battle of Queenston Heights",
    "last_words": "Push on the York Volunteers.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Brock",
    "died": "13 October 1812"
   },
@@ -77,6 +87,7 @@
    "desc": "United States naval officer",
    "cause": "mortally wounded while commanding USS Enterprise in the capture of HMS Boxer",
    "last_words": "Now I am satisfied; I die contented.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Ward_Burrows_II",
    "died": "5 September 1813"
   },
@@ -88,6 +99,7 @@
    "desc": "American lawyer, city planner and civic leader",
    "cause": "to his murderer, Cornelius Williams",
    "last_words": "I don't know you, I tell you, and you must go away from here.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Haswell_Green",
    "died": "13 November 1903"
   },
@@ -99,6 +111,7 @@
    "desc": "President of Syria",
    "cause": "to Émile Lahoud, the President of Lebanon",
    "last_words": "Our destiny is to build a better future for our countries, a safe future for our children. We have to give them something better than we inherited.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hafez_al-Assad",
    "died": "10 June 2000"
   }

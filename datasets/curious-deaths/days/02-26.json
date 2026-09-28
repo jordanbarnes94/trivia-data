@@ -9,8 +9,10 @@
    "desc": "ex-King of Sweden",
    "cause": "when dying in prison from arsenic poisoning, quoting Jesus",
    "last_words": "Lord God, into Thy Holy Hands I commit my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eric_XIV_of_Sweden",
-   "born": "13 December 1533"
+   "born": "13 December 1533",
+   "died": "26 February 1577"
   }
  ],
  "born": [
@@ -22,6 +24,7 @@
    "desc": "English clergyman and writer",
    "cause": null,
    "last_words": "Precious salvation!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Hervey",
    "died": "25 December 1758"
   },
@@ -33,6 +36,7 @@
    "desc": "American military officer",
    "cause": "Marion was an enslaver who committed wartime atrocities",
    "last_words": "Thank God since I came to man's estate, I have never intentionally done wrong to anyone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Marion",
    "died": "27 February 1795"
   },
@@ -44,6 +48,7 @@
    "desc": "French mathematician, physicist and astronomer",
    "cause": "to his associate Jean-Baptiste Biot",
    "last_words": "I intend to resign my situation of perpetual secretary to the Academy, since I can no longer discharge its duties.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Arago",
    "died": "2 October 1853"
   },
@@ -55,6 +60,7 @@
    "desc": "French novelist",
    "cause": null,
    "last_words": "This is the fight of day and night. I see black light.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Hugo",
    "died": "22 May 1885"
   },
@@ -66,6 +72,7 @@
    "desc": null,
    "cause": "when the priest placed his hands on his head after performing the last rites",
    "last_words": "How good!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
    "died": "1 November 1894"
   },
@@ -77,6 +84,7 @@
    "desc": "American animator",
    "cause": "to an animator while watching a baseball game, according to Chuck Jones",
    "last_words": "I don't know where animators go when they die, but I guess there must be a lot of them. They could probably use a good director though.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tex_Avery",
    "died": "26 August 1980"
   },
@@ -88,6 +96,7 @@
    "desc": "American actor, comedian, writer, composer, and conductor",
    "cause": null,
    "last_words": "I always knew what I was doing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Gleason",
    "died": "24 June 1987"
   }

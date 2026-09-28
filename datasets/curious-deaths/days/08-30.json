@@ -9,8 +9,10 @@
    "desc": "King of France",
    "cause": null,
    "last_words": "Our Lady of Embrun, my good mistress, help me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XI",
-   "born": "3 July 1423"
+   "born": "3 July 1423",
+   "died": "30 August 1483"
   },
   {
    "year": 1863,
@@ -20,8 +22,10 @@
    "desc": "Australian bushranger",
    "cause": "shot in the throat by police",
    "last_words": "Tell them I died game.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Fred_Lowry",
-   "born": null
+   "born": null,
+   "died": "30 August 1863"
   },
   {
    "year": 1935,
@@ -31,8 +35,10 @@
    "desc": "French novelist and Communist",
    "cause": "referring to the Second Italo-Ethiopian War",
    "last_words": "Telephone and say that they must still enlarge it–Always larger, broader, more universal–It's the only means of saving the world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Barbusse",
-   "born": "17 May 1873"
+   "born": "17 May 1873",
+   "died": "30 August 1935"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Venetian ambassador, librarian and historian",
    "cause": null,
    "last_words": "How beautiful!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Giovan_Battista_Nani",
    "died": "5 November 1678"
   },
@@ -55,6 +62,7 @@
    "desc": "Scottish literary scholar",
    "cause": "to his hiking companions on the Pizzo Bianco before suffering a heart attack",
    "last_words": "I thought this was the most beautiful spot in the world, and now I know it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._P._Ker",
    "died": "17 July 1923"
   },
@@ -66,6 +74,7 @@
    "desc": "United States Senator",
    "cause": "after being fatally shot",
    "last_words": "I wonder why he shot me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Huey_Long",
    "died": "10 September 1935"
   }

@@ -9,8 +9,10 @@
    "desc": "Czech scholastic philosopher and theologian",
    "cause": "burned for heresy",
    "last_words": "O Lord God, Father Almighty, have mercy upon me, and be merciful unto mine offences, for thou knowest how sincerely I have loved Thy truth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jerome_of_Prague",
-   "born": null
+   "born": null,
+   "died": "30 May 1416"
   },
   {
    "year": 1431,
@@ -20,8 +22,10 @@
    "desc": "French military leader and mystic",
    "cause": "while she was burning at the stake",
    "last_words": "Hold the cross high so I may see it through the flames!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc",
-   "born": null
+   "born": null,
+   "died": "30 May 1431"
   },
   {
    "year": 1574,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Nurse, nurse, what murder! what blood! Oh! I have done wrong. God pardon me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_IX_of_France",
-   "born": "27 June 1550"
+   "born": "27 June 1550",
+   "died": "30 May 1574"
   },
   {
    "year": 1744,
@@ -42,8 +48,10 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I am dying, sir, of a hundred good symptoms.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pope",
-   "born": "21 May 1688"
+   "born": "21 May 1688",
+   "died": "30 May 1744"
   },
   {
    "year": 1778,
@@ -53,8 +61,10 @@
    "desc": "French writer",
    "cause": "when asked by a priest to renounce Satan before his death",
    "last_words": "Now is not the time for making new enemies.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Voltaire",
-   "born": "21 November 1694"
+   "born": "21 November 1694",
+   "died": "30 May 1778"
   },
   {
    "year": 1832,
@@ -64,8 +74,10 @@
    "desc": "FRS FRSE, Scottish jurist, politician and historian",
    "cause": null,
    "last_words": "Happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Mackintosh",
-   "born": "24 October 1765"
+   "born": "24 October 1765",
+   "died": "30 May 1832"
   },
   {
    "year": 1882,
@@ -75,8 +87,10 @@
    "desc": "founder and first president of the Massachusetts Institute of Technology",
    "cause": "while giving a commencement address",
    "last_words": "As I stand here today and see what the Institute is, what it has already accomplished, and what it is at present doing, I call to mind the beginnings of science. I remember that one hundred and fifty years ago Stephen Hales published a pamphlet on the subject of illuminating gas, in which he stated that his researchers had demonstrated that 128 grains of bituminous coal -",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Barton_Rogers",
-   "born": "7 December 1804"
+   "born": "7 December 1804",
+   "died": "30 May 1882"
   },
   {
    "year": 1946,
@@ -86,8 +100,10 @@
    "desc": null,
    "cause": "The 35-year-old Canadian physicist and Manhattan Project scientist died as the result of an accident while performing an experiment called \"tickling the dragon's tail\". Slotin used a screwdriver to separate two half sphere-shaped neutron deflectors enclosing a plutonium core which came to be known as the \"demon core\" to observe how much he can deflect the neutron without the core going over its critical mass. His screwdriver slipped, causing the top deflector to fully encase the core, resulting into a criticality accident that exposed him to a fatal dose of radiation. Slotin died 9 days later; the other people in the room observing the experiment survived.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Slotin",
-   "born": "1 December 1910"
+   "born": "1 December 1910",
+   "died": "30 May 1946"
   },
   {
    "year": 1960,
@@ -97,8 +113,10 @@
    "desc": "Russian author",
    "cause": "to his wife Zinaida",
    "last_words": "Why am I hemorrhaging?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Pasternak",
-   "born": "29 January 1890"
+   "born": "29 January 1890",
+   "died": "30 May 1960"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": "American voice actor and radio personality",
    "cause": "spoken in the voice of Yosemite Sam to his son Noel",
    "last_words": "I love you, Noel.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mel_Blanc",
    "died": "10 July 1989"
   },
@@ -121,6 +140,7 @@
    "desc": "American clarinetist",
    "cause": "to his friend Carol Smith, who discovered him pale and slumped on his couch after suffering an apparent heart attack",
    "last_words": "Don't worry. It's all right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benny_Goodman",
    "died": "13 June 1986"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": null,
    "last_words": "I am nothing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_Spain",
-   "born": "6 November 1661"
+   "born": "6 November 1661",
+   "died": "1 November 1700"
   },
   {
    "year": 1877,
@@ -20,8 +22,10 @@
    "desc": "Governor of Indiana and United States Senator",
    "cause": null,
    "last_words": "I am dying, I am worn out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_P._Morton",
-   "born": "4 August 1823"
+   "born": "4 August 1823",
+   "died": "1 November 1877"
   },
   {
    "year": 1894,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "when the priest placed his hands on his head after performing the last rites",
    "last_words": "How good!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_III_of_Russia",
-   "born": "26 February 1845"
+   "born": "26 February 1845",
+   "died": "1 November 1894"
   },
   {
    "year": 1907,
@@ -42,8 +48,10 @@
    "desc": "French symbolist writer",
    "cause": null,
    "last_words": "I am dying. Please... bring me a toothpick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Jarry",
-   "born": "8 September 1873"
+   "born": "8 September 1873",
+   "died": "1 November 1907"
   },
   {
    "year": 1929,
@@ -53,8 +61,10 @@
    "desc": "claimant of the titles of King and Emir of Afghanistan",
    "cause": "prior to execution",
    "last_words": "I have nothing to ask God, he has given me everything I desired. God has made me King.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Habibullāh_Kalakāni",
-   "born": "19 January 1890"
+   "born": "19 January 1890",
+   "died": "1 November 1929"
   },
   {
    "year": 1962,
@@ -64,8 +74,10 @@
    "desc": "Soviet Air Force colonel and balloonist",
    "cause": "to Yevgeni Nikolayevich Andreyev prior to jumping from a Volga balloon gondola at an altitude of 25600 m. Dolgov was killed when his pressure suit depressurized; Andreyev successfully reached the ground",
    "last_words": "Have a good trip!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pyotr_Dolgov",
-   "born": "21 February 1920"
+   "born": "21 February 1920",
+   "died": "1 November 1962"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "French poet and critic",
    "cause": "to a playwright who asked him to read his new play",
    "last_words": "Do you wish to hasten my last hour?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Boileau-Despréaux",
    "died": "13 March 1711"
   },
@@ -88,6 +101,7 @@
    "desc": "Prime Minister of the United Kingdom",
    "cause": "mortally wounded by gunshot",
    "last_words": "Oh!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Spencer_Perceval",
    "died": "11 May 1812"
   },
@@ -99,6 +113,7 @@
    "desc": "English surgeon",
    "cause": "breathing with difficulty on his deathbed and then taking his own pulse",
    "last_words": "Congestion. Stopped.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Henry_Green",
    "died": "13 December 1863"
   },
@@ -110,6 +125,7 @@
    "desc": "American author",
    "cause": null,
    "last_words": "When you come to the hedge that we must all go over, it isn't so bad. You feel sleepy, you don't care. Just a little dreamy anxiety, which world you're really in, that's all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Crane",
    "died": "5 June 1900"
   },
@@ -121,6 +137,7 @@
    "desc": "American rapist and murderer",
    "cause": "prior to execution by electrocution. In 2006, Coleman was found to be truly guilty due to DNA evidence",
    "last_words": "An innocent man is going to be murdered tonight. When my innocence is proven, I hope America will realize the injustice of the death penalty as all other civilized countries have. My last words are to the woman I love. Love is eternal. My love for you will last forever. I love you, Sharon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Roger_Keith_Coleman",
    "died": "20 May 1992"
   }

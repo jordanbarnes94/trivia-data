@@ -9,8 +9,10 @@
    "desc": "of Scotland",
    "cause": "on being informed of the birth of his daughter and successor, Mary, Queen of Scots",
    "last_words": "It [the Crown of Scotland] came with a lass, and it will go with a lass.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_V",
-   "born": "10 April 1512"
+   "born": "10 April 1512",
+   "died": "15 December 1542"
   },
   {
    "year": 1890,
@@ -20,8 +22,10 @@
    "desc": "Hunkpapa Lakota leader",
    "cause": "during unsuccessful attempt by police to arrest him",
    "last_words": "I am not going. Do with me what you like. I am not going. Come on! Come on! Take action! Let's go!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sitting_Bull",
-   "born": null
+   "born": null,
+   "died": "15 December 1890"
   },
   {
    "year": 1938,
@@ -31,8 +35,10 @@
    "desc": "Soviet test pilot",
    "cause": "fatally injured in crash of Polikarpov I-180 fighter prototype",
    "last_words": "Do not blame anyone. It's my fault.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Valery_Chkalov",
-   "born": "20 January 1904"
+   "born": "20 January 1904",
+   "died": "15 December 1938"
   },
   {
    "year": 1944,
@@ -42,8 +48,10 @@
    "desc": "U.S. Army Air Force lieutenant colonel",
    "cause": "in response to Glenn Miller asking where the parachutes were prior to flight from RAF Twinwood Farm to Paris. The plane disappeared while flying over the English Channel",
    "last_words": "What's the matter Miller, do you want to live forever?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Glenn_Miller",
-   "born": "1 March 1904"
+   "born": "1 March 1904",
+   "died": "15 December 1944"
   },
   {
    "year": 1965,
@@ -53,8 +61,10 @@
    "desc": "English author",
    "cause": "to his nephew Robin Maugham",
    "last_words": "Dying is a very dull, dreary affair. And my advice to you is to have nothing whatever to do with it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._Somerset_Maugham",
-   "born": "25 January 1874"
+   "born": "25 January 1874",
+   "died": "15 December 1965"
   },
   {
    "year": 1966,
@@ -64,8 +74,10 @@
    "desc": "American animation pioneer and businessman",
    "cause": "written on the bottom of a page",
    "last_words": "Ron Miller \\ Way Down Cellar \\ Kirt Russell \\ CIA – Mobley",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney",
-   "born": "5 December 1901"
+   "born": "5 December 1901",
+   "died": "15 December 1966"
   },
   {
    "year": 1983,
@@ -75,8 +87,10 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "Well, the Lord is going to get another one.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Eldon_Smith",
-   "born": "17 September 1930"
+   "born": "17 September 1930",
+   "died": "15 December 1983"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Roman emperor",
    "cause": "to a soldier trying to save him after his suicide",
    "last_words": "Too late; is this your fidelity?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nero",
    "died": "9 June 68"
   },
@@ -99,6 +114,7 @@
    "desc": "English cricketer",
    "cause": "fatally wounded during World War I",
    "last_words": "I led them to the end, they wavered I tried to keep them together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Hemingway",
    "died": "15 October 1915"
   }

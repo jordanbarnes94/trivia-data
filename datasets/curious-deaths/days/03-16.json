@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "According to an autopsy during her inquest, the 25-year-old woman, living in Redfern, New South Wales at the time, died from peritonitis due to an internal injury inflicted by Dr. Sabowiski with the intent of \"procuring abortion\".",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "16 March 1887"
   },
   {
    "year": 1892,
@@ -20,8 +22,10 @@
    "desc": "English historian and politician",
    "cause": "his final diary entry",
    "last_words": "Very weak. Rail to La Encina and Alicante.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Augustus_Freeman",
-   "born": "2 August 1823"
+   "born": "2 August 1823",
+   "died": "16 March 1892"
   },
   {
    "year": 1898,
@@ -31,8 +35,10 @@
    "desc": "English illustrator and author",
    "cause": null,
    "last_words": "I am imploring you – burn all the indecent poems and drawings.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aubrey_Beardsley",
-   "born": "21 August 1872"
+   "born": "21 August 1872",
+   "died": "16 March 1898"
   },
   {
    "year": 1938,
@@ -42,8 +48,10 @@
    "desc": "Austrian polymath",
    "cause": "before jumping out a window to avoid capture by Gestapo",
    "last_words": "Watch out, please.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Egon_Friedell",
-   "born": "21 January 1878"
+   "born": "21 January 1878",
+   "died": "16 March 1938"
   },
   {
    "year": 1995,
@@ -53,8 +61,10 @@
    "desc": "American rapper who propelled West Coast rap and gangsta rap by leading the group N.W.A and its label, Ruthless Records",
    "cause": "written as part of his final message to his fans while dying of AIDS. He slipped into a coma not long afterwards and died on March 26",
    "last_words": "Now, I'm in the biggest fight of my life and it ain't easy. But I want to say much love to those who have been down with me and thanks for all your support. Just remember, It's your real time and your real life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eazy-E",
-   "born": "7 September 1964"
+   "born": "7 September 1964",
+   "died": "16 March 1995"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Spanish conquistador",
    "cause": "after being stabbed by assassins",
    "last_words": "Jesu!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
    "died": "26 June 1541"
   },
@@ -77,6 +88,7 @@
    "desc": "president of the United States",
    "cause": "to his niece, who had asked him what was the matter",
    "last_words": "Nothing more than a change of mind, my dear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Madison",
    "died": "28 June 1836"
   },
@@ -88,6 +100,7 @@
    "desc": "Soviet cosmonaut",
    "cause": "final transmission before fatal crash of Soyuz 1 spacecraft",
    "last_words": "Thank you for transmitting all of that. [Separation] occurred. [garbled]",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Komarov",
    "died": "24 April 1967"
   }

@@ -9,8 +9,10 @@
    "desc": "Queen of England",
    "cause": "prior to her execution by beheading",
    "last_words": "Oh God, have pity on my soul. Oh God, have pity on my soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Boleyn",
-   "born": "5 May 1501"
+   "born": "5 May 1501",
+   "died": "19 May 1536"
   },
   {
    "year": 1885,
@@ -20,8 +22,10 @@
    "desc": "American swimming instructor",
    "cause": "after being fatally injured in dive off Brooklyn Bridge; a friend falsely reassured him that the fluid was only brandy",
    "last_words": "Am I spitting blood?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Emmet_Odlum",
-   "born": "31 August 1851"
+   "born": "31 August 1851",
+   "died": "19 May 1885"
   },
   {
    "year": 1895,
@@ -31,8 +35,10 @@
    "desc": "Cuban author and national hero",
    "cause": "addressing trooper Angel de la Guardia during the Battle of Dos Ríos",
    "last_words": "Charge, young man!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/José_Martí",
-   "born": "28 January 1853"
+   "born": "28 January 1853",
+   "died": "19 May 1895"
   },
   {
    "year": 1994,
@@ -42,11 +48,25 @@
    "desc": "former First Lady of the United States",
    "cause": "to her daughter Caroline and son John",
    "last_words": "Don't cry for me. I'm going to be with your father now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
-   "born": "28 July 1929"
+   "born": "28 July 1929",
+   "died": "19 May 1994"
   }
  ],
  "born": [
+  {
+   "year": 701,
+   "year_label": "701",
+   "name": "Li Bai",
+   "kind": "individual",
+   "desc": null,
+   "cause": "According to popular legend, the Chinese poet got drunk while riding his boat along the Yangtze River and tried to hug the moon's reflection. He then fell off and drowned.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Li_Bai",
+   "died": "30 November 762"
+  },
   {
    "year": 1762,
    "year_label": "1762",
@@ -55,6 +75,7 @@
    "desc": "German philosopher",
    "cause": "to an attendant who brought him medicine",
    "last_words": "Leave it alone; I need no medicine; I feel that I am well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
    "died": "29 January 1814"
   },
@@ -66,6 +87,7 @@
    "desc": "American serial killer, child rapist and cannibal",
    "cause": "prior to execution by electrocution",
    "last_words": "What a thrill it will be to die in the electric chair... the supreme thrill, the only one I haven't tried.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Fish",
    "died": "16 January 1936"
   },
@@ -77,6 +99,7 @@
    "desc": "American playwright and entrepreneur",
    "cause": "to a priest at his deathbed",
    "last_words": "Why should I talk to you? I've just been talking to your boss.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wilson_Mizner",
    "died": "3 April 1933"
   },
@@ -88,6 +111,7 @@
    "desc": "American-born British politician",
    "cause": "awakening on her deathbed to see her entire family around her. (Astor died 17 days before her birthday.)",
    "last_words": "Am I dying or is this my birthday?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Astor,_Viscountess_Astor",
    "died": "2 May 1964"
   },
@@ -99,6 +123,7 @@
    "desc": "American activist",
    "cause": "trying to calm a 400-person chaos shortly before being killed by gunfire from multiple assailants",
    "last_words": "Brothers! Brothers, please! This is a house of peace!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_X",
    "died": "21 February 1965"
   },
@@ -110,6 +135,7 @@
    "desc": "American astronaut",
    "cause": "last recorded transmission of Space Shuttle Challenger to air-to-ground voice loop from capsule communicator Richard O. Covey, who was stationed in Houston",
    "last_words": "*\"Roger, go at throttle up.\"",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_R._Scobee",
    "died": "28 January 1986"
   }

@@ -9,8 +9,10 @@
    "desc": "American outlaw",
    "cause": "examining a picture on his wall before being murdered by Robert Ford",
    "last_words": "That picture is awful dusty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_James",
-   "born": "5 September 1847"
+   "born": "5 September 1847",
+   "died": "3 April 1882"
   },
   {
    "year": 1897,
@@ -20,8 +22,10 @@
    "desc": "German composer",
    "cause": "after being given a glass of wine",
    "last_words": "Ah, that tastes nice. Thank you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johannes_Brahms",
-   "born": "7 May 1833"
+   "born": "7 May 1833",
+   "died": "3 April 1897"
   },
   {
    "year": 1933,
@@ -31,8 +35,10 @@
    "desc": "American playwright and entrepreneur",
    "cause": "to a priest at his deathbed",
    "last_words": "Why should I talk to you? I've just been talking to your boss.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wilson_Mizner",
-   "born": "19 May 1876"
+   "born": "19 May 1876",
+   "died": "3 April 1933"
   },
   {
    "year": 1991,
@@ -42,8 +48,10 @@
    "desc": "English novelist",
    "cause": "to his companion Yvonne Cloetta",
    "last_words": "Will it be an interesting experience? Will I find out what lies beyond the barrier? Why does it take so long to come?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Greene",
-   "born": "2 October 1904"
+   "born": "2 October 1904",
+   "died": "3 April 1991"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "Welsh-born poet, orator, and priest of the Church of England",
    "cause": null,
    "last_words": "I am now ready to die. Lord, forsake me not, now my strength faileth me; but grant me mercy for the merits of my Jesus. And now Lord-Lord, now receive my soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Herbert",
    "died": "1 March 1633"
   },
@@ -66,6 +75,7 @@
    "desc": "English surgeon",
    "cause": null,
    "last_words": "Is there anybody in the room?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Abernethy_(surgeon)",
    "died": "20 April 1831"
   },
@@ -77,6 +87,7 @@
    "desc": "American writer and diplomat",
    "cause": null,
    "last_words": "Well, I must arrange my pillows for another night – when will this end!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Washington_Irving",
    "died": "28 November 1859"
   },
@@ -88,6 +99,7 @@
    "desc": "California businessman",
    "cause": "repeating his lifelong catchphrase",
    "last_words": "By gad, I'm not licked yet.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Baldwin",
    "died": "1 March 1909"
   },
@@ -99,6 +111,7 @@
    "desc": "British Arabist and intelligence officer",
    "cause": null,
    "last_words": "I am so bored.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/St_John_Philby",
    "died": "30 September 1960"
   },
@@ -110,6 +123,7 @@
    "desc": "American astronaut",
    "cause": "during Apollo 1 launch rehearsal test moments before a deadly fire broke out",
    "last_words": "How are we going to get to the moon if we can't talk between two or three buildings?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gus_Grissom",
    "died": "27 January 1967"
   }

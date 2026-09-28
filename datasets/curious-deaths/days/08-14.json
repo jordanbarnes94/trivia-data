@@ -9,8 +9,10 @@
    "desc": "American educator",
    "cause": null,
    "last_words": "How easy - how easy - how easy to glide from work here to the work --",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Howard_Raymond",
-   "born": "7 March 1814"
+   "born": "7 March 1814",
+   "died": "14 August 1878"
   },
   {
    "year": 1941,
@@ -20,8 +22,10 @@
    "desc": "Polish Catholic priest, promoter of veneration of the Immaculate Virgin Mary",
    "cause": "injected with carbolic acid after two weeks of starvation in Auschwitz concentration camp. He had offered himself for starvation in the place of an inmate with a family",
    "last_words": "Love the immaculate, love the immaculate, love the immaculate.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_Kolbe",
-   "born": "8 January 1894"
+   "born": "8 January 1894",
+   "died": "14 August 1941"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": null,
    "cause": "quoting Matthew 5:10 while an incompetent executioner attempted to behead her",
    "last_words": "Blessed are they who suffer persecution for righteousness' sake.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Pole,_Countess_of_Salisbury",
    "died": "27 May 1541"
   },
@@ -44,6 +49,7 @@
    "desc": "Venetian historian, prelate, scientist, canon lawyer and statesman",
    "cause": "referring to Venice",
    "last_words": "Be thou everlasting.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paolo_Sarpi",
    "died": "15 January 1623"
   },
@@ -55,6 +61,7 @@
    "desc": "King in Prussia and Elector of Brandenburg",
    "cause": "in response to priest or family members quoting Job 1:21",
    "last_words": "No, not quite naked. I shall have my uniform on.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia",
    "died": "31 May 1740"
   },
@@ -66,6 +73,7 @@
    "desc": "American poet, journalist and editor",
    "cause": "when his wife asked him if he knew her",
    "last_words": "Why should I not know you, Mary?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Park_Benjamin_Sr.",
    "died": "12 September 1864"
   },
@@ -77,6 +85,7 @@
    "desc": "American gambler and gunfighter",
    "cause": "after a nurse refused him a whiskey",
    "last_words": "Damn. This is funny.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Doc_Holliday",
    "died": "8 November 1887"
   },
@@ -88,6 +97,7 @@
    "desc": "VC DSO2 MC, British World War I fighter ace",
    "cause": "said to a member of his ground crew before dying in a flying accident",
    "last_words": "I don't think so, I don't think so.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Ball",
    "died": "7 May 1917"
   }

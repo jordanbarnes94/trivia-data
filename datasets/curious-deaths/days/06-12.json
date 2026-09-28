@@ -9,8 +9,10 @@
    "desc": "English educator and historian",
    "cause": "to his physician, who had described his serious prognosis and treatment",
    "last_words": "Ah, very well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Arnold",
-   "born": "13 June 1795"
+   "born": "13 June 1795",
+   "died": "12 June 1842"
   },
   {
    "year": 1878,
@@ -20,8 +22,10 @@
    "desc": "American poet, journalist and editor",
    "cause": "He had fallen and hit his head on the sidewalk; Miss Fairchild was his niece",
    "last_words": "Whose house is this? What street are we in? Why did you bring me here? Would you like to see Miss Fairchild?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Cullen_Bryant",
-   "born": "3 November 1794"
+   "born": "3 November 1794",
+   "died": "12 June 1878"
   },
   {
    "year": 1918,
@@ -31,8 +35,10 @@
    "desc": "United States Marine Corps officer",
    "cause": "to his approaching medics, after being gassed and hit by German shrapnel during the Battle of Belleau Wood in World War I",
    "last_words": "Don't bother with me. Take care of my good men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_W._Williams",
-   "born": "5 January 1887"
+   "born": "5 January 1887",
+   "died": "12 June 1918"
   },
   {
    "year": 1987,
@@ -42,8 +48,10 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "Yeah, I think I'd rather be fishing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Glass_v._Louisiana",
-   "born": null
+   "born": null,
+   "died": "12 June 1987"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English priest, university professor and author",
    "cause": "quoting from the Burial Service in the Book of Common Prayer",
    "last_words": "Thou knowest, O Lord, the secrets of our hearts; shut not Thy merciful ears to our prayer, but spare us, O Lord most holy, O God most mighty, O holy and merciful Saviour, Thou most worthy Judge Eternal, suffer us not at our last hour, from any pains of death, to fall from Thee.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Kingsley",
    "died": "23 January 1875"
   },
@@ -66,6 +75,7 @@
    "desc": "Sudeten-American painter and studio photographer",
    "cause": "to his daughter Wanda",
    "last_words": "What Papa couldn't do, Wanda will have to finish.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Gag",
    "died": "22 May 1908"
   }

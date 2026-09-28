@@ -9,8 +9,10 @@
    "desc": "Italian cardinal, diplomat and politician",
    "cause": null,
    "last_words": "O, my poor soul, what is to become of thee? Whither wilt thou go?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Mazarin",
-   "born": "14 July 1602"
+   "born": "14 July 1602",
+   "died": "9 March 1661"
   },
   {
    "year": 1963,
@@ -20,8 +22,10 @@
    "desc": "American police officer",
    "cause": "just before being fatally shot, in response to his killer asking if he had heard of the Little Lindbergh Law",
    "last_words": "Yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ian_James_Campbell",
-   "born": null
+   "born": null,
+   "died": "9 March 1963"
   },
   {
    "year": 1981,
@@ -31,8 +35,10 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "I don't hold any grudges. This is my doing. Sorry it happened.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Judy",
-   "born": "24 May 1956"
+   "born": "24 May 1956",
+   "died": "9 March 1981"
   }
  ],
  "born": [
@@ -44,8 +50,21 @@
    "desc": null,
    "cause": null,
    "last_words": "Let me die to the sound of delicious music.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Honoré_Gabriel_Riqueti,_comte_de_Mirabeau",
    "died": "2 April 1791"
+  },
+  {
+   "year": 1768,
+   "year_label": "1768",
+   "name": "Tecumseh",
+   "kind": "individual",
+   "desc": "leader of the Shawnee",
+   "cause": "to his son",
+   "last_words": "So live your life that the fear of death can never enter your heart. Trouble no one about their religion; respect others in their view, and demand that they respect yours. Love your life, perfect your life, beautify all things in your life. Seek to make your life long and its purpose in the service of your people. Prepare a noble death song for the day when you go over the great divide.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Tecumseh",
+   "died": "10 September 1813"
   },
   {
    "year": 1773,
@@ -55,6 +74,7 @@
    "desc": "United States Navy Commodore",
    "cause": null,
    "last_words": "I strike my flag.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Hull",
    "died": "13 February 1843"
   },
@@ -66,6 +86,7 @@
    "desc": "Provisional Irish Republican Army volunteer and British Member of Parliament",
    "cause": "final diary entry during hunger strike",
    "last_words": "The day will dawn when all the people will have the desire for freedom ... And it's then that we'll see the rising of the moon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Sands",
    "died": "5 May 1981"
   }

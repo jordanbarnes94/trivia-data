@@ -9,8 +9,10 @@
    "desc": "Christian deacon",
    "cause": "while being burned alive on a gridiron",
    "last_words": "I am roasted,-now turn me, and eat me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Lawrence",
-   "born": "31 December 225"
+   "born": "31 December 225",
+   "died": "10 August 258"
   },
   {
    "year": 1896,
@@ -20,8 +22,10 @@
    "desc": "German aviation pioneer",
    "cause": "fatally injured in glider crash",
    "last_words": "Sacrifices must be made.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Otto_Lilienthal",
-   "born": "23 May 1848"
+   "born": "23 May 1848",
+   "died": "10 August 1896"
   },
   {
    "year": 1918,
@@ -31,8 +35,10 @@
    "desc": "VC , Canadian Expeditionary Force officer",
    "cause": "fatally wounded by enemy machine-gun fire during World War I",
    "last_words": "I am through. Take charge of the company. I won't be here long.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Brillant",
-   "born": "15 March 1890"
+   "born": "15 March 1890",
+   "died": "10 August 1918"
   },
   {
    "year": 1966,
@@ -42,8 +48,10 @@
    "desc": "American murderer",
    "cause": "when asked if he had any last words before his death by electric chair",
    "last_words": "Everything's already been said.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_French_(murderer)",
-   "born": "16 June 1936"
+   "born": "16 June 1936",
+   "died": "10 August 1966"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "Italian statesman, Prime Minister of Italy",
    "cause": "to Victor Emmanuel II of Italy, who had said he would see him tomorrow",
    "last_words": "No, Your Majesty, to-morrow you will not see me here.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Camillo_Benso,_Count_of_Cavour",
    "died": "6 June 1861"
   },
@@ -66,6 +75,7 @@
    "desc": "Confederate journalist, politician, orator and diplomat",
    "cause": "calling his wife's name",
    "last_words": "Sarah.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Lowndes_Yancey",
    "died": "27 July 1863"
   },
@@ -77,6 +87,7 @@
    "desc": "American financier",
    "cause": "having overheard a prayer for the dead",
    "last_words": "That was the right prayer.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jay_Cooke",
    "died": "16 February 1905"
   },
@@ -88,6 +99,7 @@
    "desc": "French director",
    "cause": "before being killed by his Norwegian wife",
    "last_words": "Kill me if you want, but stop bothering me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Gégauff",
    "died": "24 December 1983"
   }

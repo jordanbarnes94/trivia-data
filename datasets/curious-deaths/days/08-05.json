@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The king of West Francia died aged around 18 at Saint-Denis. While mounting his horse to pursue a girl who was running to seek refuge in her father's house, he hit his head on the lintel of a low door and fell, fracturing his skull.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_III_of_France",
-   "born": null
+   "born": null,
+   "died": "5 August 882"
   },
   {
    "year": 1941,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The friend of Errol Flynn was working as an extra on the film They Died with Their Boots On, starring Flynn and Olivia de Havilland. Budlong insisted on using a real saber rather than a prop one. While filming a cavalry charge, Budlong's horse was frightened by the sounds of simulated explosions and threw Budlong, causing him to impale himself with the sword.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "5 August 1941"
   },
   {
    "year": 1950,
@@ -31,8 +35,10 @@
    "desc": "United States Air Force fighter pilot and Medal of Honor recipient",
    "cause": "when urged by one of his wingmen to head for an emergency landing strip after being wounded during the Battle of Pusan Perimeter in the Korean War. Sebille then deliberately crashed into a North Korean convoy",
    "last_words": "No, I'll never make it. I'm going back and get that bastard.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_J._Sebille",
-   "born": "21 November 1915"
+   "born": "21 November 1915",
+   "died": "5 August 1950"
   },
   {
    "year": 1993,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "Six Kazakhstani hikers died in the Khamar-Daban mountain range in Buryatia under uncertain circumstances. According to Valentina Utochenko, the sole survivor of the seven-person hiking group, while descending the mountain, each of the climbers, except her, suffered from a mysterious symptom involving screaming, bleeding from eyes and ears, frothing at the mouth, and clawing at their throat or clothes before dying.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Khamar-Daban_incident",
-   "born": null
+   "born": null,
+   "died": "5 August 1993"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "French Calvinist religious leader and scholar",
    "cause": null,
    "last_words": "I begin to perceive and feel the joys of eternal life. I shall soon behold Him, who was sacrificed for men; I long for the blessed sight. All else is to me as dross: there is nothing that could make me wish to live one hour longer.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Justus_Scaliger",
    "died": "21 January 1609"
   },
@@ -66,6 +75,7 @@
    "desc": "Puritan missionary to the American Indians, founder of Roxbury Latin School",
    "cause": null,
    "last_words": "O, come in glory! I have long waited for Thy coming. Let no dark cloud rest on the work of the Indians. Let it live when I am dead. Welcome joy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Eliot_(missionary)",
    "died": "21 May 1690"
   },
@@ -77,6 +87,7 @@
    "desc": "1st Duke of Valencia, Spanish general and Prime Minister of Spain",
    "cause": null,
    "last_words": "I do not have to forgive my enemies. I have had them all shot.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ramón_María_Narváez",
    "died": "23 April 1868"
   },
@@ -88,6 +99,7 @@
    "desc": "Queen of Sweden and Norway",
    "cause": null,
    "last_words": "I am positioned between Heaven and Earth and feel like I am surrounded by nothing but light. Kiss me one last time! If I have failed in my duties toward you, then forgive me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louise_of_the_Netherlands",
    "died": "30 March 1871"
   },
@@ -99,6 +111,7 @@
    "desc": "English cricketer",
    "cause": "prior to fatally attempting to kill a German sniper during World War I",
    "last_words": "I'm going to have a shot at getting him in.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cyril_Rattigan",
    "died": "13 November 1916"
   },
@@ -110,6 +123,7 @@
    "desc": "17th Prime Minister of Australia",
    "cause": "he would subsequently disappear while swimming at Cheviot Beach, Victoria prior to disappearing while swimming at Cheviot Beach",
    "last_words": "I know this beach like the back of my hand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Holt",
    "died": "17 December 1967"
   }

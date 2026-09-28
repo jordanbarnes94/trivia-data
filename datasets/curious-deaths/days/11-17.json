@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The Roman emperor suffered a stroke which was provoked by yelling at foreign envoys in anger.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Valentinian_I",
-   "born": "3 July 321"
+   "born": "3 July 321",
+   "died": "17 November 375"
   },
   {
    "year": 1558,
@@ -20,8 +22,10 @@
    "desc": "of England",
    "cause": "French forces had captured Calais from England earlier that year",
    "last_words": "After I am dead, you will find Calais written upon my heart.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_I",
-   "born": "18 February 1516"
+   "born": "18 February 1516",
+   "died": "17 November 1558"
   },
   {
    "year": 1592,
@@ -31,8 +35,10 @@
    "desc": "King of Sweden",
    "cause": null,
    "last_words": "I know that my Redeemer liveth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_III_of_Sweden",
-   "born": "20 December 1537"
+   "born": "20 December 1537",
+   "died": "17 November 1592"
   },
   {
    "year": 1796,
@@ -42,8 +48,10 @@
    "desc": "empress of Russia",
    "cause": null,
    "last_words": "Water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Catherine_the_Great",
-   "born": "2 May 1729"
+   "born": "2 May 1729",
+   "died": "17 November 1796"
   },
   {
    "year": 1858,
@@ -53,8 +61,10 @@
    "desc": "Welsh textile manufacturer, philanthropist and social reformer",
    "cause": null,
    "last_words": "Relief has come.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Owen",
-   "born": "14 May 1771"
+   "born": "14 May 1771",
+   "died": "17 November 1858"
   },
   {
    "year": 1971,
@@ -64,8 +74,10 @@
    "desc": "English actress",
    "cause": "looking in a mirror",
    "last_words": "If this is what viral pneumonia does to one, I really don't think I shall bother to have it again.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gladys_Cooper",
-   "born": "18 December 1888"
+   "born": "18 December 1888",
+   "died": "17 November 1971"
   },
   {
    "year": 1991,
@@ -75,8 +87,10 @@
    "desc": null,
    "cause": "The 39-year-old American cave diver died in the partial collapse of an underwater cave during a dive at Indian Springs, Florida. Of the several hundred cave diving deaths in Florida between 1960 and 2010, Turner's was the only one caused by a partial cave collapse.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "17 November 1991"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Roman emperor",
    "cause": "ironically alluding to the Roman practice of posthumously deifying former emperors, before he collapsed and died when attempting to stand up",
    "last_words": "Woe, I think I'm turning into a god... An emperor should die on his feet.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vespasian",
    "died": "24 June 79"
   },
@@ -99,6 +114,7 @@
    "desc": "Roman emperor",
    "cause": "mortally wounded in battle. He had rejected Christianity in favor of paganism; according to some accounts, he was assassinated by a Christian",
    "last_words": "And yet Thou hast conquered, O Galilean!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julian_(emperor)",
    "died": "26 June 363"
   },
@@ -110,6 +126,7 @@
    "desc": "King of France",
    "cause": null,
    "last_words": "A king should die standing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVIII",
    "died": "16 September 1824"
   },
@@ -121,6 +138,7 @@
    "desc": "second president of Bowdoin College and father of First Lady of the United States Jane Pierce",
    "cause": null,
    "last_words": "Glory to God in the highest. The whole earth shall be filled with his glory.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_Appleton",
    "died": "12 November 1819"
   },
@@ -132,6 +150,7 @@
    "desc": "Portuguese statesman",
    "cause": null,
    "last_words": "Thanks be to God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/João_Carlos_de_Saldanha_Oliveira_e_Daun,_1st_Duke_of_Saldanha",
    "died": "18 November 1876"
   },
@@ -143,6 +162,7 @@
    "desc": "American actor",
    "cause": "when asked if he wanted a cup of coffee",
    "last_words": "No, I don't believe so.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rock_Hudson",
    "died": "2 October 1985"
   }

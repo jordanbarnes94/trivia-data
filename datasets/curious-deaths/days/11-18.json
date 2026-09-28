@@ -9,8 +9,10 @@
    "desc": "Portuguese statesman",
    "cause": null,
    "last_words": "Thanks be to God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/João_Carlos_de_Saldanha_Oliveira_e_Daun,_1st_Duke_of_Saldanha",
-   "born": "17 November 1790"
+   "born": "17 November 1790",
+   "died": "18 November 1876"
   },
   {
    "year": 1889,
@@ -20,8 +22,10 @@
    "desc": "Irish poet, diarist and editor",
    "cause": null,
    "last_words": "I see such things as you can not dream of.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Allingham",
-   "born": "19 March 1824"
+   "born": "19 March 1824",
+   "died": "18 November 1889"
   },
   {
    "year": 1922,
@@ -31,8 +35,10 @@
    "desc": "French novelist",
    "cause": "to his brother, who asked if he was hurting him",
    "last_words": "Yes, my dear Robert, you are.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Proust",
-   "born": "10 July 1871"
+   "born": "10 July 1871",
+   "died": "18 November 1922"
   },
   {
    "year": 1972,
@@ -42,8 +48,10 @@
    "desc": "Glasgow Fire Service Sub Officer",
    "cause": "shouting to other firefighters from the top floor of a burning building. The woman whom McGill died trying to save also died",
    "last_words": "I have got that woman. We are all right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Glasgow_Fire_Service",
-   "born": null
+   "born": null,
+   "died": "18 November 1972"
   },
   {
    "year": 1978,
@@ -53,8 +61,10 @@
    "desc": "American cult leader and mass murderer",
    "cause": "speaking to his followers, shortly after they had all been poisoned with cyanide. Jones died of a possibly self-inflicted gunshot wound to the head, while his followers died of cyanide poisoning",
    "last_words": "We didn't commit suicide, we committed an act of revolutionary suicide protesting the conditions of an inhumane world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Jones",
-   "born": "13 May 1931"
+   "born": "13 May 1931",
+   "died": "18 November 1978"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Scottish physician",
    "cause": "to his daughter, who had been reading to him",
    "last_words": "Stop, go out of the room; I am about to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Fordyce",
    "died": "25 May 1802"
   },
@@ -77,6 +88,7 @@
    "desc": "English dramatist and librettist",
    "cause": "while saving 17-year-old Ruby Preece from drowning, which caused his fatal heart attack",
    "last_words": "Put your hands on my shoulders and don't struggle.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._S._Gilbert",
    "died": "29 May 1911"
   },
@@ -88,6 +100,7 @@
    "desc": "AFSC KC*SG KGCHS, English Roman Catholic priest and author",
    "cause": null,
    "last_words": "Arthur, don't look at me! Nurse stand between my brother and me.... Jesus, Mary and Joseph, I give you my heart and my soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Hugh_Benson",
    "died": "19 October 1914"
   },
@@ -99,6 +112,7 @@
    "desc": "English writer and painter",
    "cause": "when asked on his deathbed about his bowels",
    "last_words": "Mind your business!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wyndham_Lewis",
    "died": "7 March 1957"
   },
@@ -110,6 +124,7 @@
    "desc": "American double murderer who converted to Christianity in prison",
    "cause": "prior to execution by lethal injection",
    "last_words": "Yes sir, I would like to say to all of you-the Thornton Family and Jerry Dean's family that I am so sorry. I hope God will give you peace with this. Baby, I love you. Ron, give Peggy a hug for me. Everybody has been so good to me. I love all of you very much. I am going to be face to face with Jesus now. Warden Baggett, thank all of you so much. You have been so good to me. I love all of you very much. I will see you all when you get there. I will wait for you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karla_Faye_Tucker",
    "died": "3 February 1998"
   }

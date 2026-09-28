@@ -9,8 +9,10 @@
    "desc": "Irish soldier",
    "cause": "mortally wounded at the Battle of Landen",
    "last_words": "Oh, that this were for Ireland.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Sarsfield,_1st_Earl_of_Lucan",
-   "born": null
+   "born": null,
+   "died": "21 August 1693"
   },
   {
    "year": 1762,
@@ -20,8 +22,10 @@
    "desc": "English traveler",
    "cause": null,
    "last_words": "It has all been most interesting.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Wortley_Montagu",
-   "born": "15 May 1689"
+   "born": "15 May 1689",
+   "died": "21 August 1762"
   },
   {
    "year": 1823,
@@ -31,8 +35,10 @@
    "desc": "Greek general, hero of the Greek War of Independence",
    "cause": "killed in action in attack on Karpenisi",
    "last_words": "To die for liberty is a pleasure and not a pain.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Markos_Botsaris",
-   "born": null
+   "born": null,
+   "died": "21 August 1823"
   },
   {
    "year": 1940,
@@ -42,8 +48,10 @@
    "desc": "Soviet revolutionary",
    "cause": "to his wife, Natalia Sedova, while being prepared for surgery after being mortally wounded by assassin Ramón Mercader The 60-year-old Russian socialist and revolutionary was murdered in his villa in Mexico by Spanish-born NKVD agent Ramón Mercader with an ice axe.",
    "last_words": "I feel this time they have succeeded. I do not want them to undress me. I want you to undress me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leon_Trotsky",
-   "born": "26 October 1879"
+   "born": "26 October 1879",
+   "died": "21 August 1940"
   },
   {
    "year": 1982,
@@ -53,8 +61,10 @@
    "desc": "King of Swaziland, longest verifiably-reigning monarch in recorded history",
    "cause": "to his minister of health after halting a meeting",
    "last_words": "I am going.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sobhuza_II",
-   "born": "22 July 1899"
+   "born": "22 July 1899",
+   "died": "21 August 1982"
   },
   {
    "year": 1983,
@@ -64,8 +74,10 @@
    "desc": "Filipino politician",
    "cause": "moments just arrived in the Philippines after his 3-year self-exile along with his brother-in-law Ken Kashiwahara by his side, prior to his assassination at Manila International Airport",
    "last_words": "Though God slay me, I will trust Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
-   "born": "27 November 1932"
+   "born": "27 November 1932",
+   "died": "21 August 1983"
   },
   {
    "year": 1986,
@@ -75,8 +87,10 @@
    "desc": null,
    "cause": "At Lake Nyos, northwestern Cameroon, a limnic eruption of unknown cause released about 100,000–300,000 tons of carbon dioxide (CO2) from the lake's bed. The gas cloud initially rose at nearly 100 km/h and then, being heavier than air, descended onto nearby villages, suffocating people and livestock within 25 km of the lake, resulting in the death of 1,746 people and 3,500 livestock.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lake_Nyos_disaster",
-   "born": null
+   "born": null,
+   "died": "21 August 1986"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Confederate general of the American Civil War",
    "cause": "to a Union surgeon after being mortally wounded at the Battle of Gettysburg",
    "last_words": "Tell my wife I am shot, but we fought like hell.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Barksdale",
    "died": "3 July 1863"
   },
@@ -99,6 +114,7 @@
    "desc": "English illustrator and author",
    "cause": null,
    "last_words": "I am imploring you – burn all the indecent poems and drawings.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aubrey_Beardsley",
    "died": "16 March 1898"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The Byzantine Emperor cut himself with a poisoned arrow during a boar hunt, subsequently dying from sepsis.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_II_Komnenos",
-   "born": "13 September 1087"
+   "born": "13 September 1087",
+   "died": "1 April 1143"
   },
   {
    "year": 1872,
@@ -20,8 +22,10 @@
    "desc": "English Anglican theologian and author",
    "cause": null,
    "last_words": "The knowledge of the love of God-the blessing of God Almighty, the Father, the Son and the Holy Ghost be amongst you-amongst us-and remain with us forever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Denison_Maurice",
-   "born": "29 August 1805"
+   "born": "29 August 1805",
+   "died": "1 April 1872"
   },
   {
    "year": 1922,
@@ -31,8 +35,10 @@
    "desc": "the last Emperor of Austria",
    "cause": "while dying of pneumonia",
    "last_words": "Thy Holy Will be done. Jesus, Jesus, come! Yes, yes. My Jesus as Thou willst it, Jesus.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_Austria",
-   "born": "17 August 1887"
+   "born": "17 August 1887",
+   "died": "1 April 1922"
   },
   {
    "year": 1984,
@@ -42,8 +48,10 @@
    "desc": "American singer",
    "cause": "moments before being shot to death by his father",
    "last_words": "Mother, I'm going to get my things and get out of this house. Father hates me and I'm never coming back.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Gaye",
-   "born": "2 April 1939"
+   "born": "2 April 1939",
+   "died": "1 April 1984"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "French soldier, author and hedonist",
    "cause": "when a clergyman asked if he would be reconciled",
    "last_words": "With all my heart: I would fain be reconciled to my stomach, which no longer performs its usual functions.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Saint-Évremond",
    "died": "29 September 1703"
   },
@@ -66,6 +75,7 @@
    "desc": "English poet and courtier",
    "cause": null,
    "last_words": "The only objection against the Bible is a bad life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilmot,_2nd_Earl_of_Rochester",
    "died": "26 July 1680"
   },
@@ -77,8 +87,21 @@
    "desc": "German statesman",
    "cause": "writing on a piece of paper with unknown meaning",
    "last_words": "House.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Otto_von_Bismarck",
    "died": "30 July 1898"
+  },
+  {
+   "year": 1846,
+   "year_label": "1846",
+   "name": "Jeremiah Haralson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The former United States Congressman from Alabama disappears from the historical record after his 1895 imprisonment for pension fraud in Albany, New York. He was reportedly killed by an unknown animal while coal mining near Denver, Colorado, c. 1916, but there is little or no historical evidence for this.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeremiah_Haralson",
+   "died": "25 March 1895"
   },
   {
    "year": 1866,
@@ -88,6 +111,7 @@
    "desc": "Italian composer",
    "cause": "to his wife",
    "last_words": "Dear Gerda, I thank you for every day we have been together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ferruccio_Busoni",
    "died": "27 July 1924"
   },
@@ -99,6 +123,7 @@
    "desc": "Irish footballer",
    "cause": "during British European Airways Flight 609's third takeoff attempt prior to the Munich air disaster",
    "last_words": "If this is death, then I am ready for it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Whelan",
    "died": "6 February 1958"
   },
@@ -110,6 +135,7 @@
    "desc": "South Korean student activist",
    "cause": "to the police of the Anti-communist Detached Office, who tortured him by water cure, to force him to confess the whereabouts of one of his fellow activists",
    "last_words": "″I have nothing to say.\"",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Park_Jong-chul",
    "died": "14 January 1987"
   }

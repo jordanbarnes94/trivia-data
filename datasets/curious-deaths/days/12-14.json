@@ -9,8 +9,10 @@
    "desc": "Spanish Catholic priest and mystic",
    "cause": "dying at the stroke of midnight",
    "last_words": "It is time for Matins.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross",
-   "born": "24 June 1542"
+   "born": "24 June 1542",
+   "died": "14 December 1591"
   },
   {
    "year": 1799,
@@ -20,8 +22,10 @@
    "desc": "president of the United States",
    "cause": "to Dr. James Craik and his personal secretary, Tobias Lear",
    "last_words": "I die hard, but I am not afraid to go... I am just going. Have me decently buried, and do not let my body be put into the vault in less than two days after I am dead. Do you understand me? 'Tis well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington",
-   "born": "22 February 1732"
+   "born": "22 February 1732",
+   "died": "14 December 1799"
   },
   {
    "year": 1861,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "to his wife, Queen Victoria",
    "last_words": "Good little wife.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert,_Prince_Consort",
-   "born": "26 August 1819"
+   "born": "26 August 1819",
+   "died": "14 December 1861"
   },
   {
    "year": 1862,
@@ -42,8 +48,10 @@
    "desc": "Union general of the American Civil War",
    "cause": "mortally wounded at the Battle of Fredericksburg",
    "last_words": "Tell McClellan that my last regret as a military man is that I did not die serving under him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Dashiell_Bayard",
-   "born": "18 December 1835"
+   "born": "18 December 1835",
+   "died": "14 December 1862"
   },
   {
    "year": 1873,
@@ -53,8 +61,10 @@
    "desc": "Swiss-American biologist and geologist",
    "cause": null,
    "last_words": "The play is finished.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Agassiz",
-   "born": "28 May 1807"
+   "born": "28 May 1807",
+   "died": "14 December 1873"
   },
   {
    "year": 1878,
@@ -64,8 +74,10 @@
    "desc": "daughter of Queen Victoria",
    "cause": null,
    "last_words": "I will sleep quietly now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Princess_Alice_of_the_United_Kingdom",
-   "born": "25 April 1843"
+   "born": "25 April 1843",
+   "died": "14 December 1878"
   },
   {
    "year": 1918,
@@ -75,8 +87,10 @@
    "desc": "Portuguese politician, military officer, and diplomat",
    "cause": "according to reporter Reinaldo Ferreira",
    "last_words": "I die well! Save the Fatherland!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sidónio_Pais",
-   "born": "1 May 1872"
+   "born": "1 May 1872",
+   "died": "14 December 1918"
   },
   {
    "year": 1920,
@@ -86,8 +100,10 @@
    "desc": "American college football player",
    "cause": "to Knute Rockne while dying of pneumonia",
    "last_words": "Some day, when things look real tough for Notre Dame [Notre Dame Fighting Irish football], ask the boys to go out there and win one for the Gipper.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Gipp",
-   "born": "18 February 1895"
+   "born": "18 February 1895",
+   "died": "14 December 1920"
   },
   {
    "year": 1944,
@@ -97,8 +113,10 @@
    "desc": "Mexican actress, dancer and singer",
    "cause": "in her suicide note, addressed to actor Harald Ramond. Vélez was pregnant with Ramond's child at the time",
    "last_words": "To Harald, may God forgive you and forgive me too but I prefer to take my life away and our baby's before I bring him with shame or killing him, Lupe.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lupe_Vélez",
-   "born": "18 July 1908"
+   "born": "18 July 1908",
+   "died": "14 December 1944"
   },
   {
    "year": 1945,
@@ -108,8 +126,10 @@
    "desc": "English man of letters",
    "cause": "when asked what he wanted for lunch",
    "last_words": "Whatever you would like me to have.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Baring",
-   "born": "27 April 1874"
+   "born": "27 April 1874",
+   "died": "14 December 1945"
   },
   {
    "year": 1959,
@@ -119,8 +139,10 @@
    "desc": "CBE RA, English painter",
    "cause": "to a nurse who had given him an injection",
    "last_words": "Beautifully done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Spencer",
-   "born": "30 June 1891"
+   "born": "30 June 1891",
+   "died": "14 December 1959"
   }
  ],
  "born": [
@@ -132,6 +154,7 @@
    "desc": "French seer",
    "cause": "correctly predicting his death",
    "last_words": "Tomorrow, at sunrise, I shall no longer be here.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nostradamus",
    "died": "2 July 1566"
   },
@@ -143,6 +166,7 @@
    "desc": "Danish astronomer",
    "cause": "to his assistant Johannes Kepler The Danish astronomer contracted a bladder or kidney ailment after attending a banquet in Prague and died eleven days later. According to Johannes Kepler's first-hand account, Brahe had refused to leave the banquet to relieve himself, because it would have been a breach of etiquette. After he had returned home, he was no longer able to urinate, except eventually in very small quantities and with excruciating pain. Though initially ascribed to a kidney stone, and later still to potential mercury poisoning, modern analyses indicate Brahe's death resulted from a fatal case of uremia caused by an inflamed prostate.",
    "last_words": "May I not seem to have lived in vain.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tycho_Brahe",
    "died": "24 October 1601"
   },
@@ -154,6 +178,7 @@
    "desc": "English religious poet and hymnwriter",
    "cause": "possibly trying to say, \"He died for me.\"",
    "last_words": "He.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frances_Ridley_Havergal",
    "died": "3 June 1879"
   },
@@ -165,6 +190,7 @@
    "desc": "American cartoonist, creator of Plastic Man",
    "cause": "in his suicide note to Hugh Hefner",
    "last_words": "Dear Hef, When you read this I shall be dead. I cannot go on living with myself and hurting those dear to me. What I do has nothing to do with you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Cole_(artist)",
    "died": "13 August 1958"
   }

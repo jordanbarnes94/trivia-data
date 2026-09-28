@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": "after being fatally stabbed",
    "last_words": "I am still alive!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Caligula",
-   "born": "31 August 12"
+   "born": "31 August 12",
+   "died": "24 January 41"
   },
   {
    "year": 1639,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The Swiss political leader was assassinated by a person dressed in a bear costume wielding an axe. Legend states that the axe was the same one that Jenatsch had once used to kill a rival.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jörg_Jenatsch",
-   "born": null
+   "born": null,
+   "died": "24 January 1639"
   },
   {
    "year": 1822,
@@ -31,8 +35,10 @@
    "desc": "Ottoman Albanian ruler",
    "cause": "ordering that his mistress be killed to save her from enemy soldiers of Mahmud II. Vasiliky was captured but pardoned and lived until 1834",
    "last_words": "Go my friend, dispatch poor Vasiliky, that these dogs may not profane her beauteous form.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ali_Pasha_of_Ioannina",
-   "born": null
+   "born": null,
+   "died": "24 January 1822"
   },
   {
    "year": 1965,
@@ -42,8 +48,10 @@
    "desc": "prime minister of the United Kingdom",
    "cause": null,
    "last_words": "I'm bored with it all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Winston_Churchill",
-   "born": "30 November 1874"
+   "born": "30 November 1874",
+   "died": "24 January 1965"
   },
   {
    "year": 1989,
@@ -53,8 +61,10 @@
    "desc": "American serial killer",
    "cause": "prior to execution by electrocution",
    "last_words": "Give my love to my family and friends.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Bundy",
-   "born": "24 November 1946"
+   "born": "24 November 1946",
+   "died": "24 January 1989"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Roman emperor",
    "cause": null,
    "last_words": "O my poor soul, whither art thou going?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hadrian",
    "died": "10 July 138"
   },
@@ -77,6 +88,7 @@
    "desc": "king of Prussia",
    "cause": null,
    "last_words": "I am tired of ruling over slaves.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_the_Great",
    "died": "17 August 1786"
   },
@@ -88,6 +100,7 @@
    "desc": "King of Sweden",
    "cause": "13 days after being shot in the back at a masquerade",
    "last_words": "I feel sleepy, and a moment of rest would do me good.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_III",
    "died": "29 March 1792"
   },
@@ -99,6 +112,7 @@
    "desc": "British statesman",
    "cause": null,
    "last_words": "I die happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_James_Fox",
    "died": "13 September 1806"
   },
@@ -110,6 +124,7 @@
    "desc": null,
    "cause": "assassinated at the Paris Opera by Louis Pierre Louvel, a Bonapartist",
    "last_words": "Blessed Virgin, have mercy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Ferdinand,_Duke_of_Berry",
    "died": "14 February 1820"
   },
@@ -121,6 +136,7 @@
    "desc": "American actress",
    "cause": "confirmed by confessed murderer Susan Atkins (one of the members of the Manson family led by Charles Manson) during the murders to be among the pregnant actress' last words",
    "last_words": "Please - please don't kill me. I don't want to die. I want to live. I want to have my baby. I want to have my baby.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sharon_Tate",
    "died": "9 August 1969"
   },
@@ -132,6 +148,7 @@
    "desc": "American actor and comedian",
    "cause": "before dying of drug overdose",
    "last_words": "Just don't leave me alone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Belushi",
    "died": "5 March 1982"
   }

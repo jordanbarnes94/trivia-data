@@ -9,8 +9,10 @@
    "desc": "English poet, dramatist and physician",
    "cause": "concluding his suicide note",
    "last_words": "I am food for what I am good for-worms. I ought to have been among other things a good poet. Life was too great a bore on one peg & that a bad one.-Buy for Dr. Ecklin above mentioned Reade's best stomach pump.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Lovell_Beddoes",
-   "born": "30 June 1803"
+   "born": "30 June 1803",
+   "died": "26 January 1849"
   },
   {
    "year": 1920,
@@ -20,8 +22,10 @@
    "desc": "White Russian military leader",
    "cause": "dying during the Great Siberian Ice March",
    "last_words": "Let my soldiers know that I've always been committed to them, loved them and proved it by my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Kappel",
-   "born": "16 April 1883"
+   "born": "16 April 1883",
+   "died": "26 January 1920"
   },
   {
    "year": 1933,
@@ -31,8 +35,10 @@
    "desc": "American socialite and women's suffrage activist",
    "cause": null,
    "last_words": "The important thing is knowing how to live. Learn a lesson from my mistakes. I had too much power before I knew how to use it and it defeated me in the end. It drove all sweetness out of my life except the affection of my children. My trouble was I was born too late for the last generation and too early for this one. If you want to be happy, live in your own time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alva_Belmont",
-   "born": "17 January 1853"
+   "born": "17 January 1853",
+   "died": "26 January 1933"
   },
   {
    "year": 1942,
@@ -42,8 +48,10 @@
    "desc": "German mathematician",
    "cause": "the conclusion of his suicide letter to his lawyer. Hausdorff, his wife and his sister-in-law committed suicide rather than be deported to the Endenich camp",
    "last_words": "I am sorry that we cause you yet more effort beyond death, and I am convinced that you are doing what you can do (which perhaps is not very much). Forgive us our desertion! We wish you and all our friends to experience better times. Your truly devoted Felix Hausdorff",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Hausdorff",
-   "born": "8 November 1868"
+   "born": "8 November 1868",
+   "died": "26 January 1942"
   },
   {
    "year": 1962,
@@ -53,8 +61,10 @@
    "desc": "Italian-American gangster",
    "cause": "after meeting with a producer about a proposed film based on his life",
    "last_words": "Tell Georgie I want to get in the movies one way or another.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Luciano",
-   "born": "24 November 1897"
+   "born": "24 November 1897",
+   "died": "26 January 1962"
   },
   {
    "year": 1998,
@@ -64,8 +74,10 @@
    "desc": "American scuba diver",
    "cause": "message written on dive slate. Lonergan and his wife Eileen disappeared in the Coral Sea off northeast Australia after being unintentionally abandoned by their dive boat",
    "last_words": "[Mo]nday Jan 26; 1998 08am. To anyone can help us: We have been abandoned on A[gin]court Reef by MV Outer Edge 25 Jan 98 3pm. Please help us to rescue us before we die. Help!!!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Disappearance_of_Tom_and_Eileen_Lonergan",
-   "born": null
+   "born": null,
+   "died": "26 January 1998"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Continental Army general",
    "cause": "dying of fever in a Philadelphia tavern",
    "last_words": "Stand by me, my brave grenadiers.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lee_(general)",
    "died": "2 October 1782"
   },
@@ -88,6 +101,7 @@
    "desc": "King of Sweden and Norway",
    "cause": "whispering the name of his son and heir",
    "last_words": "Oscar.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_XIV_John",
    "died": "8 March 1844"
   },
@@ -99,6 +113,7 @@
    "desc": "Neogranadine seamstress and spy",
    "cause": "prior to execution by firing squad for high treason",
    "last_words": "Indolent people! How different your fate would be today if you knew the price of freedom! But it is not too late. See that - although a woman and young - I have more than enough courage to suffer death and a thousand more deaths. Do not forget this example [...] Miserable people, I pity you. Someday you will have more dignity! [...] I am dying to defend the rights of my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Policarpa_Salavarrieta",
    "died": "14 November 1817"
   },
@@ -110,6 +125,7 @@
    "desc": "American explorer, adventurer and naturalist",
    "cause": "dying of a heart attack",
    "last_words": "There's that pain again! I can feel it in my arm and in my head.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Chapman_Andrews",
    "died": "11 March 1960"
   },
@@ -121,6 +137,7 @@
    "desc": "Romanian communist politician, dictator and president of the Romanian Communist Party from 1965 to 1989",
    "cause": "executed by firing squad along with his wife Elena",
    "last_words": "Long Live the Socialist Republic of Romania, independent and free.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicolae_Ceaușescu",
    "died": "25 December 1989"
   }

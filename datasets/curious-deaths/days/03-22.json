@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "before beheading for treason against his cousin, Edward II of England",
    "last_words": "King of heaven, do thou have mercy on me, for the king of earth hath forsaken me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas,_2nd_Earl_of_Lancaster",
-   "born": null
+   "born": null,
+   "died": "22 March 1322"
   },
   {
    "year": 1687,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The French composer died of a gangrenous abscess after accidentally piercing his foot with a staff while he was vigorously conducting a Te Deum. It was customary at that time to conduct by banging a staff on the floor. He refused to have his leg amputated so he could still dance.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lully",
-   "born": "28 November 1632"
+   "born": "28 November 1632",
+   "died": "22 March 1687"
   },
   {
    "year": 1758,
@@ -31,8 +35,10 @@
    "desc": "American revivalist preacher and theologian",
    "cause": "when someone lamented what his loss would mean to the church and to the College of New Jersey",
    "last_words": "Trust in God and you need not fear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
-   "born": "5 October 1703"
+   "born": "5 October 1703",
+   "died": "22 March 1758"
   },
   {
    "year": 1820,
@@ -42,8 +48,10 @@
    "desc": "United States naval officer",
    "cause": "mortally wounded in duel with James Barron",
    "last_words": "I am mortally wounded ... I think.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Decatur",
-   "born": "5 January 1779"
+   "born": "5 January 1779",
+   "died": "22 March 1820"
   },
   {
    "year": 1832,
@@ -53,8 +61,10 @@
    "desc": "German statesman and writer",
    "cause": null,
    "last_words": "Do open the shutter in the bed-room, in order that more light may enter.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
-   "born": "28 August 1749"
+   "born": "28 August 1749",
+   "died": "22 March 1832"
   },
   {
    "year": 1855,
@@ -64,8 +74,10 @@
    "desc": "British Army officer and evangelical",
    "cause": "killed in action in the Crimean War",
    "last_words": "Cover my face.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hedley_Vicars",
-   "born": null
+   "born": "7 December 1826",
+   "died": "22 March 1855"
   },
   {
    "year": 1918,
@@ -75,8 +87,10 @@
    "desc": "VC, British Army soldier",
    "cause": "to fellow soldiers after holding off the enemy for four hours with a Vickers machine gun at Hervilly Wood, France, during World War I",
    "last_words": "Save yourselves. I'll carry on.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_George_Columbine",
-   "born": "28 November 1893"
+   "born": "28 November 1893",
+   "died": "22 March 1918"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "German Lutheran clergyman and theologian",
    "cause": "when his wife asked if his Savior was still with him",
    "last_words": "Yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/August_Hermann_Francke",
    "died": "8 June 1727"
   },
@@ -99,6 +114,7 @@
    "desc": "American actor and comedian",
    "cause": "giving his wife Mary humorous instructions for his funeral",
    "last_words": "Remember, Honey, don't forget what I told you. Put in my coffin a deck of cards, a mashie niblick, and a pretty blonde.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Chico_Marx",
    "died": "11 October 1961"
   }

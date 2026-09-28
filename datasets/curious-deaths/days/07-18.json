@@ -9,8 +9,10 @@
    "desc": "English novelist",
    "cause": "being asked by her sister Cassandra if she wanted something",
    "last_words": "I want nothing but death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Austen",
-   "born": "16 December 1775"
+   "born": "16 December 1775",
+   "died": "18 July 1817"
   },
   {
    "year": 1881,
@@ -20,8 +22,10 @@
    "desc": "FRS, English Anglican priest and ecclesiastical historian",
    "cause": "final recorded words",
    "last_words": "I wish Vaughan to preach my funeral sermon, because he has known me longest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Penrhyn_Stanley",
-   "born": "13 December 1815"
+   "born": "13 December 1815",
+   "died": "18 July 1881"
   },
   {
    "year": 1899,
@@ -31,8 +35,10 @@
    "desc": "American author and educator",
    "cause": null,
    "last_words": "Splendid! I'll sleep now. I shall have a nap. Later I can pack and leave on the evening train. But I'm tired. Let me rest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Alger",
-   "born": "13 January 1832"
+   "born": "13 January 1832",
+   "died": "18 July 1899"
   },
   {
    "year": 1975,
@@ -42,8 +48,10 @@
    "desc": "American cartoonist and illustrator",
    "cause": "to his son",
    "last_words": "Mark, I've seen God four times, and I'm going to see him again soon. That's No. 1 to me, and you're No. 2.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vaughn_Bodē",
-   "born": "22 July 1941"
+   "born": "22 July 1941",
+   "died": "18 July 1975"
   },
   {
    "year": 1984,
@@ -53,8 +61,10 @@
    "desc": "perpetrator of the San Ysidro McDonald's massacre",
    "cause": "taunting employees hiding in the kitchen",
    "last_words": "Oh, there's more. You're trying to hide from me you bastards!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Huberty",
-   "born": "11 October 1942"
+   "born": "11 October 1942",
+   "died": "18 July 1984"
   },
   {
    "year": 1989,
@@ -64,8 +74,10 @@
    "desc": "American actress and model",
    "cause": "spoken to the neighbors after being shot at her apartment doorsteps by stalker Robert John Bardo",
    "last_words": "Why? Why?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Schaeffer",
-   "born": "6 November 1967"
+   "born": "6 November 1967",
+   "died": "18 July 1989"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English novelist",
    "cause": "to his valet",
    "last_words": "Good night.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray",
    "died": "24 December 1863"
   },
@@ -88,6 +101,7 @@
    "desc": "Norwegian politician",
    "cause": "prior to execution by firing squad for murder and high treason",
    "last_words": "I'm convicted unfairly and I die innocent.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vidkun_Quisling",
    "died": "24 October 1945"
   },
@@ -99,6 +113,7 @@
    "desc": "Mexican actress, dancer and singer",
    "cause": "in her suicide note, addressed to actor Harald Ramond. Vélez was pregnant with Ramond's child at the time",
    "last_words": "To Harald, may God forgive you and forgive me too but I prefer to take my life away and our baby's before I bring him with shame or killing him, Lupe.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lupe_Vélez",
    "died": "14 December 1944"
   }

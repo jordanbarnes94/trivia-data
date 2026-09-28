@@ -9,8 +9,10 @@
    "desc": "English Anglican clergyman and man of letters",
    "cause": "to his executioner prior to hanging for forgery. He then whispered something unknown to the executioner",
    "last_words": "Come to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Dodd_(priest)",
-   "born": "29 May 1729"
+   "born": "29 May 1729",
+   "died": "27 June 1777"
   },
   {
    "year": 1794,
@@ -20,8 +22,10 @@
    "desc": "duc de Mouchy",
    "cause": "prior to execution by guillotine",
    "last_words": "When I was sixty years of age, I mounted the breach for my king; and now that I am eighty-four I shall not want courage to mount the scaffold for my God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_de_Noailles",
-   "born": "27 November 1715"
+   "born": "27 November 1715",
+   "died": "27 June 1794"
   },
   {
    "year": 1844,
@@ -31,8 +35,10 @@
    "desc": "founder of Mormonism",
    "cause": "before falling from a window during his murder",
    "last_words": "O Lord my God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Smith",
-   "born": "23 December 1805"
+   "born": "23 December 1805",
+   "died": "27 June 1844"
   },
   {
    "year": 1876,
@@ -42,8 +48,10 @@
    "desc": "Portuguese bibliographer",
    "cause": null,
    "last_words": "Farewell, the martyrdom is no more!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Inocêncio_Francisco_da_Silva",
-   "born": "28 September 1810"
+   "born": "28 September 1810",
+   "died": "27 June 1876"
   },
   {
    "year": 1950,
@@ -53,8 +61,10 @@
    "desc": "Czech politician",
    "cause": "prior to execution by hanging on fabricated charges of conspiracy and treason",
    "last_words": "I'm falling, I'm falling, I have lost this fight but I leave with honour. I love this country, I love this nation, strive for its wellbeing. I depart without rancour towards you. I wish you that, I wish you that...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Milada_Horáková",
-   "born": "25 December 1901"
+   "born": "25 December 1901",
+   "died": "27 June 1950"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Nurse, nurse, what murder! what blood! Oh! I have done wrong. God pardon me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_IX_of_France",
    "died": "30 May 1574"
   },
@@ -77,6 +88,7 @@
    "desc": "King of Sweden",
    "cause": "when stepping down from his perch into an entrenchment just as he was shot in the head",
    "last_words": "I am coming down now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_XII",
    "died": "30 November 1718"
   }

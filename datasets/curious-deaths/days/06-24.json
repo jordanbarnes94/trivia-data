@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": "ironically alluding to the Roman practice of posthumously deifying former emperors, before he collapsed and died when attempting to stand up",
    "last_words": "Woe, I think I'm turning into a god... An emperor should die on his feet.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vespasian",
-   "born": "17 November 9"
+   "born": "17 November 9",
+   "died": "24 June 79"
   },
   {
    "year": 1643,
@@ -20,8 +22,10 @@
    "desc": "English landowner and politician",
    "cause": "mortally wounded at the Battle of Chalgrove Field six days before his death",
    "last_words": "O Lord, save my country! O Lord, be merciful to-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Hampden",
-   "born": null
+   "born": null,
+   "died": "24 June 1643"
   },
   {
    "year": 1696,
@@ -31,8 +35,10 @@
    "desc": "English Nonconformist clergyman and diarist",
    "cause": "quoting 1 Corinthians 15:55",
    "last_words": "O death, where is thy-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Henry",
-   "born": "24 August 1631"
+   "born": "24 August 1631",
+   "died": "24 June 1696"
   },
   {
    "year": 1908,
@@ -42,8 +48,10 @@
    "desc": "president of the United States",
    "cause": "to his wife Frances",
    "last_words": "I have tried so hard to do right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Grover_Cleveland",
-   "born": "18 March 1837"
+   "born": "18 March 1837",
+   "died": "24 June 1908"
   },
   {
    "year": 1986,
@@ -53,8 +61,10 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "My name is Jerome Bowden, and I would just like to state that my execution is about to be carried out. And I would like to thank the people at this institution for taking such good care of me in the way that they did. And I hope that by my execution being carried out, that it may bring some light to this thing that is wrong. And I would like to have a final prayer with Chaplain Lizzel if that is possible. Thank you very much.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Georgia_(U.S._state)",
-   "born": null
+   "born": null,
+   "died": "24 June 1986"
   },
   {
    "year": 1987,
@@ -64,8 +74,10 @@
    "desc": "American actor, comedian, writer, composer, and conductor",
    "cause": null,
    "last_words": "I always knew what I was doing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jackie_Gleason",
-   "born": "26 February 1916"
+   "born": "26 February 1916",
+   "died": "24 June 1987"
   },
   {
    "year": 1997,
@@ -75,8 +87,10 @@
    "desc": "American actor",
    "cause": "to his wife Victoria",
    "last_words": "Forgive me, but I don't want to live anymore. The pain is too bad. There's no point in trying to prolong this agony.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Keith",
-   "born": "14 November 1921"
+   "born": "14 November 1921",
+   "died": "24 June 1997"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Italian Catholic friar",
    "cause": null,
    "last_words": "I have sinned against my brother, the ass.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
    "died": "3 October 1226"
   },
@@ -99,6 +114,7 @@
    "desc": "Spanish Catholic priest and mystic",
    "cause": "dying at the stroke of midnight",
    "last_words": "It is time for Matins.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_of_the_Cross",
    "died": "14 December 1591"
   },
@@ -110,6 +126,7 @@
    "desc": "Scottish teacher",
    "cause": "imagining himself still at work",
    "last_words": "It grows dark, boys, you may go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Adam",
    "died": "18 December 1809"
   },
@@ -121,6 +138,7 @@
    "desc": "American clergyman",
    "cause": null,
    "last_words": "Now comes the mystery.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Ward_Beecher",
    "died": "8 March 1887"
   }

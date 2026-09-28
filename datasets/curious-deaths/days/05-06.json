@@ -9,8 +9,10 @@
    "desc": "Prussian Generalfeldmarschall",
    "cause": "just before being fatally struck by enemy fire at the Battle of Prague (1757)",
    "last_words": "Let all brave Prussians follow me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Christoph_Graf_von_Schwerin",
-   "born": "26 October 1684"
+   "born": "26 October 1684",
+   "died": "6 May 1757"
   },
   {
    "year": 1859,
@@ -20,8 +22,10 @@
    "desc": "German polymath",
    "cause": null,
    "last_words": "How grand those rays! They seem to beckon earth to heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_von_Humboldt",
-   "born": "14 September 1769"
+   "born": "14 September 1769",
+   "died": "6 May 1859"
   },
   {
    "year": 1884,
@@ -31,8 +35,10 @@
    "desc": "American and Confederate politician and English barrister after the American Civil War",
    "cause": "in a letter",
    "last_words": "What I require is warmth-will it never come?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Judah_P._Benjamin",
-   "born": "6 August 1811"
+   "born": "6 August 1811",
+   "died": "6 May 1884"
   },
   {
    "year": 1910,
@@ -42,8 +48,10 @@
    "desc": "king of the United Kingdom",
    "cause": "on being told by his son that one of his horses had won a race",
    "last_words": "Yes, I have heard of it. I am very glad.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_VII",
-   "born": "9 November 1841"
+   "born": "9 November 1841",
+   "died": "6 May 1910"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "London organized crime figure",
    "cause": "prior to execution by hanging",
    "last_words": "Lord Jesus, receive my soul!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Wild",
    "died": "24 May 1725"
   },
@@ -66,6 +75,7 @@
    "desc": "French lawyer and statesman",
    "cause": "when blamed for the death of Georges Danton",
    "last_words": "Cowards! Why did you not defend him?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
    "died": "28 July 1794"
   },
@@ -77,6 +87,7 @@
    "desc": "Austrian neurologist, founder of psychoanalysis",
    "cause": null,
    "last_words": "The meager satisfaction that man can extract from reality leaves him starving.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Freud",
    "died": "23 September 1939"
   },
@@ -88,6 +99,7 @@
    "desc": "Italian actor",
    "cause": "to a nurse",
    "last_words": "Don't pull down the blinds. I want the sunlight to greet me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rudolph_Valentino",
    "died": "23 August 1926"
   }

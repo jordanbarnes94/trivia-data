@@ -9,8 +9,10 @@
    "desc": "English self-described religious prophetess",
    "cause": "final recorded words",
    "last_words": "If I have been deceived, doubtless it was the work of a spirit; whether that spirit was good or bad, I do not know.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joanna_Southcott",
-   "born": "25 April 1750"
+   "born": "25 April 1750",
+   "died": "27 December 1814"
   },
   {
    "year": 1834,
@@ -20,8 +22,10 @@
    "desc": "English essayist and poet",
    "cause": null,
    "last_words": "My bedfellows are cramp and cough – we three all in one bed!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lamb",
-   "born": "10 February 1775"
+   "born": "10 February 1775",
+   "died": "27 December 1834"
   },
   {
    "year": 1836,
@@ -31,8 +35,10 @@
    "desc": "founder of Anglo Texas, Secretary of State of the Republic of Texas",
    "cause": null,
    "last_words": "Texas recognized! Archer told me so. Did you see it in the papers?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_F._Austin",
-   "born": "3 November 1793"
+   "born": "3 November 1793",
+   "died": "27 December 1836"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "German Lutheran theologian",
    "cause": "to his wife",
    "last_words": "Now I have overcome.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Arndt",
    "died": "11 May 1621"
   },
@@ -55,6 +62,7 @@
    "desc": "Irish writer",
    "cause": "quoting Alexander Pope",
    "last_words": "Taught, half by reason, half by mere decay, / To welcome death, and calmly pass away.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Murphy_(writer)",
    "died": "18 June 1805"
   },
@@ -66,6 +74,7 @@
    "desc": "American physician, author and violin maker",
    "cause": null,
    "last_words": "If there is a Christian's God, I am not afraid to trust myself in his hands.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_W._Adams",
    "died": "17 December 1858"
   },
@@ -77,6 +86,7 @@
    "desc": "American Presbyterian theologian",
    "cause": null,
    "last_words": "My work is done. The pins of the tabernacle are taken out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Hodge",
    "died": "19 June 1878"
   },
@@ -88,6 +98,7 @@
    "desc": "Canadian Army officer",
    "cause": "over the radio to his commanders prior to leaving his headquarters building during the Battle of Hong Kong",
    "last_words": "Going outside to fight it out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_K._Lawson",
    "died": "19 December 1941"
   },
@@ -99,6 +110,7 @@
    "desc": "then-chairman of the Japan Socialist Party",
    "cause": "criticizing the LDP, seconds before being stabbed with a wakizashi by 17-year-old Otoya Yamaguchi",
    "last_words": "During the election, they keep policies that would be unpopular with the public a secret, and then once they have won a majority in the election, they will...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Inejirō_Asanuma",
    "died": "12 October 1960"
   },
@@ -110,6 +122,7 @@
    "desc": "American child actress",
    "cause": "to her mother, shortly before dying of septic shock",
    "last_words": "I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Heather_O'Rourke",
    "died": "1 February 1988"
   }

@@ -9,8 +9,10 @@
    "desc": "United States Navy midshipman",
    "cause": "refusing to leave the rigging of USS Constellation during a battle with French frigate La Vengeance. The mainmast toppled and Jarvis was swept over the side. He was 13 years old",
    "last_words": "My post is here. I can't leave it until ordered.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_C._Jarvis",
-   "born": null
+   "born": null,
+   "died": "2 February 1800"
   },
   {
    "year": 1907,
@@ -20,8 +22,10 @@
    "desc": "Russian chemist",
    "cause": null,
    "last_words": "Doctor, you have science, I have faith.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dmitri_Mendeleev",
-   "born": "27 January 1834"
+   "born": "27 January 1834",
+   "died": "2 February 1907"
   },
   {
    "year": 1959,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "Nine experienced hikers died under unexplained circumstances on a ski trek across the Northern Urals. Their inadequately dressed bodies were found on the slopes of Kholat Syakhl mountain about 1.5 km away from their tent, which was cut open from the inside and abandoned along with equipment and supplies. The official investigation found no evidence of foul play and determined that six of the hikers died from hypothermia, while the other three sustained fatal physical trauma. Inexplicable injuries, traces of radiation on victims' clothing, and reports of bright burning objects in the sky have led to much speculation about the exact nature of the incident.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident",
-   "born": null
+   "born": null,
+   "died": "2 February 1959"
   },
   {
    "year": 1969,
@@ -42,8 +48,10 @@
    "desc": "English actor",
    "cause": "before dying of pneumonia",
    "last_words": "Walter Pidgeon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Karloff",
-   "born": "23 November 1887"
+   "born": "23 November 1887",
+   "died": "2 February 1969"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English religious writer and philanthropist",
    "cause": null,
    "last_words": "Patty, Joy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_More",
    "died": "7 September 1833"
   },
@@ -66,6 +75,7 @@
    "desc": "French clergyman and diplomat",
    "cause": "to Louis Philippe I, who had asked how he was",
    "last_words": "I am suffering, sire, the pangs of the damned.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-Périgord",
    "died": "17 May 1838"
   },
@@ -77,6 +87,7 @@
    "desc": "captain in Theodore Roosevelt's Rough Riders",
    "cause": "one of Theodore Roosevelt's Rough Riders, just before being shot in the mouth prior to charge up Kettle Hill",
    "last_words": "Sergeant, the Spanish bullet isn't made that will kill me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Buckey_O'Neill",
    "died": "1 July 1898"
   },
@@ -88,6 +99,7 @@
    "desc": "Irish novelist, author of Ulysses and Finnegans Wake",
    "cause": null,
    "last_words": "”But the real way To get happiness is by giving out happiness to other people. Try and leave this world better then you found it and when your turn comes to die, you can die happy in feeling that at any rate You have not wasted your time but have done your best. “Be Prepared” in this way, live happy and die happy - stick to your scout promise always - even after you have ceased to be a boy - and god help you to do it. Your friend, Baden Powell”",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Joyce",
    "died": "13 January 1941"
   },
@@ -99,6 +111,7 @@
    "desc": "pilot of EgyptAir Flight 990",
    "cause": "final air control transmission from the airplane before spiraling down to the Atlantic Ocean",
    "last_words": "I rely on God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gameel_Al-Batouti",
    "died": "31 October 1999"
   }

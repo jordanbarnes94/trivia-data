@@ -9,8 +9,10 @@
    "desc": "English Puritan church leader, poet, hymnodist and theologian",
    "cause": null,
    "last_words": "Death, death. O I thank Him, I thank Him. The Lord teach you to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Baxter",
-   "born": "12 November 1615"
+   "born": "12 November 1615",
+   "died": "8 December 1691"
   },
   {
    "year": 1755,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The 94-year-old British lighthouse keeper died several days after fighting a fire at Rudyerd's Tower, during which molten lead from the roof fell down his throat. His autopsy revealed that \"the diaphragmatic upper mouth of the stomach greatly inflamed and ulcerated, and the tuncia in the lower part of the stomach burnt; and from the great cavity of it took out a great piece of lead ... which weighed exactly seven ounces, five drachms and eighteen grains\". The piece of lead is currently in the collection of the National Museum of Scotland.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Hall_(lighthouse_keeper)",
-   "born": null
+   "born": null,
+   "died": "8 December 1755"
   },
   {
    "year": 1885,
@@ -31,8 +35,10 @@
    "desc": "American multimillionaire",
    "cause": null,
    "last_words": "I have had no real gratification or enjoyment of any sort more than my neighbor on the next block who is worth only half a million.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Vanderbilt",
-   "born": "8 May 1821"
+   "born": "8 May 1821",
+   "died": "8 December 1885"
   },
   {
    "year": 1941,
@@ -42,8 +48,10 @@
    "desc": "Jewish-born Russian historian, writer and activist",
    "cause": "prior to his murder in the Riga Ghetto at the time of the Rumbula massacre",
    "last_words": "If you survive, never forget what is happening here, give evidence, write and rewrite, keep alive each word and each gesture, each cry and each tear!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Dubnow",
-   "born": "10 September 1860"
+   "born": "10 September 1860",
+   "died": "8 December 1941"
   },
   {
    "year": 1980,
@@ -53,8 +61,10 @@
    "desc": "English musician",
    "cause": "moments after being fatally shot by Mark David Chapman",
    "last_words": "I'm shot! I'm shot!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Lennon",
-   "born": "9 October 1940"
+   "born": "9 October 1940",
+   "died": "8 December 1980"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": "quoting Jesus prior to execution by beheading after being found guilty for plotting to assassinate her first cousin once removed, Elizabeth I of England The 44-year-old queen of Scotland was told that she was to be executed for plotting the assassination of her cousin, Queen Elizabeth I. However, when the executioner, only known as Bull, prepared to chop off her head with an axe, the first blow did not kill Mary. It only hit her head. The second blow severed her neck, but the tendon was still left. The executioner later pulled off Mary's head only to reveal that her hair was a wig.",
    "last_words": "O Lord, into Thy hands I commend my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary,_Queen_of_Scots",
    "died": "8 February 1587"
   },
@@ -77,6 +88,7 @@
    "desc": "Swiss philosophical writer, naturalist and physician",
    "cause": null,
    "last_words": "I am dying; leave me alone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Georg_Ritter_von_Zimmermann",
    "died": "7 October 1795"
   },
@@ -88,6 +100,7 @@
    "desc": "Russian major general and Decembrist",
    "cause": "he died mid-sentence as he was writing his memoirs",
    "last_words": "The Emperor said to me: 'I....'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sergey_Volkonsky",
    "died": "10 December 1865"
   },
@@ -99,6 +112,7 @@
    "desc": "American and Confederate poet",
    "cause": "unable to swallow a spoonful of water",
    "last_words": "Never mind, I shall soon drink of the river of Eternal Life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Timrod",
    "died": "7 October 1867"
   },
@@ -110,6 +124,7 @@
    "desc": "American humorist",
    "cause": null,
    "last_words": "God bless ... God damn.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Thurber",
    "died": "2 November 1961"
   },
@@ -121,6 +136,7 @@
    "desc": "American singer, musician, songwriter and poet",
    "cause": "to his girlfriend Pamela Courson",
    "last_words": "Are you there, Pam? Pam, are you there?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Morrison",
    "died": "3 July 1971"
   },
@@ -132,6 +148,7 @@
    "desc": "American comic",
    "cause": "spoken after a fatal car accident caused by a teen who had been drinking alcohol",
    "last_words": "I don't want to die; I don't want to die. But why? Okay, okay, okay.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Kinison",
    "died": "10 April 1992"
   }

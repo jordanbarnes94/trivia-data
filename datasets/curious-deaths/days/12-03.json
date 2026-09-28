@@ -9,8 +9,10 @@
    "desc": "Scottish author",
    "cause": "to his wife, Fanny Stevenson, before collapsing from a cerebral haemorrhage",
    "last_words": "What's that? Do I look strange?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Louis_Stevenson",
-   "born": "13 November 1850"
+   "born": "13 November 1850",
+   "died": "3 December 1894"
   },
   {
    "year": 1910,
@@ -20,8 +22,10 @@
    "desc": "founder of Christian Science",
    "cause": null,
    "last_words": "God is my life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Baker_Eddy",
-   "born": "16 July 1821"
+   "born": "16 July 1821",
+   "died": "3 December 1910"
   },
   {
    "year": 1952,
@@ -31,8 +35,10 @@
    "desc": "Czech communist politician",
    "cause": "prior to execution by hanging following charges of conspiracy and high treason at a show trial",
    "last_words": "I've got what I deserved.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_Slánský",
-   "born": "31 July 1901"
+   "born": "31 July 1901",
+   "died": "3 December 1952"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "French Canadian merchant and explorer",
    "cause": "mortally wounded in saloon fight by Richard Hanson Weightman",
    "last_words": "Let me bleed.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Xavier_Aubry",
    "died": "18 August 1854"
   },
@@ -55,6 +62,7 @@
    "desc": "Austrian composer and conductor",
    "cause": "shot by U.S. Army soldier during the Allied occupation of Austria",
    "last_words": "I'm shot...it's over.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Webern",
    "died": "15 September 1945"
   },
@@ -66,6 +74,7 @@
    "desc": "former Prime Minister of Japan",
    "cause": "a message to Kakuei Tanaka, former Secretary General of Liberal Democratic Party (Japan)",
    "last_words": "″Front, your time and Kakuei Tanaka's era will come eventually. Politics must not be pampering to the people. I'll leave the rest to you.″",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hayato_Ikeda",
    "died": "13 August 1965"
   },
@@ -77,6 +86,7 @@
    "desc": "American operatic tenor",
    "cause": "performing in The Makropulos Case at the Metropolitan Opera before dying on stage",
    "last_words": "You only live so long.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Versalle",
    "died": "5 January 1996"
   }

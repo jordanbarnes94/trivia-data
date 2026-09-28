@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": "mortally wounded in battle. He had rejected Christianity in favor of paganism; according to some accounts, he was assassinated by a Christian",
    "last_words": "And yet Thou hast conquered, O Galilean!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julian_(emperor)",
-   "born": "17 November 331"
+   "born": "17 November 331",
+   "died": "26 June 363"
   },
   {
    "year": 1541,
@@ -20,8 +22,10 @@
    "desc": "Spanish conquistador",
    "cause": "after being stabbed by assassins",
    "last_words": "Jesu!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Pizarro",
-   "born": "16 March 1478"
+   "born": "16 March 1478",
+   "died": "26 June 1541"
   },
   {
    "year": 1691,
@@ -31,8 +35,10 @@
    "desc": "English Presbyterian clergyman and author",
    "cause": null,
    "last_words": "I know that it will be well with me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Flavel",
-   "born": null
+   "born": null,
+   "died": "26 June 1691"
   },
   {
    "year": 1830,
@@ -42,8 +48,10 @@
    "desc": "King of the United Kingdom of Great Britain and Ireland",
    "cause": null,
    "last_words": "O God! I am dying.\" (To his physician) \"This is death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_IV",
-   "born": "12 August 1762"
+   "born": "12 August 1762",
+   "died": "26 June 1830"
   },
   {
    "year": 1876,
@@ -53,8 +61,10 @@
    "desc": "American Anglican bishop, founder of the Reformed Episcopal Church",
    "cause": null,
    "last_words": "Jesus! precious Saviour!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_David_Cummins",
-   "born": "11 December 1822"
+   "born": "11 December 1822",
+   "died": "26 June 1876"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Marxist President of Chile",
    "cause": "addressing the nation during the 1973 Chilean coup d'état moments before killing himself",
    "last_words": "These are my last words, and I am certain that my sacrifice will not be in vain. I am certain that, at the very least, it will be a moral lesson that will punish felony, cowardice and treason.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Salvador_Allende",
    "died": "11 September 1973"
   }

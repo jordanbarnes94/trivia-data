@@ -9,8 +9,10 @@
    "desc": "French domestic servant, attempted assassin of Louis XV",
    "cause": "during execution by dismemberment",
    "last_words": "O death, why art thou so long in coming?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert-François_Damiens",
-   "born": "9 January 1715"
+   "born": "9 January 1715",
+   "died": "28 March 1757"
   },
   {
    "year": 1801,
@@ -20,8 +22,10 @@
    "desc": "Scottish soldier and politician",
    "cause": "Wounded at the Battle of Alexandria, he asked what had been placed under his head and was told it was \"Only a soldier's blanket.\"",
    "last_words": "Only a soldier's blanket! Make haste and return it to him at once.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Abercromby",
-   "born": "7 October 1734"
+   "born": "7 October 1734",
+   "died": "28 March 1801"
   },
   {
    "year": 1941,
@@ -31,8 +35,10 @@
    "desc": "English writer",
    "cause": "addressing her husband Leonard in her suicide note, drowning herself later that day",
    "last_words": "I don't think two people could have been happier than we have been.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Woolf",
-   "born": "25 January 1882"
+   "born": "25 January 1882",
+   "died": "28 March 1941"
   },
   {
    "year": 1969,
@@ -42,8 +48,10 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "I've always loved my wife, my children, and my grandchildren, and I've always loved my country. I want to go. God, take me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
-   "born": "14 October 1890"
+   "born": "14 October 1890",
+   "died": "28 March 1969"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "Italian artist",
    "cause": null,
    "last_words": "Happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
    "died": "6 April 1520"
   },
@@ -66,6 +75,7 @@
    "desc": "Spanish Carmelite nun, mystic and author",
    "cause": "last words uncertain",
    "last_words": "Over my spirit flash and float in divine radiancy the bright and glorious visions of the world to which I go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_Ávila",
    "died": "15 October 1582"
   },
@@ -77,6 +87,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Lord Jesu!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Alcibiades,_Margrave_of_Brandenburg-Kulmbach",
    "died": "8 January 1557"
   },
@@ -88,6 +99,7 @@
    "desc": "GC GM, Royal Navy officer",
    "cause": "prior to shooting and slightly wounding his wife and then killing himself",
    "last_words": "I can't face it anymore.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Armitage_(Royal_Navy_officer)",
    "died": "26 May 1982"
   },
@@ -99,6 +111,7 @@
    "desc": "American pilot",
    "cause": "in apparent suicide note (alluding to Galatians 6:7). Ferrie's autopsy concluded that he had died of natural causes",
    "last_words": "To leave this life, to me, is a sweet prospect. When you read this I will be quite dead and no answer will be possible. All I can say is that I offered you love, and the best I could. All I got in return in the end was a kick in the teeth. Thus I die alone and unloved. As you sowed, so shall you reap.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_Ferrie",
    "died": "22 February 1967"
   },
@@ -110,6 +123,7 @@
    "desc": "American murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "Adios.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Thanos",
    "died": "17 May 1994"
   }

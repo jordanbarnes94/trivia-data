@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The Byzantine emperor's belt was entangled between antlers of a deer during a hunt and the animal subsequently dragged him for 16 mi through the woods. Because of this accident, Basil contracted fever and he died shortly afterwards.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Basil_I",
-   "born": null
+   "born": null,
+   "died": "29 August 886"
   },
   {
    "year": 1877,
@@ -20,8 +22,10 @@
    "desc": "American religious leader and politician",
    "cause": "referring to Joseph Smith",
    "last_words": "Joseph! Joseph! Joseph!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Brigham_Young",
-   "born": "1 June 1801"
+   "born": "1 June 1801",
+   "died": "29 August 1877"
   },
   {
    "year": 1966,
@@ -31,8 +35,10 @@
    "desc": "American parachutist",
    "cause": "making emergency transmission from Strato Jump III balloon during decompression accident on 1 May 1966; the accident left him in a coma until his death The 34-year-old skydiver died four months after an attempt to break the record for the highest parachute jump near Joe Foss Field, Sioux Falls, South Dakota; his suit had depressurized, causing brain damage from lack of oxygen.",
    "last_words": "Emerg-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nick_Piantanida",
-   "born": "15 August 1932"
+   "born": "15 August 1932",
+   "died": "29 August 1966"
   },
   {
    "year": 1982,
@@ -42,8 +48,10 @@
    "desc": "Swedish actress",
    "cause": "on hearing she had a visitor",
    "last_words": "Do I look all right? Give me my brush and my makeup.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ingrid_Bergman",
-   "born": "29 August 1915"
+   "born": "29 August 1915",
+   "died": "29 August 1982"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": "The French prince who co-ruled with Louis VI died while riding through Paris when his horse tripped over a black pig that was running out of a dung heap.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_of_France_(1116–1131)",
    "died": "13 October 1131"
   },
@@ -66,6 +75,7 @@
    "desc": "English philosopher and physician",
    "cause": null,
    "last_words": "...in perfect charity with all men and in sincere communion with the whole church of Christ, by whatever name Christ's followers call themselves.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Locke",
    "died": "28 October 1704"
   },
@@ -77,6 +87,7 @@
    "desc": "English Anglican theologian and author",
    "cause": null,
    "last_words": "The knowledge of the love of God-the blessing of God Almighty, the Father, the Son and the Holy Ghost be amongst you-amongst us-and remain with us forever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Denison_Maurice",
    "died": "1 April 1872"
   },
@@ -88,6 +99,7 @@
    "desc": "American playwright, screenwriter and film director",
    "cause": null,
    "last_words": "I should have had the pickle.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Preston_Sturges",
    "died": "6 August 1959"
   },
@@ -99,6 +111,7 @@
    "desc": null,
    "cause": "The 26-year-old British racing driver died in a crash during the 1960 Belgian Grand Prix when a bird struck him in the face. Twenty-two-year-old British driver Chris Bristow was killed during the same race, five laps before Stacey and on the same extended fast right-hand bend.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Stacey",
    "died": "19 June 1960"
   }

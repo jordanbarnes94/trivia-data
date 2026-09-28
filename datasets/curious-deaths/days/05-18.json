@@ -9,8 +9,10 @@
    "desc": "Swedish king",
    "cause": "just before being decapitated by his successor Magnus Henriksson",
    "last_words": "Let us complete the Service of Offering, the rest of Holy Mass I will celebrate elsewhere!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eric_the_Holy",
-   "born": null
+   "born": null,
+   "died": "18 May 1160"
   },
   {
    "year": 1812,
@@ -20,8 +22,10 @@
    "desc": "English merchant, assassin of Spencer Perceval",
    "cause": "prior to hanging",
    "last_words": "I thank God for having enabled me to meet my fate with so much fortitude and resignation.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bellingham",
-   "born": null
+   "born": null,
+   "died": "18 May 1812"
   },
   {
    "year": 1901,
@@ -31,8 +35,10 @@
    "desc": "American clergyman and writer",
    "cause": "to hospital superintendent and nurse, explaining his method of suicide while suffering from brucellosis",
    "last_words": "I have swallowed corrosive sublimate.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maltbie_Davenport_Babcock",
-   "born": "3 August 1858"
+   "born": "3 August 1858",
+   "died": "18 May 1901"
   },
   {
    "year": 1911,
@@ -42,8 +48,10 @@
    "desc": "Austrian composer and conductor",
    "cause": null,
    "last_words": "Mozart! Mozart!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Mahler",
-   "born": "7 July 1860"
+   "born": "7 July 1860",
+   "died": "18 May 1911"
   },
   {
    "year": 1955,
@@ -53,8 +61,10 @@
    "desc": "American educator, stateswoman and civil rights activist",
    "cause": null,
    "last_words": "Life is wonderful. I am wonderful.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_McLeod_Bethune",
-   "born": "10 July 1875"
+   "born": "10 July 1875",
+   "died": "18 May 1955"
   },
   {
    "year": 1980,
@@ -64,8 +74,10 @@
    "desc": "American volcanologist",
    "cause": "reporting the 1980 eruption of Mount St. Helens from observation post",
    "last_words": "Vancouver! Vancouver! This is it!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_A._Johnston",
-   "born": "18 December 1949"
+   "born": "18 December 1949",
+   "died": "18 May 1980"
   },
   {
    "year": 1980,
@@ -75,8 +87,10 @@
    "desc": "English musician",
    "cause": "written on a note before hanging himself",
    "last_words": "At this very moment, I wish I were dead. I just can't cope anymore.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ian_Curtis",
-   "born": "15 July 1956"
+   "born": "15 July 1956",
+   "died": "18 May 1980"
   },
   {
    "year": 1981,
@@ -86,8 +100,10 @@
    "desc": "American author",
    "cause": null,
    "last_words": "It's the most beautiful time in my life – and death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Saroyan",
-   "born": "31 August 1908"
+   "born": "31 August 1908",
+   "died": "18 May 1981"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "Bishop of Bristol",
    "cause": null,
    "last_words": "God be thanked, I have had a very good night.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Smalridge",
    "died": "27 September 1719"
   },
@@ -110,6 +127,7 @@
    "desc": "English Anglican bishop and theologian",
    "cause": "referring to John 6:37",
    "last_words": "I have often read and thought of that scripture, but never till this moment did I feel its full power, and now I die happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Butler",
    "died": "16 June 1752"
   },
@@ -121,6 +139,7 @@
    "desc": "last Emperor of Russia",
    "cause": "quoting Jesus to Yakov Yurovsky upon being informed he and his family were to be put to death",
    "last_words": "You know not what you do.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_II_of_Russia",
    "died": "17 July 1918"
   },
@@ -132,6 +151,7 @@
    "desc": null,
    "cause": "The 55-year-old American chemical engineer, best known for inventing leaded gasoline and chlorofluorocarbon gas, contracted polio in 1941, which left him severely disabled, leading him to devise an elaborate system of ropes and pulleys to lift himself out of bed. In 1944, he became entangled in the device and died of strangulation.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
    "died": "2 November 1944"
   },
@@ -143,6 +163,7 @@
    "desc": "Chinese-American draftsman",
    "cause": "just after being beaten with a baseball bat by Chrysler plant supervisor Ronald Ebens. Chin died four days later at Henry Ford Hospital",
    "last_words": "It's not fair.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Vincent_Chin",
    "died": "19 June 1982"
   }

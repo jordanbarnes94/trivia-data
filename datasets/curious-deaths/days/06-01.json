@@ -9,8 +9,10 @@
    "desc": "Scottish Presbyterian minister",
    "cause": "prior to execution by hanging for high treason",
    "last_words": "I take God to record upon my soul that I would not exchange this scaffold with the palace or mitre of the greatest prelate in Britain. The covenants, the covenants shall yet be Scotland's reviving.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Guthrie_(minister)",
-   "born": null
+   "born": null,
+   "died": "1 June 1661"
   },
   {
    "year": 1868,
@@ -20,8 +22,10 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "Oh, Lord God Almighty, as thou wilt!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan",
-   "born": "23 April 1791"
+   "born": "23 April 1791",
+   "died": "1 June 1868"
   },
   {
    "year": 1962,
@@ -31,8 +35,10 @@
    "desc": "German-Austrian SS-Obersturmbannführer",
    "cause": "mumbling prior to execution by hanging for war crimes",
    "last_words": "I hope that all of you will follow me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Eichmann",
-   "born": "19 March 1906"
+   "born": "19 March 1906",
+   "died": "1 June 1962"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "English statesman",
    "cause": null,
    "last_words": "Ease and pleasure quake to hear of death; but my life, full of cares and miseries, desireth to be dissolved.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Earl_of_Salisbury",
    "died": "24 May 1612"
   },
@@ -55,6 +62,7 @@
    "desc": "Anglican poet",
    "cause": null,
    "last_words": "Peace! Joy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Francis_Lyte",
    "died": "20 November 1847"
   },
@@ -66,6 +74,7 @@
    "desc": "American religious leader and politician",
    "cause": "referring to Joseph Smith",
    "last_words": "Joseph! Joseph! Joseph!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Brigham_Young",
    "died": "29 August 1877"
   },
@@ -77,6 +86,7 @@
    "desc": "American actress",
    "cause": "over the phone to Peter Lawford, John F. Kennedy's brother-in-law",
    "last_words": "Say goodbye to Pat, say goodbye to the president and say goodbye to yourself, because you're a nice guy... I'll see... I'll see.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
    "died": "4 August 1962"
   },
@@ -88,6 +98,7 @@
    "desc": "Soviet cosmonaut",
    "cause": "prior to fatal reentry of Soyuz 11",
    "last_words": "I am beginning the descent procedure.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georgy_Dobrovolsky",
    "died": "30 June 1971"
   }

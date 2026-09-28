@@ -9,8 +9,10 @@
    "desc": "English Christian theologian and mathematician",
    "cause": null,
    "last_words": "I have seen the glories of the world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Barrow",
-   "born": null
+   "born": null,
+   "died": "4 May 1677"
   },
   {
    "year": 1737,
@@ -20,8 +22,10 @@
    "desc": "English writer and politician",
    "cause": "his suicide note, written before drowning himself in the Thames. Joseph Addison was Budgell's cousin",
    "last_words": "What Cato did, and Addison approved, cannot be wrong.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eustace_Budgell",
-   "born": "19 August 1686"
+   "born": "19 August 1686",
+   "died": "4 May 1737"
   },
   {
    "year": 1897,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "killed in Bazar de la Charité fire in Paris",
    "last_words": "In a few minutes, think that we will see God, that we will be in Heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Duchess_Sophie_Charlotte_in_Bavaria",
-   "born": "22 February 1847"
+   "born": "22 February 1847",
+   "died": "4 May 1897"
   },
   {
    "year": 1923,
@@ -42,8 +48,10 @@
    "desc": "Scottish minister and writer",
    "cause": null,
    "last_words": "I believe everything I have written about immortality.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Robertson_Nicoll",
-   "born": "10 October 1851"
+   "born": "10 October 1851",
+   "died": "4 May 1923"
   },
   {
    "year": 1961,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 34-year-old U.S. Navy flight surgeon drowned at the end of the record-setting Strato-Lab V balloon flight when he slipped from the rescue sling during recovery operations in the Gulf of Mexico and his pressure suit filled with water.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Prather",
-   "born": "4 June 1923"
+   "born": "4 June 1923",
+   "died": "4 May 1961"
   },
   {
    "year": 1989,
@@ -64,8 +74,10 @@
    "desc": "American convicted child murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "I hope and pray that all the new and reopened wounds will be healed quickly after my passing. My death is the Lord's will and I am now with my Lord and Savior Jesus Christ in Heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Florida",
-   "born": null
+   "born": null,
+   "died": "4 May 1989"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Archbishop of St Andrews",
    "cause": null,
    "last_words": "I shall be happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Sharp_(bishop)",
    "died": "3 May 1679"
   }

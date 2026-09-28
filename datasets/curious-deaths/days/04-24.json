@@ -9,8 +9,10 @@
    "desc": "the last emperor of Ming dynasty",
    "cause": null,
    "last_words": "It has been seventeen years since I ascended the throne. I, feeble and of small virtue, have offended against Heaven; the rebels have seized my capital because my ministers deceived me. Ashamed to face my ancestors, I die. Removing my imperial cap and with my hair disheveled about my face, I leave to the rebels the dismemberment of my body. Let them not harm my people!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Chongzhen_Emperor",
-   "born": "6 February 1611"
+   "born": "6 February 1611",
+   "died": "24 April 1644"
   },
   {
    "year": 1671,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The majordomo of Prince Louis II de Bourbon-Condè was responsible for a banquet for 2,000 people hosted in honour of King Louis XIV at the Château de Chantilly, where he died. According to a letter by Madame de Sévigné, Vatel was so distraught about the lateness of the seafood delivery and about other mishaps, that he committed suicide with his sword, and his body was discovered when someone came to tell him of the arrival of the fish.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Vatel",
-   "born": null
+   "born": null,
+   "died": "24 April 1671"
   },
   {
    "year": 1821,
@@ -31,8 +35,10 @@
    "desc": "Greek military commander",
    "cause": "prior to execution for refusal to convert from Christianity to Islam and become an Ottoman officer",
    "last_words": "I was born a Greek, I shall die a Greek.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Athanasios_Diakos",
-   "born": null
+   "born": null,
+   "died": "24 April 1821"
   },
   {
    "year": 1942,
@@ -42,8 +48,10 @@
    "desc": "OBE, Canadian author",
    "cause": "conclusion of note found on her bedside table after her death. It may or may not have been a suicide note",
    "last_words": "I have lost my mind by spells and I do not dare think what I may do in those spells. May God forgive me and I hope everyone else will forgive me even if they cannot understand. My position is too awful to endure and nobody realizes it. What an end to a life in which I tried always to do my best.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery",
-   "born": "30 November 1874"
+   "born": "30 November 1874",
+   "died": "24 April 1942"
   },
   {
    "year": 1967,
@@ -53,8 +61,10 @@
    "desc": "Soviet cosmonaut",
    "cause": "final transmission before fatal crash of Soyuz 1 spacecraft",
    "last_words": "Thank you for transmitting all of that. [Separation] occurred. [garbled]",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Komarov",
-   "born": "16 March 1927"
+   "born": "16 March 1927",
+   "died": "24 April 1967"
   },
   {
    "year": 1975,
@@ -64,8 +74,10 @@
    "desc": "Welsh musician and songwriter",
    "cause": "written on a suicide note before hanging himself",
    "last_words": "Anne, I love you. Blair, I love you. I will not be allowed to love and trust everybody. This is better. Pete. P.S. Stan Polley is a soulless bastard. I will take him with me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Ham",
-   "born": "27 April 1947"
+   "born": "27 April 1947",
+   "died": "24 April 1975"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Prince of Orange",
    "cause": "assassinated by Balthasar Gérard",
    "last_words": "God have mercy upon me, and upon this poor nation.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_the_Silent",
    "died": "10 July 1584"
   },
@@ -88,6 +101,7 @@
    "desc": "American lawman",
    "cause": "to his brother Wyatt; the brothers had each promised to describe to the other what he saw at the moment of death",
    "last_words": "I can't see a damned thing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Earp",
    "died": "18 March 1882"
   }

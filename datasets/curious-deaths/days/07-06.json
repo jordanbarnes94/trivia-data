@@ -9,8 +9,10 @@
    "desc": "priest and hermit",
    "cause": "dying in Oberwesel, Austrasia",
    "last_words": "Here shall my Saviour be known in all the simplicity of his doctrines. Ah! would that I might witness it; but I have seen those things in a vision. But I faint! I am weary! My earthly journey is finished! Receive my blessing. Go! and be kind one to another.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine",
-   "born": null
+   "born": null,
+   "died": "6 July 649"
   },
   {
    "year": 1189,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "on being told his son John was one of those conspiring against him",
    "last_words": "Now let the world go as it will; I care for nothing more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_II_of_England",
-   "born": "5 March 1133"
+   "born": "5 March 1133",
+   "died": "6 July 1189"
   },
   {
    "year": 1415,
@@ -31,8 +35,10 @@
    "desc": "Czech theologian and church reformer",
    "cause": "While being burned at the stake for heresy, he saw an old woman throw a small amount of brushwood onto the fire",
    "last_words": "O, holy simplicity!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jan_Hus",
-   "born": null
+   "born": null,
+   "died": "6 July 1415"
   },
   {
    "year": 1533,
@@ -42,8 +48,10 @@
    "desc": "Italian poet",
    "cause": null,
    "last_words": "This is not my home.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Ariosto",
-   "born": "8 September 1474"
+   "born": "8 September 1474",
+   "died": "6 July 1533"
   },
   {
    "year": 1535,
@@ -53,8 +61,10 @@
    "desc": "Lord High Chancellor of Britain",
    "cause": "prior to beheading for treason",
    "last_words": "I die the King's good servant, and God's first.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More",
-   "born": "7 February 1478"
+   "born": "7 February 1478",
+   "died": "6 July 1535"
   },
   {
    "year": 1553,
@@ -64,8 +74,10 @@
    "desc": "of England",
    "cause": null,
    "last_words": "Lord take my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_VI",
-   "born": "12 October 1537"
+   "born": "12 October 1537",
+   "died": "6 July 1553"
   },
   {
    "year": 1802,
@@ -75,8 +87,10 @@
    "desc": "American pioneer, soldier and politician",
    "cause": "when his physician advised him to settle his affairs",
    "last_words": "Doctor, if I could be the man I was when I was 21 years of age, I would be willing to be stripped stark naked on the top of the Alleghany Mountains to run for my life with the hounds of hell at my heels.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Morgan",
-   "born": "6 July 1736"
+   "born": "6 July 1736",
+   "died": "6 July 1802"
   },
   {
    "year": 1819,
@@ -86,8 +100,10 @@
    "desc": "French aeronaut",
    "cause": "prior to lighting fireworks that ignited the gas in her balloon, causing it to crash and Blanchard to fall to her death",
    "last_words": "Let's go, this will be for the last time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Blanchard",
-   "born": "24 March 1778"
+   "born": "24 March 1778",
+   "died": "6 July 1819"
   },
   {
    "year": 1999,
@@ -97,8 +113,10 @@
    "desc": null,
    "cause": "The 27-year-old American's mutilated, naked body was found draped over Tilikum the Orca's back at SeaWorld Orlando in Florida. His death was ruled an accidental drowning after trespassing into the whale's tank.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "6 July 1999"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": "American ornithologist",
    "cause": null,
    "last_words": "Bury me where the birds will sing over my grave.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Wilson_(ornithologist)",
    "died": "23 August 1813"
   },
@@ -121,6 +140,7 @@
    "desc": null,
    "cause": "after being shot by firing squad",
    "last_words": "O man! O man!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico",
    "died": "19 June 1867"
   }

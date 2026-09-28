@@ -9,8 +9,10 @@
    "desc": "American comedian",
    "cause": "asking about the availability of drugs",
    "last_words": "Do you know where I can get any shit?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lenny_Bruce",
-   "born": "13 October 1925"
+   "born": "13 October 1925",
+   "died": "3 August 1966"
   },
   {
    "year": 1980,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The resident of Caxias do Sul, was walking upstairs carrying a Pyrex tableware when she tripped, broke it, and fell on the shards, cutting an artery in her neck. She died on her way to the hospital.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "3 August 1980"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "American clergyman and writer",
    "cause": "to hospital superintendent and nurse, explaining his method of suicide while suffering from brucellosis",
    "last_words": "I have swallowed corrosive sublimate.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maltbie_Davenport_Babcock",
    "died": "18 May 1901"
   },
@@ -44,6 +49,7 @@
    "desc": "English poet",
    "cause": "to William Denis Browne, who visited him on his deathbed",
    "last_words": "Hullo.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Brooke",
    "died": "23 April 1915"
   },
@@ -55,6 +61,7 @@
    "desc": "American war correspondent",
    "cause": "to Lt. Col. Joseph B. Coolidge before being fatally shot on Iejima during the Battle of Okinawa",
    "last_words": "Are you all right?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernie_Pyle",
    "died": "18 April 1945"
   },
@@ -66,6 +73,7 @@
    "desc": "American murderer",
    "cause": "facing a firing squad",
    "last_words": "I done told you my last request ... a bulletproof vest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_W._Rodgers",
    "died": "30 March 1960"
   }

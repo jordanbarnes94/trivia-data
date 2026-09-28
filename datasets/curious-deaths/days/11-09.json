@@ -9,8 +9,10 @@
    "desc": "German democratic politician and revolutionist",
    "cause": "prior to execution by firing squad",
    "last_words": "I am ready-let there be no mistake and no delay.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Blum",
-   "born": "10 November 1807"
+   "born": "10 November 1807",
+   "died": "9 November 1848"
   },
   {
    "year": 1970,
@@ -20,8 +22,10 @@
    "desc": "French statesman",
    "cause": "pointing at his neck seconds before he unexpectedly died from an aneurysm",
    "last_words": "I feel pain here.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
-   "born": "22 November 1890"
+   "born": "22 November 1890",
+   "died": "9 November 1970"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "Japanese samurai, Tennen Rishin-ryū master, and Shinsengumi commander",
    "cause": "just before his execution",
    "last_words": "I have been a great trouble.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kondō_Isami",
    "died": "17 May 1868"
   },
@@ -44,6 +49,7 @@
    "desc": "king of the United Kingdom",
    "cause": "on being told by his son that one of his horses had won a race",
    "last_words": "Yes, I have heard of it. I am very glad.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_VII",
    "died": "6 May 1910"
   },
@@ -55,6 +61,7 @@
    "desc": "VC1 MC, British Army officer",
    "cause": "mortally wounded at the Battle of Passchendaele in World War I. He was reminding a nurse of their earlier conversation about contacting his father and fiancée and about his younger brother, who was missing in action",
    "last_words": "Do not forget what I have told you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Noel_Godfrey_Chavasse",
    "died": "4 August 1917"
   },
@@ -66,6 +73,7 @@
    "desc": "American astronomer and scientist",
    "cause": "while talking to his wife Ann on a hospital bed",
    "last_words": "Goodbye, Ann.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Sagan",
    "died": "20 December 1996"
   }

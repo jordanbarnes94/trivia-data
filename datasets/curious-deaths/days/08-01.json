@@ -9,8 +9,10 @@
    "desc": "Roman politician and general",
    "cause": "to Cleopatra before his suicide",
    "last_words": "You must not pity me in this last turn of fate. You should rather be happy in the remembrance of our love, and in the recollection that of all men I was once the most famous and the most powerful, and now, at the end, have fallen not dishonorably, a Roman by a Roman vanquished.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Antony",
-   "born": null
+   "born": "14 January 83 BC",
+   "died": "1 August 30 BC"
   },
   {
    "year": 1391,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": null,
    "last_words": "I am a dead man! Lord, have mercy upon me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gaston_III,_Count_of_Foix",
-   "born": "30 April 1331"
+   "born": "30 April 1331",
+   "died": "1 August 1391"
   },
   {
    "year": 1714,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "handing the Lord High Treasurer's staff of office to Charles Talbot, 1st Duke of Shrewsbury",
    "last_words": "Use it for the good of my people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain",
-   "born": "6 February 1665"
+   "born": "6 February 1665",
+   "died": "1 August 1714"
   },
   {
    "year": 1743,
@@ -42,8 +48,10 @@
    "desc": "English poet",
    "cause": "unable to remember what he wanted to say to his keeper at Bristol Newgate Prison. The keeper found Savage dead the next morning",
    "last_words": "I have something to say to you, sir... 'Tis gone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Savage_(poet)",
-   "born": "16 January 1697"
+   "born": "16 January 1697",
+   "died": "1 August 1743"
   },
   {
    "year": 1858,
@@ -53,8 +61,10 @@
    "desc": "Scottish advocate and landowner",
    "cause": "spelling out his final words on a printed alphabet with a reed in his mouth",
    "last_words": "I am looking to the Savior. My only hope is in Jesus.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Maitland_Hog",
-   "born": "7 August 1799"
+   "born": "7 August 1799",
+   "died": "1 August 1858"
   },
   {
    "year": 1907,
@@ -64,8 +74,10 @@
    "desc": "Imperial Korean officer",
    "cause": "before committing suicide with his pistol",
    "last_words": "Long live the Korean Empire!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Park_Seung-hwan",
-   "born": null
+   "born": null,
+   "died": "1 August 1907"
   },
   {
    "year": 1924,
@@ -75,8 +87,10 @@
    "desc": null,
    "cause": "The lawyer from Bangor, Gwynedd, slit his own throat while he was having a nightmare. An inquest at Bangor delivered a verdict of \"suicide while temporarily insane\".",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "1 August 1924"
   },
   {
    "year": 1925,
@@ -86,8 +100,10 @@
    "desc": null,
    "cause": "The 45-year-old schoolteacher from Cincinnati, Ohio, was found dead in a cistern in Coles County, Illinois, and was confirmed to be poisoned by a \"strange man\".",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "1 August 1925"
   },
   {
    "year": 1977,
@@ -97,8 +113,10 @@
    "desc": "American pilot",
    "cause": "last radio transmission before a helicopter crash killed him and cameraman George Spears",
    "last_words": "TV four just lost -",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Gary_Powers",
-   "born": "17 August 1929"
+   "born": "17 August 1929",
+   "died": "1 August 1977"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": "French writer",
    "cause": "to physician and traveler François Bernier, who had come to say goodbye to him",
    "last_words": "Well, my friend, what news from the Great Mogul?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_de_La_Mothe_Le_Vayer",
    "died": "9 May 1672"
   },
@@ -121,6 +140,7 @@
    "desc": "American novelist",
    "cause": "quoting his final, unfinished novella, Billy Budd",
    "last_words": "God bless Captain Vere!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herman_Melville",
    "died": "28 September 1891"
   },
@@ -132,6 +152,7 @@
    "desc": null,
    "cause": "The 27-year-old Greek king died of sepsis after being bitten by a palace steward's pet Barbary macaque in his garden, while trying to break up a fight between his German shepherd and another monkey.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_of_Greece",
    "died": "25 October 1920"
   },
@@ -143,6 +164,7 @@
    "desc": "United States Marine and Medal of Honor recipient",
    "cause": "prior to being killed in action at the Battle of the Punchbowl in the Korean War",
    "last_words": "You go. I'll cover you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Vittori",
    "died": "16 September 1951"
   }

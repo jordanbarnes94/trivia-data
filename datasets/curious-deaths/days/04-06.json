@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "with reference to the young man who had mortally wounded him with a crossbow",
    "last_words": "Youth, I forgive thee! Take off his chains, give him 100 shillings, and let him go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_I_of_England",
-   "born": "8 September 1157"
+   "born": "8 September 1157",
+   "died": "6 April 1199"
   },
   {
    "year": 1520,
@@ -20,8 +22,10 @@
    "desc": "Italian artist",
    "cause": null,
    "last_words": "Happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Raphael",
-   "born": "28 March 1483"
+   "born": "28 March 1483",
+   "died": "6 April 1520"
   },
   {
    "year": 1752,
@@ -31,8 +35,10 @@
    "desc": "English convicted murderer",
    "cause": "prior to execution by hanging",
    "last_words": "For the sake of decency, gentlemen, don't hang me high.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Blandy",
-   "born": null
+   "born": null,
+   "died": "6 April 1752"
   },
   {
    "year": 1856,
@@ -42,8 +48,10 @@
    "desc": "French Protestant churchman",
    "cause": null,
    "last_words": "This oppression is altogether physical: God is not the less with me. I am waiting for Him in the faith of Jesus Christ and of the Holy Spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adolphe_Monod",
-   "born": "21 January 1802"
+   "born": "21 January 1802",
+   "died": "6 April 1856"
   },
   {
    "year": 1871,
@@ -53,8 +61,10 @@
    "desc": "American Methodist minister",
    "cause": "when a friend asked him if Jesus was precious",
    "last_words": "Why, certainly, certainly!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Thompson_Taylor",
-   "born": "25 December 1793"
+   "born": "25 December 1793",
+   "died": "6 April 1871"
   },
   {
    "year": 1896,
@@ -64,8 +74,10 @@
    "desc": "American outlaw and gunfighter",
    "cause": "killed by cowboy George Scarborough",
    "last_words": "You god damned son-of-a-bitch, I am going to kill you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Selman",
-   "born": "16 November 1839"
+   "born": "16 November 1839",
+   "died": "6 April 1896"
   },
   {
    "year": 1944,
@@ -75,8 +87,10 @@
    "desc": "VC, Indian recipient of the Victoria Cross",
    "cause": "mortally wounded at the Battle of Imphal",
    "last_words": "Reorganise the post, I will give covering fire.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abdul_Hafiz_(VC)",
-   "born": "4 September 1925"
+   "born": "4 September 1925",
+   "died": "6 April 1944"
   },
   {
    "year": 1992,
@@ -86,8 +100,10 @@
    "desc": "American convicted murderer",
    "cause": "His asphyxiation in the gas chamber took 11 minutes before death was finally confirmed, and Harding spent his last moments cursing Arizona's state attorney general Grant Woods and giving him the middle finger",
    "last_words": "(Declined to make a final statement, but signaled the executioner to get started.)",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Harding",
-   "born": null
+   "born": "1 March 1949",
+   "died": "6 April 1992"
   },
   {
    "year": 1998,
@@ -97,8 +113,10 @@
    "desc": "American singer, songwriter and actress",
    "cause": "one of her suicide notes",
    "last_words": "The act of taking my own life is not something I am doing without a lot of thought. I don't believe that people should take their own lives without deep and thoughtful reflection over a considerable period of time. I do believe strongly, however, that the right to do so is one of the most fundamental rights that anyone in a free society should have. For me much of the world makes no sense, but my feelings about what I am doing ring loud and clear to an inner ear and a place where there is no self, only calm. Love always, Wendy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wendy_O._Williams",
-   "born": "28 May 1949"
+   "born": "28 May 1949",
+   "died": "6 April 1998"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": "Chinese Buddhist monk, scholar, traveler and translator",
    "cause": null,
    "last_words": "I desire that whatever merits I may have gained by good works may fall upon other people. May I be born again with them in the heaven of the blessed, be admitted to the family of Mi-le, and serve the Buddha of the future, who is full of kindness and affection. When I descend again upon earth, to pass through other forms of existence, I desire at every new birth to fulfill my duties toward Buddha, and arrive at the end to the highest perfect intelligence.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Xuanzang",
    "died": "5 February 664"
   }

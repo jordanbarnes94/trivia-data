@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": "to a soldier trying to save him after his suicide",
    "last_words": "Too late; is this your fidelity?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nero",
-   "born": "15 December 37"
+   "born": "15 December 37",
+   "died": "9 June 68"
   },
   {
    "year": 1870,
@@ -20,8 +22,10 @@
    "desc": "English novelist",
    "cause": "to his sister-in-law Georgina Hogarth, who had suggested he lie down after he suffered a stroke",
    "last_words": "Yes. On the ground.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens",
-   "born": "7 February 1812"
+   "born": "7 February 1812",
+   "died": "9 June 1870"
   },
   {
    "year": 1964,
@@ -31,19 +35,10 @@
    "desc": null,
    "cause": "Canadian-British newspaper publisher, at his 85th birthday party held 15 days before his death",
    "last_words": "This is my final word. It is time for me to become an apprentice once more. I have not settled in which direction.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Max_Aitken,_1st_Baron_Beaverbrook",
-   "born": "25 May 1879"
-  },
-  {
-   "year": 1987,
-   "year_label": "1987",
-   "name": "Lee Han-yeol",
-   "kind": "individual",
-   "desc": "South Korean student activist",
-   "cause": "to his classmates at a demonstration before being shot by a tear gas container. Fell into a coma and never regained consciousness before his death on 5 July",
-   "last_words": "I have to go to City Hall tomorrow.",
-   "wikipedia": "https://en.wikipedia.org/wiki/Lee_Han-yeol",
-   "born": null
+   "born": "25 May 1879",
+   "died": "9 June 1964"
   },
   {
    "year": 1987,
@@ -53,8 +48,23 @@
    "desc": null,
    "cause": "The 22-year-old inmate from Toronto being held at the Metro Toronto East Detention Centre in Scarborough, Ontario, died while trying to swallow a pocket-size Bible.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "9 June 1987"
+  },
+  {
+   "year": 1987,
+   "year_label": "1987",
+   "name": "Lee Han-yeol",
+   "kind": "individual",
+   "desc": "South Korean student activist",
+   "cause": "to his classmates at a demonstration before being shot by a tear gas container. Fell into a coma and never regained consciousness before his death on 5 July",
+   "last_words": "I have to go to City Hall tomorrow.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lee_Han-yeol",
+   "born": null,
+   "died": "9 June 1987"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Let me die to the sound of sweet music.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leopold_I,_Holy_Roman_Emperor",
    "died": "5 May 1705"
   },
@@ -77,6 +88,7 @@
    "desc": "American rhythm-and-blues singer and musician",
    "cause": "American musician, playing with a .32 caliber revolver",
    "last_words": "I'll show you that it won't shoot.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Ace",
    "died": "25 December 1954"
   }

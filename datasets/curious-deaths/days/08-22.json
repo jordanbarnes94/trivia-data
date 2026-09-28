@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "when deserted by his best troops at the Battle of Bosworth Field",
    "last_words": "Treason! treason!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_III_of_England",
-   "born": "2 October 1452"
+   "born": "2 October 1452",
+   "died": "22 August 1485"
   },
   {
    "year": 1532,
@@ -20,8 +22,10 @@
    "desc": "Archbishop of Canterbury",
    "cause": "when a servant told him he had thirty pounds left",
    "last_words": "That is enough to last till I get to Heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Warham",
-   "born": null
+   "born": null,
+   "died": "22 August 1532"
   },
   {
    "year": 1650,
@@ -31,8 +35,10 @@
    "desc": "English royalist",
    "cause": "prior to execution by beheading for treason",
    "last_words": "Lord Jesus, receive me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_Andrews_(Royalist)",
-   "born": null
+   "born": null,
+   "died": "22 August 1650"
   },
   {
    "year": 1888,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "At around 8:30pm, a shower of meteorites fell \"like rain\" on a village in Sulaymaniyah (then part of the Ottoman Empire). One man was paralyzed and another died. His death is considered the only credible case of death-by-meteorite.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "22 August 1888"
   },
   {
    "year": 1922,
@@ -53,8 +61,10 @@
    "desc": "Irish revolutionary, soldier and politician",
    "cause": "mortally wounded in anti-Treaty IRA ambush",
    "last_words": "Forgive them. Bury me in Glasnevin with the boys.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Collins_(Irish_leader)",
-   "born": "16 October 1890"
+   "born": "16 October 1890",
+   "died": "22 August 1922"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "French historian",
    "cause": "rambling before his death",
    "last_words": "Linen, doctor? You speak of linen? Do you know what linen is? The linen of the peasant, of the worker? Linen is a great thing. I want to make a book of it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jules_Michelet",
    "died": "9 February 1874"
   },
@@ -77,6 +88,7 @@
    "desc": "English churchman, Regius Professor of Hebrew at the University of Oxford",
    "cause": null,
    "last_words": "My God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Bouverie_Pusey",
    "died": "16 September 1882"
   },
@@ -88,6 +100,7 @@
    "desc": "American temperance orator",
    "cause": "The inaudible final word may have been \"clean\"",
    "last_words": "Young man, keep your record-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bartholomew_Gough",
    "died": "18 February 1886"
   },
@@ -99,6 +112,7 @@
    "desc": null,
    "cause": "The 54-year-old Soviet polymath and pioneer of blood transfusion died after exchanging his blood with his student who suffered from malaria and tuberculosis, presumably due to hemolytic transfusion reaction. Bogdanov's hypotheses were that the younger man's blood would rejuvenate his own aging body, and that his own blood, which he believed was resistant to tuberculosis, would treat the student's disease. The student injected with his blood made a complete recovery.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Bogdanov",
    "died": "7 April 1928"
   },
@@ -110,6 +124,7 @@
    "desc": "American writer and wit",
    "cause": null,
    "last_words": "Excuse my dust.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Parker",
    "died": "7 June 1967"
   }

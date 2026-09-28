@@ -9,8 +9,10 @@
    "desc": "Roman statesman",
    "cause": "facing an assassin sent by an enemy",
    "last_words": "I go no further: approach, veteran soldier, and, if you can at least do so much properly, sever this neck. [...] What would you have done had you come to me as your first victim?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cicero",
-   "born": "3 January 106 BC"
+   "born": "3 January 106 BC",
+   "died": "7 December 43 BC"
   },
   {
    "year": 1683,
@@ -20,8 +22,10 @@
    "desc": "English politician",
    "cause": "prior to execution by beheading for treason",
    "last_words": "I know that my Redeemer liveth. I die for the good old cause.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Algernon_Sidney",
-   "born": "15 January 1623"
+   "born": "15 January 1623",
+   "died": "7 December 1683"
   },
   {
    "year": 1815,
@@ -31,8 +35,10 @@
    "desc": "Marshal of the Empire",
    "cause": "When executed by firing squad, he refused to wear a blindfold and was allowed the right to give the order to fire himself",
    "last_words": "Soldiers, when I give the command to fire, fire straight at my heart. Wait for the order. It will be my last to you. I protest against my condemnation. I have fought a hundred battles for France, and not one against her ... Soldiers, fire!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michel_Ney",
-   "born": "10 January 1769"
+   "born": "10 January 1769",
+   "died": "7 December 1815"
   },
   {
    "year": 1834,
@@ -42,8 +48,10 @@
    "desc": "Scottish clergyman",
    "cause": null,
    "last_words": "If I die, I die unto the Lord. Amen.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Irving",
-   "born": "4 August 1792"
+   "born": "4 August 1792",
+   "died": "7 December 1834"
   },
   {
    "year": 1941,
@@ -53,8 +61,10 @@
    "desc": "United States Navy officer and Medal of Honor recipient",
    "cause": "mortally wounded aboard USS California (BB-44) during the attack on Pearl Harbor",
    "last_words": "Leave me alone! I am done for. Get out of here before the magazines go off.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_C._Jones",
-   "born": "21 January 1918"
+   "born": "21 January 1918",
+   "died": "7 December 1941"
   },
   {
    "year": 1941,
@@ -64,8 +74,10 @@
    "desc": "United States Navy sailor and Medal of Honor recipient",
    "cause": "refusing to evacuate flooded air compressor compartment aboard USS California (BB-44) during the attack on Pearl Harbor",
    "last_words": "As long as I can give these people air, I'm sticking.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_R._Scott",
-   "born": "13 July 1915"
+   "born": "13 July 1915",
+   "died": "7 December 1941"
   },
   {
    "year": 1980,
@@ -75,8 +87,10 @@
    "desc": "American musician",
    "cause": "writing a note to his friend David \"Bosco\" Davenport while dying of a heroin overdose",
    "last_words": "My life, my leather, my love goes to Bosco.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Darby_Crash",
-   "born": "26 September 1958"
+   "born": "26 September 1958",
+   "died": "7 December 1980"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Irish abbot and missionary evangelist",
    "cause": "ceasing to transcribe a Psalter",
    "last_words": "Here must I stop. What follows, let Baithen write.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Columba",
    "died": "8 June 597"
   },
@@ -99,8 +114,21 @@
    "desc": "founder and first president of the Massachusetts Institute of Technology",
    "cause": "while giving a commencement address",
    "last_words": "As I stand here today and see what the Institute is, what it has already accomplished, and what it is at present doing, I call to mind the beginnings of science. I remember that one hundred and fifty years ago Stephen Hales published a pamphlet on the subject of illuminating gas, in which he stated that his researchers had demonstrated that 128 grains of bituminous coal -",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Barton_Rogers",
    "died": "30 May 1882"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "Hedley Vicars",
+   "kind": "individual",
+   "desc": "British Army officer and evangelical",
+   "cause": "killed in action in the Crimean War",
+   "last_words": "Cover my face.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Hedley_Vicars",
+   "died": "22 March 1855"
   },
   {
    "year": 1920,
@@ -110,6 +138,7 @@
    "desc": "Second World War German fighter ace",
    "cause": "crashing due to engine failure after combat with United States Army Air Force planes",
    "last_words": "I'm on fire.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Nowotny",
    "died": "8 November 1944"
   }

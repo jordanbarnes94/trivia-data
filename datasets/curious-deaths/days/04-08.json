@@ -9,8 +9,10 @@
    "desc": "American Episcopal clergyman and educator",
    "cause": "to a friend who had entered the room",
    "last_words": "Good morning.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Augustus_Muhlenberg",
-   "born": "16 September 1796"
+   "born": "16 September 1796",
+   "died": "8 April 1877"
   },
   {
    "year": 1948,
@@ -20,8 +22,10 @@
    "desc": "Palestinian leader and fighter",
    "cause": "in a note to Abdul Rahman Hassan Azzam written shortly before his death during the Battle of Qastal",
    "last_words": "To the General Secretary of the Arab League in Cairo: I lay full blame on your shoulders for leaving my soldiers, in the zenith of victory, without aid or weaponry. Abd al-Qadir al-Husayni.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abd_al-Qadir_al-Husayni",
-   "born": null
+   "born": null,
+   "died": "8 April 1948"
   },
   {
    "year": 1950,
@@ -31,8 +35,10 @@
    "desc": "Polish ballet dancer and choreographer",
    "cause": null,
    "last_words": "Mama!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vaslav_Nijinsky",
-   "born": "12 March 1889"
+   "born": "12 March 1889",
+   "died": "8 April 1950"
   },
   {
    "year": 1962,
@@ -42,8 +48,10 @@
    "desc": "American gangster",
    "cause": "to his wife prior to his disappearance",
    "last_words": "I'm only going out for a few minutes. Besides, I'm wearing thermal underwear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Strollo",
-   "born": "18 June 1899"
+   "born": "18 June 1899",
+   "died": "8 April 1962"
   },
   {
    "year": 1973,
@@ -53,8 +61,10 @@
    "desc": "Spanish artist",
    "cause": null,
    "last_words": "Drink to me, drink to my health. You know I can't drink anymore.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Picasso",
-   "born": "25 October 1881"
+   "born": "25 October 1881",
+   "died": "8 April 1973"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": "shortly before falling to his death while rock climbing",
    "last_words": "Follow the path for another fifty yards. I am going back to the foot of the rocks to make another climb. If I feel in good form I shall take the difficult way up; if I do not I shall take the easy one. I shall join you in an hour.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_I_of_Belgium",
    "died": "17 February 1934"
   }

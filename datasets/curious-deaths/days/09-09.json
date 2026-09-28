@@ -9,8 +9,10 @@
    "desc": "King of England",
    "cause": "after hearing bell ringing Prime",
    "last_words": "\"I treated the native inhabitants of the kingdom with unreasonable severity, cruelly oppressed high and low, unjustly disinherited many, and caused the death of thousands by starvation and war, especially in Yorkshire....In mad fury I descended on the English of the north like a raging lion, and ordered that their homes and crops with all their equipment and furnishings should be burnt at once and their great flocks and herds of sheep and cattle slaughtered everywhere. So I chastised a great multitude of men and women with the lash of starvation and, alas! was the cruel murderer of many thousands, both young and old, of this fair people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_the_Conqueror",
-   "born": "8 November 1028"
+   "born": "8 November 1028",
+   "died": "9 September 1087"
   },
   {
    "year": 1583,
@@ -20,8 +22,10 @@
    "desc": "English adventurer and explorer",
    "cause": "prior to sinking of HMS Squirrel with all hands",
    "last_words": "We are as neare to Heaven by sea as by land.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
-   "born": null
+   "born": null,
+   "died": "9 September 1583"
   },
   {
    "year": 1921,
@@ -31,8 +35,10 @@
    "desc": "American model and silent film actress",
    "cause": null,
    "last_words": "I'm dying, I'm dying...he hurt me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Rappe",
-   "born": "7 July 1891"
+   "born": "7 July 1891",
+   "died": "9 September 1921"
   },
   {
    "year": 1975,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "After a bell dive while working in saturation aboard the semi-submersible drill rig Waage Drill II in the North Sea, British commercial divers Baldwin, 24, and Holmes, 29, died of hyperthermia due to a large amount of helium being pumped into the diving chamber complex in response to an apparent pressure leak. The supervisor had mistakenly been monitoring the pressure in the diving bell rather than in the chamber complex.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Waage_Drill_II_diving_accident",
-   "born": null
+   "born": null,
+   "died": "9 September 1975"
   },
   {
    "year": 1976,
@@ -53,8 +61,10 @@
    "desc": "Chinese statesman and revolutionary",
    "cause": null,
    "last_words": "I feel ill. Call the doctors.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mao_Zedong",
-   "born": "26 December 1893"
+   "born": "26 December 1893",
+   "died": "9 September 1976"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "French clergyman and statesman",
    "cause": "when asked whether he pardoned his enemies",
    "last_words": "Absolutely, and I pray God to condemn me, if I have had any other aim than the welfare of God and the state.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Richelieu",
    "died": "4 December 1642"
   },
@@ -77,6 +88,7 @@
    "desc": "English physician and medical missionary",
    "cause": "dying in Tientsin, China",
    "last_words": "Enough, Enough.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Fred_C._Roberts",
    "died": "6 June 1894"
   }

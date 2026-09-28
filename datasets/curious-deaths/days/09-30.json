@@ -9,8 +9,10 @@
    "desc": "Anglican cleric and evangelist",
    "cause": "to a servant",
    "last_words": "I am dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Whitefield",
-   "born": "16 December 1714"
+   "born": "16 December 1714",
+   "died": "30 September 1770"
   },
   {
    "year": 1897,
@@ -20,8 +22,10 @@
    "desc": "French Catholic Carmelite nun and mystic",
    "cause": null,
    "last_words": "My God, I love You!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thérèse_of_Lisieux",
-   "born": "2 January 1873"
+   "born": "2 January 1873",
+   "died": "30 September 1897"
   },
   {
    "year": 1955,
@@ -31,8 +35,10 @@
    "desc": "American actor",
    "cause": "to his friend Rolf Wütherich, moments before the car crash",
    "last_words": "That guy's gotta stop... He'll see us.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Dean",
-   "born": "8 February 1931"
+   "born": "8 February 1931",
+   "died": "30 September 1955"
   },
   {
    "year": 1960,
@@ -42,8 +48,10 @@
    "desc": "British Arabist and intelligence officer",
    "cause": null,
    "last_words": "I am so bored.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/St_John_Philby",
-   "born": "3 April 1885"
+   "born": "3 April 1885",
+   "died": "30 September 1960"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "American jazz drummer and bandleader",
    "cause": "to a nurse who asked him, \"Is there anything you can't take?\" He then died during surgery",
    "last_words": "Yeah, country music.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Buddy_Rich",
    "died": "2 April 1987"
   },
@@ -66,6 +75,7 @@
    "desc": "American World War II flying ace",
    "cause": "prior to fatal crash of F-86 Sabre",
    "last_words": "Say goodbye to my wife and kids.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Wetmore",
    "died": "14 February 1951"
   },
@@ -77,6 +87,7 @@
    "desc": "American author",
    "cause": "He had been separated from his mother for several years during his childhood",
    "last_words": "Mama- Mama- Mama.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Truman_Capote",
    "died": "25 August 1984"
   }

@@ -9,8 +9,10 @@
    "desc": "Scottish divine",
    "cause": null,
    "last_words": "Pray, pray!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Halyburton",
-   "born": "25 December 1674"
+   "born": "25 December 1674",
+   "died": "23 September 1712"
   },
   {
    "year": 1835,
@@ -20,8 +22,10 @@
    "desc": "Italian opera composer",
    "cause": null,
    "last_words": "Perhaps some day they will hear my music without even saying 'Poor Bellini'.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vincenzo_Bellini",
-   "born": "3 November 1801"
+   "born": "3 November 1801",
+   "died": "23 September 1835"
   },
   {
    "year": 1840,
@@ -31,8 +35,10 @@
    "desc": "American Congregational minister and theologian",
    "cause": null,
    "last_words": "I am ready.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nathanael_Emmons",
-   "born": "20 April 1745"
+   "born": "20 April 1745",
+   "died": "23 September 1840"
   },
   {
    "year": 1939,
@@ -42,8 +48,10 @@
    "desc": "Austrian neurologist, founder of psychoanalysis",
    "cause": null,
    "last_words": "The meager satisfaction that man can extract from reality leaves him starving.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sigmund_Freud",
-   "born": "6 May 1856"
+   "born": "6 May 1856",
+   "died": "23 September 1939"
   },
   {
    "year": 1950,
@@ -53,8 +61,10 @@
    "desc": "VC, British Army officer",
    "cause": "mortally wounded by automatic weapon fire during Battle of Hill 282 in the Korean War",
    "last_words": "The Gooks will never drive the Argylls off this hill.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Muir_(British_Army_officer)",
-   "born": "6 March 1912"
+   "born": "6 March 1912",
+   "died": "23 September 1950"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "First Roman Emperor",
    "cause": null,
    "last_words": "Have I played the part well? Then applaud, as I exit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Augustus",
    "died": "19 August 14"
   },
@@ -77,6 +88,7 @@
    "desc": "English poet and novelist, author of \"Twinkle, Twinkle, Little Star\"",
    "cause": null,
    "last_words": "Are we not children, all of us?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Taylor_(poet)",
    "died": "13 April 1824"
   },
@@ -88,6 +100,7 @@
    "desc": "German poet and soldier",
    "cause": "final lines of the \"Schwertlied\", written two hours before his death in battle",
    "last_words": "Now let her sing and clash, / That glowing sparks may flash! / Morn wakes in nuptial pride. / Hurrah, thou iron bride! / Hurrah!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodor_Körner_(author)",
    "died": "26 August 1813"
   }

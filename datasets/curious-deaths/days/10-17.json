@@ -9,8 +9,10 @@
    "desc": "English poet and soldier",
    "cause": "mortally wounded at the Battle of Zutphen, passing a cup of water to another wounded soldier",
    "last_words": "Take it; thy need is greater than mine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Sidney",
-   "born": "30 November 1554"
+   "born": "30 November 1554",
+   "died": "17 October 1586"
   },
   {
    "year": 1690,
@@ -20,8 +22,10 @@
    "desc": "French Roman Catholic nun, promoter of devotion to the Sacred Heart of Jesus",
    "cause": null,
    "last_words": "I need nothing but God, and to lose myself in the heart of Jesus.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Mary_Alacoque",
-   "born": "22 July 1647"
+   "born": "22 July 1647",
+   "died": "17 October 1690"
   },
   {
    "year": 1814,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "At Meux & Co's Horse Shoe Brewery, a 22-foot-tall (6.7 m) wooden vat of fermenting porter burst, causing chain reactions and destroying several large beer barrels. The beer subsequently flooded the nearby slum and killed eight people. Several people also reportedly died from alcohol poisoning as a result of drinking the flooded liquor.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/London_Beer_Flood",
-   "born": null
+   "born": null,
+   "died": "17 October 1814"
   },
   {
    "year": 1849,
@@ -42,8 +48,10 @@
    "desc": "Polish composer and pianist",
    "cause": "asked by his physician if he was suffering",
    "last_words": "Not yet.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frédéric_Chopin",
-   "born": "1 March 1810"
+   "born": "1 March 1810",
+   "died": "17 October 1849"
   },
   {
    "year": 1910,
@@ -53,8 +61,10 @@
    "desc": "American poet and author",
    "cause": null,
    "last_words": "God will help me. I am so tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Ward_Howe",
-   "born": "27 May 1819"
+   "born": "27 May 1819",
+   "died": "17 October 1910"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": "who had just elected as Pope following the papal conclave on the death of his predecessor, Pope Paul VI, who died in 6 August",
    "last_words": "Tomorrow, we will see each other, if the Lord still wishes it, and we will celebrate Mass together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_John_Paul_I",
    "died": "28 September 1978"
   },
@@ -77,6 +88,7 @@
    "desc": "American actor",
    "cause": "to his private nurse, Lorenzo James, who had suggested they watch The Misfits on television",
    "last_words": "Absolutely not!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Montgomery_Clift",
    "died": "23 July 1966"
   }

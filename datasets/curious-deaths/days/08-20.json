@@ -9,8 +9,10 @@
    "desc": "Burgundian abbot",
    "cause": "on being told he was dying",
    "last_words": "May God's will be done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux",
-   "born": null
+   "born": null,
+   "died": "20 August 1153"
   },
   {
    "year": 1912,
@@ -20,8 +22,10 @@
    "desc": "English Methodist preacher and co-founder of the Salvation Army",
    "cause": "to his son, Bramwell Booth",
    "last_words": "And the homeless children, Bramwell, look after the homeless. Promise me...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Booth",
-   "born": "10 April 1829"
+   "born": "10 April 1829",
+   "died": "20 August 1912"
   },
   {
    "year": 1914,
@@ -31,8 +35,10 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": null,
    "last_words": "Now I begin to think the end is approaching. The Almighty in His inexhaustible goodness wishes to spare me the horrors which Europe is undergoing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_X",
-   "born": "2 June 1835"
+   "born": "2 June 1835",
+   "died": "20 August 1914"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Chilean independence leader and statesman",
    "cause": null,
    "last_words": "Magellan, Magellan!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bernardo_O'Higgins",
    "died": "24 October 1842"
   },
@@ -55,6 +62,7 @@
    "desc": "president of the United States",
    "cause": "dying of pneumonia",
    "last_words": "Are the doctors here? Doctor, my lungs...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Harrison",
    "died": "13 March 1901"
   },
@@ -66,6 +74,7 @@
    "desc": "Confederate soldier",
    "cause": "mortally wounded at the Battle of Chickamauga",
    "last_words": "Tell my father I died right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Rowland_Kirkland",
    "died": "20 September 1863"
   },
@@ -77,6 +86,7 @@
    "desc": "VC, Indian recipient of the Victoria Cross",
    "cause": "mortally wounded at Keren, Eritrea",
    "last_words": "We'll capture the objective.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richhpal_Ram",
    "died": "12 February 1941"
   },
@@ -88,6 +98,7 @@
    "desc": "former Prime Minister of India",
    "cause": "spoken to a policewoman at his assassination",
    "last_words": "Don't worry. Relax.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rajiv_Gandhi",
    "died": "21 May 1991"
   },
@@ -99,6 +110,7 @@
    "desc": "Irish singer, musician and songwriter",
    "cause": "dying at age 36",
    "last_words": "I'm bad, I'm nineteen.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Lynott",
    "died": "4 January 1986"
   }

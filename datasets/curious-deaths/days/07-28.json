@@ -9,8 +9,10 @@
    "desc": "1st Earl of Essex",
    "cause": "prior to beheading for treason and heresy",
    "last_words": "I die in the traditional faith.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cromwell",
-   "born": null
+   "born": null,
+   "died": "28 July 1540"
   },
   {
    "year": 1750,
@@ -20,8 +22,10 @@
    "desc": "German composer",
    "cause": null,
    "last_words": "Don't cry for me, for I go where music is born.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
-   "born": "21 March 1685"
+   "born": "21 March 1685",
+   "died": "28 July 1750"
   },
   {
    "year": 1794,
@@ -31,8 +35,10 @@
    "desc": "French lawyer and statesman",
    "cause": "when blamed for the death of Georges Danton",
    "last_words": "Cowards! Why did you not defend him?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maximilien_Robespierre",
-   "born": "6 May 1758"
+   "born": "6 May 1758",
+   "died": "28 July 1794"
   },
   {
    "year": 1885,
@@ -42,8 +48,10 @@
    "desc": "FRS, British financier, banker and philanthropist",
    "cause": "dying at age 100",
    "last_words": "Thank God! Thank Heaven!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Moses_Montefiore",
-   "born": "24 November 1784"
+   "born": "24 November 1784",
+   "died": "28 July 1885"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "SJ]], English poet and priest",
    "cause": null,
    "last_words": "I am so happy, so happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins",
    "died": "8 June 1889"
   },
@@ -66,6 +75,7 @@
    "desc": "former First Lady of the United States",
    "cause": "to her daughter Caroline and son John",
    "last_words": "Don't cry for me. I'm going to be with your father now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
    "died": "19 May 1994"
   }

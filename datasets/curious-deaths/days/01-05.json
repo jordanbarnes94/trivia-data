@@ -9,8 +9,10 @@
    "desc": "American operatic soprano",
    "cause": "dying of pneumonia",
    "last_words": "I am not afraid to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emma_Abbott",
-   "born": "9 December 1850"
+   "born": "9 December 1850",
+   "died": "5 January 1891"
   },
   {
    "year": 1922,
@@ -20,8 +22,10 @@
    "desc": "Anglo-Irish Antarctic Explorer",
    "cause": null,
    "last_words": "You are always wanting me to give up things, what is it I ought to give up?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
-   "born": "15 February 1874"
+   "born": "15 February 1874",
+   "died": "5 January 1922"
   },
   {
    "year": 1933,
@@ -31,8 +35,10 @@
    "desc": "president of the United States",
    "cause": "to a carpenter working on his house",
    "last_words": "Good morning, Robert.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Coolidge",
-   "born": "4 July 1872"
+   "born": "4 July 1872",
+   "died": "5 January 1933"
   },
   {
    "year": 1935,
@@ -42,8 +48,10 @@
    "desc": "Australian rules footballer and police constable",
    "cause": "accidentally shot by police colleague",
    "last_words": "What happened? It got me in the thigh.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clyde_Smith_(footballer)",
-   "born": "28 January 1901"
+   "born": "28 January 1901",
+   "died": "5 January 1935"
   },
   {
    "year": 1988,
@@ -53,8 +61,10 @@
    "desc": "American basketball player",
    "cause": "before dying of an undiagnosed heart defect during a pickup game in Pasadena, California before dying of undiagnosed heart defect during pickup game",
    "last_words": "I feel great.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Maravich",
-   "born": "22 June 1947"
+   "born": "22 June 1947",
+   "died": "5 January 1988"
   },
   {
    "year": 1996,
@@ -64,8 +74,10 @@
    "desc": "American operatic tenor",
    "cause": "performing in The Makropulos Case at the Metropolitan Opera before dying on stage",
    "last_words": "You only live so long.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Versalle",
-   "born": "3 December 1933"
+   "born": "3 December 1933",
+   "died": "5 January 1996"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "United States naval officer",
    "cause": "mortally wounded in duel with James Barron",
    "last_words": "I am mortally wounded ... I think.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Decatur",
    "died": "22 March 1820"
   },
@@ -88,6 +101,7 @@
    "desc": "Virginia planter and enslaver",
    "cause": "conclusion of final diary entry before suicide",
    "last_words": "And now with my latest writing and utterance, and with what will be near my latest breath, I here repeat and would willingly proclaim my unmitigated hatred to yankee rule – to all political, social and business connections with Yankees, and the perfidious, malignant and vile Yankee race.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Ruffin",
    "died": "18 June 1865"
   },
@@ -99,6 +113,7 @@
    "desc": "Chancellor of West Germany",
    "cause": null,
    "last_words": "No reason to weep.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Adenauer",
    "died": "19 April 1967"
   },
@@ -110,6 +125,7 @@
    "desc": "United States Marine Corps officer",
    "cause": "to his approaching medics, after being gassed and hit by German shrapnel during the Battle of Belleau Wood in World War I",
    "last_words": "Don't bother with me. Take care of my good men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_W._Williams",
    "died": "12 June 1918"
   },
@@ -121,6 +137,7 @@
    "desc": "VC, British Army officer",
    "cause": "dismissing his nurse while dying of pneumonia at Niederzwehren prisoner of war camp",
    "last_words": "Go away gnadiger Frau [gracious lady].",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Royds_Gribble",
    "died": "25 November 1918"
   },
@@ -132,6 +149,7 @@
    "desc": "American actor",
    "cause": "prior to his apparent suicide",
    "last_words": "I'm tired. I'm going back to bed.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Reeves",
    "died": "16 June 1959"
   },
@@ -143,6 +161,7 @@
    "desc": "President and Prime Minister of Pakistan",
    "cause": "prior to execution by hanging",
    "last_words": "God help me [Allah madad], for I am innocent.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Zulfikar_Ali_Bhutto",
    "died": "4 April 1979"
   }

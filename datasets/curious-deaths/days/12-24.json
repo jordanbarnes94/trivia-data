@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "French marchioness who married Marquis de Lafayette",
    "last_words": "I am all yours.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_de_La_Fayette",
-   "born": "2 November 1759"
+   "born": "2 November 1759",
+   "died": "24 December 1807"
   },
   {
    "year": 1850,
@@ -20,8 +22,10 @@
    "desc": "French economist and writer",
    "cause": null,
    "last_words": "I am not able to explain myself.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frédéric_Bastiat",
-   "born": "30 June 1801"
+   "born": "30 June 1801",
+   "died": "24 December 1850"
   },
   {
    "year": 1863,
@@ -31,8 +35,10 @@
    "desc": "English novelist",
    "cause": "to his valet",
    "last_words": "Good night.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Makepeace_Thackeray",
-   "born": "18 July 1811"
+   "born": "18 July 1811",
+   "died": "24 December 1863"
   },
   {
    "year": 1935,
@@ -42,8 +48,10 @@
    "desc": "Austrian composer",
    "cause": "to his wife, who had asked him to relax",
    "last_words": "But I have so little time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alban_Berg",
-   "born": "9 February 1885"
+   "born": "9 February 1885",
+   "died": "24 December 1935"
   },
   {
    "year": 1937,
@@ -53,8 +61,10 @@
    "desc": "first African-American woman to practice law before the United States Supreme Court",
    "cause": "speaking to Claude Albert Barnett while dying of cancer prior to Zeta Phi Beta's annual boule",
    "last_words": "Tell the girls to keep on going ahead. Put over the boule with a bang. Don't let my passing throw the slightest shadow of gloom. The organization has a grand mission before it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Violette_Neatley_Anderson",
-   "born": "16 July 1882"
+   "born": "16 July 1882",
+   "died": "24 December 1937"
   },
   {
    "year": 1983,
@@ -64,8 +74,10 @@
    "desc": "French director",
    "cause": "before being killed by his Norwegian wife",
    "last_words": "Kill me if you want, but stop bothering me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Gégauff",
-   "born": "10 August 1922"
+   "born": "10 August 1922",
+   "died": "24 December 1983"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Roman emperor",
    "cause": "prior to beheading by supporters of Otho",
    "last_words": "Strike, if it be for the Romans' good.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Galba",
    "died": "15 January 69"
   },
@@ -88,6 +101,7 @@
    "desc": "American frontiersman",
    "cause": null,
    "last_words": "Wish I had time for just one more bowl of chili.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kit_Carson",
    "died": "23 May 1868"
   },
@@ -99,6 +113,7 @@
    "desc": "President of Ecuador",
    "cause": null,
    "last_words": "God does not die!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gabriel_García_Moreno",
    "died": "6 August 1875"
   },
@@ -110,6 +125,7 @@
    "desc": null,
    "cause": "when asked if she was in pain after being stabbed by Italian anarchist Luigi Lucheni The Empress of Austria was stabbed with a thin file by Italian anarchist Luigi Lucheni while strolling through Geneva with her lady-in-waiting Irma Sztáray. The wound pierced her pericardium and a lung. As her extremely tight corset held the wound closed, she did not realize what had happened (instead believing a passerby had struck her) and walked on for some time before collapsing.",
    "last_words": "No. What has happened?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Empress_Elisabeth_of_Austria",
    "died": "10 September 1898"
   },
@@ -121,6 +137,7 @@
    "desc": "king of Greece",
    "cause": "shortly before being assassinated",
    "last_words": "Tomorrow, when I pay my formal visit to the dreadnought Goeben, it is the fact that a German battleship is to honor a Greek King here in Salonika that will fill me with happiness and contentment.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_I_of_Greece",
    "died": "18 March 1913"
   },
@@ -132,6 +149,7 @@
    "desc": "American aerobatic pilot",
    "cause": "after his plane entered a flat inverted spin during filming of Top Gun",
    "last_words": "I have a problem, I have a real problem.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Art_Scholl",
    "died": "16 September 1985"
   },
@@ -143,6 +161,7 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "I'd like to thank my family for loving me and taking care of me, and the rest of the world can kiss my ass.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Frank_Garrett",
    "died": "11 February 1992"
   }

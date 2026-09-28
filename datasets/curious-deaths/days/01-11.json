@@ -9,8 +9,10 @@
    "desc": "American academic and educator",
    "cause": "finishing his final manuscript",
    "last_words": "There, I have done! Oh, what triumphant truth!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Dwight_IV",
-   "born": "14 May 1752"
+   "born": "14 May 1752",
+   "died": "11 January 1817"
   },
   {
    "year": 1854,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The 13-year-old died in San Francisco, California, reportedly after a circus clown named Manuel Rays swung him around by his heels.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "11 January 1854"
   },
   {
    "year": 1966,
@@ -31,8 +35,10 @@
    "desc": "Prime Minister of India",
    "cause": "to his doctors",
    "last_words": "Oh, father. Oh, Rama!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri",
-   "born": "2 October 1904"
+   "born": "2 October 1904",
+   "died": "11 January 1966"
   },
   {
    "year": 1979,
@@ -42,8 +48,10 @@
    "desc": "American actor",
    "cause": "speaking to Hal Linden while being wheeled into operating room, referring to the bad coffee Soo's character made on their sitcom Barney Miller",
    "last_words": "It must have been the coffee.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Soo",
-   "born": "28 October 1917"
+   "born": "28 October 1917",
+   "died": "11 January 1979"
   },
   {
    "year": 1983,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "pilot of United Airlines Flight 2885, just before the plane crashed after takeoff from Detroit Metropolitan Airport",
    "last_words": "Running out of air.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_S._Todd",
-   "born": null
+   "born": null,
+   "died": "11 January 1983"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "American statesman",
    "cause": "addressing his wife after being mortally shot by his rival Aaron Burr in a duel",
    "last_words": "Remember, my Eliza, you are a Christian. Alexander's other final words were \"If they break this Union, They will break my heart\" (as per Ron Chernow's biography on Alexander Hamilton)",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
    "died": "12 July 1804"
   },
@@ -77,6 +88,7 @@
    "desc": "American poet, literary critic, translator, travel author and diplomat",
    "cause": null,
    "last_words": "I want, oh, you know what I mean, the stuff of life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bayard_Taylor",
    "died": "19 December 1878"
   },
@@ -88,6 +100,7 @@
    "desc": "American philosopher and psychologist",
    "cause": null,
    "last_words": "These then are my last words to you. Be not afraid of life. Believe that life is worth living and your belief will help create the fact.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_James",
    "died": "26 August 1910"
   },
@@ -99,6 +112,7 @@
    "desc": "engineer-in-chief of Western Australia",
    "cause": "purported suicide note",
    "last_words": "Put the wing walls to Helena Weir at once\"",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/C._Y._O'Connor",
    "died": "10 March 1902"
   },
@@ -110,6 +124,7 @@
    "desc": null,
    "cause": "The 31-year-old died from kidney failure related to her cervical cancer at the emergency room of Riverside General Hospital in Riverside, California. While treating her, several of the hospital staff became ill, suffering from loss of consciousness, shortness of breath, and muscle spasms. Shortly before dying, she was allegedly covered with an oily sheen, which smelled of fruit and garlic.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Gloria_Ramirez",
    "died": "19 February 1994"
   }

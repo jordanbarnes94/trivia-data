@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The 55-year-old American chemical engineer, best known for inventing leaded gasoline and chlorofluorocarbon gas, contracted polio in 1941, which left him severely disabled, leading him to devise an elaborate system of ropes and pulleys to lift himself out of bed. In 1944, he became entangled in the device and died of strangulation.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
-   "born": "18 May 1889"
+   "born": "18 May 1889",
+   "died": "2 November 1944"
   },
   {
    "year": 1950,
@@ -20,8 +22,10 @@
    "desc": "Irish playwright and critic",
    "cause": "to his nurse",
    "last_words": "Sister, you're trying to keep me alive as an old curiosity, but I'm done, I'm finished, I'm going to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
-   "born": "26 July 1856"
+   "born": "26 July 1856",
+   "died": "2 November 1950"
   },
   {
    "year": 1961,
@@ -31,8 +35,10 @@
    "desc": "American humorist",
    "cause": null,
    "last_words": "God bless ... God damn.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Thurber",
-   "born": "8 December 1894"
+   "born": "8 December 1894",
+   "died": "2 November 1961"
   },
   {
    "year": 1982,
@@ -42,8 +48,10 @@
    "desc": "American fundamentalist Independent Baptist preacher and founder of teen homes",
    "cause": "prior to fatal plane crash",
    "last_words": "I believe this is going to be the greatest day of my life!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lester_Roloff",
-   "born": "28 June 1914"
+   "born": "28 June 1914",
+   "died": "2 November 1982"
   },
   {
    "year": 1984,
@@ -53,8 +61,10 @@
    "desc": "American serial killer",
    "cause": "right before her execution",
    "last_words": "I know that everybody has gone through a lot of pain, all the families connected, and I am sorry, and I want to thank everybody who have been supporting me all these six years.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Velma_Barfield",
-   "born": "29 October 1932"
+   "born": "29 October 1932",
+   "died": "2 November 1984"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "American pioneer and frontiersman",
    "cause": null,
    "last_words": "I'm going now. My time has come.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Daniel_Boone",
    "died": "26 September 1820"
   },
@@ -77,6 +88,7 @@
    "desc": "French Roman Catholic priest and missionary in Vietnam",
    "cause": null,
    "last_words": "Here I am finally. Here I am at the end of the tumultuous career that, whatever my repugnance, I have kept to for so long. My troubles will soon be over and my true happiness is coming, since I have all confidence in the mercy of my God. I willingly leave this world where I have been thought happy in that I have had public admiration, been respected by great, esteemed kings. I can't say that I regret all these honors-it's just that they add up to vanity and trouble.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Pigneau_de_Behaine",
    "died": "9 October 1799"
   },
@@ -88,6 +100,7 @@
    "desc": "queen of France",
    "cause": "apologizing to her executioner for stepping on his foot prior to her execution by guillotine",
    "last_words": "Pardon me, sir. I did not do it on purpose.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Antoinette",
    "died": "16 October 1793"
   },
@@ -99,6 +112,7 @@
    "desc": null,
    "cause": "French marchioness who married Marquis de Lafayette",
    "last_words": "I am all yours.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adrienne_de_La_Fayette",
    "died": "24 December 1807"
   },
@@ -110,6 +124,7 @@
    "desc": "president of the United States",
    "cause": "to his wife, Sarah Childress Polk",
    "last_words": "I love you, Sarah. For all eternity, I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_K._Polk",
    "died": "15 June 1849"
   },
@@ -121,6 +136,7 @@
    "desc": "con artist and gangster in the American frontier",
    "cause": "after vigilante Frank H. Reid shot him",
    "last_words": "My God, don't shoot!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Soapy_Smith",
    "died": "7 July 1898"
   },
@@ -132,6 +148,7 @@
    "desc": "president of the United States",
    "cause": "to his wife, Florence Harding, who had been reading aloud a flattering Saturday Evening Post article about him",
    "last_words": "That's good. Go on, read some more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Warren_G._Harding",
    "died": "2 August 1923"
   },
@@ -143,6 +160,7 @@
    "desc": "GC, MA, Congregational Church minister",
    "cause": "asking to be lowered into the hold of the sinking SS Anselm, where injured airmen were trapped. Pugh then prayed with the men until the ship sank",
    "last_words": "My love of God is greater than my fear of death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Pugh",
    "died": "5 July 1941"
   },
@@ -154,6 +172,7 @@
    "desc": "GC, British police officer",
    "cause": "to PC Carl Walker, GC, referring to armed robber Frederick Joseph Sewell, who had shot both of them. Walker survived",
    "last_words": "I had him by the throat but the bastard shot me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gerry_Richardson",
    "died": "23 August 1971"
   }

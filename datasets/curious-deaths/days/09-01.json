@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The only Englishman to serve as Pope reportedly died after choking on a fly while drinking spring water.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Adrian_IV",
-   "born": null
+   "born": null,
+   "died": "1 September 1159"
   },
   {
    "year": 1715,
@@ -20,8 +22,10 @@
    "desc": "king of France",
    "cause": null,
    "last_words": "I'm going, but the State will always remain.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XIV",
-   "born": "5 September 1638"
+   "born": "5 September 1638",
+   "died": "1 September 1715"
   },
   {
    "year": 1776,
@@ -31,8 +35,10 @@
    "desc": "German poet",
    "cause": null,
    "last_words": "I am very ill. Send for Zimmermann. In fact, I think I'll die today.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Christoph_Heinrich_Hölty",
-   "born": "21 December 1748"
+   "born": "21 December 1748",
+   "died": "1 September 1776"
   },
   {
    "year": 1951,
@@ -42,8 +48,10 @@
    "desc": "United States Army soldier and Medal of Honor recipient",
    "cause": "prior to being killed in action in the Korean War",
    "last_words": "I've got your back.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_T._Kahoʻohanohano",
-   "born": null
+   "born": "22 July 1930",
+   "died": "1 September 1951"
   },
   {
    "year": 1983,
@@ -53,8 +61,10 @@
    "desc": "pilot of Korean Air Lines Flight 007",
    "cause": "as it was being shot by Soviet Air Defense Forces due to a navigational error when it entered onto a restricted airspace over Soviet Union",
    "last_words": "Korean Air flight zero zero seven, we are experiencing rapid decompression descend to eleven thousand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Korean_Air_Lines_Flight_007",
-   "born": null
+   "born": null,
+   "died": "1 September 1983"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "English psychiatrist",
    "cause": "to his caretaker",
    "last_words": "Young man, you have heard, no doubt, how great are the terrors of death. This night will probably afford you some experience; but you may learn, and may you profit by the example, that a conscientious endeavor to perform his duty through life will ever close a Christian's eyes with comfort and tranquility!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Battie",
    "died": "13 June 1776"
   },
@@ -77,6 +88,7 @@
    "desc": "United States Army dental officer and Medal of Honor recipient",
    "cause": "preparing to cover evacuation of wounded from aid station with M1917 Browning machine gun during the Battle of Saipan",
    "last_words": "I'm going to hold these guys off as long as I can. I'll see you later.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ben_L._Salomon",
    "died": "7 July 1944"
   }

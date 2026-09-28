@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "asking for his executioner to await his signal before beheading him",
    "last_words": "Stay for the sign.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_I_of_England",
-   "born": "19 November 1600"
+   "born": "19 November 1600",
+   "died": "30 January 1649"
   },
   {
    "year": 1901,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The lineworker in Smartsville, California, was killed by an electric shock through a telephone receiver after a broken power line came in contact with the telephone wire.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "30 January 1901"
   },
   {
    "year": 1948,
@@ -31,8 +35,10 @@
    "desc": "Indian revolutionary and pacifist",
    "cause": "shortly after being shot by Hindu nationalist Nathuram Godse",
    "last_words": "Oh God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
-   "born": "2 October 1869"
+   "born": "2 October 1869",
+   "died": "30 January 1948"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Prime Minister of Bulgaria",
    "cause": "mortally wounded by assassins",
    "last_words": "God protect Bulgaria.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Stambolov",
    "died": "19 July 1895"
   },
@@ -55,6 +62,7 @@
    "desc": "president of the United States",
    "cause": "before dying of intracerebral hemorrhage",
    "last_words": "I have a terrific headache.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
    "died": "12 April 1945"
   }

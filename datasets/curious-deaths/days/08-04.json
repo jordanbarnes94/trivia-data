@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "before dying at the Battle of Evesham",
    "last_words": "By the arm of St. James, it is time to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
-   "born": "23 May 1208"
+   "born": "23 May 1208",
+   "died": "4 August 1265"
   },
   {
    "year": 1578,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "when being advised to surrender, and to hand over his sword to the victors of the Battle of Alcácer Quibir",
    "last_words": "Royal freedom will only be lost with life",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sebastian_of_Portugal",
-   "born": "20 January 1554"
+   "born": "20 January 1554",
+   "died": "4 August 1578"
   },
   {
    "year": 1875,
@@ -31,8 +35,10 @@
    "desc": "Danish children's author",
    "cause": null,
    "last_words": "Don't ask me how I am! I understand nothing more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
-   "born": "2 April 1805"
+   "born": "2 April 1805",
+   "died": "4 August 1875"
   },
   {
    "year": 1886,
@@ -42,8 +48,10 @@
    "desc": "American politician",
    "cause": "suffering from thirst",
    "last_words": "Water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_J._Tilden",
-   "born": "9 February 1814"
+   "born": "9 February 1814",
+   "died": "4 August 1886"
   },
   {
    "year": 1917,
@@ -53,8 +61,10 @@
    "desc": "VC1 MC, British Army officer",
    "cause": "mortally wounded at the Battle of Passchendaele in World War I. He was reminding a nurse of their earlier conversation about contacting his father and fiancée and about his younger brother, who was missing in action",
    "last_words": "Do not forget what I have told you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Noel_Godfrey_Chavasse",
-   "born": "9 November 1884"
+   "born": "9 November 1884",
+   "died": "4 August 1917"
   },
   {
    "year": 1920,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "The 12-year-old girl from Blackburn, Lancashire, died from ulceration of air passages after ingesting sodium silicate jelly inside a golf ball.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "4 August 1920"
   },
   {
    "year": 1962,
@@ -75,8 +87,10 @@
    "desc": "American actress",
    "cause": "over the phone to Peter Lawford, John F. Kennedy's brother-in-law",
    "last_words": "Say goodbye to Pat, say goodbye to the president and say goodbye to yourself, because you're a nice guy... I'll see... I'll see.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marilyn_Monroe",
-   "born": "1 June 1926"
+   "born": "1 June 1926",
+   "died": "4 August 1962"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Scottish clergyman",
    "cause": null,
    "last_words": "If I die, I die unto the Lord. Amen.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Irving",
    "died": "7 December 1834"
   },
@@ -99,6 +114,7 @@
    "desc": "Governor of Indiana and United States Senator",
    "cause": null,
    "last_words": "I am dying, I am worn out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_P._Morton",
    "died": "1 November 1877"
   }

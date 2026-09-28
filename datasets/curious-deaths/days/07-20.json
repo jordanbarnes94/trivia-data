@@ -9,8 +9,10 @@
    "desc": "Anglican minister, master of Emmanuel College, Cambridge",
    "cause": null,
    "last_words": "Blessed be God, though I change my place, I shall not change my company; for I have walked with God while living, and now I go to rest with God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Preston_(priest)",
-   "born": null
+   "born": null,
+   "died": "20 July 1628"
   },
   {
    "year": 1889,
@@ -20,8 +22,10 @@
    "desc": "American businessman",
    "cause": "to the cattlemen who lynched him along with his wife, Ellen Watson",
    "last_words": "Stop your fooling, fellows.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Averell",
-   "born": "2 July 1860"
+   "born": "2 July 1860",
+   "died": "20 July 1889"
   },
   {
    "year": 1942,
@@ -31,8 +35,10 @@
    "desc": "American newspaper publisher",
    "cause": "to his son, Walter Annenberg. Moses Annenberg had been released from prison a month earlier after being convicted of tax evasion",
    "last_words": "Walter, who knows what is the scheme of things? My suffering has all been for the purpose of making you a man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Moses_Annenberg",
-   "born": "11 February 1877"
+   "born": "11 February 1877",
+   "died": "20 July 1942"
   },
   {
    "year": 1944,
@@ -42,8 +48,10 @@
    "desc": "German general",
    "cause": "trying unsuccessfully to shoot himself after the failure of the 20 July plot. A soldier then shot and killed him",
    "last_words": "If it doesn't work this time, then please help me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Beck",
-   "born": "29 June 1880"
+   "born": "29 June 1880",
+   "died": "20 July 1944"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "conqueror and king of Macedonia",
    "cause": "when asked to whom his vast empire should belong after his death",
    "last_words": "To the strongest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_the_Great",
    "died": "11 June 323 BC"
   },
@@ -66,6 +75,7 @@
    "desc": "American cave explorer",
    "cause": "to rescue workers trying to free him from his entrapment in Sand Cave, Kentucky",
    "last_words": "You're too slow...too slow.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Collins",
    "died": "13 February 1925"
   },
@@ -77,6 +87,7 @@
    "desc": "American actress",
    "cause": "crying for help from drowning",
    "last_words": "Help me, someone please help me, I'm drowning.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Natalie_Wood",
    "died": "29 November 1981"
   }

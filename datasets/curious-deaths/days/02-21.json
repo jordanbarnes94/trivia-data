@@ -9,8 +9,10 @@
    "desc": "Ukrainian poet and activist",
    "cause": "inscription written on the wall of her prison cell prior to her execution by the Gestapo",
    "last_words": "Here Olena Teliha was sitting until she was shot.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Olena_Teliha",
-   "born": "21 July 1906"
+   "born": "21 July 1906",
+   "died": "21 February 1942"
   },
   {
    "year": 1965,
@@ -20,8 +22,10 @@
    "desc": "American activist",
    "cause": "trying to calm a 400-person chaos shortly before being killed by gunfire from multiple assailants",
    "last_words": "Brothers! Brothers, please! This is a house of peace!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Malcolm_X",
-   "born": "19 May 1925"
+   "born": "19 May 1925",
+   "died": "21 February 1965"
   },
   {
    "year": 1967,
@@ -31,8 +35,10 @@
    "desc": "American war correspondent and historian",
    "cause": "spoken into tape recorder just before stepping on land mine that killed him and U.S. Marine Byron G. Highland during the Vietnam War",
    "last_words": "We've reached one of our phase lines after the fire fight and it smells bad-meaning it's a little bit suspicious...Could be an amb-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_B._Fall",
-   "born": "11 November 1926"
+   "born": "11 November 1926",
+   "died": "21 February 1967"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "German biographer, diplomat and soldier",
    "cause": "playing chess with his young niece",
    "last_words": "I lost.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense",
    "died": "10 October 1858"
   },
@@ -55,6 +62,7 @@
    "desc": "British Randlord",
    "cause": "he asked this question before jumping overboard from a ship",
    "last_words": "What's the time?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Barney_Barnato",
    "died": "14 June 1897"
   },
@@ -66,6 +74,7 @@
    "desc": "Soviet Air Force colonel and balloonist",
    "cause": "to Yevgeni Nikolayevich Andreyev prior to jumping from a Volga balloon gondola at an altitude of 25600 m. Dolgov was killed when his pressure suit depressurized; Andreyev successfully reached the ground",
    "last_words": "Have a good trip!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pyotr_Dolgov",
    "died": "1 November 1962"
   },
@@ -77,6 +86,7 @@
    "desc": "Australian criminal",
    "cause": "to the hangman. Ryan was the last person to be executed in Australia prior to the abolition of the death penalty in 1985",
    "last_words": "God bless you, please make it quick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Ryan",
    "died": "3 February 1967"
   }

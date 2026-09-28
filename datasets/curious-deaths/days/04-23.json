@@ -9,8 +9,10 @@
    "desc": "English poet",
    "cause": "referring to his daughter, who had died three years earlier",
    "last_words": "God bless you! Is that you, Dora?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Wordsworth",
-   "born": "7 April 1770"
+   "born": "7 April 1770",
+   "died": "23 April 1850"
   },
   {
    "year": 1868,
@@ -20,8 +22,10 @@
    "desc": "1st Duke of Valencia, Spanish general and Prime Minister of Spain",
    "cause": null,
    "last_words": "I do not have to forgive my enemies. I have had them all shot.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ramón_María_Narváez",
-   "born": "5 August 1800"
+   "born": "5 August 1800",
+   "died": "23 April 1868"
   },
   {
    "year": 1907,
@@ -31,8 +35,10 @@
    "desc": "American prospector and wilderness guide",
    "cause": "who had served 18 years in prison for killing and eating five of his traveling companions in 1874",
    "last_words": "I'm not guilty of the charge.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alferd_Packer",
-   "born": "21 January 1842"
+   "born": "21 January 1842",
+   "died": "23 April 1907"
   },
   {
    "year": 1915,
@@ -42,8 +48,10 @@
    "desc": "English poet",
    "cause": "to William Denis Browne, who visited him on his deathbed",
    "last_words": "Hullo.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rupert_Brooke",
-   "born": "3 August 1887"
+   "born": "3 August 1887",
+   "died": "23 April 1915"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "Oh, Lord God Almighty, as thou wilt!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan",
    "died": "1 June 1868"
   },
@@ -66,6 +75,7 @@
    "desc": "American politician, Senator from Illinois and 1860 Democratic presidential nominee",
    "cause": null,
    "last_words": "Death, death, death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stephen_A._Douglas",
    "died": "3 June 1861"
   },
@@ -77,6 +87,7 @@
    "desc": "French-American actor",
    "cause": "in a tape where he committed suicide over chronic pain relating to his dwarfism. presumably when he pulled the trigger, the gun did not go off instantly",
    "last_words": "Well, I just have to do this, and everything will be fine. Kathy, it's not your fault, so don't worry. I love you. OK, I just need to pull this little trigger... Whoa. Well, I guess I just have to wait.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hervé_Villechaize",
    "died": "4 September 1993"
   }

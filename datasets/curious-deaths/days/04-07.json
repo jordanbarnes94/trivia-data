@@ -2,6 +2,19 @@
  "date": "04-07",
  "died": [
   {
+   "year": 30,
+   "year_label": "30",
+   "name": "Jesus",
+   "kind": "individual",
+   "desc": null,
+   "cause": "right before his death by crucifixion",
+   "last_words": "It is finished. \\ Father, into thy hands I commend my spirit.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jesus",
+   "born": null,
+   "died": "7 April 30"
+  },
+  {
    "year": 1498,
    "year_label": "1498",
    "name": "Charles VIII of France",
@@ -9,8 +22,10 @@
    "desc": null,
    "cause": "The French king died as a result of striking his head on the lintel of a door while on his way to watch a game of real tennis.",
    "last_words": "I hope never again to commit a mortal sin, nor even a venial one, if I can help it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_VIII_of_France",
-   "born": "30 June 1470"
+   "born": "30 June 1470",
+   "died": "7 April 1498"
   },
   {
    "year": 1668,
@@ -20,8 +35,10 @@
    "desc": "English poet and playwright",
    "cause": "setting aside the manuscript of a new poem",
    "last_words": "I shall have to ask leave to desist, when I am interrupted by so great an experiment as dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Davenant",
-   "born": null
+   "born": null,
+   "died": "7 April 1668"
   },
   {
    "year": 1891,
@@ -31,8 +48,10 @@
    "desc": "American showman",
    "cause": "when asked if he wanted a drink of water",
    "last_words": "Yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/P._T._Barnum",
-   "born": "5 July 1810"
+   "born": "5 July 1810",
+   "died": "7 April 1891"
   },
   {
    "year": 1928,
@@ -42,8 +61,10 @@
    "desc": null,
    "cause": "The 54-year-old Soviet polymath and pioneer of blood transfusion died after exchanging his blood with his student who suffered from malaria and tuberculosis, presumably due to hemolytic transfusion reaction. Bogdanov's hypotheses were that the younger man's blood would rejuvenate his own aging body, and that his own blood, which he believed was resistant to tuberculosis, would treat the student's disease. The student injected with his blood made a complete recovery.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Bogdanov",
-   "born": "22 August 1873"
+   "born": "22 August 1873",
+   "died": "7 April 1928"
   },
   {
    "year": 1979,
@@ -53,8 +74,10 @@
    "desc": "Prime Minister of Iran",
    "cause": "during execution after the Iranian Revolution",
    "last_words": "It wasn't supposed to end like this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Amir-Abbas_Hoveyda",
-   "born": "18 February 1919"
+   "born": "18 February 1919",
+   "died": "7 April 1979"
   }
  ],
  "born": [
@@ -66,6 +89,7 @@
    "desc": "English poet",
    "cause": "referring to his daughter, who had died three years earlier",
    "last_words": "God bless you! Is that you, Dora?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Wordsworth",
    "died": "23 April 1850"
   },
@@ -77,6 +101,7 @@
    "desc": "American Unitarian preacher and theologian",
    "cause": null,
    "last_words": "You need not be anxious concerning tonight. It will be very peaceful and quiet with me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Ellery_Channing",
    "died": "2 October 1842"
   },
@@ -88,6 +113,7 @@
    "desc": null,
    "cause": "The 22-year-old Luftwaffe test pilot died while making the only manned test flight of the Bachem Ba 349 Natter vertical take-off bomber. On his fatal flight, Sieber became the first human to fly a vertically-launched rocket.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lothar_Sieber",
    "died": "1 March 1945"
   }

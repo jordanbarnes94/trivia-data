@@ -9,8 +9,10 @@
    "desc": "first Caliph of Córdoba",
    "cause": null,
    "last_words": "I have now reigned above fifty years in victory or peace; beloved by my subjects, dreaded by my enemies, and respected by my allies. Riches and honors, power and pleasure, have waited on my call, nor does any earthly blessing appear to have been wanting to my felicity. In this situation, I have diligently numbered the days of pure and genuine happiness which have fallen to my lot: they amount to Fourteen:-O man! place not thy confidence in this present world!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abd_al-Rahman_III",
-   "born": "7 January 891"
+   "born": "7 January 891",
+   "died": "15 October 961"
   },
   {
    "year": 1582,
@@ -20,8 +22,10 @@
    "desc": "Spanish Carmelite nun, mystic and author",
    "cause": "last words uncertain",
    "last_words": "Over my spirit flash and float in divine radiancy the bright and glorious visions of the world to which I go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Teresa_of_Ávila",
-   "born": "28 March 1515"
+   "born": "28 March 1515",
+   "died": "15 October 1582"
   },
   {
    "year": 1817,
@@ -31,8 +35,10 @@
    "desc": "Polish-Lithuanian military engineer, statesman, and military leader",
    "cause": null,
    "last_words": "An end of Poland.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tadeusz_Kościuszko",
-   "born": "4 February 1746"
+   "born": "4 February 1746",
+   "died": "15 October 1817"
   },
   {
    "year": 1910,
@@ -42,8 +48,10 @@
    "desc": "American professional boxer nicknamed \"The Michigan Assassin\"",
    "cause": "before succumbing to wounds sustained during an armed robbery turned shooting",
    "last_words": "I'm so tired. Take me home to mother.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stanley_Ketchel",
-   "born": "14 September 1886"
+   "born": "14 September 1886",
+   "died": "15 October 1910"
   },
   {
    "year": 1915,
@@ -53,8 +61,10 @@
    "desc": "English cricketer",
    "cause": "fatally wounded during World War I",
    "last_words": "I led them to the end, they wavered I tried to keep them together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Hemingway",
-   "born": "15 December 1877"
+   "born": "15 December 1877",
+   "died": "15 October 1915"
   },
   {
    "year": 1917,
@@ -64,8 +74,10 @@
    "desc": "Dutch exotic dancer and courtesan",
    "cause": "prior to execution by French firing squad for spying for Germany during World War I",
    "last_words": "It is unbelievable.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mata_Hari",
-   "born": "7 August 1876"
+   "born": "7 August 1876",
+   "died": "15 October 1917"
   },
   {
    "year": 1940,
@@ -75,8 +87,10 @@
    "desc": "President of the Government of Catalonia",
    "cause": "prior to execution by firing squad",
    "last_words": "For Catalonia!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lluís_Companys",
-   "born": "21 June 1882"
+   "born": "21 June 1882",
+   "died": "15 October 1940"
   },
   {
    "year": 1986,
@@ -86,8 +100,10 @@
    "desc": "American professional football player who was a tight end for the National Football League",
    "cause": "dying of AIDS",
    "last_words": "Every important thing a man searches for in his life, I found in Coach Lombardi. He made us men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Smith_(tight_end)",
-   "born": "19 July 1943"
+   "born": "19 July 1943",
+   "died": "15 October 1986"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "Roman poet",
    "cause": null,
    "last_words": "Death twitches my ear. 'Live,' he says. 'I am coming.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Virgil",
    "died": "21 September 19 BC"
   },
@@ -110,6 +127,7 @@
    "desc": "third Mughal emperor",
    "cause": "to his nobles and his son, Jahangir; he then asked their forgiveness if he had ever wronged them",
    "last_words": "I cannot bear that any misunderstanding should subsist between you and those who have for so many years shared in my toils and been the companions of my glory.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Akbar",
    "died": "27 October 1605"
   },
@@ -121,6 +139,7 @@
    "desc": "French Roman Catholic cardinal and archbishop",
    "cause": null,
    "last_words": "Neither life nor death, nor any being can separate us from Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul-Thérèse-David_d'Astros",
    "died": "29 September 1851"
   },
@@ -132,6 +151,7 @@
    "desc": "perpetrator of the Luby's shooting",
    "cause": "to first responders before committing suicide",
    "last_words": "No, I'm going to kill more people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Hennard",
    "died": "16 October 1991"
   }

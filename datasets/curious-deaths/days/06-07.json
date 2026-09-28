@@ -9,8 +9,10 @@
    "desc": "Irish Anglican priest and author, father of Charlotte, Branwell, Emily and Anne Brontë",
    "cause": null,
    "last_words": "While there is life there is will.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Brontë",
-   "born": "17 March 1777"
+   "born": "17 March 1777",
+   "died": "7 June 1861"
   },
   {
    "year": 1876,
@@ -20,8 +22,10 @@
    "desc": "Queen of Sweden and Norway",
    "cause": null,
    "last_words": "I am so happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_of_Leuchtenberg",
-   "born": "14 March 1807"
+   "born": "14 March 1807",
+   "died": "7 June 1876"
   },
   {
    "year": 1967,
@@ -31,8 +35,10 @@
    "desc": "American writer and wit",
    "cause": null,
    "last_words": "Excuse my dust.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Parker",
-   "born": "22 August 1893"
+   "born": "22 August 1893",
+   "died": "7 June 1967"
   },
   {
    "year": 1999,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 28-year-old father of three was found pinned beneath a rear tire of his car at his trailer home in Okeechobee, Florida. He was initially conscious, albeit unable to feel his legs before dying of traumatic asphyxia at a hospital the same day. He had willingly laid down in a shallow ditch and allowed an unidentified woman to park the car on his torso to fulfill a crush fetish, unsuccessfully using a pillow and a wooden board as cushioning. The death was deemed accidental. It was later found that Loudermilk and his wife Stephanie Tongkeamha had previously produced and sold several pornographic crushing videos in which the latter killed mice and rabbits by stepping on them.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "7 June 1999"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": "The 28-year-old wife of Robert Dudley, Earl of Leicester was found dead by a staircase with two wounds on her head and a broken neck. Theories suggest she threw herself down the stairs.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Amy_Robsart",
    "died": "8 September 1560"
   },
@@ -66,6 +75,7 @@
    "desc": "American feminist and writer",
    "cause": "on her husband being asked \"What are you going to do?\" prior to the sinking of the RMS Lusitania",
    "last_words": "There does not seem to be anything to do.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alice_Moore_Hubbard",
    "died": "7 May 1915"
   },
@@ -77,6 +87,7 @@
    "desc": "American baseball player",
    "cause": "trapped in crashed plane, to his two passengers, who survived",
    "last_words": "Are you guys okay?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thurman_Munson",
    "died": "2 August 1979"
   }

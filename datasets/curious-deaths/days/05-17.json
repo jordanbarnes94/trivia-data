@@ -9,8 +9,10 @@
    "desc": "musician in the household of Queen Anne Boleyn",
    "cause": "prior to beheading for alleged treason and adultery",
    "last_words": "Masters, I pray you pray for me, for I have deserved this death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Smeaton",
-   "born": null
+   "born": null,
+   "died": "17 May 1536"
   },
   {
    "year": 1838,
@@ -20,8 +22,10 @@
    "desc": "French clergyman and diplomat",
    "cause": "to Louis Philippe I, who had asked how he was",
    "last_words": "I am suffering, sire, the pangs of the damned.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Maurice_de_Talleyrand-Périgord",
-   "born": "2 February 1754"
+   "born": "2 February 1754",
+   "died": "17 May 1838"
   },
   {
    "year": 1868,
@@ -31,8 +35,10 @@
    "desc": "Japanese samurai, Tennen Rishin-ryū master, and Shinsengumi commander",
    "cause": "just before his execution",
    "last_words": "I have been a great trouble.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kondō_Isami",
-   "born": "9 November 1834"
+   "born": "9 November 1834",
+   "died": "17 May 1868"
   },
   {
    "year": 1994,
@@ -42,8 +48,10 @@
    "desc": "American murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "Adios.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Thanos",
-   "born": "28 March 1949"
+   "born": "28 March 1949",
+   "died": "17 May 1994"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "French composer and pianist",
    "cause": null,
    "last_words": "Ah, the cows...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Satie",
    "died": "1 July 1925"
   },
@@ -66,6 +75,7 @@
    "desc": "French novelist and Communist",
    "cause": "referring to the Second Italo-Ethiopian War",
    "last_words": "Telephone and say that they must still enlarge it–Always larger, broader, more universal–It's the only means of saving the world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Barbusse",
    "died": "30 August 1935"
   },
@@ -77,6 +87,7 @@
    "desc": "former King of Spain",
    "cause": "kissing a crucifix",
    "last_words": "Spain, My God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_XIII",
    "died": "28 February 1941"
   },
@@ -88,6 +99,7 @@
    "desc": "Second World War Romanian fighter ace",
    "cause": "crashing after being shot down",
    "last_words": "I'm going down...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexandru_Șerbănescu",
    "died": "18 August 1944"
   }

@@ -9,8 +9,10 @@
    "desc": "English essayist",
    "cause": "to a vision of his dead sister",
    "last_words": "Sister! sister! sister!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_De_Quincey",
-   "born": "15 August 1785"
+   "born": "15 August 1785",
+   "died": "8 August 1859"
   },
   {
    "year": 1942,
@@ -20,11 +22,25 @@
    "desc": "United States Marine Raider",
    "cause": "found mortally wounded during the Guadalcanal campaign surrounded by 13 dead Japanese soldiers",
    "last_words": "The bastards tried to come over me last night – I guess they didn't know I was a Marine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_H._Ahrens",
-   "born": "4 November 1919"
+   "born": "4 November 1919",
+   "died": "8 August 1942"
   }
  ],
  "born": [
+  {
+   "year": 1170,
+   "year_label": "1170",
+   "name": "Saint Dominic",
+   "kind": "individual",
+   "desc": "Castilian Catholic priest, founder of the Dominican Order, when asked where he wanted to be buried",
+   "cause": null,
+   "last_words": "Under the feet of my friars.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Saint_Dominic",
+   "died": "6 August 1221"
+  },
   {
    "year": 1881,
    "year_label": "1881",
@@ -33,6 +49,7 @@
    "desc": "English cricketer",
    "cause": "fatally wounded during World War I",
    "last_words": "I am sorry to have been so much trouble; I shall never forget what you have done for me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oswald_Samson",
    "died": "17 September 1918"
   }

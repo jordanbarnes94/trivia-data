@@ -9,8 +9,10 @@
    "desc": "Confederate States Army officer",
    "cause": "referring to his noose prior to execution for war crimes",
    "last_words": "This is too tight.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Wirz",
-   "born": "25 November 1823"
+   "born": "25 November 1823",
+   "died": "10 November 1865"
   },
   {
    "year": 1938,
@@ -20,8 +22,10 @@
    "desc": "President of Turkey",
    "cause": null,
    "last_words": "Peace be upon you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atatürk",
-   "born": null
+   "born": null,
+   "died": "10 November 1938"
   },
   {
    "year": 1941,
@@ -31,8 +35,10 @@
    "desc": "GC, Royal Canadian Air Force Leading Aircraftman",
    "cause": "after unsuccessful attempt to rescue Flying Officer James Robinson from wreckage of crashed Tiger Moth",
    "last_words": "Did I get Jimmy out?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Gravell",
-   "born": "27 September 1922"
+   "born": "27 September 1922",
+   "died": "10 November 1941"
   },
   {
    "year": 1975,
@@ -42,8 +48,10 @@
    "desc": "Canadian sailor and captain of SS Edmund Fitzgerald",
    "cause": "last transmission before ship went down in storm on Lake Superior",
    "last_words": "We are holding our own.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_M._McSorley",
-   "born": "29 September 1912"
+   "born": "29 September 1912",
+   "died": "10 November 1975"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "German theologian who started the Protestant Reformation",
    "cause": null,
    "last_words": "We are beggars, this is true.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther",
    "died": "18 February 1546"
   },
@@ -66,6 +75,7 @@
    "desc": "Anglo-Irish novelist, playwright and poet",
    "cause": "in response to his physician asking if his mind was at ease",
    "last_words": "No, it is not.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Goldsmith",
    "died": "4 April 1774"
   },
@@ -77,6 +87,7 @@
    "desc": "German writer, philosopher and physician",
    "cause": null,
    "last_words": "Many things are growing clearer and clearer to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Schiller",
    "died": "9 May 1805"
   },
@@ -88,6 +99,7 @@
    "desc": "German democratic politician and revolutionist",
    "cause": "prior to execution by firing squad",
    "last_words": "I am ready-let there be no mistake and no delay.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Blum",
    "died": "9 November 1848"
   },
@@ -99,6 +111,7 @@
    "desc": "Irish author and revolutionary",
    "cause": "on his way to execution by firing squad",
    "last_words": "(Whistling)",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Pearse",
    "died": "3 May 1916"
   },
@@ -110,6 +123,7 @@
    "desc": "American poet",
    "cause": "in his suicide note",
    "last_words": "They tried to get me - I got them first!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vachel_Lindsay",
    "died": "5 December 1931"
   },
@@ -121,6 +135,7 @@
    "desc": "Soviet politician",
    "cause": "when he watched a television news report featuring Gorbachev and Yeltsin",
    "last_words": "This is a catastrophe.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lazar_Kaganovich",
    "died": "25 July 1991"
   }

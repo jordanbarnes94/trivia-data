@@ -9,8 +9,10 @@
    "desc": "Confederate officer of the American Civil War",
    "cause": "written on scrap of paper after being mortally wounded at the Battle of Gettysburg",
    "last_words": "Tell father that I died with my face to the enemy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_E._Avery",
-   "born": "20 December 1828"
+   "born": "20 December 1828",
+   "died": "3 July 1863"
   },
   {
    "year": 1863,
@@ -20,8 +22,10 @@
    "desc": "Confederate general of the American Civil War",
    "cause": "to a Union surgeon after being mortally wounded at the Battle of Gettysburg",
    "last_words": "Tell my wife I am shot, but we fought like hell.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Barksdale",
-   "born": "21 August 1821"
+   "born": "21 August 1821",
+   "died": "3 July 1863"
   },
   {
    "year": 1908,
@@ -31,8 +35,10 @@
    "desc": "American author and folklorist",
    "cause": "on being asked how he felt",
    "last_words": "I am about the extent of a tenth of a gnat's eyebrow better.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joel_Chandler_Harris",
-   "born": "9 December 1848"
+   "born": "9 December 1848",
+   "died": "3 July 1908"
   },
   {
    "year": 1971,
@@ -42,8 +48,10 @@
    "desc": "American singer, musician, songwriter and poet",
    "cause": "to his girlfriend Pamela Courson",
    "last_words": "Are you there, Pam? Pam, are you there?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Morrison",
-   "born": "8 December 1943"
+   "born": "8 December 1943",
+   "died": "3 July 1971"
   },
   {
    "year": 1988,
@@ -53,8 +61,10 @@
    "desc": "pilot of Iran Air Flight 655",
    "cause": "just as it was shot on a missile fired by USS Vincennes over Strait of Hormuz being mistaken as a fighter jet",
    "last_words": "Thank you, good day.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Iran_Air_Flight_655",
-   "born": null
+   "born": null,
+   "died": "3 July 1988"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": "The Roman emperor suffered a stroke which was provoked by yelling at foreign envoys in anger.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Valentinian_I",
    "died": "17 November 375"
   },
@@ -77,6 +88,7 @@
    "desc": "King of France",
    "cause": null,
    "last_words": "Our Lady of Embrun, my good mistress, help me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XI",
    "died": "30 August 1483"
   },
@@ -88,6 +100,7 @@
    "desc": "American humanist and writer",
    "cause": "in her suicide note",
    "last_words": "When all usefulness is over, when one is assured of an unavoidable and imminent death, it is the simplest of human rights to choose a quick and easy death in place of a slow and horrible one.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman",
    "died": "17 August 1935"
   },
@@ -99,6 +112,7 @@
    "desc": "American entertainer",
    "cause": "referring to his wife",
    "last_words": "Look after Agnes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_M._Cohan",
    "died": "5 November 1942"
   },
@@ -110,6 +124,7 @@
    "desc": "German-speaking Bohemian novelist and short-story writer",
    "cause": "asking his doctors for morphine overdose while dying of tuberculosis",
    "last_words": "Kill me, or else you are a murderer!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Kafka",
    "died": "3 June 1924"
   },
@@ -121,6 +136,7 @@
    "desc": "VC DCM, Australian World War I recipient of the Victoria Cross",
    "cause": "before walking toward Japanese lines carrying grenades during the Battle of Singapore",
    "last_words": "No surrender for me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Brown_(soldier)",
    "died": "15 February 1942"
   },
@@ -132,6 +148,7 @@
    "desc": "British actor",
    "cause": "one of his suicide notes",
    "last_words": "Dear world, I am leaving because I am bored. I feel I have lived long enough. I am leaving you with your worries in this sweet cesspool - good luck.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Sanders",
    "died": "25 April 1972"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Ah, Jesus!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_V_of_France",
-   "born": "21 January 1338"
+   "born": "21 January 1338",
+   "died": "16 September 1380"
   },
   {
    "year": 1701,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "in reply to Louis XIV telling him that he would acknowledge James' son, James Francis Edward Stuart, as King of England, Scotland and Ireland",
    "last_words": "Grateful - in peace!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_II_of_England",
-   "born": "14 October 1633"
+   "born": "14 October 1633",
+   "died": "16 September 1701"
   },
   {
    "year": 1824,
@@ -31,8 +35,10 @@
    "desc": "King of France",
    "cause": null,
    "last_words": "A king should die standing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVIII",
-   "born": "17 November 1755"
+   "born": "17 November 1755",
+   "died": "16 September 1824"
   },
   {
    "year": 1847,
@@ -42,8 +48,10 @@
    "desc": "English author",
    "cause": "quoting Job 13:15",
    "last_words": "Though He slay me, yet will I trust in Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Aguilar",
-   "born": "2 June 1816"
+   "born": "2 June 1816",
+   "died": "16 September 1847"
   },
   {
    "year": 1882,
@@ -53,8 +61,10 @@
    "desc": "English churchman, Regius Professor of Hebrew at the University of Oxford",
    "cause": null,
    "last_words": "My God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Bouverie_Pusey",
-   "born": "22 August 1800"
+   "born": "22 August 1800",
+   "died": "16 September 1882"
   },
   {
    "year": 1951,
@@ -64,8 +74,10 @@
    "desc": "United States Marine and Medal of Honor recipient",
    "cause": "prior to being killed in action at the Battle of the Punchbowl in the Korean War",
    "last_words": "You go. I'll cover you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Vittori",
-   "born": "1 August 1929"
+   "born": "1 August 1929",
+   "died": "16 September 1951"
   },
   {
    "year": 1985,
@@ -75,8 +87,10 @@
    "desc": "American aerobatic pilot",
    "cause": "after his plane entered a flat inverted spin during filming of Top Gun",
    "last_words": "I have a problem, I have a real problem.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Art_Scholl",
-   "born": "24 December 1931"
+   "born": "24 December 1931",
+   "died": "16 September 1985"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "English politician",
    "cause": "to Philip Stanhope, 4th Earl of Chesterfield. Bolingbroke also reaffirmed his Deist convictions",
    "last_words": "God, who pleased me here, will do what he pleases with me hereafter, and he knows best what to do. May he bless you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_St_John,_1st_Viscount_Bolingbroke",
    "died": "12 December 1751"
   },
@@ -99,6 +114,7 @@
    "desc": "American Episcopal clergyman and educator",
    "cause": "to a friend who had entered the room",
    "last_words": "Good morning.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Augustus_Muhlenberg",
    "died": "8 April 1877"
   },
@@ -110,6 +126,7 @@
    "desc": "Russian-German student and member of the White Rose resistance movement",
    "cause": "on being asked if his name was Alexander Schmorell prior to his execution via guillotine",
    "last_words": "Yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Schmorell",
    "died": "13 July 1943"
   },
@@ -121,6 +138,7 @@
    "desc": "Dutch Resistance Fighter",
    "cause": "mocking her two executioners after the first shot grazed off her",
    "last_words": "I shoot better!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hannie_Schaft",
    "died": "17 April 1945"
   }

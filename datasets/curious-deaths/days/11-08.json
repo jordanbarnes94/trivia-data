@@ -9,8 +9,10 @@
    "desc": "third bishop of Tours",
    "cause": "to the Devil",
    "last_words": "What dost thou here, thou cruel beast?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Tours",
-   "born": null
+   "born": null,
+   "died": "8 November 397"
   },
   {
    "year": 1605,
@@ -20,8 +22,10 @@
    "desc": "leader of the Gunpowder Plot",
    "cause": "Catesby and Thomas Percy were shot by armed men led by Sir Richard Walsh",
    "last_words": "Stand by me, Tom, and we will die together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Catesby",
-   "born": null
+   "born": null,
+   "died": "8 November 1605"
   },
   {
    "year": 1674,
@@ -31,8 +35,10 @@
    "desc": "English poet and intellectual",
    "cause": null,
    "last_words": "Death is the great key that opens the palace of Eternity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Milton",
-   "born": "9 December 1608"
+   "born": "9 December 1608",
+   "died": "8 November 1674"
   },
   {
    "year": 1793,
@@ -42,8 +48,10 @@
    "desc": "French revolutionary and writer",
    "cause": "prior to execution by guillotine",
    "last_words": "Oh Liberty, what crimes are committed in thy name!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Madame_Roland",
-   "born": "17 March 1754"
+   "born": "17 March 1754",
+   "died": "8 November 1793"
   },
   {
    "year": 1858,
@@ -53,8 +61,10 @@
    "desc": "Attorney General of the United States",
    "cause": "quoting Isaiah 26:3",
    "last_words": "I have peace, perfect peace. 'Thou wilt keep him in perfect peace whose mind is stayed on thee.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin_Butler_(lawyer)",
-   "born": "17 December 1795"
+   "born": "17 December 1795",
+   "died": "8 November 1858"
   },
   {
    "year": 1887,
@@ -64,8 +74,10 @@
    "desc": "American gambler and gunfighter",
    "cause": "after a nurse refused him a whiskey",
    "last_words": "Damn. This is funny.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Doc_Holliday",
-   "born": "14 August 1851"
+   "born": "14 August 1851",
+   "died": "8 November 1887"
   },
   {
    "year": 1944,
@@ -75,8 +87,10 @@
    "desc": "Second World War German fighter ace",
    "cause": "crashing due to engine failure after combat with United States Army Air Force planes",
    "last_words": "I'm on fire.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Nowotny",
-   "born": "7 December 1920"
+   "born": "7 December 1920",
+   "died": "8 November 1944"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "King of England",
    "cause": "after hearing bell ringing Prime",
    "last_words": "\"I treated the native inhabitants of the kingdom with unreasonable severity, cruelly oppressed high and low, unjustly disinherited many, and caused the death of thousands by starvation and war, especially in Yorkshire....In mad fury I descended on the English of the north like a raging lion, and ordered that their homes and crops with all their equipment and furnishings should be burnt at once and their great flocks and herds of sheep and cattle slaughtered everywhere. So I chastised a great multitude of men and women with the lash of starvation and, alas! was the cruel murderer of many thousands, both young and old, of this fair people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_the_Conqueror",
    "died": "9 September 1087"
   },
@@ -99,8 +114,21 @@
    "desc": null,
    "cause": null,
    "last_words": "Well, ladies, if I were one hour in heaven, I would not be again with you, as much as I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Rich,_Countess_of_Warwick",
    "died": "12 April 1678"
+  },
+  {
+   "year": 1676,
+   "year_label": "1676",
+   "name": "Richard Newton",
+   "kind": "individual",
+   "desc": "English educator and clergyman",
+   "cause": null,
+   "last_words": "Christ Jesus the Saviour of sinners and life of the dead. I am going, going to Glory! Farewell sin! Farewell death! Praise the Lord!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Newton_(academic)",
+   "died": "21 April 1753"
   },
   {
    "year": 1777,
@@ -110,6 +138,7 @@
    "desc": "Queen of Sweden and Norway",
    "cause": "after collapsing in a staircase of Stockholm Palace",
    "last_words": "I'm choking.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Désirée_Clary",
    "died": "17 December 1860"
   },
@@ -121,6 +150,7 @@
    "desc": "German mathematician",
    "cause": "the conclusion of his suicide letter to his lawyer. Hausdorff, his wife and his sister-in-law committed suicide rather than be deported to the Endenich camp",
    "last_words": "I am sorry that we cause you yet more effort beyond death, and I am convinced that you are doing what you can do (which perhaps is not very much). Forgive us our desertion! We wish you and all our friends to experience better times. Your truly devoted Felix Hausdorff",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Hausdorff",
    "died": "26 January 1942"
   }

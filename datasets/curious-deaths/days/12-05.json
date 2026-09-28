@@ -9,8 +9,10 @@
    "desc": "Austrian composer",
    "cause": null,
    "last_words": "The taste of death is upon my lips... I feel something, that is not of this earth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
-   "born": "27 January 1756"
+   "born": "27 January 1756",
+   "died": "5 December 1791"
   },
   {
    "year": 1891,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": null,
    "last_words": "May God grant me these last wishes-peace and prosperity for Brazil.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_II_of_Brazil",
-   "born": "2 December 1825"
+   "born": "2 December 1825",
+   "died": "5 December 1891"
   },
   {
    "year": 1931,
@@ -31,8 +35,10 @@
    "desc": "American poet",
    "cause": "in his suicide note",
    "last_words": "They tried to get me - I got them first!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vachel_Lindsay",
-   "born": "10 November 1879"
+   "born": "10 November 1879",
+   "died": "5 December 1931"
   },
   {
    "year": 1945,
@@ -42,8 +48,10 @@
    "desc": "United States Naval Reserve lieutenant",
    "cause": "last transmission before Flight 19 disappeared over Bermuda Triangle",
    "last_words": "All planes close up tight ... will have to ditch unless landfall ... when the first plane drops to ten gallons, we all go down together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Carroll_Taylor",
-   "born": null
+   "born": null,
+   "died": "5 December 1945"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "There is but one reliance.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
    "died": "24 July 1862"
   },
@@ -66,6 +75,7 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I love everybody. If ever I had an enemy, I should hope to meet and welcome that enemy in heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Rossetti",
    "died": "29 December 1894"
   },
@@ -77,6 +87,7 @@
    "desc": "United States Army officer",
    "cause": "to Sergeant Charles Windolph prior to the Battle of the Little Bighorn",
    "last_words": "Orderly, I want you to take a message to Colonel Benteen. Ride as fast as you can and tell him to hurry. Tell him it's a big village and I want him to be quick, and to bring the ammunition packs.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
    "died": "25 June 1876"
   },
@@ -88,6 +99,7 @@
    "desc": "OBE, British educator, florist and author",
    "cause": "dying after slipping on stairs while arranging flowers",
    "last_words": "Someone else can arrange this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Constance_Spry",
    "died": "3 January 1960"
   },
@@ -99,6 +111,7 @@
    "desc": "American animation pioneer and businessman",
    "cause": "written on the bottom of a page",
    "last_words": "Ron Miller \\ Way Down Cellar \\ Kirt Russell \\ CIA – Mobley",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walt_Disney",
    "died": "15 December 1966"
   },
@@ -110,6 +123,7 @@
    "desc": "German theoretical physicist",
    "cause": null,
    "last_words": "When I meet God, I am going to ask him two questions: Why relativity? And why turbulence? I really believe he will have an answer for the first.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Werner_Heisenberg",
    "died": "1 February 1976"
   },
@@ -121,6 +135,7 @@
    "desc": "FRS, British physicist",
    "cause": "before dying in Casargo, Italy on balcony with scenic view",
    "last_words": "How nice, if I were to die now I would be happy...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/C._F._Powell",
    "died": "9 August 1969"
   }

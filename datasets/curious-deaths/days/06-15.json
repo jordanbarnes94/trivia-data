@@ -9,8 +9,10 @@
    "desc": "leader of the Peasants' Revolt",
    "cause": "prior to being killed by officers loyal to Richard II of England",
    "last_words": "Because they are all under my command, they are sworn to do what I bid them.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wat_Tyler",
-   "born": null
+   "born": null,
+   "died": "15 June 1381"
   },
   {
    "year": 1844,
@@ -20,8 +22,10 @@
    "desc": "Scottish poet",
    "cause": null,
    "last_words": "When I think of the existence which shall commence when the stone is laid over my head, how can literary fame appear to me, to any one, but as nothing? I believe, when I am gone, justice will be done to me in this way - that I was a pure writer. It is an inexpressible comfort, at my time of life, to be able to look back and feel that I have not written one line against religion or virtue.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Campbell_(poet)",
-   "born": "27 July 1777"
+   "born": "27 July 1777",
+   "died": "15 June 1844"
   },
   {
    "year": 1849,
@@ -31,8 +35,10 @@
    "desc": "president of the United States",
    "cause": "to his wife, Sarah Childress Polk",
    "last_words": "I love you, Sarah. For all eternity, I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_K._Polk",
-   "born": "2 November 1795"
+   "born": "2 November 1795",
+   "died": "15 June 1849"
   },
   {
    "year": 1961,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 38-year-old Italian racing driver died in a bizarre series of events at the Modena Autodrome after a gearbox failure; unable to stop, Cabianca went off track, struck a spectator and then went through the gate of the Autodrome which was open because of men at work near the track. The car crossed the Via Emilia, collided with several vehicles, then crashed against the wall of a coachbuilder shop. Cabianca was killed, as were three others on the road.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Giulio_Cabianca",
-   "born": null
+   "born": null,
+   "died": "15 June 1961"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "heir to the English throne",
    "cause": null,
    "last_words": "I give thee thanks, O God, for all thy benefits, and with all the pains of my soul I humbly beseech thy mercy to give me remission of those sins I have wickedly committed against thee; and of all mortal men whom willingly or ignorantly I have offended, with all my heart I desire forgiveness.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
    "died": "8 June 1376"
   },
@@ -66,6 +75,7 @@
    "desc": "French chemist",
    "cause": null,
    "last_words": "I am dead.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_François,_comte_de_Fourcroy",
    "died": "16 December 1809"
   },
@@ -77,6 +87,7 @@
    "desc": "Norwegian composer and pianist",
    "cause": null,
    "last_words": "Well, if it must be so.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edvard_Grieg",
    "died": "4 September 1907"
   }

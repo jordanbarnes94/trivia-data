@@ -9,8 +9,10 @@
    "desc": "Polish-Lithuanian bishop and author",
    "cause": "referring to his History of Poland",
    "last_words": "Must I leave it unfinished?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Naruszewicz",
-   "born": "20 October 1733"
+   "born": "20 October 1733",
+   "died": "8 July 1796"
   },
   {
    "year": 1974,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The 18-year-old hostess for the America Sings attraction at Disneyland died after being crushed between two walls around 11:00 pm. It is speculated that she either fell backward or tried to jump from one stage to another.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Deborah_Gail_Stone",
-   "born": "18 June 1956"
+   "born": "18 June 1956",
+   "died": "8 July 1974"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "German general and airship inventor",
    "cause": null,
    "last_words": "I have perfect faith.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_von_Zeppelin",
    "died": "8 March 1917"
   },
@@ -44,6 +49,7 @@
    "desc": "Australian-American composer",
    "cause": "to his wife Ella",
    "last_words": "You're the only one I like.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Percy_Grainger",
    "died": "20 February 1961"
   }

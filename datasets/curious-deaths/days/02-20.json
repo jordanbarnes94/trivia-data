@@ -9,8 +9,23 @@
    "desc": null,
    "cause": "The last Abbasid Caliph of Baghdad was executed by his Mongol captors by being rolled up in a rug and then trampled by horses.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Al-Musta'sim",
-   "born": null
+   "born": null,
+   "died": "20 February 1258"
+  },
+  {
+   "year": 1429,
+   "year_label": "1429",
+   "name": "Giovanni di Bicci de' Medici",
+   "kind": "individual",
+   "desc": null,
+   "cause": "",
+   "last_words": "I die content, after living the prescribed time, and leaving you, my sons, in affluence and health, placed in such a situation as, if you follow my example, will enable you to live honored and respected. I recall nothing in my life with so much pleasure as having given offence to no one, and having tried to serve all men as far as possible. I advise you to act thus, if you would live securely, accepting only those honors as the laws and favor of the state confer upon you; for it is the exercise of power that has been violently-not voluntarily-obtained, that occasions hatred and strife.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_di_Bicci_de'_Medici",
+   "born": null,
+   "died": "20 February 1429"
   },
   {
    "year": 1790,
@@ -20,8 +35,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Let my epitaph be, 'Here lies Joseph, who was unsuccessful in all his undertakings.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_II,_Holy_Roman_Emperor",
-   "born": "13 March 1741"
+   "born": "13 March 1741",
+   "died": "20 February 1790"
   },
   {
    "year": 1810,
@@ -31,8 +48,10 @@
    "desc": "leader of the Tyrolean Rebellion",
    "cause": "to his firing squad",
    "last_words": "I will not kneel. Fire!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Hofer",
-   "born": "22 November 1767"
+   "born": "22 November 1767",
+   "died": "20 February 1810"
   },
   {
    "year": 1853,
@@ -42,8 +61,10 @@
    "desc": "Anglican Bishop of Australia",
    "cause": null,
    "last_words": "Let the earth be filled with His glory.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Broughton_(bishop)",
-   "born": "22 May 1788"
+   "born": "22 May 1788",
+   "died": "20 February 1853"
   },
   {
    "year": 1961,
@@ -53,8 +74,10 @@
    "desc": "Australian-American composer",
    "cause": "to his wife Ella",
    "last_words": "You're the only one I like.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Percy_Grainger",
-   "born": "8 July 1882"
+   "born": "8 July 1882",
+   "died": "20 February 1961"
   }
  ],
  "born": [
@@ -66,6 +89,7 @@
    "desc": "American Congregationalist pastor, author, educator and theologian",
    "cause": "when asked what he would do in Hell if God sent him there",
    "last_words": "I will tell them for ever that Jesus is precious.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Bellamy",
    "died": "6 March 1790"
   },
@@ -77,6 +101,7 @@
    "desc": "Spanish comic playwright",
    "cause": "to his firing squad during the Paracuellos massacres",
    "last_words": "I am starting to believe you are not intending to count me among your friends!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Muñoz_Seca",
    "died": "28 November 1936"
   },
@@ -88,6 +113,7 @@
    "desc": "American musician",
    "cause": "closing his suicide note",
    "last_words": "I don't have the passion anymore, and so remember, it's better to burn out than to fade away. Peace, love, empathy. Kurt Cobain. Frances and Courtney, I'll be at your altar. Please keep going Courtney, for Frances. For her life, which will be so much happier without me. I LOVE YOU, I LOVE YOU!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Cobain",
    "died": "5 April 1994"
   }

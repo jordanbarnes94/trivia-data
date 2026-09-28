@@ -9,8 +9,10 @@
    "desc": "20th Governor of Illinois",
    "cause": "greeting a visitor",
    "last_words": "How do you do, Cushing? I am glad to see you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Peter_Altgeld",
-   "born": "30 December 1847"
+   "born": "30 December 1847",
+   "died": "12 March 1902"
   },
   {
    "year": 1945,
@@ -20,8 +22,10 @@
    "desc": "German general",
    "cause": "prior to being executed as part of the post-conspiracy purge after the failure of the 20 July plot",
    "last_words": "I die, because it was ordered. I had always wanted only the best for Germany.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Fromm",
-   "born": "8 October 1888"
+   "born": "8 October 1888",
+   "died": "12 March 1945"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "American missionary for the Moravian Church",
    "cause": null,
    "last_words": "Golgotha, Gethsemene.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Heckewelder",
    "died": "21 January 1823"
   },
@@ -44,6 +49,7 @@
    "desc": "American nurse, founder of the American Red Cross Nursing Service",
    "cause": "dying while on a Red Cross mission in France",
    "last_words": "I must get back to my work.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Delano",
    "died": "15 April 1919"
   },
@@ -55,6 +61,7 @@
    "desc": "Italian author and soldier",
    "cause": "to his chauffeur",
    "last_words": "Stop-I turn home... I'm bored... I'm bored.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gabriele_D'Annunzio",
    "died": "1 March 1938"
   },
@@ -66,6 +73,7 @@
    "desc": "German politician of the Nazi Party",
    "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
    "last_words": "Long live eternal Germany.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_Frick",
    "died": "16 October 1946"
   },
@@ -77,6 +85,7 @@
    "desc": "Polish ballet dancer and choreographer",
    "cause": null,
    "last_words": "Mama!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vaslav_Nijinsky",
    "died": "8 April 1950"
   }

@@ -9,8 +9,10 @@
    "desc": "Swiss philosophical writer, naturalist and physician",
    "cause": null,
    "last_words": "I am dying; leave me alone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Georg_Ritter_von_Zimmermann",
-   "born": "8 December 1728"
+   "born": "8 December 1728",
+   "died": "7 October 1795"
   },
   {
    "year": 1849,
@@ -20,8 +22,10 @@
    "desc": "American writer",
    "cause": null,
    "last_words": "Lord, help my poor soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
-   "born": "19 January 1809"
+   "born": "19 January 1809",
+   "died": "7 October 1849"
   },
   {
    "year": 1867,
@@ -31,8 +35,10 @@
    "desc": "American and Confederate poet",
    "cause": "unable to swallow a spoonful of water",
    "last_words": "Never mind, I shall soon drink of the river of Eternal Life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Timrod",
-   "born": "8 December 1828"
+   "born": "8 December 1828",
+   "died": "7 October 1867"
   },
   {
    "year": 1943,
@@ -42,8 +48,10 @@
    "desc": "English poet and author",
    "cause": null,
    "last_words": "What a life!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Radclyffe_Hall",
-   "born": "12 August 1880"
+   "born": "12 August 1880",
+   "died": "7 October 1943"
   },
   {
    "year": 1959,
@@ -53,8 +61,10 @@
    "desc": "American operatic tenor and actor",
    "cause": "over the phone to his wife",
    "last_words": "I love you, Betty...Betty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Lanza",
-   "born": "31 January 1921"
+   "born": "31 January 1921",
+   "died": "7 October 1959"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Archbishop of Canterbury",
    "cause": "spoken as the signal to the executioner at his beheading for treason",
    "last_words": "Lord, receive my soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Laud",
    "died": "10 January 1645"
   },
@@ -77,6 +88,7 @@
    "desc": "Scottish soldier and politician",
    "cause": "Wounded at the Battle of Alexandria, he asked what had been placed under his head and was told it was \"Only a soldier's blanket.\"",
    "last_words": "Only a soldier's blanket! Make haste and return it to him at once.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Abercromby",
    "died": "28 March 1801"
   },
@@ -88,6 +100,7 @@
    "desc": "Lord Chief Justice of the King's Bench",
    "cause": "thinking he was in court",
    "last_words": "Gentlemen of the jury, you may retire.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Abbott,_1st_Baron_Tenterden",
    "died": "4 November 1832"
   },
@@ -99,6 +112,7 @@
    "desc": "English churchman",
    "cause": "requesting that the Archdeacon participate in his funeral",
    "last_words": "Will you tell the Archdeacon?– will you move a vote of thanks for his kindness in performing the ceremony?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Alford_(theologian)",
    "died": "12 January 1871"
   },
@@ -110,6 +124,7 @@
    "desc": "Swedish-American labor activist",
    "cause": "Hill shouted these words after Deputy Shettler, who led his firing squad, called out the sequence of commands preparatory to firing (\"Ready, aim\")",
    "last_words": "Fire – go on and fire!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joe_Hill_(activist)",
    "died": "19 November 1915"
   },
@@ -121,6 +136,7 @@
    "desc": "German Nazi officer",
    "cause": "last words said during his suicide shortly after biting into a hidden potassium cyanide pill before collapsing dead onto the floor of the headquarters of the Second British Army in Lüneburg",
    "last_words": "I am Heinrich Himmler.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Himmler",
    "died": "23 May 1945"
   },
@@ -132,6 +148,7 @@
    "desc": "SS concentration camp guard",
    "cause": "prior to her execution by hanging",
    "last_words": "Quick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Irma_Grese",
    "died": "13 December 1945"
   },
@@ -143,6 +160,7 @@
    "desc": null,
    "cause": "Scottish psychiatrist",
    "last_words": "No bloody doctors.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/R._D._Laing",
    "died": "23 August 1989"
   }

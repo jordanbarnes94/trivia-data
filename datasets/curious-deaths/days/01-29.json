@@ -9,8 +9,10 @@
    "desc": "English theologian and casuist",
    "cause": null,
    "last_words": "My heart is fixed, O God! my heart is fixed where true joy is to be found.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Sanderson_(theologian)",
-   "born": "19 September 1587"
+   "born": "19 September 1587",
+   "died": "29 January 1663"
   },
   {
    "year": 1814,
@@ -20,8 +22,10 @@
    "desc": "German philosopher",
    "cause": "to an attendant who brought him medicine",
    "last_words": "Leave it alone; I need no medicine; I feel that I am well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Gottlieb_Fichte",
-   "born": "19 May 1762"
+   "born": "19 May 1762",
+   "died": "29 January 1814"
   },
   {
    "year": 1875,
@@ -31,8 +35,10 @@
    "desc": "British lawyer, judge and politician",
    "cause": null,
    "last_words": "This is the happiest day I have ever experienced on earth. I shall soon be where the wicked cease from troubling and the weary are at rest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Sugden,_1st_Baron_St_Leonards",
-   "born": "12 February 1781"
+   "born": "12 February 1781",
+   "died": "29 January 1875"
   },
   {
    "year": 1888,
@@ -42,8 +48,10 @@
    "desc": "English nonsense poet",
    "cause": null,
    "last_words": "I did not answer the letters of my friends because I could not write, as no sooner did I take a pen in my hand than I felt as if I was dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Lear",
-   "born": "12 May 1812"
+   "born": "12 May 1812",
+   "died": "29 January 1888"
   },
   {
    "year": 1977,
@@ -53,11 +61,25 @@
    "desc": "American stand-up comedian and actor",
    "cause": "as his suicide note, before shooting himself in the head",
    "last_words": "I must end it. There's no hope left. I'll be at peace. No one had anything to do with this. My decision totally.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Prinze",
-   "born": "22 June 1954"
+   "born": "22 June 1954",
+   "died": "29 January 1977"
   }
  ],
  "born": [
+  {
+   "year": 133,
+   "year_label": "133",
+   "name": "Didius Julianus",
+   "kind": "individual",
+   "desc": "Roman emperor",
+   "cause": "to his assassin",
+   "last_words": "But what evil have I done? Whom have I killed?\"",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Didius_Julianus",
+   "died": "2 June 193"
+  },
   {
    "year": 1688,
    "year_label": "1688",
@@ -66,6 +88,7 @@
    "desc": "Swedish theologian, scientist, philosopher and mystic",
    "cause": null,
    "last_words": "What o'clock is it?\" (On being told) \"It is well; I thank you; God bless you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg",
    "died": "29 March 1772"
   },
@@ -77,6 +100,7 @@
    "desc": "English-born American political activist and theorist, philosopher and revolutionary",
    "cause": null,
    "last_words": "Taking a leap into the dark. O mystery!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Paine",
    "died": "8 June 1809"
   },
@@ -88,6 +112,7 @@
    "desc": "Church of England clergyman and writer",
    "cause": null,
    "last_words": "Brother, brother, strong evidences, nothing but strong evidences will do in such an hour as this. I have looked here and looked there for them, and all have failed me, and so I cast myself on the sovereign, free and full grace of God in the covenant by Jesus Christ; and there, brother, there I have found peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Legh_Richmond",
    "died": "8 May 1827"
   },
@@ -99,6 +124,7 @@
    "desc": "president of the United States",
    "cause": "dying after being shot on 6 September",
    "last_words": "Goodbye, all, goodbye. It is God's way. His will be done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_McKinley",
    "died": "14 September 1901"
   },
@@ -110,6 +136,7 @@
    "desc": "Russian author and playwright",
    "cause": "to his wife, Olga",
    "last_words": "It's a long time since I drank champagne.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anton_Chekhov",
    "died": "15 July 1904"
   },
@@ -121,6 +148,7 @@
    "desc": "American entertainer",
    "cause": "addressing his mistress, Carlotta Monti",
    "last_words": "God damn the whole fuckin' world and everyone in it but you, Carlotta.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._C._Fields",
    "died": "25 December 1946"
   },
@@ -132,6 +160,7 @@
    "desc": "assassin of Russian Prime Minister Pyotr Stolypin",
    "cause": "to his executioner prior to hanging",
    "last_words": "Should I lift my head a bit?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Bogrov",
    "died": "24 September 1911"
   },
@@ -143,6 +172,7 @@
    "desc": "Russian author",
    "cause": "to his wife Zinaida",
    "last_words": "Why am I hemorrhaging?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Pasternak",
    "died": "30 May 1960"
   },
@@ -154,6 +184,7 @@
    "desc": "American author, essayist and environmental advocate",
    "cause": null,
    "last_words": "I did what I could.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Abbey",
    "died": "14 March 1989"
   }

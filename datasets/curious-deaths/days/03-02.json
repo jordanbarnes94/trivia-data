@@ -9,8 +9,10 @@
    "desc": "Anglican clergyman and academic",
    "cause": null,
    "last_words": "Come Lord Jesu, come quickly, finish in me the work that Thou has begun; into Thy hands, O Lord, I commend my spirit, for Thou has redeemed me. O God of truth, save me Thy servant, who hopes and confides in Thee alone; let Thy mercy, O Lord, be shewn unto me; in Thee have I trusted, O Lord, let me not be confounded for ever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Abbot_(bishop)",
-   "born": null
+   "born": null,
+   "died": "2 March 1617"
   },
   {
    "year": 1791,
@@ -20,8 +22,10 @@
    "desc": "English cleric and theologian, founder of Methodism",
    "cause": null,
    "last_words": "The best of all is, God is with us.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley",
-   "born": "17 June 1703"
+   "born": "17 June 1703",
+   "died": "2 March 1791"
   },
   {
    "year": 1871,
@@ -31,8 +35,10 @@
    "desc": "American bishop of the Methodist Episcopal Church, South",
    "cause": null,
    "last_words": "God bless you all!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Osgood_Andrew",
-   "born": "3 May 1794"
+   "born": "3 May 1794",
+   "died": "2 March 1871"
   },
   {
    "year": 1930,
@@ -42,8 +48,10 @@
    "desc": "English writer and poet",
    "cause": null,
    "last_words": "I think it is time for morphine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/D._H._Lawrence",
-   "born": "11 September 1885"
+   "born": "11 September 1885",
+   "died": "2 March 1930"
   },
   {
    "year": 1995,
@@ -53,8 +61,10 @@
    "desc": "British actor",
    "cause": null,
    "last_words": "Give me a fucking pre-med you fuckers, I'm a personal friend of Sir Lancelot Spratt.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vivian_MacKerrell",
-   "born": "23 May 1944"
+   "born": "23 May 1944",
+   "died": "2 March 1995"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "German knight and Protestant leader",
    "cause": "when his chaplain asked if he wanted to confess prior to his death defending his castle",
    "last_words": "I have already confessed my sins to God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Franz_von_Sickingen",
    "died": "7 May 1523"
   },
@@ -77,6 +88,7 @@
    "desc": "French journalist and politician",
    "cause": "looking at the axe prior to execution by guillotine",
    "last_words": "Behold, then, the recompense reserved for the first apostle of liberty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Camille_Desmoulins",
    "died": "5 April 1794"
   },
@@ -88,6 +100,7 @@
    "desc": "American soldier and politician",
    "cause": "to his wife, Margaret Lea Houston",
    "last_words": "Texas! Texas! Margaret.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Houston",
    "died": "26 July 1863"
   },
@@ -99,6 +112,7 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": null,
    "last_words": "Pray. Pray that this regrettable situation for the Church may end.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_XII",
    "died": "9 October 1958"
   },
@@ -110,6 +124,7 @@
    "desc": "American baseball player",
    "cause": "to his nurse",
    "last_words": "How did the Mets do today?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Moe_Berg",
    "died": "29 May 1972"
   },
@@ -121,6 +136,7 @@
    "desc": "American children's author, political cartoonist, illustrator, poet, animator, and filmmaker",
    "cause": null,
    "last_words": "Yes. I'm not going to die tomorrow.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dr._Seuss",
    "died": "24 September 1991"
   },
@@ -132,6 +148,7 @@
    "desc": "Cuban-American bandleader, actor and film and television producer",
    "cause": "over the phone to his former wife, Lucille Ball",
    "last_words": "I love you too, honey. Good luck with your show.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Desi_Arnaz",
    "died": "2 December 1986"
   }

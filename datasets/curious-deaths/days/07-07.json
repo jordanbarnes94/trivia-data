@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "to his son, Edward II of England, while dying during a war with Scotland",
    "last_words": "Carry my bones before you on your march, for the rebels will not be able to endure the sight of me, alive or dead.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_I_of_England",
-   "born": "17 June 1239"
+   "born": "17 June 1239",
+   "died": "7 July 1307"
   },
   {
    "year": 1816,
@@ -20,8 +22,10 @@
    "desc": "Irish satirist, playwright and poet",
    "cause": "dying in poverty",
    "last_words": "I am absolutely undone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Brinsley_Sheridan",
-   "born": "30 October 1751"
+   "born": "30 October 1751",
+   "died": "7 July 1816"
   },
   {
    "year": 1826,
@@ -31,8 +35,10 @@
    "desc": "American lawyer and murderer",
    "cause": "to his wife. Beauchamp had murdered Kentucky legislator Solomon P. Sharp to avenge his wife's honor. Beauchamp and his wife both stabbed themselves on the morning of his execution; his wife died of her wounds, while Beauchamp survived to be hanged",
    "last_words": "Farewell child of sorrow-Farewell child of misfortune and persecution-you are now secure from the tongue of slander-for you I have lived; for you I die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jereboam_O._Beauchamp",
-   "born": "6 September 1802"
+   "born": "6 September 1802",
+   "died": "7 July 1826"
   },
   {
    "year": 1865,
@@ -42,8 +48,10 @@
    "desc": "American boarding house owner",
    "cause": "prior to execution by hanging after conviction for taking part in the conspiracy to assassinate Abraham Lincoln",
    "last_words": "Please don't let me fall.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Surratt",
-   "born": null
+   "born": null,
+   "died": "7 July 1865"
   },
   {
    "year": 1898,
@@ -53,8 +61,10 @@
    "desc": "con artist and gangster in the American frontier",
    "cause": "after vigilante Frank H. Reid shot him",
    "last_words": "My God, don't shoot!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Soapy_Smith",
-   "born": "2 November 1860"
+   "born": "2 November 1860",
+   "died": "7 July 1898"
   },
   {
    "year": 1930,
@@ -64,19 +74,10 @@
    "desc": "British physician, author and spiritualist",
    "cause": "spoken to his wife in their garden; he proceeded to clutch his chest and die",
    "last_words": "You are wonderful.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Conan_Doyle",
-   "born": "22 May 1859"
-  },
-  {
-   "year": 1944,
-   "year_label": "1944",
-   "name": "William J. O'Brien",
-   "kind": "individual",
-   "desc": "United States Army officer and Medal of Honor recipient",
-   "cause": "during Banzai charge on his battalion at the Battle of Saipan",
-   "last_words": "Don't give them a damned inch!",
-   "wikipedia": "https://en.wikipedia.org/wiki/William_J._O'Brien_(Medal_of_Honor)",
-   "born": null
+   "born": "22 May 1859",
+   "died": "7 July 1930"
   },
   {
    "year": 1944,
@@ -86,8 +87,23 @@
    "desc": "United States Army dental officer and Medal of Honor recipient",
    "cause": "preparing to cover evacuation of wounded from aid station with M1917 Browning machine gun during the Battle of Saipan",
    "last_words": "I'm going to hold these guys off as long as I can. I'll see you later.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ben_L._Salomon",
-   "born": "1 September 1914"
+   "born": "1 September 1914",
+   "died": "7 July 1944"
+  },
+  {
+   "year": 1944,
+   "year_label": "1944",
+   "name": "William J. O'Brien",
+   "kind": "individual",
+   "desc": "United States Army officer and Medal of Honor recipient",
+   "cause": "during Banzai charge on his battalion at the Battle of Saipan",
+   "last_words": "Don't give them a damned inch!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_J._O'Brien_(Medal_of_Honor)",
+   "born": "25 September 1899",
+   "died": "7 July 1944"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "Austrian composer and conductor",
    "cause": null,
    "last_words": "Mozart! Mozart!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Mahler",
    "died": "18 May 1911"
   },
@@ -110,6 +127,7 @@
    "desc": "American model and silent film actress",
    "cause": null,
    "last_words": "I'm dying, I'm dying...he hurt me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Virginia_Rappe",
    "died": "9 September 1921"
   }

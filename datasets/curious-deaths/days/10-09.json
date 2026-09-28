@@ -9,8 +9,10 @@
    "desc": "American missionary to the Native Americans",
    "cause": "quoting Luke 2:29",
    "last_words": "Lord, now let thy servant depart in peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_Brainerd",
-   "born": "20 April 1718"
+   "born": "20 April 1718",
+   "died": "9 October 1747"
   },
   {
    "year": 1799,
@@ -20,8 +22,10 @@
    "desc": "French Roman Catholic priest and missionary in Vietnam",
    "cause": null,
    "last_words": "Here I am finally. Here I am at the end of the tumultuous career that, whatever my repugnance, I have kept to for so long. My troubles will soon be over and my true happiness is coming, since I have all confidence in the mercy of my God. I willingly leave this world where I have been thought happy in that I have had public admiration, been respected by great, esteemed kings. I can't say that I regret all these honors-it's just that they add up to vanity and trouble.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Pigneau_de_Behaine",
-   "born": "2 November 1741"
+   "born": "2 November 1741",
+   "died": "9 October 1799"
   },
   {
    "year": 1934,
@@ -31,8 +35,10 @@
    "desc": "French Minister of Foreign Affairs",
    "cause": "killed by police gunfire during the response to Alexander I of Yugoslavia's assassination",
    "last_words": "I suffer terribly. I am thirsty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Barthou",
-   "born": "25 August 1862"
+   "born": "25 August 1862",
+   "died": "9 October 1934"
   },
   {
    "year": 1958,
@@ -42,8 +48,10 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": null,
    "last_words": "Pray. Pray that this regrettable situation for the Church may end.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_XII",
-   "born": "2 March 1876"
+   "born": "2 March 1876",
+   "died": "9 October 1958"
   },
   {
    "year": 1960,
@@ -53,8 +61,10 @@
    "desc": "Titans of New York offensive guard",
    "cause": "in locker room after fatal in-game injury",
    "last_words": "It's...It's coming out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Glenn",
-   "born": "26 September 1934"
+   "born": "26 September 1934",
+   "died": "9 October 1960"
   },
   {
    "year": 1967,
@@ -64,8 +74,10 @@
    "desc": "Argentinean statesman and socialist revolutionary",
    "cause": "facing his captors",
    "last_words": "I know you are here to kill me. Shoot, coward, you are only going to kill a man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Che_Guevara",
-   "born": "14 June 1928"
+   "born": "14 June 1928",
+   "died": "9 October 1967"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": null,
    "cause": "to his aide Major von Wachholtz asking for whereabouts of adjutant-general Elias Olfermann shortly after being shot in the liver at the Battle of Quatre Bras",
    "last_words": "My dear Wachholtz, where is Olfermann?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William,_Duke_of_Brunswick-Wolfenbüttel",
    "died": "16 May 1815"
   },
@@ -88,6 +101,7 @@
    "desc": "British Indian Army officer",
    "cause": "In 1919, Dyer ordered the troops under his command to fire into a crowd of protesting Indian independence activists in Jallianwala Bagh, Punjab, killing at least 379 people and wounding over 1,200 others",
    "last_words": "So many people who knew the condition of Amritsar say I did right...but so many others say I did wrong. I only want to die and know from my Maker whether I did right or wrong.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Reginald_Dyer",
    "died": "23 July 1927"
   },
@@ -99,6 +113,7 @@
    "desc": "English musician",
    "cause": "moments after being fatally shot by Mark David Chapman",
    "last_words": "I'm shot! I'm shot!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Lennon",
    "died": "8 December 1980"
   }

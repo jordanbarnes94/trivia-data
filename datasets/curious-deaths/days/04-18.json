@@ -9,8 +9,10 @@
    "desc": "English physician and natural philosopher",
    "cause": "urging his daughter to bleed him",
    "last_words": "Emma, will you? There is no time to be lost.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erasmus_Darwin",
-   "born": "12 December 1731"
+   "born": "12 December 1731",
+   "died": "18 April 1802"
   },
   {
    "year": 1912,
@@ -20,8 +22,10 @@
    "desc": "one of the leaders of Ndungutse's rebellion",
    "cause": "after hearing his death sentence",
    "last_words": "When a man has a great name, he must expect to die for it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ndungutse's_rebellion",
-   "born": null
+   "born": null,
+   "died": "18 April 1912"
   },
   {
    "year": 1945,
@@ -31,8 +35,10 @@
    "desc": "American war correspondent",
    "cause": "to Lt. Col. Joseph B. Coolidge before being fatally shot on Iejima during the Battle of Okinawa",
    "last_words": "Are you all right?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernie_Pyle",
-   "born": "3 August 1900"
+   "born": "3 August 1900",
+   "died": "18 April 1945"
   },
   {
    "year": 1955,
@@ -42,8 +48,10 @@
    "desc": "German physicist",
    "cause": "declining surgery the day before his death",
    "last_words": "I want to go when I want. It is tasteless to prolong life artificially. I have done my share, it is time to go. I will do it elegantly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein",
-   "born": "14 March 1879"
+   "born": "14 March 1879",
+   "died": "18 April 1955"
   },
   {
    "year": 2000,
@@ -53,8 +61,10 @@
    "desc": "American child murder victim",
    "cause": "when asked if she wanted to be \"reborn\" by her murderers",
    "last_words": "No.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Candace_Newmaker",
-   "born": "19 November 1989"
+   "born": "19 November 1989",
+   "died": "18 April 2000"
   }
  ],
  "born": []

@@ -9,8 +9,10 @@
    "desc": "English religious writer and philanthropist",
    "cause": null,
    "last_words": "Patty, Joy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hannah_More",
-   "born": "2 February 1745"
+   "born": "2 February 1745",
+   "died": "7 September 1833"
   },
   {
    "year": 1892,
@@ -20,8 +22,10 @@
    "desc": "American Quaker poet and abolitionist",
    "cause": "when his niece asked if he knew her",
    "last_words": "I have known thee all the time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Greenleaf_Whittier",
-   "born": "17 December 1807"
+   "born": "17 December 1807",
+   "died": "7 September 1892"
   },
   {
    "year": 1978,
@@ -31,8 +35,10 @@
    "desc": "English drummer for the rock band the Who",
    "cause": "to his girlfriend Annette Walter-Lax",
    "last_words": "If you don't like it, you can fuck off!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Keith_Moon",
-   "born": "23 August 1946"
+   "born": "23 August 1946",
+   "died": "7 September 1978"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "queen regnant of England",
    "cause": null,
    "last_words": "All my possessions for a moment of time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_I",
    "died": "24 March 1603"
   },
@@ -55,6 +62,7 @@
    "desc": "Anglican bishop",
    "cause": null,
    "last_words": "There is no such thing as sudden death to a Christian.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Wilberforce",
    "died": "19 July 1873"
   },
@@ -66,6 +74,7 @@
    "desc": "Vice President of the United States",
    "cause": null,
    "last_words": "At rest at last. Now I am free from pain.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_A._Hendricks",
    "died": "25 November 1885"
   },
@@ -77,6 +86,7 @@
    "desc": "American rapper who propelled West Coast rap and gangsta rap by leading the group N.W.A and its label, Ruthless Records",
    "cause": "written as part of his final message to his fans while dying of AIDS. He slipped into a coma not long afterwards and died on March 26",
    "last_words": "Now, I'm in the biggest fight of my life and it ain't easy. But I want to say much love to those who have been down with me and thanks for all your support. Just remember, It's your real time and your real life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eazy-E",
    "died": "16 March 1995"
   }

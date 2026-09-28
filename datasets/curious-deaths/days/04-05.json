@@ -9,8 +9,10 @@
    "desc": "French journalist and politician",
    "cause": "looking at the axe prior to execution by guillotine",
    "last_words": "Behold, then, the recompense reserved for the first apostle of liberty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Camille_Desmoulins",
-   "born": "2 March 1760"
+   "born": "2 March 1760",
+   "died": "5 April 1794"
   },
   {
    "year": 1794,
@@ -20,8 +22,10 @@
    "desc": "leading figure in the French Revolution",
    "cause": "prior to execution by guillotine",
    "last_words": "Show my head to the people. It is worth seeing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Danton",
-   "born": "26 October 1759"
+   "born": "26 October 1759",
+   "died": "5 April 1794"
   },
   {
    "year": 1994,
@@ -31,8 +35,10 @@
    "desc": "American musician",
    "cause": "closing his suicide note",
    "last_words": "I don't have the passion anymore, and so remember, it's better to burn out than to fade away. Peace, love, empathy. Kurt Cobain. Frances and Courtney, I'll be at your altar. Please keep going Courtney, for Frances. For her life, which will be so much happier without me. I LOVE YOU, I LOVE YOU!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Cobain",
-   "born": "20 February 1967"
+   "born": "20 February 1967",
+   "died": "5 April 1994"
   },
   {
    "year": 1997,
@@ -42,8 +48,10 @@
    "desc": "American poet and writer",
    "cause": null,
    "last_words": "Toodle-oo!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Allen_Ginsberg",
-   "born": "3 June 1926"
+   "born": "3 June 1926",
+   "died": "5 April 1997"
   },
   {
    "year": 1998,
@@ -53,8 +61,10 @@
    "desc": "English drummer",
    "cause": "to his girlfriend on the phone shortly before he was killed in a car crash",
    "last_words": "Oh shit!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cozy_Powell",
-   "born": "29 December 1947"
+   "born": "29 December 1947",
+   "died": "5 April 1998"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "English philosopher",
    "cause": null,
    "last_words": "Now I am about to take my last voyage, a great leap in the dark.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hobbes",
    "died": "4 December 1679"
   },
@@ -77,6 +88,7 @@
    "desc": "KCB, British Army general",
    "cause": null,
    "last_words": "Come, my son, and see how a Christian can die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Havelock",
    "died": "24 November 1857"
   },
@@ -88,6 +100,7 @@
    "desc": "American lawyer who served as U.S. Attorney for the District of Columbia",
    "cause": "pleading to his murderer Daniel Sickles, with whose wife Key had an affair",
    "last_words": "Murder! Don't kill me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Barton_Key_II",
    "died": "27 February 1859"
   },
@@ -99,6 +112,7 @@
    "desc": "American actress",
    "cause": "spoken to a nurse before she died",
    "last_words": "I'm so tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bette_Davis",
    "died": "6 October 1989"
   },
@@ -110,6 +124,7 @@
    "desc": "English actor",
    "cause": null,
    "last_words": "It's all been rather lovely.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Le_Mesurier",
    "died": "15 November 1983"
   }

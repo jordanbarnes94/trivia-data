@@ -9,8 +9,10 @@
    "desc": "Admiral of France",
    "cause": "in response to one of his assassins asking, \"Art thou Coligny?\"",
    "last_words": "I am he; respect my gray hairs, young man!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gaspard_II_de_Coligny",
-   "born": "16 February 1519"
+   "born": "16 February 1519",
+   "died": "24 August 1572"
   },
   {
    "year": 1680,
@@ -20,8 +22,10 @@
    "desc": "Anglo-Irish officer and desperado",
    "cause": null,
    "last_words": "I do not fear death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Blood",
-   "born": null
+   "born": "19 March 1618",
+   "died": "24 August 1680"
   },
   {
    "year": 1683,
@@ -31,8 +35,10 @@
    "desc": "English Nonconformist church leader and theologian",
    "cause": "when his secretary had written \"I am still in the land of the living\" in a letter in his name",
    "last_words": "Stop. Change that to say, 'I am yet in the land of the dying, but I hope soon to be in the land of the living.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Owen_(theologian)",
-   "born": null
+   "born": null,
+   "died": "24 August 1683"
   },
   {
    "year": 1957,
@@ -42,8 +48,10 @@
    "desc": "English Roman Catholic priest and writer",
    "cause": "when Lady Elton asked if he would like her to read from his translation of the New Testament",
    "last_words": "No.... Awfully jolly of you to suggest it, though.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Knox",
-   "born": "17 February 1888"
+   "born": "17 February 1888",
+   "died": "24 August 1957"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English Nonconformist clergyman and diarist",
    "cause": "quoting 1 Corinthians 15:55",
    "last_words": "O death, where is thy-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Henry",
    "died": "24 June 1696"
   },
@@ -66,6 +75,7 @@
    "desc": "English religious leader",
    "cause": null,
    "last_words": "My work is done; I have nothing to do but to go to my Father.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Selina_Hastings,_Countess_of_Huntingdon",
    "died": "17 June 1791"
   },
@@ -77,6 +87,7 @@
    "desc": "Welsh officer of the British Army",
    "cause": "before being shot in the temple at the Battle of Waterloo",
    "last_words": "Charge! Hurrah! hurrah!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Picton",
    "died": "18 June 1815"
   },
@@ -88,6 +99,7 @@
    "desc": "British politician",
    "cause": null,
    "last_words": "Thank God that I have lived to see the day when England is willing to give twenty millions for the abolition of slavery.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Wilberforce",
    "died": "29 July 1833"
   },
@@ -99,6 +111,7 @@
    "desc": "American transcendentalist, Unitarian minister and abolitionist",
    "cause": "referring to notables who would attend his funeral",
    "last_words": "It is all one, Phillips and Clarke will come for my sake.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Parker",
    "died": "10 May 1860"
   },
@@ -110,6 +123,7 @@
    "desc": "English essayist, parodist and caricaturist",
    "cause": "on being asked by his wife if he had had a good sleep",
    "last_words": "No. Thanks for everything.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Max_Beerbohm",
    "died": "20 May 1956"
   },
@@ -121,6 +135,7 @@
    "desc": null,
    "cause": "The 29-year-old American news anchor from Hudson, Ohio, shot herself in the head on live television at the start of Suncoast Digest, a local newscast for WXLT-TV in Sarasota, Florida, after reading some of the area's breaking news headlines. Chubbuck was the first person to take their own life on live television.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christine_Chubbuck",
    "died": "15 July 1974"
   },
@@ -132,6 +147,7 @@
    "desc": null,
    "cause": "The 36-year-old astronomer was crushed to death by a hatch and a revolving telescope dome at Kitt Peak National Observatory.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Aaronson",
    "died": "30 April 1987"
   }

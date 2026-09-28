@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "While leading the German army on the Third Crusade, the Holy Roman Emperor unexpectedly drowned while bathing in the Saleph.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
-   "born": null
+   "born": null,
+   "died": "10 June 1190"
   },
   {
    "year": 1876,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The 37-year-old blacksmith, self-proclaimed inventor, and American Civil War veteran killed himself with a makeshift guillotine.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "10 June 1876"
   },
   {
    "year": 1988,
@@ -31,8 +35,10 @@
    "desc": "American convicted sex offender and serial killer",
    "cause": "prior to execution by lethal injection",
    "last_words": "I want to offer again my most profound and heartfelt apologies to my victims' families. I am truly sorry. I have tried my best to empathize with their grief and devastation and I hope they come to know of my concerns and prayers for them.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Gary_Bishop",
-   "born": "29 September 1952"
+   "born": "29 September 1952",
+   "died": "10 June 1988"
   },
   {
    "year": 1999,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 41-year-old geography and physical education teacher died due to a chest infection a month after being impaled in the eye with the blunt end of a javelin during an athletics session at the Liverpool College in Mossley Hill, Liverpool. It is believed that he had lost his footing while retrieving the javelin. He remained in a coma until his death.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "10 June 1999"
   },
   {
    "year": 2000,
@@ -53,9 +61,24 @@
    "desc": "President of Syria",
    "cause": "to Émile Lahoud, the President of Lebanon",
    "last_words": "Our destiny is to build a better future for our countries, a safe future for our children. We have to give them something better than we inherited.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hafez_al-Assad",
-   "born": "6 October 1930"
+   "born": "6 October 1930",
+   "died": "10 June 2000"
   }
  ],
- "born": []
+ "born": [
+  {
+   "year": 1935,
+   "year_label": "1935",
+   "name": "Victor Feguer",
+   "kind": "individual",
+   "desc": "American convicted murderer",
+   "cause": "requesting his last meal prior to execution by hanging",
+   "last_words": "An olive, with a pit...",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Victor_Feguer",
+   "died": "15 March 1963"
+  }
+ ]
 }

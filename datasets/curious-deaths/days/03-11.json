@@ -9,8 +9,10 @@
    "desc": "American statesman and United States Senator",
    "cause": "to Samuel Hooper, his former father-in-law",
    "last_words": "Sit down.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sumner",
-   "born": "6 January 1811"
+   "born": "6 January 1811",
+   "died": "11 March 1874"
   },
   {
    "year": 1960,
@@ -20,8 +22,10 @@
    "desc": "American explorer, adventurer and naturalist",
    "cause": "dying of a heart attack",
    "last_words": "There's that pain again! I can feel it in my arm and in my head.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Roy_Chapman_Andrews",
-   "born": "26 January 1884"
+   "born": "26 January 1884",
+   "died": "11 March 1960"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "Italian poet",
    "cause": "quoting Jesus",
    "last_words": "Lord, into Thy hands I commend my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Torquato_Tasso",
    "died": "25 April 1595"
   },
@@ -44,6 +49,7 @@
    "desc": "president of Bolivia",
    "cause": "speaking to Federico La Faye before being shot by the latter",
    "last_words": "You to me, Federico?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Agustín_Morales",
    "died": "27 November 1872"
   },
@@ -55,6 +61,7 @@
    "desc": "Argentine politician",
    "cause": "his suicide note, quoting the motto of the Radical Civic Union",
    "last_words": "Yes, that is broken, but does not bend!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leandro_N._Alem",
    "died": "1 July 1896"
   },
@@ -66,6 +73,7 @@
    "desc": null,
    "cause": "The 51-year-old financier and third-richest man in the world at the time, died while flying from England to Belgium on his private Fokker F.VII airplane. It is believed he fell out of the aircraft and into the water where he died.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Loewenstein",
    "died": "4 July 1928"
   }

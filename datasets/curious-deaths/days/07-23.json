@@ -9,8 +9,10 @@
    "desc": "English historian, theologian and writer",
    "cause": null,
    "last_words": "Good-bye.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Nares",
-   "born": "26 March 1762"
+   "born": "26 March 1762",
+   "died": "23 July 1841"
   },
   {
    "year": 1885,
@@ -20,8 +22,10 @@
    "desc": "president of the United States",
    "cause": "when asked if he wanted anything while dying of throat cancer",
    "last_words": "Water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
-   "born": "27 April 1822"
+   "born": "27 April 1822",
+   "died": "23 July 1885"
   },
   {
    "year": 1909,
@@ -31,8 +35,10 @@
    "desc": "Speaker of the Australian House of Representatives",
    "cause": "prior to collapsing in the House after a tumultuous all-night session",
    "last_words": "Dreadful! Dreadful!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Holder",
-   "born": "12 May 1850"
+   "born": "12 May 1850",
+   "died": "23 July 1909"
   },
   {
    "year": 1927,
@@ -42,8 +48,10 @@
    "desc": "British Indian Army officer",
    "cause": "In 1919, Dyer ordered the troops under his command to fire into a crowd of protesting Indian independence activists in Jallianwala Bagh, Punjab, killing at least 379 people and wounding over 1,200 others",
    "last_words": "So many people who knew the condition of Amritsar say I did right...but so many others say I did wrong. I only want to die and know from my Maker whether I did right or wrong.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Reginald_Dyer",
-   "born": "9 October 1864"
+   "born": "9 October 1864",
+   "died": "23 July 1927"
   },
   {
    "year": 1966,
@@ -53,8 +61,10 @@
    "desc": "American actor",
    "cause": "to his private nurse, Lorenzo James, who had suggested they watch The Misfits on television",
    "last_words": "Absolutely not!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Montgomery_Clift",
-   "born": "17 October 1920"
+   "born": "17 October 1920",
+   "died": "23 July 1966"
   },
   {
    "year": 1982,
@@ -64,8 +74,10 @@
    "desc": "American actor",
    "cause": "prior to being killed along with two child actors during the filming of Twilight Zone: The Movie prior to being killed along with two child actors during filming in the Twilight Zone accident",
    "last_words": "I've got to be crazy to do this shot. I should've asked for a double.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vic_Morrow",
-   "born": "14 February 1929"
+   "born": "14 February 1929",
+   "died": "23 July 1982"
   },
   {
    "year": 1982,
@@ -75,8 +87,10 @@
    "desc": null,
    "cause": "During the filming of Twilight Zone: The Movie, the 53-year-old Morrow, seven-year-old Le, and six-year-old Chen were performing a scene in which their characters are pursued by a helicopter. Heat from special-effects explosions caused the helicopter to fall on them. Morrow and Le were decapitated and Chen was crushed.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vic_Morrow",
-   "born": null
+   "born": null,
+   "died": "23 July 1982"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "French poet and dramatist",
    "cause": "to his confessor",
    "last_words": "Ah! Coquereau, I forgot to mention one of the greatest faults of my life. I have spoken badly of Charles X!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Félix_Arvers",
    "died": "7 November 1850"
   },
@@ -99,6 +114,7 @@
    "desc": "American astronaut",
    "cause": "prior to plane crash that killed him and fellow astronaut Charles Bassett",
    "last_words": "Final ILS two four.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elliot_See",
    "died": "28 February 1966"
   }

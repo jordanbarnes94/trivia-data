@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": "prior to his killing on the Gemonian stairs",
    "last_words": "And yet I was once our emperor.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vitellius",
-   "born": "24 September 15"
+   "born": "24 September 15",
+   "died": "22 December 69"
   },
   {
    "year": 1585,
@@ -20,8 +22,10 @@
    "desc": "Italian noblewoman",
    "cause": "kneeling before a crucifix",
    "last_words": "Jesus! I pardon you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vittoria_Accoramboni",
-   "born": "15 February 1557"
+   "born": "15 February 1557",
+   "died": "22 December 1585"
   },
   {
    "year": 1666,
@@ -31,8 +35,10 @@
    "desc": "Scottish martyr",
    "cause": "prior to execution by hanging",
    "last_words": "And now I begin my intercourse with God, which shall never be broken off. Farewell, father and mother, friends and relations; farewell, the world and all delights; farewell, sun, moon and stars! Welcome, God and Father; welcome, sweet Jesus Christ, the mediator of the new covenant; welcome, blessed Spirit of grace, the God of all consolation; welcome, glory; welcome, eternal life; and welcome, death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Mackail",
-   "born": null
+   "born": null,
+   "died": "22 December 1666"
   },
   {
    "year": 1870,
@@ -42,8 +48,10 @@
    "desc": "Spanish Romanticist poet and writer",
    "cause": "in a delirium from fever",
    "last_words": "All mortal!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustavo_Adolfo_Bécquer",
-   "born": "17 February 1836"
+   "born": "17 February 1836",
+   "died": "22 December 1870"
   },
   {
    "year": 1880,
@@ -53,8 +61,10 @@
    "desc": "English novelist",
    "cause": null,
    "last_words": "Tell them I have a great pain in my left side.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Eliot",
-   "born": "22 November 1819"
+   "born": "22 November 1819",
+   "died": "22 December 1880"
   },
   {
    "year": 1899,
@@ -64,8 +74,10 @@
    "desc": "American evangelist and publisher",
    "cause": null,
    "last_words": "I see earth receding; Heaven is opening; God is calling me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dwight_L._Moody",
-   "born": "5 February 1837"
+   "born": "5 February 1837",
+   "died": "22 December 1899"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English landscape artist",
    "cause": null,
    "last_words": "Hobbema, my dear Hobbema, how I have loved you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Crome",
    "died": "22 April 1821"
   },
@@ -88,6 +101,7 @@
    "desc": "American foreign missionary",
    "cause": "dying of smallpox in Amherst, Burma",
    "last_words": "I feel quite well, only very weak.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ann_Hasseltine_Judson",
    "died": "24 October 1826"
   }

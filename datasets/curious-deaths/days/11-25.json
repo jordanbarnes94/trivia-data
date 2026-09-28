@@ -9,8 +9,10 @@
    "desc": "English Christian minister, hymn writer and theologian",
    "cause": null,
    "last_words": "Waiting God's leave to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Watts",
-   "born": "17 July 1674"
+   "born": "17 July 1674",
+   "died": "25 November 1748"
   },
   {
    "year": 1885,
@@ -20,8 +22,10 @@
    "desc": "King of Spain",
    "cause": null,
    "last_words": "I don't deserve to be cared for as you have cared for me. I know that when I have gone you will care for Spain as I have myself.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_XII",
-   "born": "28 November 1857"
+   "born": "28 November 1857",
+   "died": "25 November 1885"
   },
   {
    "year": 1885,
@@ -31,8 +35,10 @@
    "desc": "Vice President of the United States",
    "cause": null,
    "last_words": "At rest at last. Now I am free from pain.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_A._Hendricks",
-   "born": "7 September 1819"
+   "born": "7 September 1819",
+   "died": "25 November 1885"
   },
   {
    "year": 1918,
@@ -42,8 +48,10 @@
    "desc": "VC, British Army officer",
    "cause": "dismissing his nurse while dying of pneumonia at Niederzwehren prisoner of war camp",
    "last_words": "Go away gnadiger Frau [gracious lady].",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julian_Royds_Gribble",
-   "born": "5 January 1897"
+   "born": "5 January 1897",
+   "died": "25 November 1918"
   },
   {
    "year": 1922,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The woman from Glen Innes, New South Wales, was found drowned in a cask of water. It was surmised that she was leaning over the cask when she suddenly fainted and fell into it.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "25 November 1922"
   },
   {
    "year": 1970,
@@ -64,8 +74,10 @@
    "desc": "Japanese author",
    "cause": "prior to seppuku",
    "last_words": "Human life is limited; but I would like to live forever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Yukio_Mishima",
-   "born": "14 January 1925"
+   "born": "14 January 1925",
+   "died": "25 November 1970"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Spanish playwright",
    "cause": null,
    "last_words": "All right then, I'll say it. Dante makes me sick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lope_de_Vega",
    "died": "27 August 1635"
   },
@@ -88,6 +101,7 @@
    "desc": "Confederate States Army officer",
    "cause": "referring to his noose prior to execution for war crimes",
    "last_words": "This is too tight.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Wirz",
    "died": "10 November 1865"
   },
@@ -99,6 +113,7 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": "speaking to his secretary",
    "last_words": "Why crying? This is a moment of joy, a moment of glory.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_John_XXIII",
    "died": "3 June 1963"
   },
@@ -110,6 +125,7 @@
    "desc": "American baseball player",
    "cause": null,
    "last_words": "I'll finally get to see Marilyn.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
    "died": "8 March 1999"
   }

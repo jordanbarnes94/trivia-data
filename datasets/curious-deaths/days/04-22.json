@@ -9,8 +9,10 @@
    "desc": "Spanish novelist",
    "cause": null,
    "last_words": "Already my foot is in the stirrup.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
-   "born": "29 September 1547"
+   "born": "29 September 1547",
+   "died": "22 April 1616"
   },
   {
    "year": 1669,
@@ -20,8 +22,10 @@
    "desc": "Puritan minister",
    "cause": "when asked about his health",
    "last_words": "Far from well, yet far better than mine iniquities deserve.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Mather",
-   "born": null
+   "born": null,
+   "died": "22 April 1669"
   },
   {
    "year": 1794,
@@ -31,8 +35,10 @@
    "desc": "French statesman and government minister, defense counsel of Louis XVI",
    "cause": "to the priest prior to his execution by guillotine",
    "last_words": "Hold your tongue! your wretched chatter disgusts me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Guillaume-Chrétien_de_Lamoignon_de_Malesherbes",
-   "born": "6 December 1721"
+   "born": "6 December 1721",
+   "died": "22 April 1794"
   },
   {
    "year": 1821,
@@ -42,8 +48,10 @@
    "desc": "English landscape artist",
    "cause": null,
    "last_words": "Hobbema, my dear Hobbema, how I have loved you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Crome",
-   "born": "22 December 1768"
+   "born": "22 December 1768",
+   "died": "22 April 1821"
   },
   {
    "year": 1994,
@@ -53,8 +61,10 @@
    "desc": "president of the United States",
    "cause": "to a housekeeper while suffering a stroke",
    "last_words": "Help.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Nixon",
-   "born": "9 January 1913"
+   "born": "9 January 1913",
+   "died": "22 April 1994"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "German philosopher",
    "cause": "thanking his physicians and attendants",
    "last_words": "I have not yet lost my feeling for humanity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Immanuel_Kant",
    "died": "12 February 1804"
   },
@@ -77,6 +88,7 @@
    "desc": "French woman of letters and political theorist",
    "cause": null,
    "last_words": "I have loved God, my father, and liberty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Germaine_de_Staël",
    "died": "14 July 1817"
   },
@@ -88,6 +100,7 @@
    "desc": "Russian communist statesman and revolutionary",
    "cause": "to his dog who brought him a dead bird",
    "last_words": "Good dog.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Lenin",
    "died": "21 January 1924"
   },
@@ -99,6 +112,7 @@
    "desc": "Italian immigrant anarchist",
    "cause": "prior to execution by electrocution",
    "last_words": "Farewell, mother!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicola_Sacco",
    "died": "23 August 1927"
   },
@@ -110,6 +124,7 @@
    "desc": "English contralto singer",
    "cause": "to a nurse while dying of breast cancer",
    "last_words": "Wouldn't it be lovely if I could just go to sleep and not wake up again?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kathleen_Ferrier",
    "died": "8 October 1953"
   }

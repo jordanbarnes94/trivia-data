@@ -9,8 +9,10 @@
    "desc": "English Protestant martyr",
    "cause": "while being burned at the stake",
    "last_words": "None but Christ! None but Christ!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Lambert_(martyr)",
-   "born": null
+   "born": null,
+   "died": "22 November 1538"
   },
   {
    "year": 1882,
@@ -20,41 +22,10 @@
    "desc": "American newspaper publisher and politician",
    "cause": null,
    "last_words": "I want to go home.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thurlow_Weed",
-   "born": "15 November 1797"
-  },
-  {
-   "year": 1963,
-   "year_label": "1963",
-   "name": "John F. Kennedy",
-   "kind": "individual",
-   "desc": "35th president of the United States",
-   "cause": "replying to co-passenger Nellie Connally saying, \"You certainly can't say Dallas doesn't love you, Mr. President\" while traveling through Dallas in a motorcade, shortly before he was assassinated by Lee Harvey Oswald replying to co-passenger Nellie Connally saying, \"You certainly can't say Dallas doesn't love you, Mr. President\" while travelling through Dallas in a motorcade, shortly before he was fatally shot",
-   "last_words": "No, you certainly can't.",
-   "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy",
-   "born": "29 May 1917"
-  },
-  {
-   "year": 1963,
-   "year_label": "1963",
-   "name": "C.S. Lewis",
-   "kind": "individual",
-   "desc": "a British author of The Chronicles of Narnia, literary scholar and Anglican lay theologian",
-   "cause": "of kidney failure, at age 64. He was diagnosed with end-stage kidney failure in mid-November. He collapsed in his bedroom at 5:30 pm on 22 November, at age 64, and died a few minutes later",
-   "last_words": "Thank you.",
-   "wikipedia": "https://en.wikipedia.org/wiki/C.S._Lewis",
-   "born": "29 November 1898"
-  },
-  {
-   "year": 1963,
-   "year_label": "1963",
-   "name": "J. D. Tippit",
-   "kind": "individual",
-   "desc": "American police officer",
-   "cause": "over his police radio shortly before being shot and killed, less than one hour after the Kennedy assassination",
-   "last_words": "10–4.",
-   "wikipedia": "https://en.wikipedia.org/wiki/J._D._Tippit",
-   "born": "18 September 1924"
+   "born": "15 November 1797",
+   "died": "22 November 1882"
   },
   {
    "year": 1963,
@@ -64,8 +35,49 @@
    "desc": "philosopher, writer",
    "cause": "to his wife Laura (\"im\" being an abbreviation for intramuscular)",
    "last_words": "LSD, 100 μg, im",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aldous_Huxley",
-   "born": "26 July 1894"
+   "born": "26 July 1894",
+   "died": "22 November 1963"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "C.S. Lewis",
+   "kind": "individual",
+   "desc": "a British author of The Chronicles of Narnia, literary scholar and Anglican lay theologian",
+   "cause": "of kidney failure, at age 64. He was diagnosed with end-stage kidney failure in mid-November. He collapsed in his bedroom at 5:30 pm on 22 November, at age 64, and died a few minutes later",
+   "last_words": "Thank you.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/C.S._Lewis",
+   "born": "29 November 1898",
+   "died": "22 November 1963"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "J. D. Tippit",
+   "kind": "individual",
+   "desc": "American police officer",
+   "cause": "over his police radio shortly before being shot and killed, less than one hour after the Kennedy assassination",
+   "last_words": "10–4.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/J._D._Tippit",
+   "born": "18 September 1924",
+   "died": "22 November 1963"
+  },
+  {
+   "year": 1963,
+   "year_label": "1963",
+   "name": "John F. Kennedy",
+   "kind": "individual",
+   "desc": "35th president of the United States",
+   "cause": "replying to co-passenger Nellie Connally saying, \"You certainly can't say Dallas doesn't love you, Mr. President\" while traveling through Dallas in a motorcade, shortly before he was assassinated by Lee Harvey Oswald replying to co-passenger Nellie Connally saying, \"You certainly can't say Dallas doesn't love you, Mr. President\" while travelling through Dallas in a motorcade, shortly before he was fatally shot",
+   "last_words": "No, you certainly can't.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy",
+   "born": "29 May 1917",
+   "died": "22 November 1963"
   },
   {
    "year": 1965,
@@ -75,8 +87,10 @@
    "desc": "Indonesian communist and Communist Party of Indonesia leader",
    "cause": "prior to being summarily executed by Jasir Hadibroto and other executioners from the army. It was said that his last words were 30 minutes of inflaming speech against the army, resulting in the executioners shortly firing lethal shots after he shouted \"Long live, PKI!\"",
    "last_words": "I am the only one who held the largest responsibility of the failed G30S and supported by other PKI members and mass organizations under the PKI [...] Rather I am being captured, better you kill me...! [...] Long live, PKI!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/D._N._Aidit",
-   "born": "30 July 1923"
+   "born": "30 July 1923",
+   "died": "22 November 1965"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "First Lady of the United States",
    "cause": "to her husband, John Adams",
    "last_words": "Do not grieve, my friend, my dearest friend. I am ready to go. And John, it will not be long.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abigail_Adams",
    "died": "28 October 1818"
   },
@@ -99,6 +114,7 @@
    "desc": "leader of the Tyrolean Rebellion",
    "cause": "to his firing squad",
    "last_words": "I will not kneel. Fire!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andreas_Hofer",
    "died": "20 February 1810"
   },
@@ -110,6 +126,7 @@
    "desc": "Russian Roman Catholic mystic",
    "cause": null,
    "last_words": "It will soon be time for mass. They must raise me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Swetchine",
    "died": "10 September 1857"
   },
@@ -121,6 +138,7 @@
    "desc": "English novelist",
    "cause": null,
    "last_words": "Tell them I have a great pain in my left side.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Eliot",
    "died": "22 December 1880"
   },
@@ -132,6 +150,7 @@
    "desc": "French author",
    "cause": null,
    "last_words": "It is well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/André_Gide",
    "died": "19 February 1951"
   },
@@ -143,6 +162,7 @@
    "desc": "French statesman",
    "cause": "pointing at his neck seconds before he unexpectedly died from an aneurysm",
    "last_words": "I feel pain here.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Gaulle",
    "died": "9 November 1970"
   }

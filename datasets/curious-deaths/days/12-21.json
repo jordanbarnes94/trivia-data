@@ -9,8 +9,10 @@
    "desc": "Queen of Navarre",
    "cause": null,
    "last_words": "Farewell, and remember me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_of_Valois-Angoulême",
-   "born": "11 April 1492"
+   "born": "11 April 1492",
+   "died": "21 December 1549"
   },
   {
    "year": 1807,
@@ -20,8 +22,10 @@
    "desc": "English Anglican cleric and abolitionist, author of \"Amazing Grace\"",
    "cause": "final recorded words",
    "last_words": "I am satisfied with the Lord's will.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Newton",
-   "born": "24 July 1725"
+   "born": "24 July 1725",
+   "died": "21 December 1807"
   },
   {
    "year": 1866,
@@ -31,8 +35,10 @@
    "desc": "United States Army officer",
    "cause": "prior to death in the Fetterman Fight",
    "last_words": "Give me 80 men and I'll ride through the whole Sioux nation.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_J._Fetterman",
-   "born": null
+   "born": null,
+   "died": "21 December 1866"
   },
   {
    "year": 1940,
@@ -42,8 +48,10 @@
    "desc": "American novelist",
    "cause": "to Sheilah Graham",
    "last_words": "Hershey bars will be good enough – they'll be fine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
-   "born": "24 September 1896"
+   "born": "24 September 1896",
+   "died": "21 December 1940"
   },
   {
    "year": 1945,
@@ -53,8 +61,10 @@
    "desc": "United States Army general",
    "cause": "paralyzed from neck down after automobile collision",
    "last_words": "This is a hell of a way to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_S._Patton",
-   "born": "11 November 1885"
+   "born": "11 November 1885",
+   "died": "21 December 1945"
   },
   {
    "year": 1988,
@@ -64,8 +74,10 @@
    "desc": "pilot of Pan Am Flight 103",
    "cause": "just entered Scottish airspace while turning to oceanic route across the Atlantic Ocean prior it was exploded by a terrorist bombing",
    "last_words": "Clipper one zero three at level three one zero, requesting oceanic clearance.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pan_Am_Flight_103",
-   "born": null
+   "born": null,
+   "died": "21 December 1988"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Archbishop of Canterbury",
    "cause": "to his murderers",
    "last_words": "For the name of Jesus and the protection of the church I am ready to embrace death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Becket",
    "died": "29 December 1170"
   },
@@ -88,6 +101,7 @@
    "desc": "German poet",
    "cause": null,
    "last_words": "I am very ill. Send for Zimmermann. In fact, I think I'll die today.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Christoph_Heinrich_Hölty",
    "died": "1 September 1776"
   },
@@ -99,6 +113,7 @@
    "desc": "Prime Minister of the United Kingdom",
    "cause": "declining a visit from Queen Victoria",
    "last_words": "No, it is better not. She will only ask me to take a message to Albert.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
    "died": "19 April 1881"
   }

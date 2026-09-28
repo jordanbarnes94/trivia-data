@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The Aragonese king died from a combination of indigestion and uncontrollable laughing. According to legend, Martin was suffering from indigestion, caused by eating an entire goose, when his favorite jester, Borra, entered the king's bedroom. When Martin asked Borra where he had been, the jester replied with: \"Out of the next vineyard, where I saw a young deer hanging by his tail from a tree, as if someone had so punished him for stealing figs.\" This joke caused the king to die from laughter.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Aragon",
-   "born": null
+   "born": "29 July 1356",
+   "died": "31 May 1410"
   },
   {
    "year": 1740,
@@ -20,8 +22,10 @@
    "desc": "King in Prussia and Elector of Brandenburg",
    "cause": "in response to priest or family members quoting Job 1:21",
    "last_words": "No, not quite naked. I shall have my uniform on.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William_I_of_Prussia",
-   "born": "14 August 1688"
+   "born": "14 August 1688",
+   "died": "31 May 1740"
   },
   {
    "year": 1809,
@@ -31,8 +35,10 @@
    "desc": "Austrian composer",
    "cause": "playing his own \"Emperor's Hymn\"",
    "last_words": "God preserve the emperor.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Haydn",
-   "born": "31 March 1732"
+   "born": "31 March 1732",
+   "died": "31 May 1809"
   },
   {
    "year": 1922,
@@ -42,8 +48,10 @@
    "desc": "English solicitor",
    "cause": "prior to execution by hanging for the murder of his wife, Katharine Mary Friend Armstrong",
    "last_words": "I am coming, Katie!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Rowse_Armstrong",
-   "born": "13 May 1869"
+   "born": "13 May 1869",
+   "died": "31 May 1922"
   },
   {
    "year": 1996,
@@ -53,8 +61,10 @@
    "desc": "American psychologist and writer",
    "cause": null,
    "last_words": "Why? Why not?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Leary",
-   "born": "22 October 1920"
+   "born": "22 October 1920",
+   "died": "31 May 1996"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "warlord and khan of Mongolia",
    "cause": null,
    "last_words": "Let not my end disarm you, and on no account weep or keen for me, lest the enemy be warned of my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Genghis_Khan",
    "died": "18 August 1227"
   },
@@ -77,6 +88,7 @@
    "desc": "American poet",
    "cause": "to nurse \"Warry\" Fritzinger",
    "last_words": "Warry, shift!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walt_Whitman",
    "died": "26 March 1892"
   },
@@ -88,6 +100,7 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": null,
    "last_words": "Peace, Peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_XI",
    "died": "10 February 1939"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "While in London, the 61-year-old Czech violinist visited a prostitute named Susannah Hill and requested his neck be tied with a noose around a door knob. He died after the sexual intercourse of erotic asphyxiation.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frantisek_Kotzwara",
-   "born": null
+   "born": null,
+   "died": "2 September 1791"
   },
   {
    "year": 1918,
@@ -20,8 +22,10 @@
    "desc": "VC DSO1 MC, British Army officer",
    "cause": "killed in action during World War I",
    "last_words": "Stick it, men; show them fight, and for God's sake put up a good fight.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Annesley_West",
-   "born": "26 September 1878"
+   "born": "26 September 1878",
+   "died": "2 September 1918"
   },
   {
    "year": 1973,
@@ -31,8 +35,10 @@
    "desc": "English writer and academic",
    "cause": "postscript of letter to his daughter Priscilla",
    "last_words": "It is stuffy, sticky, and rainy here at present – but forecasts are more favourable.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/J._R._R._Tolkien",
-   "born": "3 January 1892"
+   "born": "3 January 1892",
+   "died": "2 September 1973"
   },
   {
    "year": 1998,
@@ -42,8 +48,10 @@
    "desc": "pilot of Swissair Flight 111",
    "cause": "as it was diverted to Halifax, Nova Scotia after declaring an emergency following electrical fire before losing control and rapid descent",
    "last_words": "And we are declaring emergency now, Swissair one eleven!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Swissair_Flight_111",
-   "born": null
+   "born": null,
+   "died": "2 September 1998"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English philanthropist and prison reformer",
    "cause": "dying of typhus contracted on a prison visit in Kherson",
    "last_words": "Suffer no pomp at my funeral, nor monumental inscription where I am laid. Lay me quietly in the earth and put a sun-dial over my grave, and let me be forgotten.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Howard_(prison_reformer)",
    "died": "20 January 1790"
   },
@@ -66,6 +75,7 @@
    "desc": "German poet",
    "cause": "referring to a poem for New Year's Day that he had completed on New Year's Eve; he in fact lived 5 more days",
    "last_words": "I shall not in fact see the new year which I have just commemorated.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Georg_Jacobi",
    "died": "4 January 1814"
   },
@@ -77,6 +87,7 @@
    "desc": "American politician and Union colonel of the American Civil War",
    "cause": "before being killed at the Battle of Pleasant Hill",
    "last_words": "Colonel, rally your men and advance as soon as possible.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Benedict",
    "died": "9 April 1864"
   },
@@ -88,6 +99,7 @@
    "desc": "Korean independence fighter and assassin of Ito Hirobumi",
    "cause": "before being executed",
    "last_words": "When the day comes that I hear of Korea's independence in heaven, I will dance and shout 'Hurrah!'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/An_Jung-geun",
    "died": "26 March 1910"
   },
@@ -99,6 +111,7 @@
    "desc": "American murderer",
    "cause": "prior to execution by lethal injection for killing her two young children",
    "last_words": "There is no way words can express how sorry I am for taking the lives of my babies. Now I can be with my babies, as I always intended. I love you my babies.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Marie_Riggs",
    "died": "2 May 2000"
   }

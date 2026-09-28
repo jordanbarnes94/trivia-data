@@ -9,8 +9,10 @@
    "desc": "Anglican Lord Bishop of Kilmore",
    "cause": "dying from exposure after being imprisoned and tortured by rebels",
    "last_words": "I have kept the faith once given to the saints; for the which cause I have also suffered these things; but I am not ashamed, for I know whom I have believed, and I am persuaded that He is able to keep that which I have committed to Him against that day.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Bedell",
-   "born": null
+   "born": "22 September 1571",
+   "died": "7 February 1642"
   },
   {
    "year": 1878,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Guard the Church I loved so well and sacredly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_IX",
-   "born": "13 May 1792"
+   "born": "13 May 1792",
+   "died": "7 February 1878"
   },
   {
    "year": 1966,
@@ -31,8 +35,10 @@
    "desc": "United States Army officer and Medal of Honor recipient",
    "cause": "killed while destroying enemy bunkers during the Vietnam War",
    "last_words": "It's the best I can do.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_A._Gardner",
-   "born": "7 February 1943"
+   "born": "7 February 1943",
+   "died": "7 February 1966"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Lord High Chancellor of Britain",
    "cause": "prior to beheading for treason",
    "last_words": "I die the King's good servant, and God's first.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_More",
    "died": "6 July 1535"
   },
@@ -55,6 +62,7 @@
    "desc": "Swiss painter, draughtsman and writer on art",
    "cause": "anticipating the arrival of a friend",
    "last_words": "Is Lawrence come-is Lawrence come?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Fuseli",
    "died": "17 April 1825"
   },
@@ -66,6 +74,7 @@
    "desc": "English novelist",
    "cause": "to his sister-in-law Georgina Hogarth, who had suggested he lie down after he suffered a stroke",
    "last_words": "Yes. On the ground.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens",
    "died": "9 June 1870"
   },
@@ -77,6 +86,7 @@
    "desc": "Austrian psychotherapist",
    "cause": "mumbling his son's name after collapsing on the street",
    "last_words": "Kurt.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Adler",
    "died": "28 May 1937"
   }

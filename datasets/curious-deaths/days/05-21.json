@@ -9,8 +9,10 @@
    "desc": "Spanish explorer and conquistador",
    "cause": "naming his successor",
    "last_words": "Luis de Moscoso.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hernando_de_Soto",
-   "born": null
+   "born": null,
+   "died": "21 May 1542"
   },
   {
    "year": 1650,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "prior to execution by hanging, beheading and quartering",
    "last_words": "The covenant which I took, I own it and adhere to it. Bishops, I do not care for them. I never intended to advance their interests.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Graham,_1st_Marquess_of_Montrose",
-   "born": "25 October 1612"
+   "born": "25 October 1612",
+   "died": "21 May 1650"
   },
   {
    "year": 1690,
@@ -31,8 +35,10 @@
    "desc": "Puritan missionary to the American Indians, founder of Roxbury Latin School",
    "cause": null,
    "last_words": "O, come in glory! I have long waited for Thy coming. Let no dark cloud rest on the work of the Indians. Let it live when I am dead. Welcome joy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Eliot_(missionary)",
-   "born": "5 August 1604"
+   "born": "5 August 1604",
+   "died": "21 May 1690"
   },
   {
    "year": 1935,
@@ -42,8 +48,10 @@
    "desc": "American settlement and temperance activist, social worker and author",
    "cause": "when her physician asked if she wanted some water",
    "last_words": "Always, always. Water for me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Addams",
-   "born": "6 September 1860"
+   "born": "6 September 1860",
+   "died": "21 May 1935"
   },
   {
    "year": 1985,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 17-year-old, from Piscataway, New Jersey, was electrocuted during a thunderstorm when a lightning strike caused an electrical surge to shoot through the wire of a telephone the boy was holding and enter his left ear, causing his heart to stop beating.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "21 May 1985"
   },
   {
    "year": 1991,
@@ -64,8 +74,10 @@
    "desc": "former Prime Minister of India",
    "cause": "spoken to a policewoman at his assassination",
    "last_words": "Don't worry. Relax.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rajiv_Gandhi",
-   "born": "20 August 1944"
+   "born": "20 August 1944",
+   "died": "21 May 1991"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I am dying, sir, of a hundred good symptoms.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pope",
    "died": "30 May 1744"
   },
@@ -88,6 +101,7 @@
    "desc": "member of Barrow Gang",
    "cause": "before dying in the electric chair",
    "last_words": "Well, goodbye all",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Hamilton",
    "died": "10 May 1935"
   }

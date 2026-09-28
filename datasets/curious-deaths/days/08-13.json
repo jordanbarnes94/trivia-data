@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The pious schoolteacher was sentenced to death by Julian the Apostate and was handed over to his pupils to carry out the deed, which they did by binding him to a stake and stabbing him with their pens.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cassian_of_Imola",
-   "born": null
+   "born": null,
+   "died": "13 August 363"
   },
   {
    "year": 1667,
@@ -20,8 +22,10 @@
    "desc": "Anglican divine",
    "cause": null,
    "last_words": "My trust is in God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Taylor",
-   "born": "15 August 1613"
+   "born": "15 August 1613",
+   "died": "13 August 1667"
   },
   {
    "year": 1831,
@@ -31,8 +35,10 @@
    "desc": "Welsh laborer and coal miner",
    "cause": "prior to execution by hanging for the non-fatal stabbing of a soldier during the Merthyr Rising. Another man confessed to the stabbing on his deathbed in 1874",
    "last_words": "Oh God, what an injustice.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dic_Penderyn",
-   "born": null
+   "born": null,
+   "died": "13 August 1831"
   },
   {
    "year": 1946,
@@ -42,8 +48,10 @@
    "desc": "English author and futurist",
    "cause": null,
    "last_words": "Go away. I'm all right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/H._G._Wells",
-   "born": "21 September 1866"
+   "born": "21 September 1866",
+   "died": "13 August 1946"
   },
   {
    "year": 1958,
@@ -53,8 +61,10 @@
    "desc": "American cartoonist, creator of Plastic Man",
    "cause": "in his suicide note to Hugh Hefner",
    "last_words": "Dear Hef, When you read this I shall be dead. I cannot go on living with myself and hurting those dear to me. What I do has nothing to do with you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Cole_(artist)",
-   "born": "14 December 1914"
+   "born": "14 December 1914",
+   "died": "13 August 1958"
   },
   {
    "year": 1965,
@@ -64,8 +74,10 @@
    "desc": "former Prime Minister of Japan",
    "cause": "a message to Kakuei Tanaka, former Secretary General of Liberal Democratic Party (Japan)",
    "last_words": "″Front, your time and Kakuei Tanaka's era will come eventually. Politics must not be pampering to the people. I'll leave the rest to you.″",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hayato_Ikeda",
-   "born": "3 December 1899"
+   "born": "3 December 1899",
+   "died": "13 August 1965"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "KBE, English filmmaker",
    "cause": null,
    "last_words": "One never knows the ending. One has to die to know exactly what happens after death, although Catholics have their hopes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Hitchcock",
    "died": "29 April 1980"
   },
@@ -88,6 +101,7 @@
    "desc": "Canadian American ice hockey player",
    "cause": "after sustaining fatal head injury in NHL game",
    "last_words": "Never again, never again.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Masterton",
    "died": "15 January 1968"
   }

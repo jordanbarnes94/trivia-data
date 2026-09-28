@@ -9,8 +9,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Let me die to the sound of sweet music.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leopold_I,_Holy_Roman_Emperor",
-   "born": "9 June 1640"
+   "born": "9 June 1640",
+   "died": "5 May 1705"
   },
   {
    "year": 1821,
@@ -20,8 +22,10 @@
    "desc": "emperor of the French",
    "cause": null,
    "last_words": "France, the army, the head of the army, Joséphine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Napoleon",
-   "born": "15 August 1769"
+   "born": "15 August 1769",
+   "died": "5 May 1821"
   },
   {
    "year": 1913,
@@ -31,8 +35,10 @@
    "desc": "Sri Lankan murderer",
    "cause": "prior to execution by hanging at Boggo Road Gaol in Brisbane, Australia",
    "last_words": "Goodbye, gentlemen, I am going now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_legally_executed_in_Queensland",
-   "born": null
+   "born": null,
+   "died": "5 May 1913"
   },
   {
    "year": 1919,
@@ -42,8 +48,10 @@
    "desc": "American author",
    "cause": "referring to a fictional location in his Oz books",
    "last_words": "Now we can cross the Shifting Sands together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/L._Frank_Baum",
-   "born": "15 May 1856"
+   "born": "15 May 1856",
+   "died": "5 May 1919"
   },
   {
    "year": 1968,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 62-year-old American actor and politician was found dead kneeling naked in his bathtub with a noose wrapped around his neck, a dirty hypodermic needle in each arm, a scarf over his eyes, a ball in his mouth secured to his head with wire, his wrists in handcuffs, and leather belts and thongs around his torso, one of them tied to a rope around Dekker's ankles. There were vulgar phrases and drawings in lipstick all over his body. His death was ruled an accidental case of erotic asphyxiation.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Dekker",
-   "born": "20 December 1905"
+   "born": "20 December 1905",
+   "died": "5 May 1968"
   },
   {
    "year": 1981,
@@ -64,8 +74,10 @@
    "desc": "Provisional Irish Republican Army volunteer and British Member of Parliament",
    "cause": "final diary entry during hunger strike",
    "last_words": "The day will dawn when all the people will have the desire for freedom ... And it's then that we'll see the rising of the moon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Sands",
-   "born": "9 March 1954"
+   "born": "9 March 1954",
+   "died": "5 May 1981"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Queen of England",
    "cause": "prior to her execution by beheading",
    "last_words": "Oh God, have pity on my soul. Oh God, have pity on my soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Boleyn",
    "died": "19 May 1536"
   },
@@ -88,6 +101,7 @@
    "desc": "political theorist",
    "cause": "when asked by his housekeeper about his last words",
    "last_words": "Go on, get out! Last words are for fools who haven't said enough!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Marx",
    "died": "14 March 1883"
   },
@@ -99,6 +113,7 @@
    "desc": "assassin of U.S. President William McKinley",
    "cause": "prior to execution by electrocution",
    "last_words": "I killed the President because he was the enemy of the good people-the good working people. I am not sorry for my crime. I am sorry I could not see my father.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leon_Czolgosz",
    "died": "29 October 1901"
   },
@@ -110,6 +125,7 @@
    "desc": "American chef and cookbook author",
    "cause": "no longer able to speak",
    "last_words": "I can't anymore.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Beard",
    "died": "23 January 1985"
   },
@@ -121,6 +137,7 @@
    "desc": "American astronaut",
    "cause": "prior to crash of North American X-15 spaceplane",
    "last_words": "I'm in a spin.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_J._Adams",
    "died": "15 November 1967"
   },
@@ -132,6 +149,7 @@
    "desc": "American lifeguard and surfer",
    "cause": "leaving voyaging canoe Hōkūleʻa after it began leaking to paddle to shore for help. The rest of the canoe's crew were rescued",
    "last_words": "Don't worry, I can do it. I can get to land.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Aikau",
    "died": "17 March 1978"
   },
@@ -143,6 +161,7 @@
    "desc": "seven-year-old American pilot trainee",
    "cause": "before dying in an aircraft crash. Pilots at the airport later testified that the weather was unsuitable for flight",
    "last_words": "Mom, do you hear the rain? Do you hear the rain? Mom, I just want to take off in the plane.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jessica_Dubroff",
    "died": "11 April 1996"
   }

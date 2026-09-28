@@ -9,8 +9,10 @@
    "desc": "Japanese general",
    "cause": "a word of surrender for Satsuma Rebellion",
    "last_words": "I'm fine here now",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Takamori_Saigo",
-   "born": "23 January 1828"
+   "born": "23 January 1828",
+   "died": "24 September 1877"
   },
   {
    "year": 1911,
@@ -20,8 +22,10 @@
    "desc": "assassin of Russian Prime Minister Pyotr Stolypin",
    "cause": "to his executioner prior to hanging",
    "last_words": "Should I lift my head a bit?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Bogrov",
-   "born": "29 January 1887"
+   "born": "29 January 1887",
+   "died": "24 September 1911"
   },
   {
    "year": 1991,
@@ -31,8 +35,10 @@
    "desc": "American children's author, political cartoonist, illustrator, poet, animator, and filmmaker",
    "cause": null,
    "last_words": "Yes. I'm not going to die tomorrow.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dr._Seuss",
-   "born": "2 March 1904"
+   "born": "2 March 1904",
+   "died": "24 September 1991"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Roman emperor",
    "cause": "prior to his killing on the Gemonian stairs",
    "last_words": "And yet I was once our emperor.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vitellius",
    "died": "22 December 69"
   },
@@ -55,6 +62,7 @@
    "desc": "English evangelical Anglican clergyman",
    "cause": null,
    "last_words": "What do you think especially gives me comfort at this time? The creation! I ask myself, 'Did Jehovah create the world or did I?' He did! Now if He made the world and all the rolling spheres of the universe, He certainly can take care of me. Into Jesus' hands I can safely commit my spirit!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Simeon",
    "died": "13 November 1836"
   },
@@ -66,6 +74,7 @@
    "desc": "American novelist",
    "cause": "to Sheilah Graham",
    "last_words": "Hershey bars will be good enough – they'll be fine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/F._Scott_Fitzgerald",
    "died": "21 December 1940"
   },
@@ -77,6 +86,7 @@
    "desc": "American puppeteer",
    "cause": "to his ex-wife Jane",
    "last_words": "See you later, I feel like I'm in good hands.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Henson",
    "died": "16 May 1990"
   },
@@ -88,6 +98,7 @@
    "desc": "Canadian-American actor, comedian, screenwriter, and graphic designer",
    "cause": "a note that he had left behind for his wife hours before she would murder him",
    "last_words": "I'm going out for the night. I'll be back-Phil. Love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Hartman",
    "died": "28 May 1998"
   }

@@ -4,24 +4,41 @@
   {
    "year": -30,
    "year_label": "30 BC",
-   "name": "Cleopatra",
-   "kind": "individual",
-   "desc": "pharaoh of Egypt",
-   "cause": "right before she reportedly committed suicide by letting an asp bite her",
-   "last_words": "Here thou art, then!",
-   "wikipedia": "https://en.wikipedia.org/wiki/Cleopatra",
-   "born": "13 January 69 BC"
-  },
-  {
-   "year": -30,
-   "year_label": "30 BC",
    "name": "Charmion",
    "kind": "individual",
    "desc": "servant to Cleopatra",
    "cause": "when one of Emperor Augustus' men asked her, \"Was this well done of your lady, Charmion?\" She then fell dead",
    "last_words": "Extremely well, and as became the descendant of so many kings.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charmion_(servant_to_Cleopatra)",
-   "born": null
+   "born": null,
+   "died": "12 August 30 BC"
+  },
+  {
+   "year": -30,
+   "year_label": "30 BC",
+   "name": "Cleopatra",
+   "kind": "individual",
+   "desc": "pharaoh of Egypt",
+   "cause": "right before she reportedly committed suicide by letting an asp bite her",
+   "last_words": "Here thou art, then!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cleopatra",
+   "born": "13 January 69 BC",
+   "died": "12 August 30 BC"
+  },
+  {
+   "year": -30,
+   "year_label": "30 BC",
+   "name": "Cleopatra, Iras, and Charmion",
+   "kind": "group",
+   "desc": null,
+   "cause": "Although there exist several accounts of how the 39-year-old last queen of the Ptolemaic Kingdom died, the most widespread one is that she killed herself with an asp (a viper), alongside two of her handmaidens.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Death_of_Cleopatra",
+   "born": null,
+   "died": "12 August 30 BC"
   },
   {
    "year": 1822,
@@ -31,8 +48,10 @@
    "desc": "Anglo-Irish statesman",
    "cause": "to his personal physician, Dr. Charles Bankhead, after cutting his throat",
    "last_words": "Bankhead, let me fall into your arms. It is all over.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Stewart,_Viscount_Castlereagh",
-   "born": "18 June 1769"
+   "born": "18 June 1769",
+   "died": "12 August 1822"
   },
   {
    "year": 1944,
@@ -42,8 +61,10 @@
    "desc": "United States Navy lieutenant",
    "cause": "radioing code phrase prior to explosion of plane on Operation Aphrodite mission",
    "last_words": "Spade Flush.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_P._Kennedy_Jr.",
-   "born": "25 July 1915"
+   "born": "25 July 1915",
+   "died": "12 August 1944"
   },
   {
    "year": 1964,
@@ -53,8 +74,10 @@
    "desc": "English naval intelligence officer and novelist",
    "cause": "to ambulance crew",
    "last_words": "I am sorry to trouble you chaps. I don't know how you get along so fast with the traffic on the road these days.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ian_Fleming",
-   "born": "28 May 1908"
+   "born": "28 May 1908",
+   "died": "12 August 1964"
   },
   {
    "year": 1985,
@@ -64,8 +87,10 @@
    "desc": null,
    "cause": "pilot of Japan Air Lines Flight 123, just before the Boeing 747 crashed into a mountain",
    "last_words": "It's... the end!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123",
-   "born": null
+   "born": null,
+   "died": "12 August 1985"
   },
   {
    "year": 2000,
@@ -75,8 +100,10 @@
    "desc": "Russian Navy officer",
    "cause": "final note written before dying aboard sunken submarine Kursk",
    "last_words": "It seems that there are no chances. Maybe 10 or 20 percent.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Kolesnikov",
-   "born": null
+   "born": null,
+   "died": "12 August 2000"
   }
  ],
  "born": [
@@ -88,6 +115,7 @@
    "desc": "King of the United Kingdom of Great Britain and Ireland",
    "cause": null,
    "last_words": "O God! I am dying.\" (To his physician) \"This is death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_IV",
    "died": "26 June 1830"
   },
@@ -99,6 +127,7 @@
    "desc": "English poet and author",
    "cause": null,
    "last_words": "What a life!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Radclyffe_Hall",
    "died": "7 October 1943"
   }

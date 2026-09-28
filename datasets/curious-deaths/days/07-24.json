@@ -9,8 +9,10 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "There is but one reliance.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
-   "born": "5 December 1782"
+   "born": "5 December 1782",
+   "died": "24 July 1862"
   },
   {
    "year": 1927,
@@ -20,8 +22,10 @@
    "desc": "Japanese writer",
    "cause": "excerpt from his suicide note",
    "last_words": "Probably no one who attempts suicide-is fully aware of all his motives, which are usually too complex. At least in my case it is prompted by a vague sense of anxiety-about my own future. - As for my vague sense of anxiety about my own future, I think I analyzed it all in 'A Fool's Life,' except for a social factor, namely the shadow of feudalism cast over my life. This I omitted purposely, not at all certain that I could really clarify the social context in which I lived. - P.S. Reading a life of Empedocles, I felt how old is this desire to make a god of oneself. This letter, so far as I am conscious, never attempts this. On the contrary, I consider myself one of the most common humans. You may recall those days of twenty years ago when we discussed 'Empedocles on Etna'-under the linden trees. In those days I was one who wished to make a god of myself.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ryūnosuke_Akutagawa",
-   "born": "1 March 1892"
+   "born": "1 March 1892",
+   "died": "24 July 1927"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "Queen of Sweden",
    "cause": null,
    "last_words": "Pray [to] God for me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louisa_Ulrika_of_Prussia",
    "died": "16 July 1782"
   },
@@ -44,6 +49,7 @@
    "desc": "English Anglican cleric and abolitionist, author of \"Amazing Grace\"",
    "cause": "final recorded words",
    "last_words": "I am satisfied with the Lord's will.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Newton",
    "died": "21 December 1807"
   },
@@ -55,6 +61,7 @@
    "desc": "Irish orator, politician and wit",
    "cause": "when his doctor said he was coughing \"with more difficulty\"",
    "last_words": "That is surprising, since I have been practicing all night.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Philpot_Curran",
    "died": "14 October 1817"
   },
@@ -66,6 +73,7 @@
    "desc": "French criminal turned criminalist",
    "cause": null,
    "last_words": "How great is the forgiveness for such a life!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eugène_François_Vidocq",
    "died": "11 May 1857"
   },
@@ -77,6 +85,7 @@
    "desc": "2nd president of Paraguay",
    "cause": "after his last stand in the Battle of Cerro Corá",
    "last_words": "I die for my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_Solano_López",
    "died": "1 March 1870"
   },
@@ -88,8 +97,9 @@
    "desc": "American aviation pioneer",
    "cause": "reporting to her headquarters in her last known radio transmission shortly before her disappearance",
    "last_words": "We are running on line north and south.",
+   "date_kind": "last_words",
    "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Earhart",
-   "died": "2 July 1937"
+   "died": "5 January 1939"
   }
  ]
 }

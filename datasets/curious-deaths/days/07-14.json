@@ -9,8 +9,10 @@
    "desc": "French woman of letters and political theorist",
    "cause": null,
    "last_words": "I have loved God, my father, and liberty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Germaine_de_Staël",
-   "born": "22 April 1766"
+   "born": "22 April 1766",
+   "died": "14 July 1817"
   },
   {
    "year": 1850,
@@ -20,8 +22,10 @@
    "desc": "German theologian and church historian",
    "cause": null,
    "last_words": "I am weary; I will now go to sleep. Good night!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/August_Neander",
-   "born": "17 January 1789"
+   "born": "17 January 1789",
+   "died": "14 July 1850"
   },
   {
    "year": 1881,
@@ -31,8 +35,10 @@
    "desc": "American outlaw and gunfighter",
    "cause": "entering a dark bedroom whereupon sheriff Pat Garrett shot him after recognizing his voice",
    "last_words": "Who is it? Who is it?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Billy_the_Kid",
-   "born": "23 November 1859"
+   "born": "23 November 1859",
+   "died": "14 July 1881"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Italian cardinal, diplomat and politician",
    "cause": null,
    "last_words": "O, my poor soul, what is to become of thee? Whither wilt thou go?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Mazarin",
    "died": "9 March 1661"
   },
@@ -55,6 +62,7 @@
    "desc": "Austrian general",
    "cause": "writing to his wife",
    "last_words": "Relieved to hear that you feel better. I had a very bad night-am now stronger. Your poor Louis.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_von_Benedek",
    "died": "27 April 1881"
   },
@@ -66,6 +74,7 @@
    "desc": null,
    "cause": "The 62-year-old defrocked Anglican vicar died while re-enacting the story of Daniel in the Lions' Den at a sideshow in Skegness, by entering a cage containing two lions, which then mauled and fatally injured him; his death may have also been contributed to by being accidentally poisoned with insulin by a doctor who wrongly believed Davidson to be a diabetic.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Davidson",
    "died": "30 July 1937"
   },
@@ -77,6 +86,7 @@
    "desc": null,
    "cause": "While the 24-year-old American film actress was on location in San Antonio, Texas filming the American Civil War drama The Warrens of Virginia, a lit match was carelessly tossed by a crew member, which ignited the hoop skirts and ruffles of her Civil War costume. Co-star Wilfred Lytell and a chauffeur were able to extinguish the flames and rush her to a hospital, where she died the following day from her injuries.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Mansfield",
    "died": "30 November 1923"
   }

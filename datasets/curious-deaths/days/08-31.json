@@ -9,8 +9,10 @@
    "desc": "English writer and preacher",
    "cause": null,
    "last_words": "Take me, for I come to Thee.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bunyan",
-   "born": "28 November 1628"
+   "born": "28 November 1628",
+   "died": "31 August 1688"
   },
   {
    "year": 1867,
@@ -20,8 +22,10 @@
    "desc": "French poet",
    "cause": null,
    "last_words": "Holy name!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Baudelaire",
-   "born": "9 April 1821"
+   "born": "9 April 1821",
+   "died": "31 August 1867"
   },
   {
    "year": 1997,
@@ -31,8 +35,10 @@
    "desc": "former princess consort of Charles, Prince of Wales",
    "cause": "shortly after being fatally injured in a car accident",
    "last_words": "My God, what's happened?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",
-   "born": "1 July 1961"
+   "born": "1 July 1961",
+   "died": "31 August 1997"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Roman emperor",
    "cause": "after being fatally stabbed",
    "last_words": "I am still alive!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Caligula",
    "died": "24 January 41"
   },
@@ -55,6 +62,7 @@
    "desc": "American swimming instructor",
    "cause": "after being fatally injured in dive off Brooklyn Bridge; a friend falsely reassured him that the fluid was only brandy",
    "last_words": "Am I spitting blood?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Emmet_Odlum",
    "died": "19 May 1885"
   },
@@ -66,6 +74,7 @@
    "desc": "American author",
    "cause": null,
    "last_words": "It's the most beautiful time in my life – and death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Saroyan",
    "died": "18 May 1981"
   },
@@ -77,6 +86,7 @@
    "desc": "GC, British Army intelligence officer",
    "cause": "abducted and shot to death by the Provisional Irish Republican Army. His last words were addressed to one of his abductors, who posed as a priest in an attempt to gain information through Nairac's confession",
    "last_words": "Bless me, Father, for I have sinned.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Nairac",
    "died": "15 May 1977"
   }

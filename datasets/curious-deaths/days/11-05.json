@@ -9,8 +9,10 @@
    "desc": "Venetian ambassador, librarian and historian",
    "cause": null,
    "last_words": "How beautiful!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Giovan_Battista_Nani",
-   "born": "30 August 1616"
+   "born": "30 August 1616",
+   "died": "5 November 1678"
   },
   {
    "year": 1854,
@@ -20,8 +22,10 @@
    "desc": "British general and diplomat",
    "cause": "prior to his death at the Battle of Inkerman",
    "last_words": "I fear we are in a mess.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Cathcart",
-   "born": "12 May 1794"
+   "born": "12 May 1794",
+   "died": "5 November 1854"
   },
   {
    "year": 1942,
@@ -31,8 +35,10 @@
    "desc": "American entertainer",
    "cause": "referring to his wife",
    "last_words": "Look after Agnes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_M._Cohan",
-   "born": "3 July 1878"
+   "born": "3 July 1878",
+   "died": "5 November 1942"
   },
   {
    "year": 1960,
@@ -42,8 +48,10 @@
    "desc": "American country, honky tonk and rockabilly musician",
    "cause": "to his manager Tillman Franks shortly before he was killed in a car accident",
    "last_words": "Tillman, you know, God has been very good to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Horton",
-   "born": "30 April 1925"
+   "born": "30 April 1925",
+   "died": "5 November 1960"
   },
   {
    "year": 1983,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 34-year-old Norwegian diver was explosively dismembered in a diving bell accident on the North Sea Byford Dolphin drilling rig. Three other divers, 35-year-old Edwin Arthur Coward, 38-year-old Roy P. Lucas and 29-year-old Bjørn Giæver Bergersen, and 32-year-old dive tender William Crammond, were also killed. Crammond opened the clamp before Hellevik could close the chamber door. The nine-atmosphere air pressure explosively decompressed, instantly forcing Hellevik's body through a 60 cm opening, fragmenting it into numerous pieces. The other tender, Martin Saunders, was severely injured.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "5 November 1983"
   },
   {
    "year": 1997,
@@ -64,8 +74,10 @@
    "desc": "Russian-British philosopher",
    "cause": "to a nurse",
    "last_words": "And where do you come from?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaiah_Berlin",
-   "born": "6 June 1909"
+   "born": "6 June 1909",
+   "died": "5 November 1997"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Is not this dying with true courage and true greatness?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie-Caroline_of_Bourbon-Two_Sicilies,_Duchess_of_Berry",
    "died": "16 April 1870"
   },
@@ -88,6 +101,7 @@
    "desc": "American actor and model",
    "cause": "prior to dying by accidental self-inflicted blank cartridge gunshot to the head The 26-year-old American actor died after playing a simulated Russian roulette with a .44 Magnum pistol loaded with blanks. They contained paper wadding and when he pulled the trigger against his temple, the wadding was propelled with a force that broke his skull, causing massive brain bleeding.",
    "last_words": "Can you believe this crap?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jon-Erik_Hexum",
    "died": "18 October 1984"
   }

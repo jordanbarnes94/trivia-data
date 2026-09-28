@@ -9,8 +9,10 @@
    "desc": "English churchman and academic",
    "cause": null,
    "last_words": "He has indeed been a precious Christ to me; and now I feel him to be my rock, my strength, my rest, my hope, my joy, my all in all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Rutherforth",
-   "born": null
+   "born": null,
+   "died": "5 October 1771"
   },
   {
    "year": 1918,
@@ -20,8 +22,10 @@
    "desc": "Canadian-British journalist, art critic and art dealer",
    "cause": "referring to the inscription on John Keats' grave (\"Here lies One Whose Name was writ in Water\")",
    "last_words": "Here lies one whose name was written in hot water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robbie_Ross",
-   "born": "25 May 1869"
+   "born": "25 May 1869",
+   "died": "5 October 1918"
   },
   {
    "year": 1967,
@@ -31,8 +35,10 @@
    "desc": "American astronaut",
    "cause": "prior to unsuccessful ejection from crashing airplane",
    "last_words": "Mayday, Mayday! This is NASA 922, ejecting just off Orlando...I mean Tallahassee!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clifton_Williams",
-   "born": "26 September 1932"
+   "born": "26 September 1932",
+   "died": "5 October 1967"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "American revivalist preacher and theologian",
    "cause": "when someone lamented what his loss would mean to the church and to the College of New Jersey",
    "last_words": "Trust in God and you need not fear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)",
    "died": "22 March 1758"
   },
@@ -55,6 +62,7 @@
    "desc": "French philosopher",
    "cause": null,
    "last_words": "The first step towards philosophy is incredulity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Denis_Diderot",
    "died": "31 July 1784"
   },
@@ -66,6 +74,7 @@
    "desc": "American socialite",
    "cause": "to her daughter, Edith Bouvier Beale, referring to the documentary Grey Gardens",
    "last_words": "There's nothing more to say. It's all in the film.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Ewing_Bouvier_Beale",
    "died": "5 February 1977"
   }

@@ -9,8 +9,10 @@
    "desc": "last Grand Master of the Knights Templar",
    "cause": "before being burned at the stake",
    "last_words": "Pope Clement, Chevalier Guillaume de Nogaret, King Philip! I summon you to the Tribunal of Heaven before the year is out!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jacques_de_Molay",
-   "born": null
+   "born": null,
+   "died": "18 March 1314"
   },
   {
    "year": 1768,
@@ -20,8 +22,10 @@
    "desc": "Anglo-Irish novelist and Anglican cleric",
    "cause": null,
    "last_words": "Now it has come.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Sterne",
-   "born": "24 November 1713"
+   "born": "24 November 1713",
+   "died": "18 March 1768"
   },
   {
    "year": 1882,
@@ -31,8 +35,10 @@
    "desc": "American lawman",
    "cause": "to his brother Wyatt; the brothers had each promised to describe to the other what he saw at the moment of death",
    "last_words": "I can't see a damned thing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Morgan_Earp",
-   "born": "24 April 1851"
+   "born": "24 April 1851",
+   "died": "18 March 1882"
   },
   {
    "year": 1913,
@@ -42,8 +48,10 @@
    "desc": "king of Greece",
    "cause": "shortly before being assassinated",
    "last_words": "Tomorrow, when I pay my formal visit to the dreadnought Goeben, it is the fact that a German battleship is to honor a Greek King here in Salonika that will fill me with happiness and contentment.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_I_of_Greece",
-   "born": "24 December 1845"
+   "born": "24 December 1845",
+   "died": "18 March 1913"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "vice president of the United States",
    "cause": null,
    "last_words": "The South! The poor South! God knows what will become of her.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_C._Calhoun",
    "died": "31 March 1850"
   },
@@ -66,6 +75,7 @@
    "desc": "president of the United States",
    "cause": "to his wife Frances",
    "last_words": "I have tried so hard to do right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Grover_Cleveland",
    "died": "24 June 1908"
   },
@@ -77,6 +87,7 @@
    "desc": "English soldier and poet",
    "cause": "to a soldier under his command before being killed in action during the crossing of the Sambre–Oise Canal in World War I",
    "last_words": "Well done. You are doing that very well, my boy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wilfred_Owen",
    "died": "4 November 1918"
   }

@@ -9,8 +9,10 @@
    "desc": "First Roman Emperor",
    "cause": null,
    "last_words": "Have I played the part well? Then applaud, as I exit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Augustus",
-   "born": "23 September 63 BC"
+   "born": "23 September 63 BC",
+   "died": "19 August 14"
   },
   {
    "year": 1531,
@@ -20,8 +22,10 @@
    "desc": "English Christian martyr",
    "cause": "While he awaited burning for heresy, the friars and people present argued over who was responsible for Bilney's death; the friars threatened to withhold alms from the people if they were blamed",
    "last_words": "I pray you, good people, be not the worse to these men on my account, as though they were the authors of my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Bilney",
-   "born": null
+   "born": null,
+   "died": "19 August 1531"
   },
   {
    "year": 1662,
@@ -31,8 +35,10 @@
    "desc": "French mathematician, physicist and theologian",
    "cause": null,
    "last_words": "My God, forsake me not.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
-   "born": "19 June 1623"
+   "born": "19 June 1623",
+   "died": "19 August 1662"
   },
   {
    "year": 1895,
@@ -42,8 +48,10 @@
    "desc": "American outlaw and gunfighter",
    "cause": "killed in an El Paso saloon by John Selman",
    "last_words": "Four sixes to beat",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wesley_Hardin",
-   "born": "26 May 1853"
+   "born": "26 May 1853",
+   "died": "19 August 1895"
   },
   {
    "year": 1977,
@@ -53,8 +61,10 @@
    "desc": "American actor and comedian",
    "cause": null,
    "last_words": "This is no way to live!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Groucho_Marx",
-   "born": "2 October 1890"
+   "born": "2 October 1890",
+   "died": "19 August 1977"
   },
   {
    "year": 1987,
@@ -64,8 +74,10 @@
    "desc": "perpetrator of the Hungerford massacre",
    "cause": "speaking to police shortly before committing suicide",
    "last_words": "It's funny. I killed all those people, but I haven't the guts to blow my own brains out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Ryan_(mass_murderer)",
-   "born": null
+   "born": null,
+   "died": "19 August 1987"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English writer and politician",
    "cause": "his suicide note, written before drowning himself in the Thames. Joseph Addison was Budgell's cousin",
    "last_words": "What Cato did, and Addison approved, cannot be wrong.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eustace_Budgell",
    "died": "4 May 1737"
   },
@@ -88,6 +101,7 @@
    "desc": "French poet and chansonnier",
    "cause": null,
    "last_words": "My God, my God! Enlighten us. Inspire in a united mankind the love of the good, the love of well being.-To do good, to live for others-that's happiness. Charity, charity, for all the world to be happy. -Widows, small boys-help them.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Jean_de_Béranger",
    "died": "16 July 1857"
   },
@@ -99,6 +113,7 @@
    "desc": "French fashion businesswoman",
    "cause": "to her maid",
    "last_words": "You see, this is how you die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Coco_Chanel",
    "died": "10 January 1971"
   },
@@ -110,6 +125,7 @@
    "desc": "Second World War British fighter ace",
    "cause": "prior to being shot down and killed",
    "last_words": "I've finished a 109-Whoopee!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Dundas_(RAF_officer)",
    "died": "28 November 1940"
   }

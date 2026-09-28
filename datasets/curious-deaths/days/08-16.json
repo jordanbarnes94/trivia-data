@@ -9,8 +9,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Fie on life! Speak no more of it to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Stewart,_Dauphine_of_France",
-   "born": "25 December 1424"
+   "born": "25 December 1424",
+   "died": "16 August 1445"
   },
   {
    "year": 1733,
@@ -20,8 +22,10 @@
    "desc": "English deist author",
    "cause": null,
    "last_words": "O God-if there be a God-I desire Thee to have mercy on me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Tindal",
-   "born": null
+   "born": null,
+   "died": "16 August 1733"
   },
   {
    "year": 1759,
@@ -31,8 +35,10 @@
    "desc": "English philologist and murderer",
    "cause": "when asked if he had anything to say before hanging",
    "last_words": "No.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Aram",
-   "born": null
+   "born": null,
+   "died": "16 August 1759"
   },
   {
    "year": 1780,
@@ -42,8 +48,10 @@
    "desc": "officer in the American War of Independence",
    "cause": "speaking to a British officer after being mortally wounded and captured at the Battle of Camden",
    "last_words": "I thank you, sir, for your generous sympathy, but I die the death I always prayed for, the death of a soldier fighting for the rights of man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_de_Kalb",
-   "born": "19 June 1721"
+   "born": "19 June 1721",
+   "died": "16 August 1780"
   },
   {
    "year": 1948,
@@ -53,8 +61,10 @@
    "desc": "American baseball player",
    "cause": null,
    "last_words": "I'm going over the valley.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Babe_Ruth",
-   "born": "6 February 1895"
+   "born": "6 February 1895",
+   "died": "16 August 1948"
   },
   {
    "year": 1977,
@@ -64,8 +74,10 @@
    "desc": "American musician",
    "cause": "shortly before being found dead on the bathroom floor",
    "last_words": "I'm going to the bathroom to read.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley",
-   "born": "8 January 1935"
+   "born": "8 January 1935",
+   "died": "16 August 1977"
   }
  ],
  "born": []

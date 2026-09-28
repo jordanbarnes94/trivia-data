@@ -9,8 +9,10 @@
    "desc": "sister of Louis XVI",
    "cause": "when her fichu fell from her neck prior to her execution by guillotine",
    "last_words": "I pray you, gentlemen, in the name of modesty, suffer me to cover my bosom.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Élisabeth_of_France",
-   "born": "3 May 1764"
+   "born": "3 May 1764",
+   "died": "10 May 1794"
   },
   {
    "year": 1860,
@@ -20,8 +22,10 @@
    "desc": "American transcendentalist, Unitarian minister and abolitionist",
    "cause": "referring to notables who would attend his funeral",
    "last_words": "It is all one, Phillips and Clarke will come for my sake.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Parker",
-   "born": "24 August 1810"
+   "born": "24 August 1810",
+   "died": "10 May 1860"
   },
   {
    "year": 1863,
@@ -31,8 +35,10 @@
    "desc": "American and Confederate soldier and general of the American Civil War",
    "cause": "dying of pneumonia after being wounded by friendly fire",
    "last_words": "Order A.P. Hill to prepare for action! Pass the infantry to the front rapidly! Tell Major Hawks.... Let us cross over the river and rest under the shade of the trees.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_Jackson",
-   "born": "21 January 1824"
+   "born": "21 January 1824",
+   "died": "10 May 1863"
   },
   {
    "year": 1935,
@@ -42,8 +48,10 @@
    "desc": "member of Barrow Gang",
    "cause": "before dying in the electric chair",
    "last_words": "Well, goodbye all",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Hamilton",
-   "born": "21 May 1913"
+   "born": "21 May 1913",
+   "died": "10 May 1935"
   },
   {
    "year": 1994,
@@ -53,8 +61,10 @@
    "desc": "American serial killer and sex offender",
    "cause": "prior to execution by lethal injection",
    "last_words": "Kiss my ass.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wayne_Gacy",
-   "born": "17 March 1942"
+   "born": "17 March 1942",
+   "died": "10 May 1994"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "French politician and leader of the Royalist Vendéan insurrection",
    "cause": "mortally wounded at the Second Battle of Cholet. He was ordering the pardon of five thousand Republican prisoners whom his troops intended to kill",
    "last_words": "Pardon for the prisoners, Bonchamps commands it!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Bonchamps",
    "died": "18 October 1793"
   },
@@ -77,6 +88,7 @@
    "desc": "American actor and assassin of Abraham Lincoln",
    "cause": "after being fatally shot by Boston Corbett",
    "last_words": "Tell mother, tell mother, I died for my country...useless...useless...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
    "died": "26 April 1865"
   },
@@ -88,6 +100,7 @@
    "desc": "Swiss Reformed theologian",
    "cause": "over the telephone to his friend Eduard Thurneysen",
    "last_words": "God sits in the regiments! That is why I am not afraid. Stay confident in also the darkest moments! Let us hope not fall, the hope for all people, for all the peoples of the world. God let us not fall, not a single one of us and all of us together. It is governed.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Barth",
    "died": "10 December 1968"
   },
@@ -99,6 +112,7 @@
    "desc": "German Generaloberst",
    "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
    "last_words": "My greetings to you, my Germany.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Jodl",
    "died": "16 October 1946"
   },
@@ -110,6 +124,7 @@
    "desc": "former heir apparent to the throne of Spain",
    "cause": "dying of internal bleeding after car accident in Miami, Florida",
    "last_words": "¡Mi madre! ¡Mi madre! Where is my mother? I'm all alone in this country. Don't leave me, Jack.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfonso,_Prince_of_Asturias_(1907–1938)",
    "died": "6 September 1938"
   }

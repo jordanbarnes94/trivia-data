@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The 28-year-old wife of Robert Dudley, Earl of Leicester was found dead by a staircase with two wounds on her head and a broken neck. Theories suggest she threw herself down the stairs.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Amy_Robsart",
-   "born": "7 June 1532"
+   "born": "7 June 1532",
+   "died": "8 September 1560"
   },
   {
    "year": 1944,
@@ -20,8 +22,10 @@
    "desc": "German progressive educator and resistance fighter",
    "cause": "before her execution by the Nazi regime",
    "last_words": "Put an end, Lord, to all our sufferings.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elisabeth_von_Thadden",
-   "born": "29 July 1890"
+   "born": "29 July 1890",
+   "died": "8 September 1944"
   },
   {
    "year": 1949,
@@ -31,8 +35,10 @@
    "desc": "German composer and conductor",
    "cause": "holding a copy of Mozart's Clarinet Concerto",
    "last_words": "I would give anything just to have written this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Strauss",
-   "born": "11 June 1864"
+   "born": "11 June 1864",
+   "died": "8 September 1949"
   },
   {
    "year": 1963,
@@ -42,8 +48,10 @@
    "desc": "Kansas City Chiefs running back",
    "cause": "after suffering fractured vertebra in neck during kickoff return on 30 August 1963",
    "last_words": "Oh my God, oh my God! Where's my head, where's my head?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stone_Johnson",
-   "born": "26 April 1940"
+   "born": "26 April 1940",
+   "died": "8 September 1963"
   },
   {
    "year": 1970,
@@ -53,8 +61,10 @@
    "desc": "United States Air Force pilot",
    "cause": "prior to his BAC Lightning crashing into the North Sea; some commentators would allege that a UFO was involved in the incident",
    "last_words": "Roger.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Schaffner",
-   "born": "11 September 1941"
+   "born": "11 September 1941",
+   "died": "8 September 1970"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": "with reference to the young man who had mortally wounded him with a crossbow",
    "last_words": "Youth, I forgive thee! Take off his chains, give him 100 shillings, and let him go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_I_of_England",
    "died": "6 April 1199"
   },
@@ -77,6 +88,7 @@
    "desc": "Italian poet",
    "cause": null,
    "last_words": "This is not my home.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludovico_Ariosto",
    "died": "6 July 1533"
   },
@@ -88,6 +100,7 @@
    "desc": "Abbess of the Abbey of Port-Royal",
    "cause": null,
    "last_words": "Jesus, oh Jesus, you are my God, my justice, my strength, my all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Angélique_Arnauld",
    "died": "6 August 1661"
   },
@@ -99,19 +112,9 @@
    "desc": "confidante of Marie Antoinette",
    "cause": "upon seeing bloody corpses in the courtyard where she was then murdered",
    "last_words": "Fi horreur!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Thérèse_Louise_of_Savoy,_Princesse_de_Lamballe",
    "died": "3 September 1792"
-  },
-  {
-   "year": 1841,
-   "year_label": "1841",
-   "name": "Charles J. Guiteau",
-   "kind": "individual",
-   "desc": "assassin of President James A. Garfield",
-   "cause": "at the conclusion of reading his poem \"I am Going to the Lordy\" prior to his hanging",
-   "last_words": "Glory hallelujah! I am going to the Lordy! I come! Ready! Go!",
-   "wikipedia": "https://en.wikipedia.org/wiki/Charles_J._Guiteau",
-   "died": "30 June 1882"
   },
   {
    "year": 1841,
@@ -121,8 +124,21 @@
    "desc": "Czech composer",
    "cause": null,
    "last_words": "I feel a bit dizzy, I think I'll go and lie down.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Antonín_Dvořák",
    "died": "1 May 1904"
+  },
+  {
+   "year": 1841,
+   "year_label": "1841",
+   "name": "Charles J. Guiteau",
+   "kind": "individual",
+   "desc": "assassin of President James A. Garfield",
+   "cause": "at the conclusion of reading his poem \"I am Going to the Lordy\" prior to his hanging",
+   "last_words": "Glory hallelujah! I am going to the Lordy! I come! Ready! Go!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Charles_J._Guiteau",
+   "died": "30 June 1882"
   },
   {
    "year": 1873,
@@ -132,6 +148,7 @@
    "desc": "French symbolist writer",
    "cause": null,
    "last_words": "I am dying. Please... bring me a toothpick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Jarry",
    "died": "1 November 1907"
   },
@@ -143,6 +160,7 @@
    "desc": "VC DSO MC, British Army officer",
    "cause": "in response to enemy demand to surrender on the first day of the German spring offensive during World War I",
    "last_words": "Never.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wilfrith_Elstob",
    "died": "21 March 1918"
   }

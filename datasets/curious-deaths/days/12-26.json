@@ -9,8 +9,10 @@
    "desc": "founder of the Mughal Empire and first Emperor of the Mughal dynasty",
    "cause": null,
    "last_words": "I give your brothers to your keeping. Be faithful to them and all the people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Babur",
-   "born": "14 February 1483"
+   "born": "14 February 1483",
+   "died": "26 December 1530"
   },
   {
    "year": 1812,
@@ -20,8 +22,10 @@
    "desc": "Irish actor",
    "cause": "quoting Shakespeare (Measure for Measure, Act 3, Scene 1)",
    "last_words": "Reason thus with life, / If I do lose thee, I do lose a thing / That none but fools would keep.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Moody_(actor)",
-   "born": null
+   "born": null,
+   "died": "26 December 1812"
   },
   {
    "year": 1844,
@@ -31,8 +35,10 @@
    "desc": "Scottish geologist",
    "cause": null,
    "last_words": "Examine it for yourself.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Webster_(geologist)",
-   "born": null
+   "born": null,
+   "died": "26 December 1844"
   },
   {
    "year": 1909,
@@ -42,8 +48,10 @@
    "desc": "American artist",
    "cause": "prior to emergency appendectomy; he subsequently died of peritonitis",
    "last_words": "Cut 'er loose, Doc!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Remington",
-   "born": "4 October 1861"
+   "born": "4 October 1861",
+   "died": "26 December 1909"
   },
   {
    "year": 1996,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 6-year-old winner of multiple child beauty pageants was reported missing by her mother, who found a strange ransom note in her kitchen the morning after Christmas. The girl's body was soon found in her family's home basement with fractured skull, a garrote tied around her neck and evidence of sexual assault. No one was ever arrested or charged in the case, which remains unsolved.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/JonBenét_Patricia_Ramsey",
-   "born": null
+   "born": null,
+   "died": "26 December 1996"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "Molly, I shall die!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gray",
    "died": "30 July 1771"
   },
@@ -77,6 +88,7 @@
    "desc": "Chinese statesman and revolutionary",
    "cause": null,
    "last_words": "I feel ill. Call the doctors.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mao_Zedong",
    "died": "9 September 1976"
   }

@@ -9,8 +9,10 @@
    "desc": "Irish soldier, major general in the Continental Army",
    "cause": "killed at the Battle of Quebec (1775)",
    "last_words": "What news from Boston?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Montgomery",
-   "born": "2 December 1738"
+   "born": "2 December 1738",
+   "died": "31 December 1775"
   },
   {
    "year": 1793,
@@ -20,8 +22,10 @@
    "desc": "French soldier and politician",
    "cause": "prior to execution by guillotine",
    "last_words": "I have been unfaithful to God, to my Order, to my King; I die full of faith and repentance.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Armand_Louis_de_Gontaut",
-   "born": "13 April 1747"
+   "born": "13 April 1747",
+   "died": "31 December 1793"
   },
   {
    "year": 1862,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "The 41-year-old American professional soldier was killed on the first day of the Battle of Stones River when a cannonball decapitated him.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Peter_Garesché",
-   "born": "26 April 1821"
+   "born": "26 April 1821",
+   "died": "31 December 1862"
   },
   {
    "year": 1865,
@@ -42,8 +48,10 @@
    "desc": "Swedish writer and feminist reformer",
    "cause": null,
    "last_words": "Ah! my child, let us speak of Christ's love-the best, the highest love!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Fredrika_Bremer",
-   "born": "17 August 1801"
+   "born": "17 August 1801",
+   "died": "31 December 1865"
   },
   {
    "year": 1872,
@@ -53,8 +61,10 @@
    "desc": "Finnish author and poet",
    "cause": null,
    "last_words": "I live.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aleksis_Kivi",
-   "born": "10 October 1834"
+   "born": "10 October 1834",
+   "died": "31 December 1872"
   },
   {
    "year": 1885,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "The lamplighter in Flatbush, Brooklyn, New York, had attached a 10 lb rock to his alarm clock, which would crash to the floor and awaken him. On Christmas Eve, he rearranged his furniture for a party, but forgot to change his room back afterwards. When the alarm mechanism went off the next morning, the rock fell on his head and killed him.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "31 December 1885"
   },
   {
    "year": 1988,
@@ -75,8 +87,10 @@
    "desc": "American ornithologist",
    "cause": "to his wife",
    "last_words": "I think I'll go now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_L._Austin",
-   "born": "24 May 1903"
+   "born": "24 May 1903",
+   "died": "31 December 1988"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Christian deacon",
    "cause": "while being burned alive on a gridiron",
    "last_words": "I am roasted,-now turn me, and eat me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Saint_Lawrence",
    "died": "10 August 258"
   },
@@ -99,6 +114,7 @@
    "desc": "American singer-songwriter",
    "cause": "asking if he had transmitted a four-digit code properly prior to crash of his experimental Rutan Long-EZ aircraft",
    "last_words": "Do you have it now?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Denver",
    "died": "12 October 1997"
   }

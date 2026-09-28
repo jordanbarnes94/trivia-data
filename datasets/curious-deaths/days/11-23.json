@@ -9,8 +9,10 @@
    "desc": "Mexican Jesuit Catholic priest",
    "cause": "prior to execution by firing squad on false charges of sedition",
    "last_words": "Long live Christ the King!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Pro",
-   "born": "13 January 1891"
+   "born": "13 January 1891",
+   "died": "23 November 1927"
   },
   {
    "year": 1983,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The bouncer at the Condor Club in San Francisco died while engaging in sexual intercourse with his girlfriend, Theresa Hill, on a grand piano that was lowered from the ceiling by a hydraulic motor. He accidentally activated the lifting mechanism which pinned him against the ceiling, leading to his suffocation. Hill survived the accident.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Ferrozzo",
-   "born": null
+   "born": null,
+   "died": "23 November 1983"
   },
   {
    "year": 1990,
@@ -31,8 +35,10 @@
    "desc": "British author",
    "cause": "after a nurse pricked him with a needle",
    "last_words": "Ow, fuck!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Roald_Dahl",
-   "born": "13 September 1916"
+   "born": "13 September 1916",
+   "died": "23 November 1990"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "American outlaw and gunfighter",
    "cause": "entering a dark bedroom whereupon sheriff Pat Garrett shot him after recognizing his voice",
    "last_words": "Who is it? Who is it?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Billy_the_Kid",
    "died": "14 July 1881"
   },
@@ -55,6 +62,7 @@
    "desc": "English actor",
    "cause": "before dying of pneumonia",
    "last_words": "Walter Pidgeon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Boris_Karloff",
    "died": "2 February 1969"
   },
@@ -66,6 +74,7 @@
    "desc": "Soviet cosmonaut",
    "cause": "final transmission from Soyuz 11 prior to fatal reentry",
    "last_words": "Prepare cognac, see you tomorrow!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vladislav_Volkov",
    "died": "30 June 1971"
   },
@@ -77,6 +86,7 @@
    "desc": "American double murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "I did not get my Spaghetti-Os. I got spaghetti. I want the press to know this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_J._Grasso",
    "died": "20 March 1995"
   }

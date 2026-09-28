@@ -2,6 +2,19 @@
  "date": "02-23",
  "died": [
   {
+   "year": 155,
+   "year_label": "155",
+   "name": "Polycarp",
+   "kind": "individual",
+   "desc": null,
+   "cause": "prior to martyrdom by burning and spearing",
+   "last_words": "O Lord God Almighty, Father of Thy well-beloved Son, Jesus Christ, by whom we have received knowledge of Thee; God of angels, powers, and every creature that lives before Thee; I thank Thee that Thou hast graciously thought me worthy of this day and hour, that I may receive a portion in the number of Thy martyrs, and drink of Christ's cup, for the resurrection of both soul and body unto life eternal, in the incorruptibleness of the Holy Spirit. Among them may I be admitted this day, as an acceptable sacrifice, as Thou, O true and faithful God, hast prepared, foreshown, and accomplished. Wherefore, I praise Thee for all Thy mercies. I bless Thee. I glorify Thee, with Jesus Christ, Thy beloved Son, the Eternal, to Whom, with Thee and the Holy Spirit, be glory now and forever.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Polycarp",
+   "born": null,
+   "died": "23 February 155"
+  },
+  {
    "year": 1766,
    "year_label": "1766",
    "name": "Stanisław Leszczyński",
@@ -9,8 +22,10 @@
    "desc": null,
    "cause": "The duke of Lorraine and former king of Poland died from wounds after his silk attire had caught fire from a spark while he was sitting near the fireplace in his Château de Lunéville.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stanisław_Leszczyński",
-   "born": "20 October 1677"
+   "born": "20 October 1677",
+   "died": "23 February 1766"
   },
   {
    "year": 1792,
@@ -20,8 +35,10 @@
    "desc": "English painter",
    "cause": null,
    "last_words": "I have been fortunate in long good health and constant success, and I ought not to complain. I know that all things on earth must have an end, and now I am come to mine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Reynolds",
-   "born": "16 July 1723"
+   "born": "16 July 1723",
+   "died": "23 February 1792"
   },
   {
    "year": 1821,
@@ -31,8 +48,10 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I can feel the daisies growing over me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Keats",
-   "born": "31 October 1795"
+   "born": "31 October 1795",
+   "died": "23 February 1821"
   },
   {
    "year": 1848,
@@ -42,8 +61,10 @@
    "desc": "president of the United States",
    "cause": "after collapsing in the United States Capitol",
    "last_words": "This is the last of Earth. I am content.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Quincy_Adams",
-   "born": "11 July 1767"
+   "born": "11 July 1767",
+   "died": "23 February 1848"
   },
   {
    "year": 1955,
@@ -53,8 +74,10 @@
    "desc": "French writer and diplomat",
    "cause": null,
    "last_words": "Doctor, do you think it could have been the sausage?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Claudel",
-   "born": "6 August 1868"
+   "born": "6 August 1868",
+   "died": "23 February 1955"
   },
   {
    "year": 1965,
@@ -64,8 +87,10 @@
    "desc": "English actor, member of the duo Laurel and Hardy",
    "cause": "to a nurse",
    "last_words": "I'd rather be skiing than doing this.\" (when asked if he skied) \"No, but I'd rather be doing that than doing this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stan_Laurel",
-   "born": "16 June 1890"
+   "born": "16 June 1890",
+   "died": "23 February 1965"
   },
   {
    "year": 2000,
@@ -75,8 +100,10 @@
    "desc": "American convicted murderer",
    "cause": "before his execution",
    "last_words": "I love my family. I love all my friends and my rabbi",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Melvin_Sims",
-   "born": "5 February 1942"
+   "born": "5 February 1942",
+   "died": "23 February 2000"
   }
  ],
  "born": []

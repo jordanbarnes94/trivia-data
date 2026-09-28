@@ -9,8 +9,10 @@
    "desc": "Dutch statesman",
    "cause": "to his executioner",
    "last_words": "Make it short. Make it short.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johan_van_Oldenbarnevelt",
-   "born": "14 September 1547"
+   "born": "14 September 1547",
+   "died": "13 May 1619"
   },
   {
    "year": 1809,
@@ -20,8 +22,10 @@
    "desc": "Bishop of London and abolitionist",
    "cause": null,
    "last_words": "O, that glorious sun!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Beilby_Porteus",
-   "born": "8 May 1731"
+   "born": "8 May 1731",
+   "died": "13 May 1809"
   },
   {
    "year": 1832,
@@ -31,8 +35,10 @@
    "desc": "French naturalist and zoologist",
    "cause": "to a nurse who was bleeding him",
    "last_words": "Nurse, it was I who discovered leeches have red blood.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Cuvier",
-   "born": "23 August 1769"
+   "born": "23 August 1769",
+   "died": "13 May 1832"
   },
   {
    "year": 1886,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 8-year-old boy from Aroostook County, Maine, died from a hemorrhage after having a live snake pulled out of his mouth. It was speculated the snake had entered his throat after he had \"gone to sleep in some field\".",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "13 May 1886"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "Archduchess of Austria and Queen of Hungary and Croatia",
    "cause": "when her son said, \"Your Majesty cannot be comfortable like that\"",
    "last_words": "No, but comfortable enough to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maria_Theresa",
    "died": "29 November 1780"
   },
@@ -66,6 +75,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Guard the Church I loved so well and sacredly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_IX",
    "died": "7 February 1878"
   },
@@ -77,6 +87,7 @@
    "desc": "English solicitor",
    "cause": "prior to execution by hanging for the murder of his wife, Katharine Mary Friend Armstrong",
    "last_words": "I am coming, Katie!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_Rowse_Armstrong",
    "died": "31 May 1922"
   },
@@ -88,6 +99,7 @@
    "desc": "American cult leader and mass murderer",
    "cause": "speaking to his followers, shortly after they had all been poisoned with cyanide. Jones died of a possibly self-inflicted gunshot wound to the head, while his followers died of cyanide poisoning",
    "last_words": "We didn't commit suicide, we committed an act of revolutionary suicide protesting the conditions of an inhumane world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Jones",
    "died": "18 November 1978"
   }

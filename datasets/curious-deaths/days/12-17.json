@@ -2,6 +2,19 @@
  "date": "12-17",
  "died": [
   {
+   "year": 1692,
+   "year_label": "1692",
+   "name": "Louise-Anastasia Serment",
+   "kind": "individual",
+   "desc": null,
+   "cause": "Quoting the Latin inscription on a Roman piece of amber trapping a bee; 'closed in her nectar, she receives the reward for all her labours'",
+   "last_words": "Nectare clausa suo, / Dignum tantorum pretium tulit illa laborum.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Louise-Anastasia_Serment",
+   "born": null,
+   "died": "17 December 1692"
+  },
+  {
    "year": 1833,
    "year_label": "1833",
    "name": "Kaspar Hauser",
@@ -9,8 +22,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Tired-very tired-a long journey-to take.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kaspar_Hauser",
-   "born": "30 April 1812"
+   "born": "30 April 1812",
+   "died": "17 December 1833"
   },
   {
    "year": 1858,
@@ -20,8 +35,10 @@
    "desc": "American physician, author and violin maker",
    "cause": null,
    "last_words": "If there is a Christian's God, I am not afraid to trust myself in his hands.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_W._Adams",
-   "born": "27 December 1786"
+   "born": "27 December 1786",
+   "died": "17 December 1858"
   },
   {
    "year": 1860,
@@ -31,8 +48,10 @@
    "desc": "Queen of Sweden and Norway",
    "cause": "after collapsing in a staircase of Stockholm Palace",
    "last_words": "I'm choking.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Désirée_Clary",
-   "born": "8 November 1777"
+   "born": "8 November 1777",
+   "died": "17 December 1860"
   },
   {
    "year": 1967,
@@ -42,8 +61,10 @@
    "desc": "17th Prime Minister of Australia",
    "cause": "he would subsequently disappear while swimming at Cheviot Beach, Victoria prior to disappearing while swimming at Cheviot Beach",
    "last_words": "I know this beach like the back of my hand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harold_Holt",
-   "born": "5 August 1908"
+   "born": "5 August 1908",
+   "died": "17 December 1967"
   },
   {
    "year": 1967,
@@ -53,8 +74,10 @@
    "desc": null,
    "cause": "The 59-year-old Prime Minister of Australia disappeared, presumed drowned, while swimming at Cheviot Beach near Portsea, Victoria. He was \"simply one of the number of ordinary Australians who drown each year through poor judgment or bad luck\"; his drowning has been described as \"not unusual\", and as \"an ordinary death, a shockingly banal one that still befalls dozens every summer.\" Holt's disappearance gave rise to a variety of unfounded conspiracy theories.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Disappearance_of_Harold_Holt",
-   "born": null
+   "born": null,
+   "died": "17 December 1967"
   }
  ],
  "born": [
@@ -66,6 +89,7 @@
    "desc": "Attorney General of the United States",
    "cause": "quoting Isaiah 26:3",
    "last_words": "I have peace, perfect peace. 'Thou wilt keep him in perfect peace whose mind is stayed on thee.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin_Butler_(lawyer)",
    "died": "8 November 1858"
   },
@@ -77,6 +101,7 @@
    "desc": "American Quaker poet and abolitionist",
    "cause": "when his niece asked if he knew her",
    "last_words": "I have known thee all the time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Greenleaf_Whittier",
    "died": "7 September 1892"
   },
@@ -88,6 +113,7 @@
    "desc": "American Universalist and Unitarian minister and orator",
    "cause": "when his young son was brought to see him",
    "last_words": "Dear little fellow-he is a beautiful boy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Starr_King",
    "died": "4 March 1864"
   },
@@ -99,8 +125,21 @@
    "desc": "Korean independence activist",
    "cause": "writing in prison before being tortured and beaten to death by Japanese prison officers",
    "last_words": "Even if my fingernails are torn out, my nose and ears are ripped apart, and my legs and arms are crushed, this physical pain does not compare to the pain of losing my nation. My only remorse is not being able to do more than dedicating my life to my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ryu_Gwansun",
    "died": "20 September 1920"
+  },
+  {
+   "year": 1914,
+   "year_label": "1914",
+   "name": "Martha Beck",
+   "kind": "individual",
+   "desc": "American serial killer",
+   "cause": "whispering while being placed in the electric chair",
+   "last_words": "So long.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Fernandez_and_Martha_Beck",
+   "died": "8 March 1951"
   }
  ]
 }

@@ -9,8 +9,10 @@
    "desc": "Moderator of the General Assembly of the Church of Scotland",
    "cause": null,
    "last_words": "Now, God be with you, my dear children; I have breakfasted with you, and shall sup with my Lord Jesus Christ this night.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bruce_of_Kinnaird",
-   "born": null
+   "born": null,
+   "died": "27 July 1631"
   },
   {
    "year": 1675,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "struck by a cannonball at the Battle of Salzbach",
    "last_words": "I did not mean to be killed today.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henri_de_La_Tour_d'Auvergne,_Viscount_of_Turenne",
-   "born": "11 September 1611"
+   "born": "11 September 1611",
+   "died": "27 July 1675"
   },
   {
    "year": 1863,
@@ -31,8 +35,10 @@
    "desc": "Confederate journalist, politician, orator and diplomat",
    "cause": "calling his wife's name",
    "last_words": "Sarah.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Lowndes_Yancey",
-   "born": "10 August 1814"
+   "born": "10 August 1814",
+   "died": "27 July 1863"
   },
   {
    "year": 1895,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The tunnel watchman for the Louisville and Nashville Railroad was killed by a falling cow while working at a south tunnel near Gallatin, Tennessee. An investigation confirmed that the cow was standing on top of the tunnel when it fell off the edge, landing on the watchman, killing him instantly. The cow was also killed from the fall.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "27 July 1895"
   },
   {
    "year": 1918,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 61-year-old author and music critic was sailing in Great South Bay, New York, when he noticed a low-flying seaplane heading toward him. Kobbé attempted to get into the water, but the plane crashed into the mast of Kobbé's boat, splitting his head open.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_Kobbé",
-   "born": "4 March 1857"
+   "born": "4 March 1857",
+   "died": "27 July 1918"
   },
   {
    "year": 1924,
@@ -64,8 +74,10 @@
    "desc": "Italian composer",
    "cause": "to his wife",
    "last_words": "Dear Gerda, I thank you for every day we have been together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ferruccio_Busoni",
-   "born": "1 April 1866"
+   "born": "1 April 1866",
+   "died": "27 July 1924"
   },
   {
    "year": 1946,
@@ -75,8 +87,10 @@
    "desc": "American writer",
    "cause": "addressing her life partner Alice B. Toklas",
    "last_words": "What is the answer? In that case, what is the question?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Stein",
-   "born": "3 February 1874"
+   "born": "3 February 1874",
+   "died": "27 July 1946"
   },
   {
    "year": 1980,
@@ -86,8 +100,10 @@
    "desc": "last Shah of Iran",
    "cause": "before slipping into a coma",
    "last_words": "\"Iran is Iran.\" (repeatedly)",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi",
-   "born": "26 October 1919"
+   "born": "26 October 1919",
+   "died": "27 July 1980"
   },
   {
    "year": 1994,
@@ -97,11 +113,25 @@
    "desc": "South African photojournalist",
    "cause": "in his suicide note, before killing himself from carbon monoxide poisoning",
    "last_words": "I'm really, really sorry. The pain of life overrides the joy to the point that joy does not exist... depressed... without phone... money for rent... money for child support... money for debts... money!!!... I am haunted by the vivid memories of killings & corpses & anger & pain... of starving or wounded children, of trigger-happy madmen, often police, of killer executioners... I have gone to join Ken if I am that lucky.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Carter",
-   "born": "13 September 1960"
+   "born": "13 September 1960",
+   "died": "27 July 1994"
   }
  ],
  "born": [
+  {
+   "year": 1483,
+   "year_label": "1483",
+   "name": "Stephen Gardiner",
+   "kind": "individual",
+   "desc": "English bishop and politician",
+   "cause": null,
+   "last_words": "Like Peter, I have erred, unlike Peter, I have not wept.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Gardiner",
+   "died": "12 November 1555"
+  },
   {
    "year": 1768,
    "year_label": "1768",
@@ -110,6 +140,7 @@
    "desc": null,
    "cause": "prior to execution by guillotine",
    "last_words": "One man have I slain to save a hundred thousand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Corday",
    "died": "17 July 1793"
   },
@@ -121,6 +152,7 @@
    "desc": "Scottish poet",
    "cause": null,
    "last_words": "When I think of the existence which shall commence when the stone is laid over my head, how can literary fame appear to me, to any one, but as nothing? I believe, when I am gone, justice will be done to me in this way - that I was a pure writer. It is an inexpressible comfort, at my time of life, to be able to look back and feel that I have not written one line against religion or virtue.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Campbell_(poet)",
    "died": "15 June 1844"
   }

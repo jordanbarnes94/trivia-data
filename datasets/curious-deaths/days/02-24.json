@@ -9,8 +9,10 @@
    "desc": "Confederate privateer",
    "cause": "hanged as a spy by the Union during the American Civil War",
    "last_words": "I protest against this execution. It is absolute murder-brutal murder. I die in the service and defense of my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Yates_Beall",
-   "born": "1 January 1835"
+   "born": "1 January 1835",
+   "died": "24 February 1865"
   },
   {
    "year": 1873,
@@ -20,8 +22,10 @@
    "desc": "Scottish divine and philanthropist",
    "cause": null,
    "last_words": "Stand up for Jesus in all circumstances.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Guthrie",
-   "born": "12 July 1803"
+   "born": "12 July 1803",
+   "died": "24 February 1873"
   },
   {
    "year": 1874,
@@ -31,8 +35,10 @@
    "desc": "American Lutheran minister, social activist and naturalist",
    "cause": "referring to a relative",
    "last_words": "I love her-I love you all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bachman",
-   "born": "4 February 1790"
+   "born": "4 February 1790",
+   "died": "24 February 1874"
   },
   {
    "year": 1999,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 32-year-old was driving a pick-up truck near Vacaville, California, when a motorist driving the opposite direction collided with a 750 lb cow that had stepped onto the road. The cow was sent airborne and struck the windshield of the pick-up driver, who died from massive head trauma. A third car crashed into the cow carcass, but was unharmed.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "24 February 1999"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": "looking at a crucifix",
    "last_words": "Now, Lord, I go! Ay, Jesus!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
    "died": "21 September 1558"
   },
@@ -66,6 +75,7 @@
    "desc": null,
    "cause": "English actor",
    "last_words": "I could wish this tragic scene were over, but I hope to go through it with becoming dignity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Quin",
    "died": "21 January 1766"
   },
@@ -77,6 +87,7 @@
    "desc": "United States Senator and Union colonel of the American Civil War",
    "cause": "pointing to a Confederate horseman who had been struck by gunfire at the Battle of Ball's Bluff. Baker was then himself shot four times. He was the only sitting United States Senator ever killed in a military engagement",
    "last_words": "See, he falls.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_D._Baker",
    "died": "21 October 1861"
   },
@@ -88,6 +99,7 @@
    "desc": "Italian operatic tenor",
    "cause": "dying of peritonitis",
    "last_words": "Doro, I can't breathe!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Caruso",
    "died": "2 August 1921"
   },
@@ -99,6 +111,7 @@
    "desc": "GC, New Zealand infantry sergeant",
    "cause": "to a soldier who froze with an armed grenade; the grenade exploded as Hudson tried to release it, killing both men",
    "last_words": "Throw it, just throw it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Murray_Hudson",
    "died": "13 February 1974"
   },
@@ -110,6 +123,7 @@
    "desc": "Soviet footballer",
    "cause": "trying to exit a stuck elevator before it began moving, crushing him to death",
    "last_words": "I don't want my jeans to get dirty...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anatoli_Kozhemyakin",
    "died": "13 October 1974"
   }

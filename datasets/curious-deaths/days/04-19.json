@@ -9,8 +9,10 @@
    "desc": "Archbishop of Canterbury",
    "cause": "refusing to pay ransom before being killed by his Danish captors",
    "last_words": "You urge me in vain. I am not the man to provide Christian flesh for pagan teeth to devour, and it would be so acting if I delivered unto you that which the poor have laid by for their subsistence.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ælfheah_of_Canterbury",
-   "born": null
+   "born": null,
+   "died": "19 April 1012"
   },
   {
    "year": 1560,
@@ -20,8 +22,10 @@
    "desc": "German Lutheran reformer",
    "cause": "when asked if he wanted anything",
    "last_words": "Nothing else but heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Melanchthon",
-   "born": "16 February 1497"
+   "born": "16 February 1497",
+   "died": "19 April 1560"
   },
   {
    "year": 1813,
@@ -31,8 +35,10 @@
    "desc": "American physician, signer of the United States Declaration of Independence",
    "cause": "dying of typhus",
    "last_words": "I will not abandon the post which Providence has assigned me; I think it my duty not only to sacrifice my pleasure and repose, but my life, should it be necessary, for the safety of my patients.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Rush",
-   "born": "4 January 1746"
+   "born": "4 January 1746",
+   "died": "19 April 1813"
   },
   {
    "year": 1824,
@@ -42,8 +48,10 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I must sleep now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
-   "born": "22 January 1788"
+   "born": "22 January 1788",
+   "died": "19 April 1824"
   },
   {
    "year": 1881,
@@ -53,8 +61,10 @@
    "desc": "Prime Minister of the United Kingdom",
    "cause": "declining a visit from Queen Victoria",
    "last_words": "No, it is better not. She will only ask me to take a message to Albert.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Disraeli",
-   "born": "21 December 1804"
+   "born": "21 December 1804",
+   "died": "19 April 1881"
   },
   {
    "year": 1882,
@@ -64,8 +74,10 @@
    "desc": "English naturalist and evolutionary",
    "cause": null,
    "last_words": "I am not in the least afraid to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Darwin",
-   "born": "12 February 1809"
+   "born": "12 February 1809",
+   "died": "19 April 1882"
   },
   {
    "year": 1967,
@@ -75,8 +87,10 @@
    "desc": "Chancellor of West Germany",
    "cause": null,
    "last_words": "No reason to weep.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Konrad_Adenauer",
-   "born": "5 January 1876"
+   "born": "5 January 1876",
+   "died": "19 April 1967"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "the captain of LOT Polish Airlines Flight 5055",
    "cause": "to air traffic control as the plane crashed into the ground",
    "last_words": "Goodnight! Goodbye! Bye, we perish!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Zygmunt_Pawlaczyk",
    "died": "9 May 1987"
   },
@@ -99,6 +114,7 @@
    "desc": "Czech-Canadian stuntman",
    "cause": "prior to fatal barrel drop from ceiling of Houston Astrodome",
    "last_words": "I'm ready. It feels good. It's a go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karel_Soucek",
    "died": "20 January 1985"
   }

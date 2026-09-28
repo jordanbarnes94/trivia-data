@@ -9,8 +9,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Lord Jesu!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Alcibiades,_Margrave_of_Brandenburg-Kulmbach",
-   "born": "28 March 1522"
+   "born": "28 March 1522",
+   "died": "8 January 1557"
   },
   {
    "year": 1896,
@@ -20,8 +22,10 @@
    "desc": "French poet",
    "cause": "who spent much of his later life in poverty",
    "last_words": "Don't sole the dead man's shoes yet!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Verlaine",
-   "born": "30 March 1844"
+   "born": "30 March 1844",
+   "died": "8 January 1896"
   },
   {
    "year": 1991,
@@ -31,8 +35,10 @@
    "desc": "American high school student",
    "cause": "to his teacher shortly before committing suicide. Delle's suicide would inspire the song Jeremy by Pearl Jam",
    "last_words": "Miss, I got what I really went for...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Wade_Delle",
-   "born": null
+   "born": null,
+   "died": "8 January 1991"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "German conductor, pianist and composer",
    "cause": "in response to being asked how he felt",
    "last_words": "Bad.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hans_von_Bülow",
    "died": "12 February 1894"
   },
@@ -55,6 +62,7 @@
    "desc": "second in line to the British throne",
    "cause": "he repeated these words over and over again while dying",
    "last_words": "Who is that?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Prince_Albert_Victor,_Duke_of_Clarence_and_Avondale",
    "died": "14 January 1892"
   },
@@ -66,6 +74,7 @@
    "desc": "Polish Catholic priest, promoter of veneration of the Immaculate Virgin Mary",
    "cause": "injected with carbolic acid after two weeks of starvation in Auschwitz concentration camp. He had offered himself for starvation in the place of an inmate with a family",
    "last_words": "Love the immaculate, love the immaculate, love the immaculate.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_Kolbe",
    "died": "14 August 1941"
   },
@@ -77,6 +86,7 @@
    "desc": "American musician",
    "cause": "shortly before being found dead on the bathroom floor",
    "last_words": "I'm going to the bathroom to read.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elvis_Presley",
    "died": "16 August 1977"
   },
@@ -88,6 +98,7 @@
    "desc": "English comedian, writer, actor, and author",
    "cause": "to a nurse who stuck a needle in his arm",
    "last_words": "Sorry for saying fuck.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Chapman",
    "died": "4 October 1989"
   }

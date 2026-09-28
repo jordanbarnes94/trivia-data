@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "While Henry VI, the King of Germany, was holding an informal assembly at the Petersburg Citadel in Erfurt, the combined weight of the assembled nobles caused the wooden second storey floor of the building to collapse. Most of the nobles fell through into the latrine cesspit below the ground floor, where about 60 of them drowned in liquid excrement.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erfurt_latrine_disaster",
-   "born": null
+   "born": null,
+   "died": "26 July 1184"
   },
   {
    "year": 1533,
@@ -20,8 +22,10 @@
    "desc": "last Sapa Inca of the Inca Empire",
    "cause": "prior to execution by strangling",
    "last_words": "What have I done, or my children, that I should meet such a fate? And from your hands, too, you who have met with friendship and kindness from my people who have received nothing but benefits from my hands.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Atahualpa",
-   "born": null
+   "born": null,
+   "died": "26 July 1533"
   },
   {
    "year": 1680,
@@ -31,8 +35,10 @@
    "desc": "English poet and courtier",
    "cause": null,
    "last_words": "The only objection against the Bible is a bad life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilmot,_2nd_Earl_of_Rochester",
-   "born": "1 April 1647"
+   "born": "1 April 1647",
+   "died": "26 July 1680"
   },
   {
    "year": 1693,
@@ -42,8 +48,10 @@
    "desc": "Queen of Sweden",
    "cause": "to her husband holding her",
    "last_words": "Yes, like that, just like that, my royal friend, raise me upward, upward!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ulrika_Eleonora_of_Denmark",
-   "born": "11 September 1656"
+   "born": "11 September 1656",
+   "died": "26 July 1693"
   },
   {
    "year": 1795,
@@ -53,8 +61,10 @@
    "desc": "evangelical divine of the Church of England",
    "cause": null,
    "last_words": "Holy, holy, holy, blessed Lord Jesus! to Thee be endless praise!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Romaine",
-   "born": "25 September 1714"
+   "born": "25 September 1714",
+   "died": "26 July 1795"
   },
   {
    "year": 1863,
@@ -64,8 +74,10 @@
    "desc": "American soldier and politician",
    "cause": "to his wife, Margaret Lea Houston",
    "last_words": "Texas! Texas! Margaret.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sam_Houston",
-   "born": "2 March 1793"
+   "born": "2 March 1793",
+   "died": "26 July 1863"
   },
   {
    "year": 1864,
@@ -75,8 +87,10 @@
    "desc": "Union Army colonel of the American Civil War",
    "cause": "mortally wounded at the Second Battle of Kernstown",
    "last_words": "Lay me down, and save the flag!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_A._Mulligan",
-   "born": null
+   "born": null,
+   "died": "26 July 1864"
   },
   {
    "year": 1934,
@@ -86,8 +100,10 @@
    "desc": "American cartoonist and animator",
    "cause": "to his wife after he found that his right arm was paralyzed",
    "last_words": "It's gone, mother! Gone, gone, gone!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Winsor_McCay",
-   "born": "26 September 1869"
+   "born": "26 September 1869",
+   "died": "26 July 1934"
   },
   {
    "year": 1958,
@@ -97,8 +113,10 @@
    "desc": "American test pilot",
    "cause": "final radio transmission prior to failed ejection from Lockheed F-104A",
    "last_words": "Edwards, Mayday seven seven two-bailing out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Iven_Carl_Kincheloe_Jr.",
-   "born": "2 July 1928"
+   "born": "2 July 1928",
+   "died": "26 July 1958"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": "Irish pianist and composer",
    "cause": "to his friend Gebhard",
    "last_words": "Thank you-but don't kiss me; it is the sweat of death. I am dying, and it's for the best.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Field_(composer)",
    "died": "23 January 1837"
   },
@@ -121,6 +140,7 @@
    "desc": "Irish playwright and critic",
    "cause": "to his nurse",
    "last_words": "Sister, you're trying to keep me alive as an old curiosity, but I'm done, I'm finished, I'm going to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Bernard_Shaw",
    "died": "2 November 1950"
   },
@@ -132,6 +152,7 @@
    "desc": "American police officer",
    "cause": "prior to execution by electrocution for murder",
    "last_words": "Oh, Lord, I proclaim to the world that I am innocent of this crime.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Becker",
    "died": "30 July 1915"
   },
@@ -143,6 +164,7 @@
    "desc": null,
    "cause": "Swiss psychiatrist and psychoanalyst",
    "last_words": "Let's have a really good red wine tonight.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Jung",
    "died": "6 June 1961"
   },
@@ -154,6 +176,7 @@
    "desc": "philosopher, writer",
    "cause": "to his wife Laura (\"im\" being an abbreviation for intramuscular)",
    "last_words": "LSD, 100 μg, im",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aldous_Huxley",
    "died": "22 November 1963"
   },
@@ -165,6 +188,7 @@
    "desc": "American vaudevillian and comedian",
    "cause": null,
    "last_words": "I'm sorry, boys, I'm all wet.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gracie_Allen",
    "died": "27 August 1964"
   }

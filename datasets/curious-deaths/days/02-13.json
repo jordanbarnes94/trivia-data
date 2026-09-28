@@ -9,8 +9,10 @@
    "desc": "New England Puritan minister and author",
    "cause": "His wife wiped his eyes with her handkerchief as he said the last words, alluding to Revelation 21:4",
    "last_words": "Is this dying? Is this all? Is this all that I feared when I prayed against a hard death? Oh! I can bear this! I can bear it! I can bear it! I am going where all tears will be wiped from my eyes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cotton_Mather",
-   "born": "12 February 1663"
+   "born": "12 February 1663",
+   "died": "13 February 1728"
   },
   {
    "year": 1798,
@@ -20,8 +22,10 @@
    "desc": "German Lutheran missionary to India",
    "cause": null,
    "last_words": "Had it pleased my Lord to spare me longer I should have been glad. I should then have been able to speak yet a word to the sick and poor; but His will be done! May He, in mercy, but receive me! Into Thy hands I commend my spirit; Thou has redeemed me, O Thou faithful God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Friedrich_Schwarz",
-   "born": "8 October 1726"
+   "born": "8 October 1726",
+   "died": "13 February 1798"
   },
   {
    "year": 1818,
@@ -31,8 +35,10 @@
    "desc": "American surveyor, soldier and militia officer",
    "cause": "dying after a stroke",
    "last_words": "Come on my brave boys! St. Vin.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Rogers_Clark",
-   "born": "19 November 1752"
+   "born": "19 November 1752",
+   "died": "13 February 1818"
   },
   {
    "year": 1843,
@@ -42,8 +48,10 @@
    "desc": "United States Navy Commodore",
    "cause": null,
    "last_words": "I strike my flag.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Hull",
-   "born": "9 March 1773"
+   "born": "9 March 1773",
+   "died": "13 February 1843"
   },
   {
    "year": 1883,
@@ -53,8 +61,10 @@
    "desc": "German composer",
    "cause": null,
    "last_words": "I feel very badly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Wagner",
-   "born": "22 May 1813"
+   "born": "22 May 1813",
+   "died": "13 February 1883"
   },
   {
    "year": 1925,
@@ -64,8 +74,10 @@
    "desc": "American cave explorer",
    "cause": "to rescue workers trying to free him from his entrapment in Sand Cave, Kentucky",
    "last_words": "You're too slow...too slow.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Collins",
-   "born": "20 July 1887"
+   "born": "20 July 1887",
+   "died": "13 February 1925"
   },
   {
    "year": 1948,
@@ -75,8 +87,10 @@
    "desc": "British police officer",
    "cause": "describing the circumstances of his being mortally wounded in the line of duty",
    "last_words": "The man was by the door. I got his identity card and name. I do not know if it is right. He shot me in the legs with three shots. The pocket book is in my inside pocket.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_British_police_officers_killed_in_the_line_of_duty",
-   "born": null
+   "born": null,
+   "died": "13 February 1948"
   },
   {
    "year": 1974,
@@ -86,8 +100,10 @@
    "desc": "GC, New Zealand infantry sergeant",
    "cause": "to a soldier who froze with an armed grenade; the grenade exploded as Hudson tried to release it, killing both men",
    "last_words": "Throw it, just throw it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Murray_Hudson",
-   "born": "24 February 1938"
+   "born": "24 February 1938",
+   "died": "13 February 1974"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "French operatic soprano",
    "cause": "when a priest asked how much she had suffered",
    "last_words": "Ah! The times were good! It was I who was so unhappy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Arnould",
    "died": "18 October 1802"
   },
@@ -110,6 +127,7 @@
    "desc": null,
    "cause": "The Chief of the German Imperial Military Cabinet suffered a heart attack and died aged 56 after giving a ballet performance, crossdressing in a tutu, to Kaiser Wilhelm II and other members of a hunting party staying at Donaueschingen Palace. Shortly after ending his recital with a bow, he collapsed and was pronounced dead at the scene. The circumstances of his death were covered up by military officials so as not to further inflame public outrage over the Eulenburg affair, a government scandal dealing with accusations of homosexual behavior against members of the Kaiser's cabinet and entourage.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dietrich_von_Hülsen-Haeseler",
    "died": "14 November 1908"
   },
@@ -121,6 +139,7 @@
    "desc": null,
    "cause": "Chinese warlord, after being shot by an assassin",
    "last_words": "No good!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Zhang_Zongchang",
    "died": "3 September 1932"
   },
@@ -132,6 +151,7 @@
    "desc": "United States Navy Roman Catholic chaplain and Medal of Honor recipient",
    "cause": "to a wounded Marine before being killed during Operation Swift in the Vietnam War",
    "last_words": "Stay quiet, Marine. You will be okay. Someone will be here to help you soon. God is with us all this day.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_R._Capodanno",
    "died": "4 September 1967"
   }

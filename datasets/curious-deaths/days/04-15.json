@@ -9,8 +9,10 @@
    "desc": "chief mistress of Louis XV of France",
    "cause": "applying rouge to her cheeks before her death",
    "last_words": "Wait a second.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Madame_de_Pompadour",
-   "born": "29 December 1721"
+   "born": "29 December 1721",
+   "died": "15 April 1764"
   },
   {
    "year": 1781,
@@ -20,8 +22,10 @@
    "desc": "Aymara revolutionary",
    "cause": "prior to his execution by quartering",
    "last_words": "I die but will return tomorrow as thousand thousands",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Túpac_Katari",
-   "born": null
+   "born": null,
+   "died": "15 April 1781"
   },
   {
    "year": 1865,
@@ -31,8 +35,10 @@
    "desc": "president of the United States",
    "cause": "assuring his wife Mary that their friend Clara would not mind them holding hands, shortly before he was fatally shot from behind",
    "last_words": "She won't think anything about it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
-   "born": "12 February 1809"
+   "born": "12 February 1809",
+   "died": "15 April 1865"
   },
   {
    "year": 1889,
@@ -42,8 +48,10 @@
    "desc": "SS.CC., Belgian Roman Catholic priest, minister to people with leprosy in the Hawaiian Kingdom",
    "cause": null,
    "last_words": "Well! God's will be done. He knows best. My work, with all its faults and failures, is in His hands, and before Easter I shall see my Saviour.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Father_Damien",
-   "born": "3 January 1840"
+   "born": "3 January 1840",
+   "died": "15 April 1889"
   },
   {
    "year": 1919,
@@ -53,8 +61,10 @@
    "desc": "American nurse, founder of the American Red Cross Nursing Service",
    "cause": "dying while on a Red Cross mission in France",
    "last_words": "I must get back to my work.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Delano",
-   "born": "12 March 1862"
+   "born": "12 March 1862",
+   "died": "15 April 1919"
   },
   {
    "year": 1980,
@@ -64,8 +74,10 @@
    "desc": "French philosopher and writer",
    "cause": "to his partner, Simone de Beauvoir",
    "last_words": "I love you very much, my dear Beaver.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Sartre",
-   "born": "21 June 1905"
+   "born": "21 June 1905",
+   "died": "15 April 1980"
   },
   {
    "year": 1988,
@@ -75,8 +87,10 @@
    "desc": "British actor and comedian",
    "cause": "the last words he wrote in his diary",
    "last_words": "Oh, what's the bloody point?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Williams",
-   "born": "22 February 1926"
+   "born": "22 February 1926",
+   "died": "15 April 1988"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Italian artist and scientist",
    "cause": "to King Francis I of France",
    "last_words": "I have offended God and mankind because my work did not reach the quality it should have.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
    "died": "2 May 1519"
   },
@@ -99,6 +114,7 @@
    "desc": "Swiss mathematician and scientist",
    "cause": null,
    "last_words": "I die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
    "died": "18 September 1783"
   },
@@ -110,6 +126,7 @@
    "desc": "Scottish physician, chemist and agriculturalist",
    "cause": null,
    "last_words": "I wish I had the power of writing, for then I would describe to you how pleasant a thing it is to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Cullen",
    "died": "5 February 1790"
   },
@@ -121,6 +138,7 @@
    "desc": "American author and diplomat",
    "cause": null,
    "last_words": "I am ill - very ill, I shall not recover.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Lothrop_Motley",
    "died": "29 May 1877"
   },
@@ -132,6 +150,7 @@
    "desc": "German-born American labor union activist",
    "cause": "prior to hanging after Haymarket affair",
    "last_words": "Hurrah for anarchy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Engel",
    "died": "11 November 1887"
   },
@@ -143,6 +162,7 @@
    "desc": null,
    "cause": "The 21-year-old American baseball player from Manhattan died from abdominal pain, possibly caused by pitching or swinging at the ball, which likely gave him a ruptured bladder or a ruptured hernia.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Creighton",
    "died": "18 October 1862"
   },
@@ -154,6 +174,7 @@
    "desc": "American-British author",
    "cause": null,
    "last_words": "So here it is at last, the distinguished thing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_James",
    "died": "28 February 1916"
   },
@@ -165,6 +186,7 @@
    "desc": "American blues singer",
    "cause": null,
    "last_words": "I'm going, but I'm going in the name of the Lord.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bessie_Smith",
    "died": "26 September 1937"
   },
@@ -176,6 +198,7 @@
    "desc": "American citizen",
    "cause": "on his last home video before committing suicide on live television",
    "last_words": "I'm a dead man, see ya.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Suicide_of_Daniel_Jones",
    "died": "30 April 1998"
   }

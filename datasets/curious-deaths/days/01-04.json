@@ -9,8 +9,10 @@
    "desc": "German poet",
    "cause": "referring to a poem for New Year's Day that he had completed on New Year's Eve; he in fact lived 5 more days",
    "last_words": "I shall not in fact see the new year which I have just commemorated.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Georg_Jacobi",
-   "born": "2 September 1740"
+   "born": "2 September 1740",
+   "died": "4 January 1814"
   },
   {
    "year": 1821,
@@ -20,8 +22,10 @@
    "desc": "SC, American Catholic religious sister and educator",
    "cause": "saying the Anima Christi",
    "last_words": "Soul of Christ, sanctify me; Body of Christ, save me; Blood of Christ, inebriate me; Water out of the side of Christ, strengthen me. Jesus, Mary, Joseph.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Ann_Seton",
-   "born": "28 August 1774"
+   "born": "28 August 1774",
+   "died": "4 January 1821"
   },
   {
    "year": 1913,
@@ -31,8 +35,10 @@
    "desc": "German field marshal and strategist",
    "cause": null,
    "last_words": "Remember, keep the right wing strong.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_von_Schlieffen",
-   "born": "28 February 1833"
+   "born": "28 February 1833",
+   "died": "4 January 1913"
   },
   {
    "year": 1965,
@@ -42,8 +48,10 @@
    "desc": "American-born British poet",
    "cause": "whispering the name of his wife, Valerie Eliot",
    "last_words": "Valerie.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/T._S._Eliot",
-   "born": "26 September 1888"
+   "born": "26 September 1888",
+   "died": "4 January 1965"
   },
   {
    "year": 1967,
@@ -53,8 +61,10 @@
    "desc": "British racer",
    "cause": "just before fatal crash of Bluebird K7 hydroplane while trying to set new world water speed record",
    "last_words": "The water's dark green and I can't see a bloody thing. Hallo the bow is up. I'm going. I'm on my back. I'm gone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Donald_Campbell",
-   "born": "23 March 1921"
+   "born": "23 March 1921",
+   "died": "4 January 1967"
   },
   {
    "year": 1986,
@@ -64,8 +74,10 @@
    "desc": "Irish singer, musician and songwriter",
    "cause": "dying at age 36",
    "last_words": "I'm bad, I'm nineteen.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Phil_Lynott",
-   "born": "20 August 1949"
+   "born": "20 August 1949",
+   "died": "4 January 1986"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Florentine banker",
    "cause": "He carved this line from Virgil's Aeneid on a mantelpiece with his sword as his suicide note",
    "last_words": "May an avenger arise from my bones.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Filippo_Strozzi_the_Younger",
    "died": "18 December 1538"
   },
@@ -88,6 +101,7 @@
    "desc": "Church of Ireland Archbishop of Armagh and Primate of All Ireland",
    "cause": null,
    "last_words": "O Lord, forgive me specially my sins of omission.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Ussher",
    "died": "21 March 1656"
   },
@@ -99,6 +113,7 @@
    "desc": "American physician, signer of the United States Declaration of Independence",
    "cause": "dying of typhus",
    "last_words": "I will not abandon the post which Providence has assigned me; I think it my duty not only to sacrifice my pleasure and repose, but my life, should it be necessary, for the safety of my patients.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Rush",
    "died": "19 April 1813"
   }

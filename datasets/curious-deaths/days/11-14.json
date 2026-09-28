@@ -9,8 +9,10 @@
    "desc": "Neogranadine seamstress and spy",
    "cause": "prior to execution by firing squad for high treason",
    "last_words": "Indolent people! How different your fate would be today if you knew the price of freedom! But it is not too late. See that - although a woman and young - I have more than enough courage to suffer death and a thousand more deaths. Do not forget this example [...] Miserable people, I pity you. Someday you will have more dignity! [...] I am dying to defend the rights of my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Policarpa_Salavarrieta",
-   "born": "26 January 1795"
+   "born": "26 January 1795",
+   "died": "14 November 1817"
   },
   {
    "year": 1825,
@@ -20,8 +22,10 @@
    "desc": "German Romantic writer",
    "cause": "touching a wreath of flowers he had been given. Jean Paul had lost his senses of sight and smell before his death",
    "last_words": "My beautiful flowers, my lovely flowers!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Paul",
-   "born": "21 March 1763"
+   "born": "21 March 1763",
+   "died": "14 November 1825"
   },
   {
    "year": 1831,
@@ -31,8 +35,10 @@
    "desc": "German philosopher",
    "cause": null,
    "last_words": "Only one man ever understood me. And he really didn't understand me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
-   "born": "27 August 1770"
+   "born": "27 August 1770",
+   "died": "14 November 1831"
   },
   {
    "year": 1908,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The Chief of the German Imperial Military Cabinet suffered a heart attack and died aged 56 after giving a ballet performance, crossdressing in a tutu, to Kaiser Wilhelm II and other members of a hunting party staying at Donaueschingen Palace. Shortly after ending his recital with a bow, he collapsed and was pronounced dead at the scene. The circumstances of his death were covered up by military officials so as not to further inflame public outrage over the Eulenburg affair, a government scandal dealing with accusations of homosexual behavior against members of the Kaiser's cabinet and entourage.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dietrich_von_Hülsen-Haeseler",
-   "born": "13 February 1852"
+   "born": "13 February 1852",
+   "died": "14 November 1908"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": "dying of pneumonia after breaking his collarbone, to his physician The king of England was riding his horse when it stumbled on a molehill. William fell and broke his collarbone, then contracted pneumonia and died several days later. After he died, Jacobites were said to have toasted in the mole's honour, calling it \"the little gentleman in the black velvet waistcoat\".",
    "last_words": "Can this last long?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_III_of_England",
    "died": "8 March 1702"
   },
@@ -66,6 +75,7 @@
    "desc": "3rd President of South Korea",
    "cause": "in response to Cha Ji Cheol and a woman next to him asking if he was all right after being shot by Kim Jae-gyu, prior to being fatally shot in the head",
    "last_words": "Yes, I am fine...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Park_Chung_Hee",
    "died": "26 October 1979"
   },
@@ -77,6 +87,7 @@
    "desc": "American actor",
    "cause": "to his wife Victoria",
    "last_words": "Forgive me, but I don't want to live anymore. The pain is too bad. There's no point in trying to prolong this agony.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Brian_Keith",
    "died": "24 June 1997"
   }

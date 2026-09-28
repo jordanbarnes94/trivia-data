@@ -9,8 +9,10 @@
    "desc": "Dutch Catholic priest and humanist scholar",
    "cause": null,
    "last_words": "Lord! Lord! make an end! make an end!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erasmus",
-   "born": "28 October 1466"
+   "born": "28 October 1466",
+   "died": "12 July 1536"
   },
   {
    "year": 1804,
@@ -20,8 +22,10 @@
    "desc": "American statesman",
    "cause": "addressing his wife after being mortally shot by his rival Aaron Burr in a duel",
    "last_words": "Remember, my Eliza, you are a Christian. Alexander's other final words were \"If they break this Union, They will break my heart\" (as per Ron Chernow's biography on Alexander Hamilton)",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Hamilton",
-   "born": "11 January 1757"
+   "born": "11 January 1757",
+   "died": "12 July 1804"
   },
   {
    "year": 1853,
@@ -31,8 +35,10 @@
    "desc": "American merchant and philanthropist",
    "cause": "to his wife",
    "last_words": "I will now try to sleep.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Appleton_(merchant)",
-   "born": "22 June 1766"
+   "born": "22 June 1766",
+   "died": "12 July 1853"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "British colonial administrator",
    "cause": "dying after epileptic seizure",
    "last_words": "Never fear; if you will but have patience I don't doubt we shall get through; but take care how you ever get in such a scrape again.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Francis_Bernard,_1st_Baronet",
    "died": "16 June 1779"
   },
@@ -55,6 +62,7 @@
    "desc": "Scottish divine and philanthropist",
    "cause": null,
    "last_words": "Stand up for Jesus in all circumstances.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Guthrie",
    "died": "24 February 1873"
   },
@@ -66,6 +74,7 @@
    "desc": "French physiologist",
    "cause": "when a cover was placed to warm his feet",
    "last_words": "This time it will serve me for the voyage from which there is no return, the voyage of eternity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Bernard",
    "died": "10 February 1878"
   },
@@ -77,6 +86,7 @@
    "desc": "American entrepreneur",
    "cause": "as his suicide note, before shooting himself in the chest",
    "last_words": "To my friends / My work is done / Why wait? / G.E.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Eastman",
    "died": "14 March 1932"
   }

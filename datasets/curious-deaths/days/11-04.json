@@ -9,8 +9,10 @@
    "desc": "Lord Chief Justice of the King's Bench",
    "cause": "thinking he was in court",
    "last_words": "Gentlemen of the jury, you may retire.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Abbott,_1st_Baron_Tenterden",
-   "born": "7 October 1762"
+   "born": "7 October 1762",
+   "died": "4 November 1832"
   },
   {
    "year": 1847,
@@ -20,8 +22,10 @@
    "desc": "German composer",
    "cause": "in response to being asked how he felt",
    "last_words": "Weary, very weary.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
-   "born": "3 February 1809"
+   "born": "3 February 1809",
+   "died": "4 November 1847"
   },
   {
    "year": 1869,
@@ -31,8 +35,10 @@
    "desc": "American financier and philanthropist",
    "cause": null,
    "last_words": "It is a great mystery, but I shall know all soon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Peabody",
-   "born": "18 February 1795"
+   "born": "18 February 1795",
+   "died": "4 November 1869"
   },
   {
    "year": 1918,
@@ -42,8 +48,10 @@
    "desc": "English soldier and poet",
    "cause": "to a soldier under his command before being killed in action during the crossing of the Sambre–Oise Canal in World War I",
    "last_words": "Well done. You are doing that very well, my boy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wilfred_Owen",
-   "born": "18 March 1893"
+   "born": "18 March 1893",
+   "died": "4 November 1918"
   },
   {
    "year": 1927,
@@ -53,8 +61,10 @@
    "desc": "American aeronaut",
    "cause": "final journal entry during balloon altitude record attempt",
    "last_words": "Sky deep blue, sun very bright, sand [buoyancy compensator] all gone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hawthorne_C._Gray",
-   "born": "16 February 1889"
+   "born": "16 February 1889",
+   "died": "4 November 1927"
   },
   {
    "year": 1995,
@@ -64,8 +74,10 @@
    "desc": "Israeli Prime Minister",
    "cause": "prior to his assassination",
    "last_words": "This rally must send a message to the Israeli people, to the Jewish people around the world, to the many people in the Arab world, and indeed to the entire world, that the Israeli people want peace, support peace. For this, I thank you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
-   "born": "1 March 1922"
+   "born": "1 March 1922",
+   "died": "4 November 1995"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Anglican cleric and hymn writer, author of \"Rock of Ages\"",
    "cause": null,
    "last_words": "No mortal man can live after the glories which God has manifested to my soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Augustus_Toplady",
    "died": "11 August 1778"
   },
@@ -88,6 +101,7 @@
    "desc": "American stage and film actor, vaudeville performer, cowboy, humorist, newspaper columnist, and social commentator",
    "cause": "typed on his typewriter for an unfinished newspaper column prior to the plane crash that killed him and Wiley Post",
    "last_words": "Death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Will_Rogers",
    "died": "15 August 1935"
   },
@@ -99,6 +113,7 @@
    "desc": "United States Marine Corps Gunnery Sergeant and Medal of Honor recipient",
    "cause": "prior to being killed at the Battle of Iwo Jima",
    "last_words": "C'mon you guys! Let's get these guns off the beach.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Basilone",
    "died": "19 February 1945"
   },
@@ -110,6 +125,7 @@
    "desc": "United States Marine Raider",
    "cause": "found mortally wounded during the Guadalcanal campaign surrounded by 13 dead Japanese soldiers",
    "last_words": "The bastards tried to come over me last night – I guess they didn't know I was a Marine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_H._Ahrens",
    "died": "8 August 1942"
   }

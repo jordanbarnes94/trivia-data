@@ -9,8 +9,10 @@
    "desc": "British explorer and Royal Navy captain",
    "cause": "after being mortally wounded by a native Hawaiian",
    "last_words": "Take me to the boats.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Cook",
-   "born": "27 October 1728"
+   "born": "27 October 1728",
+   "died": "14 February 1779"
   },
   {
    "year": 1820,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "assassinated at the Paris Opera by Louis Pierre Louvel, a Bonapartist",
    "last_words": "Blessed Virgin, have mercy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Ferdinand,_Duke_of_Berry",
-   "born": "24 January 1778"
+   "born": "24 January 1778",
+   "died": "14 February 1820"
   },
   {
    "year": 1938,
@@ -31,8 +35,10 @@
    "desc": "American newspaper columnist",
    "cause": "to his wife",
    "last_words": "Snooks, will you please turn this way? I like to look at your face.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/O._O._McIntyre",
-   "born": "18 February 1884"
+   "born": "18 February 1884",
+   "died": "14 February 1938"
   },
   {
    "year": 1951,
@@ -42,8 +48,10 @@
    "desc": "American World War II flying ace",
    "cause": "prior to fatal crash of F-86 Sabre",
    "last_words": "Say goodbye to my wife and kids.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ray_Wetmore",
-   "born": "30 September 1923"
+   "born": "30 September 1923",
+   "died": "14 February 1951"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "founder of the Mughal Empire and first Emperor of the Mughal dynasty",
    "cause": null,
    "last_words": "I give your brothers to your keeping. Be faithful to them and all the people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Babur",
    "died": "26 December 1530"
   },
@@ -66,6 +75,7 @@
    "desc": "Australian aviator",
    "cause": "final note written on fuel card while dying after crash in Sahara Desert",
    "last_words": "So the beginning of the eighth day has dawned. It is still cool. I have no water....I am waiting patiently. Come soon please. Fever wracked me last night. Hope you get my full log. Bill.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bill_Lancaster_(aviator)",
    "died": "20 April 1933"
   },
@@ -77,6 +87,7 @@
    "desc": "American actor",
    "cause": "prior to being killed along with two child actors during the filming of Twilight Zone: The Movie prior to being killed along with two child actors during filming in the Twilight Zone accident",
    "last_words": "I've got to be crazy to do this shot. I should've asked for a double.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vic_Morrow",
    "died": "23 July 1982"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "to Walter Tirel, who allegedly shot the king in a hunting accident",
    "last_words": "Shoot, Walter, in the devil's name!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_II_of_England",
-   "born": null
+   "born": null,
+   "died": "2 August 1100"
   },
   {
    "year": 1788,
@@ -20,8 +22,10 @@
    "desc": "English painter",
    "cause": null,
    "last_words": "We are all going to Heaven, and van Dyke is of the company.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gainsborough",
-   "born": "14 May 1727"
+   "born": "14 May 1727",
+   "died": "2 August 1788"
   },
   {
    "year": 1794,
@@ -31,8 +35,10 @@
    "desc": "English barrister and Member of Parliament",
    "cause": "quoting the Morning Hymn from Paradise Lost to his father, Edmund Burke; he then died in his father's arms",
    "last_words": "His praise, ye winds, that from four quarters blow, / Blow soft or loud; and wave your tops, ye pines, / With every plant, in sign of worship, wave.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Burke_Jr.",
-   "born": "9 February 1758"
+   "born": "9 February 1758",
+   "died": "2 August 1794"
   },
   {
    "year": 1798,
@@ -42,8 +48,10 @@
    "desc": "English actor",
    "cause": "performing on stage in The Stranger",
    "last_words": "There is another and a better world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Palmer_(actor)",
-   "born": null
+   "born": null,
+   "died": "2 August 1798"
   },
   {
    "year": 1921,
@@ -53,8 +61,10 @@
    "desc": "Italian operatic tenor",
    "cause": "dying of peritonitis",
    "last_words": "Doro, I can't breathe!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Enrico_Caruso",
-   "born": "24 February 1873"
+   "born": "24 February 1873",
+   "died": "2 August 1921"
   },
   {
    "year": 1922,
@@ -64,8 +74,10 @@
    "desc": "Scottish-American inventor",
    "cause": "replying to his deaf wife Mabel's plea \"Don't leave me.\"",
    "last_words": "No.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Graham_Bell",
-   "born": "3 March 1847"
+   "born": "3 March 1847",
+   "died": "2 August 1922"
   },
   {
    "year": 1923,
@@ -75,8 +87,10 @@
    "desc": "president of the United States",
    "cause": "to his wife, Florence Harding, who had been reading aloud a flattering Saturday Evening Post article about him",
    "last_words": "That's good. Go on, read some more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Warren_G._Harding",
-   "born": "2 November 1865"
+   "born": "2 November 1865",
+   "died": "2 August 1923"
   },
   {
    "year": 1979,
@@ -86,8 +100,10 @@
    "desc": "American baseball player",
    "cause": "trapped in crashed plane, to his two passengers, who survived",
    "last_words": "Are you guys okay?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thurman_Munson",
-   "born": "7 June 1947"
+   "born": "7 June 1947",
+   "died": "2 August 1979"
   },
   {
    "year": 1985,
@@ -97,8 +113,10 @@
    "desc": null,
    "cause": "First Officer of Delta Air Lines Flight 191, reacting to the first impact of the Lockheed L-1011-385-1 TriStar",
    "last_words": "Shit!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Delta_Air_Lines_Flight_191",
-   "born": null
+   "born": null,
+   "died": "2 August 1985"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": null,
    "cause": "prior to execution by firing squad",
    "last_words": "I die for my king and for France.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Antoine,_Duke_of_Enghien",
    "died": "21 March 1804"
   },
@@ -121,6 +140,7 @@
    "desc": "English historian and politician",
    "cause": "his final diary entry",
    "last_words": "Very weak. Rail to La Encina and Alicante.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Augustus_Freeman",
    "died": "16 March 1892"
   },
@@ -132,6 +152,7 @@
    "desc": "American author and activist",
    "cause": null,
    "last_words": "I'm bored.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Baldwin",
    "died": "1 December 1987"
   }

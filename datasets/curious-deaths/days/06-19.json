@@ -9,8 +9,10 @@
    "desc": "Scottish minister and author",
    "cause": null,
    "last_words": "My Christ.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_of_Haddington",
-   "born": "23 December 1722"
+   "born": "23 December 1722",
+   "died": "19 June 1787"
   },
   {
    "year": 1831,
@@ -20,8 +22,10 @@
    "desc": "French agronomist",
    "cause": null,
    "last_words": "Nature, how lovely thou art!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/:fr:Victor_Yvart",
-   "born": null
+   "born": null,
+   "died": "19 June 1831"
   },
   {
    "year": 1867,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "after being shot by firing squad",
    "last_words": "O man! O man!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico",
-   "born": "6 July 1832"
+   "born": "6 July 1832",
+   "died": "19 June 1867"
   },
   {
    "year": 1878,
@@ -42,8 +48,10 @@
    "desc": "American Presbyterian theologian",
    "cause": null,
    "last_words": "My work is done. The pins of the tabernacle are taken out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Hodge",
-   "born": "27 December 1797"
+   "born": "27 December 1797",
+   "died": "19 June 1878"
   },
   {
    "year": 1937,
@@ -53,8 +61,10 @@
    "desc": "Scottish novelist and playwright",
    "cause": null,
    "last_words": "I can't sleep.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/J._M._Barrie",
-   "born": "9 May 1860"
+   "born": "9 May 1860",
+   "died": "19 June 1937"
   },
   {
    "year": 1960,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "The 26-year-old British racing driver died in a crash during the 1960 Belgian Grand Prix when a bird struck him in the face. Twenty-two-year-old British driver Chris Bristow was killed during the same race, five laps before Stacey and on the same extended fast right-hand bend.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alan_Stacey",
-   "born": "29 August 1933"
+   "born": "29 August 1933",
+   "died": "19 June 1960"
   },
   {
    "year": 1982,
@@ -75,8 +87,10 @@
    "desc": "Chinese-American draftsman",
    "cause": "just after being beaten with a baseball bat by Chrysler plant supervisor Ronald Ebens. Chin died four days later at Henry Ford Hospital",
    "last_words": "It's not fair.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Vincent_Chin",
-   "born": "18 May 1955"
+   "born": "18 May 1955",
+   "died": "19 June 1982"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "French mathematician, physicist and theologian",
    "cause": null,
    "last_words": "My God, forsake me not.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Blaise_Pascal",
    "died": "19 August 1662"
   },
@@ -99,6 +114,7 @@
    "desc": "officer in the American War of Independence",
    "cause": "speaking to a British officer after being mortally wounded and captured at the Battle of Camden",
    "last_words": "I thank you, sir, for your generous sympathy, but I die the death I always prayed for, the death of a soldier fighting for the rights of man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_de_Kalb",
    "died": "16 August 1780"
   },
@@ -110,6 +126,7 @@
    "desc": "FRS, English poet and politician",
    "cause": null,
    "last_words": "My exit is the result of too many entrées.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Monckton_Milnes,_1st_Baron_Houghton",
    "died": "11 August 1885"
   },
@@ -121,6 +138,7 @@
    "desc": "American writer and publisher",
    "cause": "prior to dying with his wife in the sinking of the RMS Lusitania",
    "last_words": "Well, they [German Empire] have got us. They are a damn sight worse than I ever thought they were.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elbert_Hubbard",
    "died": "7 May 1915"
   },
@@ -132,6 +150,7 @@
    "desc": "Filipino nationalist, ophthalmologist and polymath",
    "cause": "quoting Jesus prior to execution by firing squad for rebellion, sedition and conspiracy",
    "last_words": "It is done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/José_Rizal",
    "died": "30 December 1896"
   }

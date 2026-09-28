@@ -9,8 +9,10 @@
    "desc": "English theatre manager and comic actor",
    "cause": null,
    "last_words": "I am ready.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Mathews",
-   "born": "28 June 1776"
+   "born": "28 June 1776",
+   "died": "28 June 1835"
   },
   {
    "year": 1836,
@@ -20,8 +22,10 @@
    "desc": "president of the United States",
    "cause": "to his niece, who had asked him what was the matter",
    "last_words": "Nothing more than a change of mind, my dear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Madison",
-   "born": "16 March 1751"
+   "born": "16 March 1751",
+   "died": "28 June 1836"
   },
   {
    "year": 1844,
@@ -31,8 +35,10 @@
    "desc": "Afro-Cuban poet and independence activist",
    "cause": "during execution by firing squad for conspiracy",
    "last_words": "Will no one have pity on me? Here, fire here?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/:es:Gabriel_de_la_Concepción_Valdés",
-   "born": null
+   "born": null,
+   "died": "28 June 1844"
   },
   {
    "year": 1914,
@@ -42,8 +48,10 @@
    "desc": "heir to the throne of Austria-Hungary",
    "cause": "on his way to a hospital after being fatally shot by a Serbian nationalist",
    "last_words": "It is nothing... it is nothing...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Archduke_Franz_Ferdinand_of_Austria",
-   "born": "18 December 1863"
+   "born": "18 December 1863",
+   "died": "28 June 1914"
   },
   {
    "year": 1940,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 44-year-old governor of Italian Libya and marshal of the Regia Aeronautica was flying his personal Savoia-Marchetti SM.79 when the Libyan airfield at Tobruk was attacked by a squad of British planes. He was killed by friendly fire from Italian anti-aircraft batteries on the ground.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Italo_Balbo",
-   "born": "6 June 1896"
+   "born": "6 June 1896",
+   "died": "28 June 1940"
   },
   {
    "year": 1975,
@@ -64,8 +74,10 @@
    "desc": "American screenwriter",
    "cause": "note written from hospital bed to colleague Owen Comora",
    "last_words": "You can't kill this tough Jew.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rod_Serling",
-   "born": "25 December 1924"
+   "born": "25 December 1924",
+   "died": "28 June 1975"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "King of England",
    "cause": null,
    "last_words": "All is lost! Monks, monks, monks!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_VIII",
    "died": "28 January 1547"
   },
@@ -88,6 +101,7 @@
    "desc": "Genevan philosopher, writer and composer",
    "cause": null,
    "last_words": "Throw up the window that I may see once more the magnificent scene of nature.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau",
    "died": "2 July 1778"
   },
@@ -99,6 +113,7 @@
    "desc": "British military officer and statesman",
    "cause": "mortally wounded at Siege of Lucknow",
    "last_words": "Let there be no fuss about me; let me be buried with the men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Montgomery_Lawrence",
    "died": "4 July 1857"
   },
@@ -110,6 +125,7 @@
    "desc": "Italian playwright",
    "cause": null,
    "last_words": "The hearse, the horse, the driver and-enough!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Pirandello",
    "died": "10 December 1936"
   },
@@ -121,6 +137,7 @@
    "desc": "American serial killer and rapist",
    "cause": "spitting in his executioner's face prior to hanging",
    "last_words": "Hurry it up, you Hoosier bastard! I could hang a dozen men while you're fooling around!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Carl_Panzram",
    "died": "5 September 1930"
   },
@@ -132,6 +149,7 @@
    "desc": "American fundamentalist Independent Baptist preacher and founder of teen homes",
    "cause": "prior to fatal plane crash",
    "last_words": "I believe this is going to be the greatest day of my life!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lester_Roloff",
    "died": "2 November 1982"
   },
@@ -143,6 +161,7 @@
    "desc": "American actress and comedian",
    "cause": "to her husband Gene Wilder before she went into a coma",
    "last_words": "Help me out of here. I've got to get out of here.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gilda_Radner",
    "died": "20 May 1989"
   }

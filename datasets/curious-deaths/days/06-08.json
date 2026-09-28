@@ -9,8 +9,10 @@
    "desc": "Irish abbot and missionary evangelist",
    "cause": "ceasing to transcribe a Psalter",
    "last_words": "Here must I stop. What follows, let Baithen write.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Columba",
-   "born": "7 December 521"
+   "born": "7 December 521",
+   "died": "8 June 597"
   },
   {
    "year": 632,
@@ -20,8 +22,10 @@
    "desc": "Prophet of God in Islam",
    "cause": null,
    "last_words": "Oh God, the Friend Most High!\" or \"The prayer, the prayer! And fear Allah with regard to those whom your right hands possess",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad",
-   "born": "20 April 571"
+   "born": "20 April 571",
+   "died": "8 June 632"
   },
   {
    "year": 1376,
@@ -31,8 +35,10 @@
    "desc": "heir to the English throne",
    "cause": null,
    "last_words": "I give thee thanks, O God, for all thy benefits, and with all the pains of my soul I humbly beseech thy mercy to give me remission of those sins I have wickedly committed against thee; and of all mortal men whom willingly or ignorantly I have offended, with all my heart I desire forgiveness.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_the_Black_Prince",
-   "born": "15 June 1330"
+   "born": "15 June 1330",
+   "died": "8 June 1376"
   },
   {
    "year": 1727,
@@ -42,8 +48,10 @@
    "desc": "German Lutheran clergyman and theologian",
    "cause": "when his wife asked if his Savior was still with him",
    "last_words": "Yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/August_Hermann_Francke",
-   "born": "22 March 1663"
+   "born": "22 March 1663",
+   "died": "8 June 1727"
   },
   {
    "year": 1795,
@@ -53,8 +61,10 @@
    "desc": "pretender to the French throne",
    "cause": "dying in prison custody at the age of 10",
    "last_words": "I have something to tell you...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVII",
-   "born": "27 March 1785"
+   "born": "27 March 1785",
+   "died": "8 June 1795"
   },
   {
    "year": 1809,
@@ -64,8 +74,10 @@
    "desc": "English-born American political activist and theorist, philosopher and revolutionary",
    "cause": null,
    "last_words": "Taking a leap into the dark. O mystery!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Paine",
-   "born": "29 January 1737"
+   "born": "29 January 1737",
+   "died": "8 June 1809"
   },
   {
    "year": 1845,
@@ -75,8 +87,10 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "What is the matter with my dear children? Have I alarmed you? Oh, do not cry. Be good children and we will all meet in Heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
-   "born": "15 March 1767"
+   "born": "15 March 1767",
+   "died": "8 June 1845"
   },
   {
    "year": 1876,
@@ -86,8 +100,10 @@
    "desc": "French novelist",
    "cause": null,
    "last_words": "Farewell, I am going to die. Goodbye Lina, goodbye Maurice, goodbye Lolo, good ...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Sand",
-   "born": "1 July 1804"
+   "born": "1 July 1804",
+   "died": "8 June 1876"
   },
   {
    "year": 1889,
@@ -97,8 +113,10 @@
    "desc": "SJ]], English poet and priest",
    "cause": null,
    "last_words": "I am so happy, so happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gerard_Manley_Hopkins",
-   "born": "28 July 1844"
+   "born": "28 July 1844",
+   "died": "8 June 1889"
   },
   {
    "year": 1913,
@@ -108,8 +126,10 @@
    "desc": null,
    "cause": "On 4 June 1913, the 40-year-old suffragette from London was mortally injured at the Epsom Derby when she ran onto the racetrack wearing a suffragette flag and was run over by Anmer, George V's horse, which jockey Herbert Jones was riding. She suffered a fractured skull, a concussion, and internal injuries and died in the Epsom Cottage Hospital 4 days later.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emily_Davison",
-   "born": "11 October 1867"
+   "born": "11 October 1867",
+   "died": "8 June 1913"
   },
   {
    "year": 1966,
@@ -119,8 +139,10 @@
    "desc": null,
    "cause": "Astronaut and NASA test pilot Walker, flying a Lockheed F-104N Starfighter, and North American Aviation test pilot Cross, co-piloting a North American XB-70 Valkyrie bomber, were killed in a mid-air collision during a publicity photo shoot of multiple aircraft with General Electric engines flying in formation near Edwards Air Force Base. With the Valkyrie in a spin, pilot Alvin S. White ejected and survived, but centrifugal force prevented Cross' ejection seat from retracting into the escape capsule.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_A._Walker",
-   "born": null
+   "born": null,
+   "died": "8 June 1966"
   },
   {
    "year": 1997,
@@ -130,8 +152,10 @@
    "desc": null,
    "cause": "The 48-year-old chemistry professor at Dartmouth College died ten months after a few drops of dimethylmercury (an organomercury compound and one of the strongest-known neurotoxins) landed on her protective gloves. Although she had been following the required procedures, it permeated the gloves and her skin within seconds.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karen_Wetterhahn",
-   "born": "16 October 1948"
+   "born": "16 October 1948",
+   "died": "8 June 1997"
   }
  ],
  "born": [
@@ -143,6 +167,7 @@
    "desc": "French chef",
    "cause": "to a pupil",
    "last_words": "My boy, the quenelles de sole were splendid, but the peas were poor. You should shake the pan gently, all the time, like this.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie-Antoine_Carême",
    "died": "12 January 1833"
   },
@@ -154,6 +179,7 @@
    "desc": "English novelist and dramatist",
    "cause": "referring to 2 Corinthians 12:1-4, which he had been discussing with a relative",
    "last_words": "Amazing, amazing glory! I am having Paul's understanding.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Reade",
    "died": "11 April 1884"
   },
@@ -165,6 +191,7 @@
    "desc": "Estonian writer",
    "cause": "to his wife",
    "last_words": "Ella, Ella! Everything is utterly different!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Enno",
    "died": "7 March 1934"
   },
@@ -176,6 +203,7 @@
    "desc": "African American maid",
    "cause": "prior to execution by electrocution for the murder of her employer. She received a full and unconditional pardon in 2005",
    "last_words": "What I done, I did in self-defense, or I would have been killed myself. Where I was I could not overcome it. God has forgiven me. I have nothing against anyone. I picked cotton for Mr. Pritchett, and he has been good to me. I am ready to go. I am one in the number. I am ready to meet my God. I have a very strong conscience.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lena_Baker",
    "died": "5 March 1945"
   }

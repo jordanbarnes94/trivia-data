@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The French nobleman died at 60 years of age when, during a rough ride, he fell off his horse and impaled himself on his own sword.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Enguerrand_III,_Lord_of_Coucy",
-   "born": null
+   "born": null,
+   "died": "1 January 1242"
   },
   {
    "year": 1387,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The contemporary chronicler Froissart relates that the king of Navarre, known as \"Charles the Bad\", suffering from illness in old age, was ordered by his physician to be tightly sewn into a linen sheet soaked in distilled spirits. The highly flammable sheet accidentally caught fire, and he later died of his injuries.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_Navarre",
-   "born": "10 October 1332"
+   "born": "10 October 1332",
+   "died": "1 January 1387"
   },
   {
    "year": 1716,
@@ -31,8 +35,10 @@
    "desc": "English dramatist",
    "cause": "to his wife. He had married a much younger woman less than twelve days before his death",
    "last_words": "Promise me you will never again marry an old man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Wycherley",
-   "born": null
+   "born": null,
+   "died": "1 January 1716"
   },
   {
    "year": 1787,
@@ -42,8 +48,10 @@
    "desc": "Portuguese mathematician and poet",
    "cause": "recorded by Domingos de Sousa Coutinho",
    "last_words": "Je craîndrais de ne pas mépriser assez la vie - some dreams of humanity qui me déchirent plutôt qu'ils me consolent...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/José_Anastácio_da_Cunha",
-   "born": "11 April 1744"
+   "born": "11 April 1744",
+   "died": "1 January 1787"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": null,
    "last_words": "All right, all right, I'm coming. Wait a moment.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Alexander_VI",
    "died": "18 August 1503"
   },
@@ -66,6 +75,7 @@
    "desc": "priest and leader of the Reformation in Switzerland",
    "cause": "mortally wounded at the Battle of Kappel",
    "last_words": "Can this be considered a calamity? Well! they can, indeed, kill the body, but they are not able to kill the soul.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Huldrych_Zwingli",
    "died": "11 October 1531"
   },
@@ -77,6 +87,7 @@
    "desc": "Confederate privateer",
    "cause": "hanged as a spy by the Union during the American Civil War",
    "last_words": "I protest against this execution. It is absolute murder-brutal murder. I die in the service and defense of my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Yates_Beall",
    "died": "24 February 1865"
   },
@@ -88,6 +99,7 @@
    "desc": "GC, British spy in the Special Operations Executive",
    "cause": "prior to execution by firing squad at Dachau concentration camp",
    "last_words": "Liberté!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Noor_Inayat_Khan",
    "died": "13 September 1944"
   }

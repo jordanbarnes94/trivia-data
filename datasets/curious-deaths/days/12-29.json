@@ -9,8 +9,10 @@
    "desc": "Archbishop of Canterbury",
    "cause": "to his murderers",
    "last_words": "For the name of Jesus and the protection of the church I am ready to embrace death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Becket",
-   "born": "21 December 1119"
+   "born": "21 December 1119",
+   "died": "29 December 1170"
   },
   {
    "year": 1680,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "to his executioner prior to beheading for alleged treason",
    "last_words": "I do forgive you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Howard,_1st_Viscount_Stafford",
-   "born": "30 November 1614"
+   "born": "30 November 1614",
+   "died": "29 December 1680"
   },
   {
    "year": 1894,
@@ -31,8 +35,10 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I love everybody. If ever I had an enemy, I should hope to meet and welcome that enemy in heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christina_Rossetti",
-   "born": "5 December 1830"
+   "born": "5 December 1830",
+   "died": "29 December 1894"
   },
   {
    "year": 1926,
@@ -42,8 +48,10 @@
    "desc": "Bohemian-Austrian poet and novelist",
    "cause": null,
    "last_words": "I don't want the doctor's death. I want to have my own freedom.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
-   "born": "4 December 1875"
+   "born": "4 December 1875",
+   "died": "29 December 1926"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "chief mistress of Louis XV of France",
    "cause": "applying rouge to her cheeks before her death",
    "last_words": "Wait a second.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Madame_de_Pompadour",
    "died": "15 April 1764"
   },
@@ -66,6 +75,7 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "Oh, do not cry. Be good children, and we shall meet in heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Johnson",
    "died": "31 July 1875"
   },
@@ -77,6 +87,7 @@
    "desc": "VC, British Army officer",
    "cause": "to a fellow officer during World War I counter-attack at Bois Favieres, near Maricourt, Somme, France",
    "last_words": "Carry on with those on the left.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Herbert_Anderson",
    "died": "25 March 1918"
   },
@@ -88,6 +99,7 @@
    "desc": "English drummer",
    "cause": "to his girlfriend on the phone shortly before he was killed in a car crash",
    "last_words": "Oh shit!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cozy_Powell",
    "died": "5 April 1998"
   }

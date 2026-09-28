@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": null,
    "last_words": "O my poor soul, whither art thou going?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hadrian",
-   "born": "24 January 76"
+   "born": "24 January 76",
+   "died": "10 July 138"
   },
   {
    "year": 1559,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "On 30 June 1559, a tournament was held near Place des Vosges to celebrate the Peace of Cateau-Cambrésis with the French king's longtime enemies, the Habsburgs of Austria, and to celebrate the marriage of his daughter Elisabeth of Valois to King Philip II of Spain. During a jousting match, Henry, wearing the colors of his mistress Diane de Poitiers, was wounded in the eye by a fragment of the splintered lance of Gabriel Montgomery, captain of the King's Scottish Guard. Despite the efforts of royal surgeons Ambroise Paré and Andreas Vesalius, the court doctors ultimately \"advocated a wait-and-see strategy\"; as a result, the king's untreated eye and brain damage led to his death by sepsis ten days later. His death played a significant role in the decline of jousting as a sport, particularly in France.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_II_of_France",
-   "born": "31 March 1519"
+   "born": "31 March 1519",
+   "died": "10 July 1559"
   },
   {
    "year": 1584,
@@ -31,8 +35,10 @@
    "desc": "Prince of Orange",
    "cause": "assassinated by Balthasar Gérard",
    "last_words": "God have mercy upon me, and upon this poor nation.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_the_Silent",
-   "born": "24 April 1533"
+   "born": "24 April 1533",
+   "died": "10 July 1584"
   },
   {
    "year": 1989,
@@ -42,8 +48,10 @@
    "desc": "American voice actor and radio personality",
    "cause": "spoken in the voice of Yosemite Sam to his son Noel",
    "last_words": "I love you, Noel.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mel_Blanc",
-   "born": "30 May 1908"
+   "born": "30 May 1908",
+   "died": "10 July 1989"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "French theologian and Protestant reformer, principal developer of Calvinism",
    "cause": null,
    "last_words": "Thou, Lord, bruisest me; but I am abundantly satisfied, since it is from thy hand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Calvin",
    "died": "27 May 1564"
   },
@@ -66,6 +75,7 @@
    "desc": "Royal Navy officer and novelist",
    "cause": null,
    "last_words": "It is now half-past nine. World, adieu!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Marryat",
    "died": "9 August 1848"
   },
@@ -77,6 +87,7 @@
    "desc": "French novelist",
    "cause": "to his brother, who asked if he was hurting him",
    "last_words": "Yes, my dear Robert, you are.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marcel_Proust",
    "died": "18 November 1922"
   },
@@ -88,6 +99,7 @@
    "desc": "American educator, stateswoman and civil rights activist",
    "cause": null,
    "last_words": "Life is wonderful. I am wonderful.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_McLeod_Bethune",
    "died": "18 May 1955"
   },
@@ -99,6 +111,7 @@
    "desc": "Spanish Catholic laywoman and venerable",
    "cause": null,
    "last_words": "Little Virgin: How much I love You! When are You coming for me?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Montserrat_Grases",
    "died": "26 March 1959"
   }

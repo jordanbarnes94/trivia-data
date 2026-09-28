@@ -9,8 +9,10 @@
    "desc": "political theorist",
    "cause": "when asked by his housekeeper about his last words",
    "last_words": "Go on, get out! Last words are for fools who haven't said enough!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_Marx",
-   "born": "5 May 1818"
+   "born": "5 May 1818",
+   "died": "14 March 1883"
   },
   {
    "year": 1916,
@@ -20,8 +22,10 @@
    "desc": "VC, British Army soldier",
    "cause": "mortally wounded during World War I",
    "last_words": "Goodbye, God bless you all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Richard_Cotter",
-   "born": null
+   "born": null,
+   "died": "14 March 1916"
   },
   {
    "year": 1932,
@@ -31,8 +35,10 @@
    "desc": "American entrepreneur",
    "cause": "as his suicide note, before shooting himself in the chest",
    "last_words": "To my friends / My work is done / Why wait? / G.E.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Eastman",
-   "born": "12 July 1854"
+   "born": "12 July 1854",
+   "died": "14 March 1932"
   },
   {
    "year": 1989,
@@ -42,8 +48,10 @@
    "desc": "American author, essayist and environmental advocate",
    "cause": null,
    "last_words": "I did what I could.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Abbey",
-   "born": "29 January 1927"
+   "born": "29 January 1927",
+   "died": "14 March 1989"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "United States Senator from Missouri",
    "cause": null,
    "last_words": "I am comfortable and content.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hart_Benton_(politician)",
    "died": "10 April 1858"
   },
@@ -66,6 +75,7 @@
    "desc": "Queen of Sweden and Norway",
    "cause": null,
    "last_words": "I am so happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Josephine_of_Leuchtenberg",
    "died": "7 June 1876"
   },
@@ -77,6 +87,7 @@
    "desc": "American railroader",
    "cause": "to his fireman shortly before his passenger train collided with a stalled freight train",
    "last_words": "Jump, Sim, while you have the time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Casey_Jones",
    "died": "30 April 1900"
   },
@@ -88,6 +99,7 @@
    "desc": "German physicist",
    "cause": "declining surgery the day before his death",
    "last_words": "I want to go when I want. It is tasteless to prolong life artificially. I have done my share, it is time to go. I will do it elegantly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Einstein",
    "died": "18 April 1955"
   },
@@ -99,6 +111,7 @@
    "desc": "British fascist",
    "cause": "to his executioner, Albert Pierrepoint, prior to hanging for high treason",
    "last_words": "Oh Pierrepoint.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Amery",
    "died": "19 December 1945"
   }

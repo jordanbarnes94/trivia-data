@@ -9,8 +9,10 @@
    "desc": "Italian Jesuit and Roman Catholic cardinal",
    "cause": null,
    "last_words": "Jesus, Jesus, Jesus.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bellarmine",
-   "born": "4 October 1542"
+   "born": "4 October 1542",
+   "died": "17 September 1621"
   },
   {
    "year": 1908,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "Thomas Selfridge and Orville Wright were presenting the 1908 Wright Military Flyer to the US Army Signal Corps Division at Fort Myer. The plane made 41⁄2 rounds around the Fort before running into problems and crashing. Selfridge fractured his skull and died three hours later, becoming the first person to die in the crash of a powered aircraft.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Selfridge",
-   "born": "8 February 1882"
+   "born": "8 February 1882",
+   "died": "17 September 1908"
   },
   {
    "year": 1918,
@@ -31,8 +35,10 @@
    "desc": "English cricketer",
    "cause": "fatally wounded during World War I",
    "last_words": "I am sorry to have been so much trouble; I shall never forget what you have done for me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oswald_Samson",
-   "born": "8 August 1881"
+   "born": "8 August 1881",
+   "died": "17 September 1918"
   },
   {
    "year": 1948,
@@ -42,8 +48,10 @@
    "desc": "Swedish nobleman and diplomat",
    "cause": "on being wished good luck by a journalist prior to his assassination",
    "last_words": "I'll need it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Folke_Bernadotte",
-   "born": "2 January 1895"
+   "born": "2 January 1895",
+   "died": "17 September 1948"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "American Congregationalist theologian and abolitionist",
    "cause": null,
    "last_words": "My anchor is well cast, and my ship, though weather-beaten, will outride the storm.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Hopkins_(theologian)",
    "died": "20 December 1803"
   },
@@ -66,8 +75,21 @@
    "desc": "Prussian and American military officer",
    "cause": null,
    "last_words": "Don't be alarmed, my son.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_von_Steuben",
    "died": "28 November 1794"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "name": "Owen Roberts",
+   "kind": "individual",
+   "desc": "British Royal Air Force officer and aviator",
+   "cause": "when his flight attendant questioned the safety of the Lockheed Lodestar prior to the aircraft crashing during takeoff",
+   "last_words": "If they are not, blame me.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Owen_Roberts_(aviator)",
+   "died": "10 April 1953"
   },
   {
    "year": 1914,
@@ -77,6 +99,7 @@
    "desc": "Australian rugby union player",
    "cause": "responding to requests to save himself during the sinking of the Rakuyo Maru",
    "last_words": "I'm staying here. In any case, I can swim to Australia if I have to.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Winston_Ide",
    "died": "12 September 1944"
   },
@@ -88,6 +111,7 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "Well, the Lord is going to get another one.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Eldon_Smith",
    "died": "15 December 1983"
   }

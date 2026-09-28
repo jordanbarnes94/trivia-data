@@ -9,8 +9,10 @@
    "desc": "Venetian traveller in Asia",
    "cause": "responding to skepticism about the content of his memoir, The Travels of Marco Polo",
    "last_words": "I have not told half of what I saw.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marco_Polo",
-   "born": "15 September 1254"
+   "born": "15 September 1254",
+   "died": "9 January 1324"
   },
   {
    "year": 1757,
@@ -20,8 +22,10 @@
    "desc": "French author",
    "cause": "dying at the age of 99",
    "last_words": "I do not suffer, my friends; I only feel a certain difficulty of living.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle",
-   "born": "11 February 1657"
+   "born": "11 February 1657",
+   "died": "9 January 1757"
   },
   {
    "year": 1873,
@@ -31,8 +35,10 @@
    "desc": "Emperor of the French",
    "cause": "speaking to his doctor, Henri Conneau",
    "last_words": "We were not cowards at Sedan, were we?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Napoleon_III",
-   "born": "20 April 1808"
+   "born": "20 April 1808",
+   "died": "9 January 1873"
   },
   {
    "year": 1923,
@@ -42,8 +48,10 @@
    "desc": "New Zealand modernist writer",
    "cause": null,
    "last_words": "I believe... I'm going to die. I love the rain. I want the feeling of it on my face.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Katherine_Mansfield",
-   "born": "14 October 1888"
+   "born": "14 October 1888",
+   "died": "9 January 1923"
   },
   {
    "year": 1985,
@@ -53,8 +61,10 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "I am about to die for a murder that I did not commit, that someone else committed ... I love the Lord and hope that God takes me into his kingdom, and goodbye, mother.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Georgia_(U.S._state)",
-   "born": null
+   "born": null,
+   "died": "9 January 1985"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "French domestic servant, attempted assassin of Louis XV",
    "cause": "during execution by dismemberment",
    "last_words": "O death, why art thou so long in coming?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert-François_Damiens",
    "died": "28 March 1757"
   },
@@ -77,6 +88,7 @@
    "desc": null,
    "cause": "The 47-year-old Russian mystic died of three gunshot wounds, one of which was a close-range shot to his forehead. Little is certain about his death beyond this, and the circumstances of his death have been the subject of considerable speculation. According to his murderer himself, Prince Felix Yusupov, Grigori Rasputin consumed tea, cakes, and wine which had been laced with cyanide but he did not appear to be affected by it. He was then shot once in the chest and believed to be dead but, after a while, he leapt up and attacked Yusupov, who freed himself and fled. Rasputin followed and made it into the courtyard before being shot again, and collapsing into a snowbank. The conspirators then wrapped his body and dropped it into the Malaya Nevka River.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Grigori_Rasputin",
    "died": "30 December 1916"
   },
@@ -88,6 +100,7 @@
    "desc": "president of the United States",
    "cause": "to a housekeeper while suffering a stroke",
    "last_words": "Help.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Nixon",
    "died": "22 April 1994"
   }

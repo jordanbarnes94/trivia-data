@@ -9,8 +9,10 @@
    "desc": "French Roman Catholic cardinal and statesman",
    "cause": "blessing his congregation while celebrating Mass",
    "last_words": "I do bless.-May Jesus and Mary bless, rule and govern.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Bérulle",
-   "born": "4 February 1575"
+   "born": "4 February 1575",
+   "died": "2 October 1629"
   },
   {
    "year": 1780,
@@ -20,8 +22,10 @@
    "desc": "British Army officer",
    "cause": "prior to being hanged as a spy by the Continental Army",
    "last_words": "I pray you to bear me witness that I meet my fate like a brave man. It will be but a momentary pang.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_André",
-   "born": "2 May 1750"
+   "born": "2 May 1750",
+   "died": "2 October 1780"
   },
   {
    "year": 1782,
@@ -31,8 +35,10 @@
    "desc": "Continental Army general",
    "cause": "dying of fever in a Philadelphia tavern",
    "last_words": "Stand by me, my brave grenadiers.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lee_(general)",
-   "born": "26 January 1731"
+   "born": "26 January 1731",
+   "died": "2 October 1782"
   },
   {
    "year": 1842,
@@ -42,8 +48,10 @@
    "desc": "American Unitarian preacher and theologian",
    "cause": null,
    "last_words": "You need not be anxious concerning tonight. It will be very peaceful and quiet with me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Ellery_Channing",
-   "born": "7 April 1780"
+   "born": "7 April 1780",
+   "died": "2 October 1842"
   },
   {
    "year": 1853,
@@ -53,8 +61,10 @@
    "desc": "French mathematician, physicist and astronomer",
    "cause": "to his associate Jean-Baptiste Biot",
    "last_words": "I intend to resign my situation of perpetual secretary to the Academy, since I can no longer discharge its duties.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Arago",
-   "born": "26 February 1786"
+   "born": "26 February 1786",
+   "died": "2 October 1853"
   },
   {
    "year": 1892,
@@ -64,8 +74,10 @@
    "desc": "French scholar",
    "cause": null,
    "last_words": "We perish, we disappear, but the march of time goes on for ever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Renan",
-   "born": "28 February 1823"
+   "born": "28 February 1823",
+   "died": "2 October 1892"
   },
   {
    "year": 1911,
@@ -75,8 +87,10 @@
    "desc": "American aviator",
    "cause": "as his biplane crashed sideways",
    "last_words": "Here I go. Here I go. Here I go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cromwell_Dixon",
-   "born": "9 July 1892"
+   "born": "9 July 1892",
+   "died": "2 October 1911"
   },
   {
    "year": 1928,
@@ -86,8 +100,10 @@
    "desc": "American newsman and de facto manager of The Wall Street Journal",
    "cause": null,
    "last_words": "What is the news?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clarence_W._Barron",
-   "born": "2 July 1855"
+   "born": "2 July 1855",
+   "died": "2 October 1928"
   },
   {
    "year": 1985,
@@ -97,8 +113,10 @@
    "desc": "American actor",
    "cause": "when asked if he wanted a cup of coffee",
    "last_words": "No, I don't believe so.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rock_Hudson",
-   "born": "17 November 1925"
+   "born": "17 November 1925",
+   "died": "2 October 1985"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": null,
    "cause": "when deserted by his best troops at the Battle of Bosworth Field",
    "last_words": "Treason! treason!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_III_of_England",
    "died": "22 August 1485"
   },
@@ -121,6 +140,7 @@
    "desc": "Indian revolutionary and pacifist",
    "cause": "shortly after being shot by Hindu nationalist Nathuram Godse",
    "last_words": "Oh God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mahatma_Gandhi",
    "died": "30 January 1948"
   },
@@ -132,19 +152,9 @@
    "desc": "American actor and comedian",
    "cause": null,
    "last_words": "This is no way to live!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Groucho_Marx",
    "died": "19 August 1977"
-  },
-  {
-   "year": 1904,
-   "year_label": "1904",
-   "name": "Lal Bahadur Shastri",
-   "kind": "individual",
-   "desc": "Prime Minister of India",
-   "cause": "to his doctors",
-   "last_words": "Oh, father. Oh, Rama!",
-   "wikipedia": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri",
-   "died": "11 January 1966"
   },
   {
    "year": 1904,
@@ -154,8 +164,21 @@
    "desc": "English novelist",
    "cause": "to his companion Yvonne Cloetta",
    "last_words": "Will it be an interesting experience? Will I find out what lies beyond the barrier? Why does it take so long to come?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Greene",
    "died": "3 April 1991"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "name": "Lal Bahadur Shastri",
+   "kind": "individual",
+   "desc": "Prime Minister of India",
+   "cause": "to his doctors",
+   "last_words": "Oh, father. Oh, Rama!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lal_Bahadur_Shastri",
+   "died": "11 January 1966"
   }
  ]
 }

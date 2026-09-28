@@ -9,8 +9,10 @@
    "desc": "American Congregational preacher",
    "cause": null,
    "last_words": "Faith and patience hold out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Payson",
-   "born": "25 July 1783"
+   "born": "25 July 1783",
+   "died": "22 October 1827"
   },
   {
    "year": 1986,
@@ -20,8 +22,10 @@
    "desc": "American rock musician and traffic reporter",
    "cause": "prior to fatal crash of WNBC Radio helicopter into Hudson River",
    "last_words": "Hit the water! Hit the water! Hit the water!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jane_Dornacker",
-   "born": "1 October 1947"
+   "born": "1 October 1947",
+   "died": "22 October 1986"
   },
   {
    "year": 1995,
@@ -31,8 +35,10 @@
    "desc": "English novelist and poet",
    "cause": null,
    "last_words": "Oh, come on.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kingsley_Amis",
-   "born": "16 April 1922"
+   "born": "16 April 1922",
+   "died": "22 October 1995"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "French politician",
    "cause": "prior to execution by guillotine",
    "last_words": "Better to suffer and to die than to lose one shade of my moral and political character.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Antoine_Barnave",
    "died": "29 November 1793"
   },
@@ -55,6 +62,7 @@
    "desc": "professional football player, United States Marine Corps officer and Medal of Honor recipient",
    "cause": "after losing his legs to a land mine at the Battle of Iwo Jima",
    "last_words": "Doc, the New York Giants lost a mighty good end today.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Lummus",
    "died": "8 March 1945"
   },
@@ -66,6 +74,7 @@
    "desc": "American psychologist and writer",
    "cause": null,
    "last_words": "Why? Why not?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Leary",
    "died": "31 May 1996"
   }

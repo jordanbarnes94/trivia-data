@@ -9,8 +9,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Let me die to the sound of delicious music.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Honoré_Gabriel_Riqueti,_comte_de_Mirabeau",
-   "born": "9 March 1749"
+   "born": "9 March 1749",
+   "died": "2 April 1791"
   },
   {
    "year": 1987,
@@ -20,8 +22,10 @@
    "desc": "American jazz drummer and bandleader",
    "cause": "to a nurse who asked him, \"Is there anything you can't take?\" He then died during surgery",
    "last_words": "Yeah, country music.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Buddy_Rich",
-   "born": "30 September 1917"
+   "born": "30 September 1917",
+   "died": "2 April 1987"
   },
   {
    "year": 1988,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "The 35-year-old veteran skydiver from Durham, North Carolina, was recording a jump by an instructor and student from the Franklin County Sports Parachute Center in Louisburg, North Carolina, when he jumped from a plane without a parachute. Focused on the recording process, he apparently forgot to put one on, and his camera equipment may have been mistaken by others in the plane for one. The tape from his helmet camera was partially recovered.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "2 April 1988"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Italian adventurer and author",
    "cause": null,
    "last_words": "I have lived as a philosopher. I die as a Christian.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Casanova",
    "died": "4 June 1798"
   },
@@ -55,6 +62,7 @@
    "desc": "president of the United States",
    "cause": "talking to his doctor",
    "last_words": "No, doctor, nothing more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Jefferson",
    "died": "4 July 1826"
   },
@@ -66,6 +74,7 @@
    "desc": "Danish children's author",
    "cause": null,
    "last_words": "Don't ask me how I am! I understand nothing more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Christian_Andersen",
    "died": "4 August 1875"
   },
@@ -77,6 +86,7 @@
    "desc": "French novelist, playwright and journalist",
    "cause": "dying of carbon monoxide poisoning from an improperly ventilated chimney",
    "last_words": "I feel sick. The dog is sick, too. We are both ill. It must be something we have eaten.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Émile_Zola",
    "died": "29 September 1902"
   },
@@ -88,6 +98,7 @@
    "desc": "American singer",
    "cause": "moments before being shot to death by his father",
    "last_words": "Mother, I'm going to get my things and get out of this house. Father hates me and I'm never coming back.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Gaye",
    "died": "1 April 1984"
   }

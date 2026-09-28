@@ -9,8 +9,10 @@
    "desc": "Roman poet",
    "cause": "forced to commit suicide after joining in a conspiracy against Nero. He died quoting lines from his own epic poem Pharsalia",
    "last_words": "Asunder flies the man- / No single wound the gaping rupture seems, / Where trickling crimson flows the tender streams; / But from an opening horrible and wide / A thousand vessels pour the bursting tide: / At once the winding channel's course was broke, / Where wandering life her mazy journey took.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucan",
-   "born": "3 November 39"
+   "born": "3 November 39",
+   "died": "30 April 65"
   },
   {
    "year": 1524,
@@ -20,8 +22,10 @@
    "desc": "French knight",
    "cause": "mortally wounded at the Battle of the Sesia (1524)",
    "last_words": "At least I may die facing the enemy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Terrail,_seigneur_de_Bayard",
-   "born": null
+   "born": null,
+   "died": "30 April 1524"
   },
   {
    "year": 1532,
@@ -31,8 +35,10 @@
    "desc": "English lawyer and Protestant reformer",
    "cause": "while burning at the stake for heresy",
    "last_words": "O ye papists: behold, ye look for miracles, and here now ye may see a miracle, for in this fire I feel no more pain than if I were in a bed of down, but it is to me as sweet as a bed of roses.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Bainham",
-   "born": null
+   "born": null,
+   "died": "30 April 1532"
   },
   {
    "year": 1900,
@@ -42,8 +48,10 @@
    "desc": "American railroader",
    "cause": "to his fireman shortly before his passenger train collided with a stalled freight train",
    "last_words": "Jump, Sim, while you have the time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Casey_Jones",
-   "born": "14 March 1863"
+   "born": "14 March 1863",
+   "died": "30 April 1900"
   },
   {
    "year": 1936,
@@ -53,8 +61,10 @@
    "desc": "English classical scholar and poet",
    "cause": "to his doctor, who had just told a risqué joke",
    "last_words": "Indeed – very good. I shall – have to repeat – that – on the Golden Floor.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/A._E._Housman",
-   "born": "26 March 1859"
+   "born": "26 March 1859",
+   "died": "30 April 1936"
   },
   {
    "year": 1945,
@@ -64,8 +74,10 @@
    "desc": "German Nazi statesman",
    "cause": "closing his last will before committing joint suicide with his wife Eva",
    "last_words": "Above all, I charge the leadership of the nation and their followers with the strict observance of the racial laws and with merciless resistance against the universal poisoners of all peoples, international Jewry.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adolf_Hitler",
-   "born": "20 April 1889"
+   "born": "20 April 1889",
+   "died": "30 April 1945"
   },
   {
    "year": 1956,
@@ -75,8 +87,10 @@
    "desc": "vice-president of the United States",
    "cause": "alluding to Psalms 84:10 just before dying of a heart attack while giving keynote address at the 1956 Washington and Lee Mock Convention",
    "last_words": "I am wiling to be a junior. I am glad to sit in the back row, for I had rather be a servant in the house of the Lord than to sit in the seats of the mighty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alben_W._Barkley",
-   "born": "24 November 1877"
+   "born": "24 November 1877",
+   "died": "30 April 1956"
   },
   {
    "year": 1987,
@@ -86,8 +100,10 @@
    "desc": null,
    "cause": "The 36-year-old astronomer was crushed to death by a hatch and a revolving telescope dome at Kitt Peak National Observatory.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marc_Aaronson",
-   "born": "24 August 1950"
+   "born": "24 August 1950",
+   "died": "30 April 1987"
   },
   {
    "year": 1998,
@@ -97,8 +113,10 @@
    "desc": "American citizen",
    "cause": "on his last home video before committing suicide on live television",
    "last_words": "I'm a dead man, see ya.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Suicide_of_Daniel_Jones",
-   "born": "15 April 1958"
+   "born": "15 April 1958",
+   "died": "30 April 1998"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": null,
    "cause": null,
    "last_words": "I am a dead man! Lord, have mercy upon me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gaston_III,_Count_of_Foix",
    "died": "1 August 1391"
   },
@@ -121,6 +140,7 @@
    "desc": null,
    "cause": "when the clergyman reading the prayers for the sick paused due to being overcome by grief",
    "last_words": "My Lord, why do you not go on? I am not afraid to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_II_of_England",
    "died": "28 December 1694"
   },
@@ -132,6 +152,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Tired-very tired-a long journey-to take.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kaspar_Hauser",
    "died": "17 December 1833"
   },
@@ -143,6 +164,7 @@
    "desc": "German politician, Minister of Foreign Affairs of Nazi Germany",
    "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
    "last_words": "God protect Germany. May I say something else? My last wish is that Germany realize its entity and that an understanding be reached between the East and the West. I wish peace to the world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joachim_von_Ribbentrop",
    "died": "16 October 1946"
   },
@@ -154,6 +176,7 @@
    "desc": "American country, honky tonk and rockabilly musician",
    "cause": "to his manager Tillman Franks shortly before he was killed in a car accident",
    "last_words": "Tillman, you know, God has been very good to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Horton",
    "died": "5 November 1960"
   },
@@ -165,6 +188,7 @@
    "desc": "American astronaut",
    "cause": "one minute and thirteen seconds after liftoff",
    "last_words": "*\"Uh oh.\"",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_J._Smith",
    "died": "28 January 1986"
   }

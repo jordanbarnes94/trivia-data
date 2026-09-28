@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The 20-year-old was watching an amateur baseball game in Morristown, Ohio when a foul ball struck him in the hand, driving a knife he was passing to one of his friends into his chest. His friends asked if he was hurt and he said \"not much\", but the wound soon began to bleed heavily and he died within minutes.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "25 October 1902"
   },
   {
    "year": 1920,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The 27-year-old Greek king died of sepsis after being bitten by a palace steward's pet Barbary macaque in his garden, while trying to break up a fight between his German shepherd and another monkey.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_of_Greece",
-   "born": "1 August 1893"
+   "born": "1 August 1893",
+   "died": "25 October 1920"
   },
   {
    "year": 1957,
@@ -31,8 +35,10 @@
    "desc": "Italian-American mobster",
    "cause": "He was assassinated while in the barber's chair at the Park Sheraton Hotel in Midtown Manhattan",
    "last_words": "A quick haircut.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Anastasia",
-   "born": "26 September 1902"
+   "born": "26 September 1902",
+   "died": "25 October 1957"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": null,
    "cause": "prior to execution by hanging, beheading and quartering",
    "last_words": "The covenant which I took, I own it and adhere to it. Bishops, I do not care for them. I never intended to advance their interests.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Graham,_1st_Marquess_of_Montrose",
    "died": "21 May 1650"
   },
@@ -55,6 +62,7 @@
    "desc": "British historian and politician",
    "cause": "to his butler",
    "last_words": "I shall retire early; I am very tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay",
    "died": "28 December 1859"
   },
@@ -66,6 +74,7 @@
    "desc": "Austrian composer",
    "cause": "in response to being asked to get some sleep",
    "last_words": "I will, whatever happens.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Strauss_II",
    "died": "3 June 1899"
   },
@@ -77,6 +86,7 @@
    "desc": "French composer",
    "cause": null,
    "last_words": "I am in a cold sweat. Is it the sweat of death? How are you going to tell my father?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georges_Bizet",
    "died": "3 June 1875"
   },
@@ -88,6 +98,7 @@
    "desc": "Spanish artist",
    "cause": null,
    "last_words": "Drink to me, drink to my health. You know I can't drink anymore.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pablo_Picasso",
    "died": "8 April 1973"
   }

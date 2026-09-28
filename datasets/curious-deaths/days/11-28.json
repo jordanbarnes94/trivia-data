@@ -9,8 +9,10 @@
    "desc": "Prussian and American military officer",
    "cause": null,
    "last_words": "Don't be alarmed, my son.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_von_Steuben",
-   "born": "17 September 1730"
+   "born": "17 September 1730",
+   "died": "28 November 1794"
   },
   {
    "year": 1859,
@@ -20,8 +22,10 @@
    "desc": "American writer and diplomat",
    "cause": null,
    "last_words": "Well, I must arrange my pillows for another night – when will this end!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Washington_Irving",
-   "born": "3 April 1783"
+   "born": "3 April 1783",
+   "died": "28 November 1859"
   },
   {
    "year": 1936,
@@ -31,8 +35,10 @@
    "desc": "Spanish comic playwright",
    "cause": "to his firing squad during the Paracuellos massacres",
    "last_words": "I am starting to believe you are not intending to count me among your friends!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pedro_Muñoz_Seca",
-   "born": "20 February 1879"
+   "born": "20 February 1879",
+   "died": "28 November 1936"
   },
   {
    "year": 1940,
@@ -42,8 +48,10 @@
    "desc": "Second World War British fighter ace",
    "cause": "prior to being shot down and killed",
    "last_words": "I've finished a 109-Whoopee!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Dundas_(RAF_officer)",
-   "born": "19 August 1915"
+   "born": "19 August 1915",
+   "died": "28 November 1940"
   },
   {
    "year": 1987,
@@ -53,8 +61,10 @@
    "desc": "pilot of South African Airways Flight 295",
    "cause": "just after declared an emergency following an in-flight fire before planning to head to Mauritius for an emergency attempt",
    "last_words": "Kay.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/South_African_Airways_Flight_295",
-   "born": null
+   "born": null,
+   "died": "28 November 1987"
   },
   {
    "year": 1992,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "While the 38-year-old was vacationing at the Grand Canyon in Coconino County, Arizona, with his teenaged daughter, he began to play-act losing his balance to frighten her. His daughter, unimpressed with his antics, walked on. Gingrich, however, missed his footing and fell approximately 400 ft into the canyon to his death.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "28 November 1992"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English writer and preacher",
    "cause": null,
    "last_words": "Take me, for I come to Thee.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bunyan",
    "died": "31 August 1688"
   },
@@ -88,6 +101,7 @@
    "desc": null,
    "cause": "The French composer died of a gangrenous abscess after accidentally piercing his foot with a staff while he was vigorously conducting a Te Deum. It was customary at that time to conduct by banging a staff on the floor. He refused to have his leg amputated so he could still dance.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Baptiste_Lully",
    "died": "22 March 1687"
   },
@@ -99,6 +113,7 @@
    "desc": "King of Spain",
    "cause": null,
    "last_words": "I don't deserve to be cared for as you have cared for me. I know that when I have gone you will care for Spain as I have myself.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfonso_XII",
    "died": "25 November 1885"
   },
@@ -110,6 +125,7 @@
    "desc": "Austrian writer",
    "cause": "in his last testament before committing suicide with his wife, Lotte Altmann",
    "last_words": "I think it better to conclude in good time and in erect bearing a life in which intellectual labour meant the purest joy and personal freedom the highest good on Earth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Zweig",
    "died": "22 February 1942"
   },
@@ -121,6 +137,7 @@
    "desc": "VC, British Army soldier",
    "cause": "to fellow soldiers after holding off the enemy for four hours with a Vickers machine gun at Hervilly Wood, France, during World War I",
    "last_words": "Save yourselves. I'll carry on.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herbert_George_Columbine",
    "died": "22 March 1918"
   },
@@ -132,6 +149,7 @@
    "desc": "American actor and aviator",
    "cause": "radio transmission after 1957 Pacoima mid-air collision",
    "last_words": "Were a midair collision – midair collision, 10 How we are going in-uncontrollable – uncontrollable – we are...we've had it boy – poor jet too – told you we should take chutes – say goodbye to everybody.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Archie_R._Twitchell",
    "died": "31 January 1957"
   },
@@ -143,6 +161,7 @@
    "desc": "American test pilot",
    "cause": "prior to failed ejection from Ryan XV-5 Vertifan",
    "last_words": "I've got to get out!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lou_Everett",
    "died": "27 April 1965"
   }

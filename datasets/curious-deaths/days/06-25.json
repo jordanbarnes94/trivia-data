@@ -4,24 +4,28 @@
   {
    "year": 1876,
    "year_label": "1876",
-   "name": "George Armstrong Custer",
-   "kind": "individual",
-   "desc": "United States Army officer",
-   "cause": "to Sergeant Charles Windolph prior to the Battle of the Little Bighorn",
-   "last_words": "Orderly, I want you to take a message to Colonel Benteen. Ride as fast as you can and tell him to hurry. Tell him it's a big village and I want him to be quick, and to bring the ammunition packs.",
-   "wikipedia": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
-   "born": "5 December 1839"
-  },
-  {
-   "year": 1876,
-   "year_label": "1876",
    "name": "Boston Custer",
    "kind": "individual",
    "desc": "United States Army civilian contractor, brother of George Armstrong Custer and Thomas Custer",
    "cause": "asking about the location of his brother George prior to his death at the Battle of the Little Bighorn",
    "last_words": "Where's the General?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Boston_Custer",
-   "born": "31 October 1848"
+   "born": "31 October 1848",
+   "died": "25 June 1876"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "name": "George Armstrong Custer",
+   "kind": "individual",
+   "desc": "United States Army officer",
+   "cause": "to Sergeant Charles Windolph prior to the Battle of the Little Bighorn",
+   "last_words": "Orderly, I want you to take a message to Colonel Benteen. Ride as fast as you can and tell him to hurry. Tell him it's a big village and I want him to be quick, and to bring the ammunition packs.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
+   "born": "5 December 1839",
+   "died": "25 June 1876"
   },
   {
    "year": 1894,
@@ -31,8 +35,10 @@
    "desc": "President of France",
    "cause": "mortally wounded by assassin, to Dr. Antonin Poncet, who told him his friends were there",
    "last_words": "I am grateful for your presence.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sadi_Carnot_(statesman)",
-   "born": "11 August 1837"
+   "born": "11 August 1837",
+   "died": "25 June 1894"
   },
   {
    "year": 1939,
@@ -42,8 +48,10 @@
    "desc": "British racing driver",
    "cause": "on his deathbed after being fatally burned in a racing crash",
    "last_words": "I was going too fast for the conditions – it was entirely my own fault – I am sorry.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Seaman",
-   "born": "4 February 1913"
+   "born": "4 February 1913",
+   "died": "25 June 1939"
   },
   {
    "year": 1988,
@@ -53,8 +61,10 @@
    "desc": "Israeli-American musician",
    "cause": "in a phone conversation with his brother before dying of a heroin overdose",
    "last_words": "I know, I love you, bro.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hillel_Slovak",
-   "born": "13 April 1962"
+   "born": "13 April 1962",
+   "died": "25 June 1988"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "English-born Irish writer",
    "cause": "facing a firing squad",
    "last_words": "Take a step or two closer, lads. It will be easier that way.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erskine_Childers_(author)",
    "died": "24 November 1922"
   },
@@ -77,6 +88,7 @@
    "desc": "British Royal Navy officer and statesman",
    "cause": "prior to death in IRA bombing of his fishing boat",
    "last_words": "Do you really think the IRA would think me a worthwhile target?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma",
    "died": "27 August 1979"
   }

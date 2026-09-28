@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "According to Henry of Huntington, while visiting relatives, the English king ate too many lampreys against his physician's advice, causing a pain in his gut which led to his death.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_I_of_England",
-   "born": null
+   "born": null,
+   "died": "1 December 1135"
   },
   {
    "year": 1521,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "rumored to have died by poison",
    "last_words": "I have been murdered; no remedy can prevent my speedy death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Leo_X",
-   "born": "11 December 1475"
+   "born": "11 December 1475",
+   "died": "1 December 1521"
   },
   {
    "year": 1825,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "to his wife, Elizabeth Alexeievna (Louise of Baden)",
    "last_words": "You must be tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_I_of_Russia",
-   "born": "12 December 1777"
+   "born": "12 December 1777",
+   "died": "1 December 1825"
   },
   {
    "year": 1974,
@@ -42,8 +48,10 @@
    "desc": "first officer of Northwest Orient Airlines Flight 6231",
    "cause": "before plane crashed in Harriman State Park (New York)",
    "last_words": "Pull now ... pull, that's it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_A._Zadra",
-   "born": null
+   "born": null,
+   "died": "1 December 1974"
   },
   {
    "year": 1987,
@@ -53,8 +61,10 @@
    "desc": "American author and activist",
    "cause": null,
    "last_words": "I'm bored.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Baldwin",
-   "born": "2 August 1924"
+   "born": "2 August 1924",
+   "died": "1 December 1987"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": "The 35-year-old Canadian physicist and Manhattan Project scientist died as the result of an accident while performing an experiment called \"tickling the dragon's tail\". Slotin used a screwdriver to separate two half sphere-shaped neutron deflectors enclosing a plutonium core which came to be known as the \"demon core\" to observe how much he can deflect the neutron without the core going over its critical mass. His screwdriver slipped, causing the top deflector to fully encase the core, resulting into a criticality accident that exposed him to a fatal dose of radiation. Slotin died 9 days later; the other people in the room observing the experiment survived.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Slotin",
    "died": "30 May 1946"
   },
@@ -77,6 +88,7 @@
    "desc": null,
    "cause": "The 28-year-old professional footballer for S.S. Lazio and the Italy national football team was shot while pretending to rob a jeweller as a practical joke.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Luciano_Re_Cecconi",
    "died": "18 January 1977"
   }

@@ -9,8 +9,10 @@
    "desc": "Archbishop of St Andrews",
    "cause": null,
    "last_words": "I shall be happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Sharp_(bishop)",
-   "born": "4 May 1613"
+   "born": "4 May 1613",
+   "died": "3 May 1679"
   },
   {
    "year": 1758,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Sic transit gloria mundi.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Benedict_XIV",
-   "born": "31 March 1675"
+   "born": "31 March 1675",
+   "died": "3 May 1758"
   },
   {
    "year": 1784,
@@ -31,8 +35,10 @@
    "desc": "French-American abolitionist and educator",
    "cause": "to his wife",
    "last_words": "We have lived long, in love and peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Benezet",
-   "born": "31 January 1713"
+   "born": "31 January 1713",
+   "died": "3 May 1784"
   },
   {
    "year": 1845,
@@ -42,8 +48,10 @@
    "desc": "English poet, author and humorist",
    "cause": null,
    "last_words": "Dying, Dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hood",
-   "born": "23 May 1799"
+   "born": "23 May 1799",
+   "died": "3 May 1845"
   },
   {
    "year": 1863,
@@ -53,8 +61,10 @@
    "desc": "American politician and Union general of the American Civil War",
    "cause": "mortally wounded at the Battle of Chancellorsville",
    "last_words": "I am dying, carry me to the rear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hiram_Gregory_Berry",
-   "born": "27 August 1824"
+   "born": "27 August 1824",
+   "died": "3 May 1863"
   },
   {
    "year": 1916,
@@ -64,8 +74,10 @@
    "desc": "Irish author and revolutionary",
    "cause": "on his way to execution by firing squad",
    "last_words": "(Whistling)",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Pearse",
-   "born": "10 November 1879"
+   "born": "10 November 1879",
+   "died": "3 May 1916"
   },
   {
    "year": 1987,
@@ -75,8 +87,10 @@
    "desc": "Italian-French singer and actress",
    "cause": "writing her suicide note",
    "last_words": "Life is unbearable for me. Forgive me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dalida",
-   "born": "17 January 1933"
+   "born": "17 January 1933",
+   "died": "3 May 1987"
   },
   {
    "year": 1991,
@@ -86,8 +100,10 @@
    "desc": "Polish-American novelist",
    "cause": "in his suicide note",
    "last_words": "I am going to put myself to sleep now for a bit longer than usual. Call it Eternity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jerzy_Kosiński",
-   "born": "14 June 1933"
+   "born": "14 June 1933",
+   "died": "3 May 1991"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": null,
    "cause": "Italian Renaissance diplomat, philosopher and writer",
    "last_words": "I desire to go to hell, and not to heaven. In the former place I shall enjoy the company of popes, kings, and princes, while in the latter are only beggars, monks, hermits, and apostles.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Niccolò_Machiavelli",
    "died": "21 June 1527"
   },
@@ -110,6 +127,7 @@
    "desc": "sister of Louis XVI",
    "cause": "when her fichu fell from her neck prior to her execution by guillotine",
    "last_words": "I pray you, gentlemen, in the name of modesty, suffer me to cover my bosom.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Élisabeth_of_France",
    "died": "10 May 1794"
   },
@@ -121,6 +139,7 @@
    "desc": "American bishop of the Methodist Episcopal Church, South",
    "cause": null,
    "last_words": "God bless you all!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Osgood_Andrew",
    "died": "2 March 1871"
   },
@@ -132,6 +151,7 @@
    "desc": "American singer and actor",
    "cause": "moments before collapsing and dying of a heart attack",
    "last_words": "That was a great game of golf, fellas. Let's go have a Coca-Cola.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bing_Crosby",
    "died": "14 October 1977"
   }

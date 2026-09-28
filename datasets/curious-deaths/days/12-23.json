@@ -9,8 +9,10 @@
    "desc": "American cowboy and outlaw, associate of Billy the Kid",
    "cause": "shot dead in an ambush",
    "last_words": "I wish...I wish...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Bowdre",
-   "born": null
+   "born": null,
+   "died": "23 December 1880"
   }
  ],
  "born": [
@@ -22,6 +24,7 @@
    "desc": "Scottish minister and author",
    "cause": null,
    "last_words": "My Christ.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Brown_of_Haddington",
    "died": "19 June 1787"
   },
@@ -33,6 +36,7 @@
    "desc": "founder of Mormonism",
    "cause": "before falling from a window during his murder",
    "last_words": "O Lord my God!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Smith",
    "died": "27 June 1844"
   }

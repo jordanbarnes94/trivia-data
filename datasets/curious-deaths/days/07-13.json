@@ -9,8 +9,10 @@
    "desc": "English priest and perjurer, fabricator of the \"Popish Plot\"",
    "cause": null,
    "last_words": "It is all the same in the end.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Titus_Oates",
-   "born": "15 September 1649"
+   "born": "15 September 1649",
+   "died": "13 July 1705"
   },
   {
    "year": 1793,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "to his wife, after being stabbed by Charlotte Corday",
    "last_words": "Help! help me, my dear!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Marat",
-   "born": "24 May 1743"
+   "born": "24 May 1743",
+   "died": "13 July 1793"
   },
   {
    "year": 1900,
@@ -31,8 +35,10 @@
    "desc": "United States Army colonel",
    "cause": "dying after being shot at the Battle of Tientsin",
    "last_words": "Keep up the fire, men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emerson_H._Liscum",
-   "born": "16 July 1841"
+   "born": "16 July 1841",
+   "died": "13 July 1900"
   },
   {
    "year": 1924,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "While attempting to turn around at Grand View in Yellowstone National Park, the Dunns somehow backed their car over a cliff, despite a tree barrier that would normally have made this impossible. The vehicle fell 800 ft and then rolled another 200 ft.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "13 July 1924"
   },
   {
    "year": 1943,
@@ -53,8 +61,10 @@
    "desc": "Russian-German student and member of the White Rose resistance movement",
    "cause": "on being asked if his name was Alexander Schmorell prior to his execution via guillotine",
    "last_words": "Yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Schmorell",
-   "born": "16 September 1917"
+   "born": "16 September 1917",
+   "died": "13 July 1943"
   },
   {
    "year": 1951,
@@ -64,8 +74,10 @@
    "desc": "Austrian-American composer",
    "cause": null,
    "last_words": "Harmony.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
-   "born": "13 September 1874"
+   "born": "13 September 1874",
+   "died": "13 July 1951"
   },
   {
    "year": 1967,
@@ -75,8 +87,10 @@
    "desc": "British cyclist",
    "cause": "asking to be put back on his bike prior to his death on Mont Ventoux during the 1967 Tour de France",
    "last_words": "On! On! On!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Simpson",
-   "born": "30 November 1937"
+   "born": "30 November 1937",
+   "died": "13 July 1967"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "United States Navy sailor and Medal of Honor recipient",
    "cause": "refusing to evacuate flooded air compressor compartment aboard USS California (BB-44) during the attack on Pearl Harbor",
    "last_words": "As long as I can give these people air, I'm sticking.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_R._Scott",
    "died": "7 December 1941"
   }

@@ -9,8 +9,10 @@
    "desc": "French poet, soldier, propagandist and chronicler",
    "cause": null,
    "last_words": "It comes at last, the happy day: Let thanks be given to God in heaven, while we learn pleasure in His way.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Agrippa_d'Aubigné",
-   "born": "8 February 1552"
+   "born": "8 February 1552",
+   "died": "29 April 1630"
   },
   {
    "year": 1707,
@@ -20,8 +22,10 @@
    "desc": "Irish dramatist",
    "cause": "to his friend Robert Wilks",
    "last_words": "Dear Bob, I have nothing to leave thee to perpetuate my memory but two helpless girls. Look upon them sometimes, and think of him who was to the last moment of his life thine, George Farquhar.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Farquhar",
-   "born": null
+   "born": null,
+   "died": "29 April 1707"
   },
   {
    "year": 1771,
@@ -31,8 +35,10 @@
    "desc": "French writer",
    "cause": null,
    "last_words": "The priest could never draw another thing from dying but 'Dear Sir, you are so kind.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Petit_de_Bachaumont",
-   "born": "2 June 1690"
+   "born": "2 June 1690",
+   "died": "29 April 1771"
   },
   {
    "year": 1951,
@@ -42,8 +48,10 @@
    "desc": "Austrian philosopher",
    "cause": "upon being told that his close friends would come to visit him the next day",
    "last_words": "Tell them I've had a wonderful life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
-   "born": "26 April 1889"
+   "born": "26 April 1889",
+   "died": "29 April 1951"
   },
   {
    "year": 1980,
@@ -53,8 +61,10 @@
    "desc": "KBE, English filmmaker",
    "cause": null,
    "last_words": "One never knows the ending. One has to die to know exactly what happens after death, although Catholics have their hopes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alfred_Hitchcock",
-   "born": "13 August 1899"
+   "born": "13 August 1899",
+   "died": "29 April 1980"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "English aviator and aircraft designer",
    "cause": "dying in hospital after being knocked down while lighting a firework in Hythe, Kent, by a passer-by to whom he claimed he was an IRA man planning to blow up the town hall The 42-year-old aviator and aircraft designer was attempting to light a firework in Hythe, Kent, when a passerby enquired what he was doing; he replied sarcastically that he was an IRA man planning to blow up the town hall. The passerby responded by knocking down Comper, who hit his head on the curb.",
    "last_words": "I didn't know prisons had such comfortable beds.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Comper",
    "died": "17 June 1939"
   },
@@ -77,6 +88,7 @@
    "desc": null,
    "cause": "a last message to Shoichi Fujimori, commissioner of Imperial Household Agency",
    "last_words": "I believe that the image of walking through, these turbulent times live on people's hearts for a long time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hirohito",
    "died": "7 January 1989"
   }

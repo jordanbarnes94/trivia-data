@@ -9,8 +9,10 @@
    "desc": "Italian noblewoman, professed member of the Third Order of Saint Francis",
    "cause": "quoting Jesus",
    "last_words": "Father, into Thy hands I commend my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludovica_Albertoni",
-   "born": null
+   "born": null,
+   "died": "31 January 1533"
   },
   {
    "year": 1945,
@@ -20,8 +22,10 @@
    "desc": "American soldier",
    "cause": "to the attending military chaplain, before his execution for desertion",
    "last_words": "Okay, Father. I'll pray that you don't follow me too soon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eddie_Slovik",
-   "born": "18 February 1920"
+   "born": "18 February 1920",
+   "died": "31 January 1945"
   },
   {
    "year": 1957,
@@ -31,8 +35,10 @@
    "desc": "American actor and aviator",
    "cause": "radio transmission after 1957 Pacoima mid-air collision",
    "last_words": "Were a midair collision – midair collision, 10 How we are going in-uncontrollable – uncontrollable – we are...we've had it boy – poor jet too – told you we should take chutes – say goodbye to everybody.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Archie_R._Twitchell",
-   "born": "28 November 1906"
+   "born": "28 November 1906",
+   "died": "31 January 1957"
   },
   {
    "year": 1969,
@@ -42,8 +48,10 @@
    "desc": "Indian spiritual master",
    "cause": "last words spoken on 10 July 1925, after which he observed silence for the rest of his life",
    "last_words": "Don't worry, be happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Meher_Baba",
-   "born": "25 February 1894"
+   "born": "25 February 1894",
+   "died": "31 January 1969"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": "The son of George II of Great Britain and father of George III died of a pulmonary embolism, but was commonly claimed to have been killed by being struck by a cricket ball.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick,_Prince_of_Wales",
    "died": "31 March 1751"
   },
@@ -66,6 +75,7 @@
    "desc": "French-American abolitionist and educator",
    "cause": "to his wife",
    "last_words": "We have lived long, in love and peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Benezet",
    "died": "3 May 1784"
   },
@@ -77,6 +87,7 @@
    "desc": "American statesman and Founding Father of the United States",
    "cause": "quoting from Elegy Written in a Country Churchyard by Thomas Gray on being told the weather was fine",
    "last_words": "A beautiful day, yes, but- / 'Who, to dumb forgetfulness a prey, / This pleasing, anxious being e'er resigned; / Left the warm precincts of the cheerful day, / Nor cast one longing, lingering look behind?'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gouverneur_Morris",
    "died": "6 November 1816"
   },
@@ -88,6 +99,7 @@
    "desc": "Austrian composer",
    "cause": null,
    "last_words": "Here, here is my end.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Franz_Schubert",
    "died": "19 November 1828"
   },
@@ -99,6 +111,7 @@
    "desc": "American actress",
    "cause": null,
    "last_words": "Codeine... bourbon.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tallulah_Bankhead",
    "died": "12 December 1968"
   },
@@ -110,6 +123,7 @@
    "desc": "American operatic tenor and actor",
    "cause": "over the phone to his wife",
    "last_words": "I love you, Betty...Betty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mario_Lanza",
    "died": "7 October 1959"
   },
@@ -121,6 +135,7 @@
    "desc": "English film director, stage designer and author",
    "cause": null,
    "last_words": "I want the world to be filled with white fluffy duckies.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Derek_Jarman",
    "died": "19 February 1994"
   },
@@ -132,6 +147,7 @@
    "desc": "American lead singer and guitarist for Chicago",
    "cause": "of the band Chicago, before putting what he thought was an unloaded pistol to his temple and pulling the trigger before accidentally shooting himself",
    "last_words": "What do you think I'm gonna do? Blow my brains out?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Terry_Kath",
    "died": "23 January 1978"
   }

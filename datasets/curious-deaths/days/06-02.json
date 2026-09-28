@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": "to his assassin",
    "last_words": "But what evil have I done? Whom have I killed?\"",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Didius_Julianus",
-   "born": null
+   "born": "29 January 133",
+   "died": "2 June 193"
   },
   {
    "year": 1833,
@@ -20,8 +22,10 @@
    "desc": "Irish bare-knuckle boxer",
    "cause": "dying after fight against James Burke",
    "last_words": "If I should die, it will not be for the beating I received, but from mortification. I would rather have died than been beaten in that fight.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Simon_Byrne",
-   "born": null
+   "born": null,
+   "died": "2 June 1833"
   },
   {
    "year": 1937,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "During a carbuncle removal operation, an electric cautery ignited gases from the patient's lungs. This caused an explosion which killed Taylor and injured two nurses.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "2 June 1937"
   },
   {
    "year": 1961,
@@ -42,8 +48,10 @@
    "desc": "American playwright",
    "cause": null,
    "last_words": "I'm not afraid any more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_S._Kaufman",
-   "born": "16 November 1889"
+   "born": "16 November 1889",
+   "died": "2 June 1961"
   },
   {
    "year": 1997,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 18-year-old from Napa, California, died on a school field trip when students tried to fit as many kids as possible on a water slide, causing it to collapse under their combined weight. At least 30 others were injured.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Six_Flags_Hurricane_Harbor_Concord",
-   "born": null
+   "born": null,
+   "died": "2 June 1997"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "French writer",
    "cause": null,
    "last_words": "The priest could never draw another thing from dying but 'Dear Sir, you are so kind.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Petit_de_Bachaumont",
    "died": "29 April 1771"
   },
@@ -77,6 +88,7 @@
    "desc": "American planter and politician",
    "cause": null,
    "last_words": "Write that word 'Remorse'; show it to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Randolph_of_Roanoke",
    "died": "24 May 1833"
   },
@@ -88,6 +100,7 @@
    "desc": "English author",
    "cause": "quoting Job 13:15",
    "last_words": "Though He slay me, yet will I trust in Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Grace_Aguilar",
    "died": "16 September 1847"
   },
@@ -99,6 +112,7 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": null,
    "last_words": "Now I begin to think the end is approaching. The Almighty in His inexhaustible goodness wishes to spare me the horrors which Europe is undergoing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_X",
    "died": "20 August 1914"
   }

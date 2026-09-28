@@ -9,8 +9,10 @@
    "desc": "French poet",
    "cause": "addressing the window of Holyrood Palace before being hanged for hiding under the bed of Mary, Queen of Scots",
    "last_words": "Farewell, thou who art so beautiful and so cruel; who killest me and whom I cannot cease to love.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Bocosel_de_Chastelard",
-   "born": null
+   "born": null,
+   "died": "22 February 1563"
   },
   {
    "year": 1933,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "Five people, called the \"Murder Trust,\" planned to kill Malloy for life insurance. Over the course of two months, they added antifreeze, turpentine, horse liniment, and finally rat poison in his alcohol, but Malloy drank it with no problems whatsoever. They then tried feeding him wood alcohol, expired oysters, and then a sandwich made of expired sardines and shrapnel, none of which had the desired effect. The group then tried to freeze him to death, and when that failed they ran him over twice with a taxi, from which Malloy recovered. Finally, they connected a hose to a coal gas jet and placed it in his mouth, which caused his death from carbon monoxide poisoning. Malloy was given nicknames such as \"Mike the Durable\", \"Iron Mike\", and \"The Irish Rasputin\".",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Malloy",
-   "born": null
+   "born": null,
+   "died": "22 February 1933"
   },
   {
    "year": 1942,
@@ -31,19 +35,10 @@
    "desc": "Austrian writer",
    "cause": "in his last testament before committing suicide with his wife, Lotte Altmann",
    "last_words": "I think it better to conclude in good time and in erect bearing a life in which intellectual labour meant the purest joy and personal freedom the highest good on Earth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Zweig",
-   "born": "28 November 1881"
-  },
-  {
-   "year": 1943,
-   "year_label": "1943",
-   "name": "Sophie Scholl",
-   "kind": "individual",
-   "desc": "member of White Rose anti-Nazi resistance movement, sister of Hans Scholl",
-   "cause": "before she was taken for beheading by guillotine",
-   "last_words": "How can we expect righteousness to prevail when there is hardly anyone willing to give himself up individually to a righteous cause... It is such a splendid sunny day, and I have to go. But how many have to die on the battlefield in these days, how many young, promising lives. What does my death matter if by our acts thousands are warned and alerted. Among the student body there will certainly be a revolt.",
-   "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Scholl",
-   "born": "9 May 1921"
+   "born": "28 November 1881",
+   "died": "22 February 1942"
   },
   {
    "year": 1943,
@@ -53,8 +48,23 @@
    "desc": "co-founder of White Rose resistance movement",
    "cause": "a moment before he was beheaded by guillotine",
    "last_words": "Long live freedom!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Scholl",
-   "born": "22 September 1918"
+   "born": "22 September 1918",
+   "died": "22 February 1943"
+  },
+  {
+   "year": 1943,
+   "year_label": "1943",
+   "name": "Sophie Scholl",
+   "kind": "individual",
+   "desc": "member of White Rose anti-Nazi resistance movement, sister of Hans Scholl",
+   "cause": "before she was taken for beheading by guillotine",
+   "last_words": "How can we expect righteousness to prevail when there is hardly anyone willing to give himself up individually to a righteous cause... It is such a splendid sunny day, and I have to go. But how many have to die on the battlefield in these days, how many young, promising lives. What does my death matter if by our acts thousands are warned and alerted. Among the student body there will certainly be a revolt.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sophie_Scholl",
+   "born": "9 May 1921",
+   "died": "22 February 1943"
   },
   {
    "year": 1967,
@@ -64,8 +74,10 @@
    "desc": "American pilot",
    "cause": "in apparent suicide note (alluding to Galatians 6:7). Ferrie's autopsy concluded that he had died of natural causes",
    "last_words": "To leave this life, to me, is a sweet prospect. When you read this I will be quite dead and no answer will be possible. All I can say is that I offered you love, and the best I could. All I got in return in the end was a kick in the teeth. Thus I die alone and unloved. As you sowed, so shall you reap.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_Ferrie",
-   "born": "28 March 1918"
+   "born": "28 March 1918",
+   "died": "22 February 1967"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "president of the United States",
    "cause": "to Dr. James Craik and his personal secretary, Tobias Lear",
    "last_words": "I die hard, but I am not afraid to go... I am just going. Have me decently buried, and do not let my body be put into the vault in less than two days after I am dead. Do you understand me? 'Tis well.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Washington",
    "died": "14 December 1799"
   },
@@ -88,6 +101,7 @@
    "desc": null,
    "cause": "killed in Bazar de la Charité fire in Paris",
    "last_words": "In a few minutes, think that we will see God, that we will be in Heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Duchess_Sophie_Charlotte_in_Bavaria",
    "died": "4 May 1897"
   },
@@ -99,6 +113,7 @@
    "desc": "British actor and comedian",
    "cause": "the last words he wrote in his diary",
    "last_words": "Oh, what's the bloody point?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_Williams",
    "died": "15 April 1988"
   },
@@ -110,6 +125,7 @@
    "desc": "Lithuanian high school student",
    "cause": "prior to committing suicide by self-immolation to protest the Soviet regime in Lithuania",
    "last_words": "Blame only the regime for my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Romas_Kalanta",
    "died": "14 May 1972"
   }

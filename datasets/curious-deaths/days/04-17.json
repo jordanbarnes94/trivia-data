@@ -9,8 +9,10 @@
    "desc": "American statesman and scientist",
    "cause": "complaining about the difficulty of assuming a more comfortable position on his deathbed",
    "last_words": "A dying man can do nothing easy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Franklin",
-   "born": "17 January 1706"
+   "born": "17 January 1706",
+   "died": "17 April 1790"
   },
   {
    "year": 1825,
@@ -20,8 +22,10 @@
    "desc": "Swiss painter, draughtsman and writer on art",
    "cause": "anticipating the arrival of a friend",
    "last_words": "Is Lawrence come-is Lawrence come?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Fuseli",
-   "born": "7 February 1741"
+   "born": "7 February 1741",
+   "died": "17 April 1825"
   },
   {
    "year": 1884,
@@ -31,8 +35,10 @@
    "desc": "American writer, artist and art patron, brother-in-law of Henry Wadsworth Longfellow",
    "cause": null,
    "last_words": "How interesting this all is! It will be a new experience.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Gold_Appleton",
-   "born": "31 March 1812"
+   "born": "31 March 1812",
+   "died": "17 April 1884"
   },
   {
    "year": 1945,
@@ -42,8 +48,10 @@
    "desc": "Dutch Resistance Fighter",
    "cause": "mocking her two executioners after the first shot grazed off her",
    "last_words": "I shoot better!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hannie_Schaft",
-   "born": "16 September 1920"
+   "born": "16 September 1920",
+   "died": "17 April 1945"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": "bleeding to death after being wounded by nihilist bomb",
    "last_words": "I am sweeping through the gates, washed in the blood of the Lamb.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_II_of_Russia",
    "died": "13 March 1881"
   },
@@ -66,6 +75,7 @@
    "desc": "American financier and banker",
    "cause": null,
    "last_words": "Don't baby me so!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/J._P._Morgan",
    "died": "31 March 1913"
   },
@@ -77,6 +87,7 @@
    "desc": null,
    "cause": "The 63-year-old American actor slipped on a rug in his apartment while intoxicated, gashed his head open on a bedside table and bled to death without calling for help. His body was discovered four days later.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Holden",
    "died": "12 November 1981"
   }

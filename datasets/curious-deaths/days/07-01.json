@@ -9,8 +9,10 @@
    "desc": "English Reformer and Protestant martyr",
    "cause": "to John Leaf, a fellow martyr, prior to being burned at the stake",
    "last_words": "Be of good comfort, brother, for we shall have a merry supper with the Lord this night: if there be any way to heaven on horseback or in fiery chariots, this is it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bradford",
-   "born": null
+   "born": null,
+   "died": "1 July 1555"
   },
   {
    "year": 1766,
@@ -20,8 +22,10 @@
    "desc": "French nobleman",
    "cause": "prior to execution by beheading for blasphemy and sacrilege",
    "last_words": "I did not think that they would put a young gentleman to death for such a trifle.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François-Jean_de_la_Barre",
-   "born": "12 September 1745"
+   "born": "12 September 1745",
+   "died": "1 July 1766"
   },
   {
    "year": 1863,
@@ -31,8 +35,10 @@
    "desc": "Union general of the American Civil War",
    "cause": "prior to being fatally shot at the Battle of Gettysburg",
    "last_words": "Forward men forward for God's sake and drive those fellows out of those woods.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_F._Reynolds",
-   "born": "20 September 1820"
+   "born": "20 September 1820",
+   "died": "1 July 1863"
   },
   {
    "year": 1864,
@@ -42,8 +48,10 @@
    "desc": "Mayor of Boston and President of Harvard University",
    "cause": "hearing his daughter read to him about Lieutenant Colonel Joseph Bailey saving the Union fleet during the Red River Campaign",
    "last_words": "That is true glory. I will hear no more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Josiah_Quincy_III",
-   "born": "4 February 1772"
+   "born": "4 February 1772",
+   "died": "1 July 1864"
   },
   {
    "year": 1896,
@@ -53,8 +61,10 @@
    "desc": "Argentine politician",
    "cause": "his suicide note, quoting the motto of the Radical Civic Union",
    "last_words": "Yes, that is broken, but does not bend!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leandro_N._Alem",
-   "born": "11 March 1842"
+   "born": "11 March 1842",
+   "died": "1 July 1896"
   },
   {
    "year": 1898,
@@ -64,8 +74,23 @@
    "desc": "captain in Theodore Roosevelt's Rough Riders",
    "cause": "one of Theodore Roosevelt's Rough Riders, just before being shot in the mouth prior to charge up Kettle Hill",
    "last_words": "Sergeant, the Spanish bullet isn't made that will kill me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Buckey_O'Neill",
-   "born": "2 February 1860"
+   "born": "2 February 1860",
+   "died": "1 July 1898"
+  },
+  {
+   "year": 1916,
+   "year_label": "1916",
+   "name": "Victims of the Jersey Shore shark attacks of 1916",
+   "kind": "group",
+   "desc": null,
+   "cause": "Between 1 and 12 July 1916, four people were killed and one critically injured by a shark attack at Jersey Shore, New Jersey. Before 1916, American scholars and scientific community doubted that sharks would fatally wound a living person in the temperate waters of the northeastern United States without provocation. The attack led to a wave of panic that led to shark hunts aimed at eradicating the population of \"man-eating\" sharks, and entered into American popular culture, serving as an inspiration of the novel Jaws and its film adaptation.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jersey_Shore_shark_attacks_of_1916",
+   "born": null,
+   "died": "1 July 1916"
   },
   {
    "year": 1925,
@@ -75,8 +100,10 @@
    "desc": "French composer and pianist",
    "cause": null,
    "last_words": "Ah, the cows...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erik_Satie",
-   "born": "17 May 1866"
+   "born": "17 May 1866",
+   "died": "1 July 1925"
   },
   {
    "year": 1964,
@@ -86,8 +113,10 @@
    "desc": "United States Army helicopter pilot and medical evacuation unit commander",
    "cause": "responding to warning to leave a dangerous landing zone during a Vietnam War rescue mission. Kelly was then struck by a bullet",
    "last_words": "When I have your wounded.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_L._Kelly",
-   "born": "10 April 1925"
+   "born": "10 April 1925",
+   "died": "1 July 1964"
   },
   {
    "year": 1991,
@@ -97,8 +126,10 @@
    "desc": "American actor",
    "cause": "when one of his sons said it was time to move on",
    "last_words": "You're right. It's time. I love you all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Landon",
-   "born": "31 October 1936"
+   "born": "31 October 1936",
+   "died": "1 July 1991"
   }
  ],
  "born": [
@@ -110,6 +141,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Let the pulse beat as it may, we know the mercy of God will never fail.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_II_of_Denmark",
    "died": "4 April 1588"
   },
@@ -121,6 +153,7 @@
    "desc": "French novelist",
    "cause": null,
    "last_words": "Farewell, I am going to die. Goodbye Lina, goodbye Maurice, goodbye Lolo, good ...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Sand",
    "died": "8 June 1876"
   },
@@ -132,6 +165,7 @@
    "desc": "former princess consort of Charles, Prince of Wales",
    "cause": "shortly after being fatally injured in a car accident",
    "last_words": "My God, what's happened?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Diana,_Princess_of_Wales",
    "died": "31 August 1997"
   }

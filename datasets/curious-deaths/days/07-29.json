@@ -9,8 +9,10 @@
    "desc": "American woman accused of witchcraft during the Salem witch trials",
    "cause": "to Reverend Nicholas Noyes prior to execution by hanging",
    "last_words": "You are a lyer; I am no more a Witch than you are a Wizard, and if you take away my Life, God will give you Blood to drink.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Good",
-   "born": "11 July 1653"
+   "born": "11 July 1653",
+   "died": "29 July 1692"
   },
   {
    "year": 1694,
@@ -20,8 +22,10 @@
    "desc": "Shah of Safavid Iran",
    "cause": "According to the French cleric, Martin Gaudereau",
    "last_words": "Bring me wine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Suleiman_I_of_Persia",
-   "born": null
+   "born": null,
+   "died": "29 July 1694"
   },
   {
    "year": 1833,
@@ -31,8 +35,10 @@
    "desc": "British politician",
    "cause": null,
    "last_words": "Thank God that I have lived to see the day when England is willing to give twenty millions for the abolition of slavery.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Wilberforce",
-   "born": "24 August 1759"
+   "born": "24 August 1759",
+   "died": "29 July 1833"
   },
   {
    "year": 1879,
@@ -42,8 +48,10 @@
    "desc": "Irish murderer",
    "cause": "prior to execution by hanging",
    "last_words": "Lord, have mercy upon me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kate_Webster",
-   "born": null
+   "born": null,
+   "died": "29 July 1879"
   },
   {
    "year": 1890,
@@ -53,8 +61,10 @@
    "desc": "Dutch painter",
    "cause": "to his brother sometime before dying of (presumably) a self-inflicted gunshot wound",
    "last_words": "The sadness will last forever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
-   "born": "30 March 1853"
+   "born": "30 March 1853",
+   "died": "29 July 1890"
   },
   {
    "year": 1970,
@@ -64,8 +74,10 @@
    "desc": "British conductor",
    "cause": "to his wife after awakening during the night",
    "last_words": "Anyway, I can get a good rest in the morning. There's no rehearsal till three.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Barbirolli",
-   "born": "2 December 1899"
+   "born": "2 December 1899",
+   "died": "29 July 1970"
   },
   {
    "year": 1998,
@@ -75,11 +87,25 @@
    "desc": null,
    "cause": "The 16-year-old from Oldham died from a heart attack brought on by the buildup of butane and propane in his blood after excessive use of deodorant sprays. He was reported to have been obsessed with personal hygiene.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "29 July 1998"
   }
  ],
  "born": [
+  {
+   "year": 1356,
+   "year_label": "1356",
+   "name": "Martin of Aragon",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The Aragonese king died from a combination of indigestion and uncontrollable laughing. According to legend, Martin was suffering from indigestion, caused by eating an entire goose, when his favorite jester, Borra, entered the king's bedroom. When Martin asked Borra where he had been, the jester replied with: \"Out of the next vineyard, where I saw a young deer hanging by his tail from a tree, as if someone had so punished him for stealing figs.\" This joke caused the king to die from laughter.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Aragon",
+   "died": "31 May 1410"
+  },
   {
    "year": 1820,
    "year_label": "1820",
@@ -88,6 +114,7 @@
    "desc": null,
    "cause": "The American politician and lawyer, who was defending a man accused of murder, accidentally shot himself while demonstrating how the victim might have done so. His client was acquitted.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clement_Vallandigham",
    "died": "17 June 1871"
   },
@@ -99,6 +126,7 @@
    "desc": "Italian fascist statesman",
    "cause": "facing a partisan leader",
    "last_words": "Shoot me in the chest!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benito_Mussolini",
    "died": "28 April 1945"
   },
@@ -110,6 +138,7 @@
    "desc": "German progressive educator and resistance fighter",
    "cause": "before her execution by the Nazi regime",
    "last_words": "Put an end, Lord, to all our sufferings.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elisabeth_von_Thadden",
    "died": "8 September 1944"
   }

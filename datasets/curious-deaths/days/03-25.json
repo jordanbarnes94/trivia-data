@@ -9,8 +9,23 @@
    "desc": "Irish Celtic harper, composer and singer",
    "cause": "to a bowl of wine he was no longer able to drink",
    "last_words": "It would be hard indeed if we two dear friends should part after so many years, without one sweet kiss.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Turlough_O'Carolan",
-   "born": null
+   "born": null,
+   "died": "25 March 1738"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "name": "Jeremiah Haralson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "The former United States Congressman from Alabama disappears from the historical record after his 1895 imprisonment for pension fraud in Albany, New York. He was reportedly killed by an unknown animal while coal mining near Denver, Colorado, c. 1916, but there is little or no historical evidence for this.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jeremiah_Haralson",
+   "born": "1 April 1846",
+   "died": "25 March 1895"
   },
   {
    "year": 1905,
@@ -20,8 +35,10 @@
    "desc": "British stage actor",
    "cause": "quoting his play Nadjezda",
    "last_words": "Our trade falls heavily upon these feeble folk.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Barrymore",
-   "born": "21 September 1849"
+   "born": "21 September 1849",
+   "died": "25 March 1905"
   },
   {
    "year": 1918,
@@ -31,8 +48,10 @@
    "desc": "VC, British Army officer",
    "cause": "to a fellow officer during World War I counter-attack at Bois Favieres, near Maricourt, Somme, France",
    "last_words": "Carry on with those on the left.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Herbert_Anderson",
-   "born": "29 December 1881"
+   "born": "29 December 1881",
+   "died": "25 March 1918"
   }
  ],
  "born": [
@@ -44,8 +63,21 @@
    "desc": "last direct heir of the House of Hohenstaufen",
    "cause": "prior to execution by beheading at the age of 16",
    "last_words": "O my mother! how deep will be thy sorrow at the news of this day!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Conradin",
    "died": "29 October 1268"
+  },
+  {
+   "year": 1554,
+   "year_label": "1554",
+   "name": "Richard Hooker",
+   "kind": "individual",
+   "desc": "English priest and theologian",
+   "cause": null,
+   "last_words": "Good Doctor, God hath heard my daily petitions, for I am at peace with all men, and He is at peace with me; and from that blessed assurance I feel that inward joy which this world can neither give nor take from me: my conscience beareth me this witness, and this witness makes the thoughts of death joyful. I could wish to live to do the Church more service, but cannot hope it, for my days are passed as a shadow that returns not.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Hooker",
+   "died": "3 November 1600"
   },
   {
    "year": 1767,
@@ -55,6 +87,7 @@
    "desc": "King of Naples",
    "cause": "to his firing squad",
    "last_words": "Soldiers, save my face; aim at my heart. Farewell.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joachim_Murat",
    "died": "13 October 1815"
   },
@@ -66,6 +99,7 @@
    "desc": "Hungarian composer",
    "cause": "He died with multiple works left unfinished",
    "last_words": "I am only sad that I have to leave with a full trunk.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Béla_Bartók",
    "died": "26 September 1945"
   },
@@ -77,6 +111,7 @@
    "desc": "United States Army soldier and recipient of the Medal of Honor",
    "cause": "mortally wounded near Bellicourt, France, during World War I",
    "last_words": "I'm all finished. Give them hell.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Milo_Lemert",
    "died": "29 September 1918"
   }

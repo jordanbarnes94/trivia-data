@@ -9,8 +9,10 @@
    "desc": "British polymath",
    "cause": "to his wife, Isabel Burton",
    "last_words": "Oh Puss, chloroform-ether-or I am a dead man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Francis_Burton",
-   "born": "19 March 1821"
+   "born": "19 March 1821",
+   "died": "20 October 1890"
   },
   {
    "year": 1930,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The 26-year-old convicted murderer, a death row inmate at San Quentin in California, reportedly committed suicide using a pipe bomb he made with playing cards and a hollow steel leg from his cot.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "20 October 1930"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": null,
    "cause": "The duke of Lorraine and former king of Poland died from wounds after his silk attire had caught fire from a spark while he was sitting near the fireplace in his Château de Lunéville.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stanisław_Leszczyński",
    "died": "23 February 1766"
   },
@@ -44,6 +49,7 @@
    "desc": "Polish-Lithuanian bishop and author",
    "cause": "referring to his History of Poland",
    "last_words": "Must I leave it unfinished?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adam_Naruszewicz",
    "died": "8 July 1796"
   },
@@ -55,6 +61,7 @@
    "desc": "Prime Minister of the United Kingdom",
    "cause": "pondering diplomatic treaties",
    "last_words": "That's Article 98; now go on to the next.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_John_Temple,_3rd_Viscount_Palmerston",
    "died": "18 October 1865"
   },
@@ -66,6 +73,7 @@
    "desc": "American diplomat",
    "cause": "aboard plane going down in Pacific Ocean near Hawaii",
    "last_words": "Well, it can't be helped.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Atcheson_Jr.",
    "died": "17 August 1947"
   },
@@ -77,6 +85,7 @@
    "desc": "French physician and alpinist",
    "cause": "prior to disappearing on Lhotse Shar in Nepal",
    "last_words": "When you've been in the mountains for many years, you may forget that it's not a man's world. Every day I have to remember that this is not a world for man. This is the only sure way to approach it. Otherwise it's like when a boxer lets his guard down, it can stop very quickly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Jaeger",
    "died": "27 April 1980"
   }

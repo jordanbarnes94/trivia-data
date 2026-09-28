@@ -9,8 +9,10 @@
    "desc": "Bishop of Milan",
    "cause": "when Simplician was mentioned as his possible successor",
    "last_words": "Old though he be, he is the best of all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ambrose",
-   "born": null
+   "born": null,
+   "died": "4 April 397"
   },
   {
    "year": 1588,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Let the pulse beat as it may, we know the mercy of God will never fail.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_II_of_Denmark",
-   "born": "1 July 1534"
+   "born": "1 July 1534",
+   "died": "4 April 1588"
   },
   {
    "year": 1774,
@@ -31,8 +35,10 @@
    "desc": "Anglo-Irish novelist, playwright and poet",
    "cause": "in response to his physician asking if his mind was at ease",
    "last_words": "No, it is not.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_Goldsmith",
-   "born": "10 November 1728"
+   "born": "10 November 1728",
+   "died": "4 April 1774"
   },
   {
    "year": 1831,
@@ -42,8 +48,10 @@
    "desc": "English actor",
    "cause": null,
    "last_words": "Is this death?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Quick_(actor)",
-   "born": null
+   "born": null,
+   "died": "4 April 1831"
   },
   {
    "year": 1841,
@@ -53,8 +61,10 @@
    "desc": "president of the United States",
    "cause": "to his doctor but possibly intended for John Tyler, his vice-president and successor The 9th President of the United States died a month after his inauguration from an illness (possibly pneumonia or enteric fever) that developed after he stood in the rain to deliver his 2-hour-long inaugural address, the longest by any U.S. President. Medical treatments Harrison received in the last week of his life included opium, castor oil and leeches. Harrison remains the U.S. President to have served the shortest term in office and was the first President to die in office.",
    "last_words": "Sir, I wish you to understand the true principles of the government. I wish them carried out. I ask nothing more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Henry_Harrison",
-   "born": "9 February 1773"
+   "born": "9 February 1773",
+   "died": "4 April 1841"
   },
   {
    "year": 1919,
@@ -64,8 +74,10 @@
    "desc": "Portuguese Marian mysticist",
    "cause": "to his cousin Lúcia",
    "last_words": "Goodbye, until Heaven!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francisco_and_Jacinta_Marto",
-   "born": null
+   "born": "11 June 1908",
+   "died": "4 April 1919"
   },
   {
    "year": 1968,
@@ -75,8 +87,10 @@
    "desc": "American civil rights activist",
    "cause": "speaking to musician Ben Branch shortly before being assassinated",
    "last_words": "Ben, make sure you play 'Take My Hand, Precious Lord' in the meeting tonight. Play it real pretty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.",
-   "born": "15 January 1929"
+   "born": "15 January 1929",
+   "died": "4 April 1968"
   },
   {
    "year": 1969,
@@ -86,8 +100,10 @@
    "desc": "United States Army soldier and Medal of Honor recipient",
    "cause": "mortally wounded during the Vietnam War",
    "last_words": "God don't let me die, take care of my wife and two kids.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Félix_Conde_Falcón",
-   "born": "28 February 1938"
+   "born": "28 February 1938",
+   "died": "4 April 1969"
   },
   {
    "year": 1979,
@@ -97,8 +113,10 @@
    "desc": "President and Prime Minister of Pakistan",
    "cause": "prior to execution by hanging",
    "last_words": "God help me [Allah madad], for I am innocent.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Zulfikar_Ali_Bhutto",
-   "born": "5 January 1928"
+   "born": "5 January 1928",
+   "died": "4 April 1979"
   }
  ],
  "born": [
@@ -110,6 +128,7 @@
    "desc": "queen regnant of Portugal",
    "cause": "addressing her surgeon during her eleventh childbirth",
    "last_words": "Teixeira? If I am in danger, tell me; do not deceive me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maria_II_of_Portugal",
    "died": "15 November 1853"
   }

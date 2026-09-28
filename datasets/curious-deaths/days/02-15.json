@@ -2,6 +2,19 @@
  "date": "02-15",
  "died": [
   {
+   "year": -399,
+   "year_label": "399 BC",
+   "name": "Socrates",
+   "kind": "individual",
+   "desc": null,
+   "cause": "just before his death by ingestion of poison hemlock which he was forced to drink as a death sentence",
+   "last_words": "Crito, we owe a cock to Asclepius. Please, don't forget to pay the debt.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Socrates",
+   "born": null,
+   "died": "15 February 399 BC"
+  },
+  {
    "year": 1905,
    "year_label": "1905",
    "name": "Lew Wallace",
@@ -9,8 +22,10 @@
    "desc": "American lawyer, politician, Union general and author",
    "cause": null,
    "last_words": "Thy will be done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lew_Wallace",
-   "born": "10 April 1827"
+   "born": "10 April 1827",
+   "died": "15 February 1905"
   },
   {
    "year": 1942,
@@ -20,8 +35,10 @@
    "desc": "VC DCM, Australian World War I recipient of the Victoria Cross",
    "cause": "before walking toward Japanese lines carrying grenades during the Battle of Singapore",
    "last_words": "No surrender for me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Brown_(soldier)",
-   "born": "3 July 1885"
+   "born": "3 July 1885",
+   "died": "15 February 1942"
   },
   {
    "year": 1965,
@@ -31,8 +48,10 @@
    "desc": "American singer",
    "cause": "saying his wife's name to a hospital nurse",
    "last_words": "Maria.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nat_King_Cole",
-   "born": "17 March 1919"
+   "born": "17 March 1919",
+   "died": "15 February 1965"
   },
   {
    "year": 1988,
@@ -42,8 +61,10 @@
    "desc": "American theoretical physicist and raconteur",
    "cause": null,
    "last_words": "I'd hate to die twice. It's so boring.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Feynman",
-   "born": "11 May 1918"
+   "born": "11 May 1918",
+   "died": "15 February 1988"
   }
  ],
  "born": [
@@ -55,6 +76,7 @@
    "desc": "Italian noblewoman",
    "cause": "kneeling before a crucifix",
    "last_words": "Jesus! I pardon you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vittoria_Accoramboni",
    "died": "22 December 1585"
   },
@@ -66,6 +88,7 @@
    "desc": "Scottish minister",
    "cause": "before execution by hanging",
    "last_words": "Lord, into Thy hands I commend my spirit; for Thou hast redeemed me, Lord God of truth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Renwick_(Covenanter)",
    "died": "17 February 1688"
   },
@@ -77,6 +100,7 @@
    "desc": "English philosopher, jurist and social reformer",
    "cause": "to one of his disciples",
    "last_words": "I now feel that I am dying. Our care must be to minimize the pain. Do not let any of the servants come into the room, and keep away the youths. It will be distressing to them, and they can be of no service. Yet I must not be alone, and you will remain with me, and you only, and then we shall have reduced the pain to the least possible amount.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jeremy_Bentham",
    "died": "6 June 1832"
   },
@@ -88,6 +112,7 @@
    "desc": "American social reformer and women's rights activist",
    "cause": "to her chosen successor, who was worried that she would not be allowed to succeed Anthony",
    "last_words": "Make them.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Susan_B._Anthony",
    "died": "13 March 1906"
   },
@@ -99,6 +124,7 @@
    "desc": "Anglo-Irish Antarctic Explorer",
    "cause": null,
    "last_words": "You are always wanting me to give up things, what is it I ought to give up?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_Shackleton",
    "died": "5 January 1922"
   },
@@ -110,6 +136,7 @@
    "desc": "American actor",
    "cause": "to his brother, Lionel Barrymore, who had failed to understand something he said",
    "last_words": "You heard me, Mike.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Barrymore",
    "died": "29 May 1942"
   },
@@ -121,6 +148,7 @@
    "desc": "United States Secretary of Defense",
    "cause": "his suicide note, a quotation from the play Ajax by Sophocles",
    "last_words": "Frenzy hath seized thy dearest son, / Who from thy shores in glory came / The first in valor and in fame; / Thy deeds that he hath done / Seem hostile all to hostile eyes.... / Better to die, and sleep / The never waking sleep, than linger on, / And dare to live, when the soul's life is gone.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Forrestal",
    "died": "22 May 1949"
   },
@@ -132,6 +160,7 @@
    "desc": "American astronaut",
    "cause": "reporting that a fire had broken out during Apollo 1 launch rehearsal test",
    "last_words": "We've got a bad fire! Let's get out... We're burning up!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Roger_B._Chaffee",
    "died": "27 January 1967"
   },
@@ -143,6 +172,7 @@
    "desc": "American actor and comedian",
    "cause": "to a prostitute, leaving his Chicago apartment",
    "last_words": "Please don't leave me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Chris_Farley",
    "died": "18 December 1997"
   }

@@ -9,8 +9,10 @@
    "desc": "German educational reformer, teacher and writer",
    "cause": null,
    "last_words": "I desire to be dissected for the benefit of my fellow men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johann_Bernhard_Basedow",
-   "born": "11 September 1724"
+   "born": "11 September 1724",
+   "died": "25 July 1790"
   },
   {
    "year": 1794,
@@ -20,8 +22,23 @@
    "desc": "French poet",
    "cause": "to his friend and fellow poet Jean-Antoine Roucher prior to their executions by guillotine",
    "last_words": "Yet I had something there!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/André_Chénier",
-   "born": "30 October 1762"
+   "born": "30 October 1762",
+   "died": "25 July 1794"
+  },
+  {
+   "year": 1826,
+   "year_label": "1826",
+   "name": "Mikhail Bestuzhev-Ryumin",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when the rope broke during his hanging for having helped organize the Decemberist revolt",
+   "last_words": "Nothing succeeds with me. Even here, I meet with disappointment.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Bestuzhev-Ryumin",
+   "born": "4 June 1801",
+   "died": "25 July 1826"
   },
   {
    "year": 1834,
@@ -31,8 +48,10 @@
    "desc": "English poet and literary critic",
    "cause": null,
    "last_words": "My mind is quite unclouded. I could even be witty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge",
-   "born": "21 October 1772"
+   "born": "21 October 1772",
+   "died": "25 July 1834"
   },
   {
    "year": 1991,
@@ -42,8 +61,10 @@
    "desc": "Soviet politician",
    "cause": "when he watched a television news report featuring Gorbachev and Yeltsin",
    "last_words": "This is a catastrophe.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lazar_Kaganovich",
-   "born": "10 November 1893"
+   "born": "10 November 1893",
+   "died": "25 July 1991"
   },
   {
    "year": 2000,
@@ -53,8 +74,10 @@
    "desc": null,
    "cause": "pilot of Air France Flight 4590, shortly before crashing",
    "last_words": "\"No time, no.\" (\"Pas le temps, non.\")",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christian_Marty",
-   "born": "12 November 1945"
+   "born": "12 November 1945",
+   "died": "25 July 2000"
   }
  ],
  "born": [
@@ -66,6 +89,7 @@
    "desc": "American Congregational preacher",
    "cause": null,
    "last_words": "Faith and patience hold out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Payson",
    "died": "22 October 1827"
   },
@@ -77,6 +101,7 @@
    "desc": "American playwright and theater impresario",
    "cause": null,
    "last_words": "Doctor, I'm fighting for my life!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/David_Belasco",
    "died": "14 May 1931"
   },
@@ -88,6 +113,7 @@
    "desc": "United States Navy lieutenant",
    "cause": "radioing code phrase prior to explosion of plane on Operation Aphrodite mission",
    "last_words": "Spade Flush.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_P._Kennedy_Jr.",
    "died": "12 August 1944"
   }

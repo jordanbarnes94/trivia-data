@@ -9,8 +9,10 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "When the machinery is broken... I am ready.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
-   "born": "28 December 1856"
+   "born": "28 December 1856",
+   "died": "3 February 1924"
   },
   {
    "year": 1967,
@@ -20,8 +22,10 @@
    "desc": "Australian criminal",
    "cause": "to the hangman. Ryan was the last person to be executed in Australia prior to the abolition of the death penalty in 1985",
    "last_words": "God bless you, please make it quick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Ryan",
-   "born": "21 February 1925"
+   "born": "21 February 1925",
+   "died": "3 February 1967"
   },
   {
    "year": 1998,
@@ -31,8 +35,10 @@
    "desc": "American double murderer who converted to Christianity in prison",
    "cause": "prior to execution by lethal injection",
    "last_words": "Yes sir, I would like to say to all of you-the Thornton Family and Jerry Dean's family that I am so sorry. I hope God will give you peace with this. Baby, I love you. Ron, give Peggy a hug for me. Everybody has been so good to me. I love all of you very much. I am going to be face to face with Jesus now. Warden Baggett, thank all of you so much. You have been so good to me. I love all of you very much. I will see you all when you get there. I will wait for you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karla_Faye_Tucker",
-   "born": "18 November 1959"
+   "born": "18 November 1959",
+   "died": "3 February 1998"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Venezuelan independence leader and President of Peru and Bolivia",
    "cause": "after being shot while riding in the jungle of Colombia. He was said to be an educated gentleman who had never cursed until that day",
    "last_words": "Fuck, a bullet wound!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_José_de_Sucre",
    "died": "4 June 1830"
   },
@@ -55,6 +62,7 @@
    "desc": "German composer",
    "cause": "in response to being asked how he felt",
    "last_words": "Weary, very weary.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Felix_Mendelssohn",
    "died": "4 November 1847"
   },
@@ -66,6 +74,7 @@
    "desc": "English divine",
    "cause": "when attendants tried to change his position",
    "last_words": "I cannot bear it; let me rest. I must die. Let God do his work.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William_Robertson",
    "died": "15 August 1853"
   },
@@ -77,6 +86,7 @@
    "desc": "British journalist, businessman and essayist",
    "cause": "declining help rearranging his pillows",
    "last_words": "Let me have my own fidgets.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Bagehot",
    "died": "24 March 1877"
   },
@@ -88,6 +98,7 @@
    "desc": "American stage actor",
    "cause": "to his wife",
    "last_words": "Good-bye Mary, good-bye forever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Adams_(actor)",
    "died": "28 October 1877"
   },
@@ -99,6 +110,7 @@
    "desc": "American writer",
    "cause": "addressing her life partner Alice B. Toklas",
    "last_words": "What is the answer? In that case, what is the question?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gertrude_Stein",
    "died": "27 July 1946"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "when the clergyman reading the prayers for the sick paused due to being overcome by grief",
    "last_words": "My Lord, why do you not go on? I am not afraid to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_II_of_England",
-   "born": "30 April 1662"
+   "born": "30 April 1662",
+   "died": "28 December 1694"
   },
   {
    "year": 1734,
@@ -20,8 +22,10 @@
    "desc": "Scottish outlaw and folk hero",
    "cause": null,
    "last_words": "Now all is over-let the piper play Ha til mi tulidh [we return no more].",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rob_Roy_MacGregor",
-   "born": "7 March 1671"
+   "born": "7 March 1671",
+   "died": "28 December 1734"
   },
   {
    "year": 1822,
@@ -31,8 +35,10 @@
    "desc": "wife of Charles Wesley",
    "cause": null,
    "last_words": "Open the gates! Open the gates!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sarah_Wesley",
-   "born": "12 October 1726"
+   "born": "12 October 1726",
+   "died": "28 December 1822"
   },
   {
    "year": 1835,
@@ -42,8 +48,10 @@
    "desc": "United States Army major",
    "cause": "addressing his troops just before being shot and killed in a Seminole ambush which resulted in his unit's destruction",
    "last_words": "We have now got through all danger – keep up good heart, and when we get to Fort King, I'll give you three days for Christmas.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_L._Dade",
-   "born": null
+   "born": null,
+   "died": "28 December 1835"
   },
   {
    "year": 1859,
@@ -53,8 +61,10 @@
    "desc": "British historian and politician",
    "cause": "to his butler",
    "last_words": "I shall retire early; I am very tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Babington_Macaulay",
-   "born": "25 October 1800"
+   "born": "25 October 1800",
+   "died": "28 December 1859"
   },
   {
    "year": 1925,
@@ -64,8 +74,10 @@
    "desc": "Russian lyric poet",
    "cause": "in his final poem before allegedly taking his own life",
    "last_words": "Goodbye, my friend, goodbye. My dear, you are in my heart. Predestined separation promises a future meeting.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Yesenin",
-   "born": "21 September 1895"
+   "born": "21 September 1895",
+   "died": "28 December 1925"
   },
   {
    "year": 1937,
@@ -75,8 +87,10 @@
    "desc": "French composer",
    "cause": "referring to the bandages on his head after brain surgery",
    "last_words": "I look like a Moor.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Ravel",
-   "born": "7 March 1875"
+   "born": "7 March 1875",
+   "died": "28 December 1937"
   },
   {
    "year": 1945,
@@ -86,8 +100,10 @@
    "desc": "American novelist",
    "cause": null,
    "last_words": "Shakespeare, I come.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Dreiser",
-   "born": "27 August 1871"
+   "born": "27 August 1871",
+   "died": "28 December 1945"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "When the machinery is broken... I am ready.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
    "died": "3 February 1924"
   }

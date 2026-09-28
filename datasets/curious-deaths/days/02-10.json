@@ -9,8 +9,10 @@
    "desc": "Russian poet",
    "cause": "to his wife, Natalia Pushkina, after being mortally wounded in a duel with Georges-Charles de Heeckeren d'Anthès, who was rumored to be having an affair with Natalia",
    "last_words": "Try to be forgotten. Go live in the country. Stay in mourning for two years, then remarry, but choose somebody decent.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
-   "born": "26 May 1799"
+   "born": "26 May 1799",
+   "died": "10 February 1837"
   },
   {
    "year": 1878,
@@ -20,8 +22,10 @@
    "desc": "French physiologist",
    "cause": "when a cover was placed to warm his feet",
    "last_words": "This time it will serve me for the voyage from which there is no return, the voyage of eternity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Claude_Bernard",
-   "born": "12 July 1813"
+   "born": "12 July 1813",
+   "died": "10 February 1878"
   },
   {
    "year": 1918,
@@ -31,8 +35,10 @@
    "desc": "Graham County, Arizona Deputy Sheriff",
    "cause": "prior to death in the Power's Cabin shootout",
    "last_words": "Throw up your hands! Throw up your hands!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Kane_Wooten",
-   "born": null
+   "born": null,
+   "died": "10 February 1918"
   },
   {
    "year": 1939,
@@ -42,8 +48,10 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": null,
    "last_words": "Peace, Peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_Pius_XI",
-   "born": "31 May 1857"
+   "born": "31 May 1857",
+   "died": "10 February 1939"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English essayist and poet",
    "cause": null,
    "last_words": "My bedfellows are cramp and cough – we three all in one bed!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lamb",
    "died": "27 December 1834"
   },
@@ -66,6 +75,7 @@
    "desc": "American musician",
    "cause": "in a farewell exchange with Anthrax bassist Frank Bello the night before being killed in a tour bus accident in Sweden",
    "last_words": "Maybe I will.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cliff_Burton",
    "died": "27 September 1986"
   }

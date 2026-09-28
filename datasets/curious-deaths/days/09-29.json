@@ -9,8 +9,10 @@
    "desc": "French soldier, author and hedonist",
    "cause": "when a clergyman asked if he would be reconciled",
    "last_words": "With all my heart: I would fain be reconciled to my stomach, which no longer performs its usual functions.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_de_Saint-Évremond",
-   "born": "1 April 1613"
+   "born": "1 April 1613",
+   "died": "29 September 1703"
   },
   {
    "year": 1851,
@@ -20,8 +22,10 @@
    "desc": "French Roman Catholic cardinal and archbishop",
    "cause": null,
    "last_words": "Neither life nor death, nor any being can separate us from Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul-Thérèse-David_d'Astros",
-   "born": "15 October 1772"
+   "born": "15 October 1772",
+   "died": "29 September 1851"
   },
   {
    "year": 1902,
@@ -31,8 +35,10 @@
    "desc": "French novelist, playwright and journalist",
    "cause": "dying of carbon monoxide poisoning from an improperly ventilated chimney",
    "last_words": "I feel sick. The dog is sick, too. We are both ill. It must be something we have eaten.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Émile_Zola",
-   "born": "2 April 1840"
+   "born": "2 April 1840",
+   "died": "29 September 1902"
   },
   {
    "year": 1918,
@@ -42,8 +48,10 @@
    "desc": "United States Army soldier and recipient of the Medal of Honor",
    "cause": "mortally wounded near Bellicourt, France, during World War I",
    "last_words": "I'm all finished. Give them hell.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Milo_Lemert",
-   "born": "25 March 1890"
+   "born": "25 March 1890",
+   "died": "29 September 1918"
   },
   {
    "year": 1942,
@@ -53,8 +61,10 @@
    "desc": "Indian revolutionary",
    "cause": "repeatedly chanting words from protest song while being shot by British Indian police at the age of 72",
    "last_words": "I bow to thee, Mother.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Matangini_Hazra",
-   "born": "19 October 1870"
+   "born": "19 October 1870",
+   "died": "29 September 1942"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Roman general and statesman",
    "cause": "to Lucius Septimius, one of his assassins",
    "last_words": "Surely I am not mistaken, and you are an old comrade of mine!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pompey",
    "died": "28 September 48 BC"
   },
@@ -77,6 +88,7 @@
    "desc": "Spanish theologian, physician and humanist",
    "cause": "while being burned at the stake for heresy on a pyre of his own books",
    "last_words": "Jesus, Son of the eternal God, have mercy on me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Michael_Servetus",
    "died": "27 October 1553"
   },
@@ -88,6 +100,7 @@
    "desc": "Spanish novelist",
    "cause": null,
    "last_words": "Already my foot is in the stirrup.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_de_Cervantes",
    "died": "22 April 1616"
   },
@@ -99,6 +112,7 @@
    "desc": null,
    "cause": "after bidding farewell to his wife prior to execution by beheading for treason",
    "last_words": "Now the bitterness of death is past.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Russell,_Lord_Russell",
    "died": "21 July 1683"
   },
@@ -110,6 +124,7 @@
    "desc": "Royal Navy admiral",
    "cause": "mortally wounded at the Battle of Trafalgar",
    "last_words": "Thank God, I have done my duty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson",
    "died": "21 October 1805"
   },
@@ -121,6 +136,7 @@
    "desc": "Canadian sailor and captain of SS Edmund Fitzgerald",
    "cause": "last transmission before ship went down in storm on Lake Superior",
    "last_words": "We are holding our own.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernest_M._McSorley",
    "died": "10 November 1975"
   },
@@ -132,6 +148,7 @@
    "desc": "American convicted sex offender and serial killer",
    "cause": "prior to execution by lethal injection",
    "last_words": "I want to offer again my most profound and heartfelt apologies to my victims' families. I am truly sorry. I have tried my best to empathize with their grief and devastation and I hope they come to know of my concerns and prayers for them.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Gary_Bishop",
    "died": "10 June 1988"
   }

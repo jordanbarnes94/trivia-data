@@ -9,8 +9,10 @@
    "desc": "American educator",
    "cause": "last written words",
    "last_words": "I hope to be in Phil. in about ten days. I am stronger than for yrs. but take no new responsibilities.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Catharine_Beecher",
-   "born": "6 September 1800"
+   "born": "6 September 1800",
+   "died": "12 May 1878"
   },
   {
    "year": 1931,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "Belgian violinist, composer and conductor, after his Fourth Sonata was played for him",
    "last_words": "Splendid. The finale just a little too fast.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eugène_Ysaÿe",
-   "born": "16 July 1858"
+   "born": "16 July 1858",
+   "died": "12 May 1931"
   },
   {
    "year": 1993,
@@ -31,8 +35,10 @@
    "desc": "American convicted police murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "I am innocent, innocent, innocent. Make no mistake about this. I owe society nothing. Continue the struggle for human rights, helping those who are innocent, especially Mr. Graham. I am an innocent man, and something very wrong is taking place tonight. May God bless you all. I am ready.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leonel_Torres_Herrera",
-   "born": null
+   "born": null,
+   "died": "12 May 1993"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "English actor and theater manager",
    "cause": null,
    "last_words": "My hope is in Christ.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Bannister_(actor)",
    "died": "7 November 1836"
   },
@@ -55,6 +62,7 @@
    "desc": "British general and diplomat",
    "cause": "prior to his death at the Battle of Inkerman",
    "last_words": "I fear we are in a mess.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Cathcart",
    "died": "5 November 1854"
   },
@@ -66,6 +74,7 @@
    "desc": "English nonsense poet",
    "cause": null,
    "last_words": "I did not answer the letters of my friends because I could not write, as no sooner did I take a pen in my hand than I felt as if I was dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Lear",
    "died": "29 January 1888"
   },
@@ -77,6 +86,7 @@
    "desc": "English poet, translator and artist",
    "cause": null,
    "last_words": "Then you really think I am dying? At last you think so. But I was right from the first.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti",
    "died": "9 April 1882"
   },
@@ -88,6 +98,7 @@
    "desc": "Speaker of the Australian House of Representatives",
    "cause": "prior to collapsing in the House after a tumultuous all-night session",
    "last_words": "Dreadful! Dreadful!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Holder",
    "died": "23 July 1909"
   }

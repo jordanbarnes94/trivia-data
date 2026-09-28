@@ -9,8 +9,10 @@
    "desc": "Italian adventurer and author",
    "cause": null,
    "last_words": "I have lived as a philosopher. I die as a Christian.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Giacomo_Casanova",
-   "born": "2 April 1725"
+   "born": "2 April 1725",
+   "died": "4 June 1798"
   },
   {
    "year": 1813,
@@ -20,8 +22,10 @@
    "desc": "United States naval officer",
    "cause": "mortally wounded by British fire. His words became a popular naval battle cry",
    "last_words": "Don't give up the ship. Fight her till she sinks.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Lawrence",
-   "born": "1 October 1781"
+   "born": "1 October 1781",
+   "died": "4 June 1813"
   },
   {
    "year": 1830,
@@ -31,8 +35,10 @@
    "desc": "Venezuelan independence leader and President of Peru and Bolivia",
    "cause": "after being shot while riding in the jungle of Colombia. He was said to be an educated gentleman who had never cursed until that day",
    "last_words": "Fuck, a bullet wound!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Antonio_José_de_Sucre",
-   "born": "3 February 1795"
+   "born": "3 February 1795",
+   "died": "4 June 1830"
   },
   {
    "year": 1923,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 22-year-old Irish jockey died of a heart attack mid-race in Elmont, New York, and collapsed on the horse, which nonetheless crossed the finish line first, still carrying his body.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frank_Hayes_(jockey)",
-   "born": null
+   "born": null,
+   "died": "4 June 1923"
   },
   {
    "year": 1941,
@@ -53,8 +61,10 @@
    "desc": "the last German Emperor",
    "cause": "dying of a pulmonary embolism at Huis Doorn",
    "last_words": "It's coming to an end for me, I'm sinking, I'm sinking!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wilhelm_II,_German_Emperor",
-   "born": "27 January 1859"
+   "born": "27 January 1859",
+   "died": "4 June 1941"
   }
  ],
  "born": [
@@ -66,8 +76,21 @@
    "desc": "British barrister and politician",
    "cause": null,
    "last_words": "It matters not where I am going whether the weather be cold or hot.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Scott,_1st_Earl_of_Eldon",
    "died": "13 January 1838"
+  },
+  {
+   "year": 1801,
+   "year_label": "1801",
+   "name": "Mikhail Bestuzhev-Ryumin",
+   "kind": "individual",
+   "desc": null,
+   "cause": "when the rope broke during his hanging for having helped organize the Decemberist revolt",
+   "last_words": "Nothing succeeds with me. Even here, I meet with disappointment.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Mikhail_Bestuzhev-Ryumin",
+   "died": "25 July 1826"
   },
   {
    "year": 1855,
@@ -77,6 +100,7 @@
    "desc": "former Prime Minister of Japan",
    "cause": "assassinated by Taku Mikami",
    "last_words": "″Well, wait, you'll understand once we talk. It's day, you need not shoot me.″",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tsuyoshi_Inukai",
    "died": "15 May 1932"
   },
@@ -88,6 +112,7 @@
    "desc": "American criminal",
    "cause": "shot while attempting to escape from Alcatraz Federal Penitentiary",
    "last_words": "I'm all shot to hell!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arthur_Barker",
    "died": "13 January 1939"
   },
@@ -99,6 +124,7 @@
    "desc": null,
    "cause": "The 34-year-old U.S. Navy flight surgeon drowned at the end of the record-setting Strato-Lab V balloon flight when he slipped from the rescue sling during recovery operations in the Gulf of Mexico and his pressure suit filled with water.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Prather",
    "died": "4 May 1961"
   }

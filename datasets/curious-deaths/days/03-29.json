@@ -9,8 +9,10 @@
    "desc": "Scottish pastor",
    "cause": null,
    "last_words": "I bless the Lord that he gave me counsel.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Rutherford",
-   "born": null
+   "born": null,
+   "died": "29 March 1661"
   },
   {
    "year": 1772,
@@ -20,8 +22,10 @@
    "desc": "Swedish theologian, scientist, philosopher and mystic",
    "cause": null,
    "last_words": "What o'clock is it?\" (On being told) \"It is well; I thank you; God bless you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emanuel_Swedenborg",
-   "born": "29 January 1688"
+   "born": "29 January 1688",
+   "died": "29 March 1772"
   },
   {
    "year": 1788,
@@ -31,8 +35,10 @@
    "desc": "English Methodist leader and hymn writer",
    "cause": null,
    "last_words": "I shall be satisfied with Thy likeness- satisfied, satisfied!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Wesley",
-   "born": "18 December 1707"
+   "born": "18 December 1707",
+   "died": "29 March 1788"
   },
   {
    "year": 1792,
@@ -42,8 +48,10 @@
    "desc": "King of Sweden",
    "cause": "13 days after being shot in the back at a masquerade",
    "last_words": "I feel sleepy, and a moment of rest would do me good.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustav_III",
-   "born": "24 January 1746"
+   "born": "24 January 1746",
+   "died": "29 March 1792"
   },
   {
    "year": 1833,
@@ -53,8 +61,10 @@
    "desc": "Cornish Methodist theologian",
    "cause": "last recorded words",
    "last_words": "Thank God, to-morrow I shall join the glorious company above.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Drew",
-   "born": "6 March 1765"
+   "born": "6 March 1765",
+   "died": "29 March 1833"
   },
   {
    "year": 1848,
@@ -64,8 +74,10 @@
    "desc": "German-American multi-millionaire businessman",
    "cause": "to his son. Astor had been worried about an overdue rent payment. His son paid the woman's rent and claimed that she had paid it",
    "last_words": "There, I told you that she would pay it if you went the right way to work with her.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Jacob_Astor",
-   "born": "17 July 1763"
+   "born": "17 July 1763",
+   "died": "29 March 1848"
   },
   {
    "year": 1891,
@@ -75,8 +87,10 @@
    "desc": "American Presbyterian preacher, scholar and professor",
    "cause": null,
    "last_words": "My heart is resting sweetly with Jesus, and my hand is in his.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Howard_Crosby_(minister)",
-   "born": "27 February 1826"
+   "born": "27 February 1826",
+   "died": "29 March 1891"
   },
   {
    "year": 1912,
@@ -86,8 +100,10 @@
    "desc": "Royal Navy officer and Antarctic explorer",
    "cause": "final diary entry on doomed Terra Nova Expedition",
    "last_words": "Last Entry - For God's sake look after our people",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Falcon_Scott",
-   "born": "6 June 1868"
+   "born": "6 June 1868",
+   "died": "29 March 1912"
   }
  ],
  "born": [
@@ -99,6 +115,7 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "Doctor, I am going. Perhaps it is best.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Tyler",
    "died": "18 January 1862"
   },
@@ -110,6 +127,7 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "Capital punishment; them without the capital get the punishment.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Spenkelink",
    "died": "25 May 1979"
   }

@@ -9,8 +9,10 @@
    "desc": "Roman dictator",
    "cause": "discovering that his stepson Brutus was among his murderers",
    "last_words": "You too, my child?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Caesar",
-   "born": null
+   "born": null,
+   "died": "15 March 44 BC"
   },
   {
    "year": 1673,
@@ -20,8 +22,10 @@
    "desc": "Italian artist and poet",
    "cause": "when asked how he was",
    "last_words": "Bad, bad! To judge by what I now endure, the hand of death grasps me sharply.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Salvator_Rosa",
-   "born": "20 June 1615"
+   "born": "20 June 1615",
+   "died": "15 March 1673"
   },
   {
    "year": 1957,
@@ -31,8 +35,10 @@
    "desc": "American convicted rapist and murderer",
    "cause": "to prison physician Dr. David Schmidt prior to execution by gas chamber",
    "last_words": "I can't admit it, Doc. Think of what that would do to my mother. She could not take it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Burton_Abbott",
-   "born": "8 February 1928"
+   "born": "8 February 1928",
+   "died": "15 March 1957"
   },
   {
    "year": 1963,
@@ -42,8 +48,10 @@
    "desc": "American convicted murderer",
    "cause": "requesting his last meal prior to execution by hanging",
    "last_words": "An olive, with a pit...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Victor_Feguer",
-   "born": null
+   "born": "10 June 1935",
+   "died": "15 March 1963"
   },
   {
    "year": 1967,
@@ -53,8 +61,10 @@
    "desc": "United States Army officer and Medal of Honor recipient",
    "cause": "prior to falling on two grenades during the Vietnam War",
    "last_words": "Grenades. Grenades.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ruppert_L._Sargent",
-   "born": "6 January 1938"
+   "born": "6 January 1938",
+   "died": "15 March 1967"
   },
   {
    "year": 2000,
@@ -64,8 +74,10 @@
    "desc": "American serial killer",
    "cause": "before his execution",
    "last_words": "I just want you to know from the bottom of my heart that I am truly sorry. I mean it. I'm not saying it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Timothy_Gribble",
-   "born": "23 August 1963"
+   "born": "23 August 1963",
+   "died": "15 March 2000"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "president of the United States",
    "cause": null,
    "last_words": "What is the matter with my dear children? Have I alarmed you? Oh, do not cry. Be good children and we will all meet in Heaven.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Jackson",
    "died": "8 June 1845"
   },
@@ -88,6 +101,7 @@
    "desc": "VC , Canadian Expeditionary Force officer",
    "cause": "fatally wounded by enemy machine-gun fire during World War I",
    "last_words": "I am through. Take charge of the company. I won't be here long.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Brillant",
    "died": "10 August 1918"
   }

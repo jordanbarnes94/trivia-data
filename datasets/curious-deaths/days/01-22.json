@@ -9,8 +9,10 @@
    "desc": "queen regnant of the United Kingdom",
    "cause": "calling to her eldest son and heir, Albert, Prince of Wales",
    "last_words": "Bertie.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Queen_Victoria",
-   "born": "24 May 1819"
+   "born": "24 May 1819",
+   "died": "22 January 1901"
   },
   {
    "year": 1968,
@@ -20,8 +22,10 @@
    "desc": "United States Air Force fighter pilot and Medal of Honor recipient",
    "cause": "dying in Hỏa Lò Prison during the Vietnam War",
    "last_words": "Dad! Dad! Where are you? I need you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lance_Sijan",
-   "born": "14 April 1942"
+   "born": "14 April 1942",
+   "died": "22 January 1968"
   },
   {
    "year": 1973,
@@ -31,8 +35,10 @@
    "desc": "president of the United States",
    "cause": "referring to his Secret Service agent. By the time Mike arrived, Johnson had already died",
    "last_words": "Send Mike immediately.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
-   "born": "27 August 1908"
+   "born": "27 August 1908",
+   "died": "22 January 1973"
   },
   {
    "year": 1987,
@@ -42,8 +48,10 @@
    "desc": "American politician",
    "cause": "to the reporters who tried to stop him from shooting himself during a press conference",
    "last_words": "Don't, don't, don't, this will hurt someone!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/R._Budd_Dwyer",
-   "born": "21 November 1939"
+   "born": "21 November 1939",
+   "died": "22 January 1987"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "English poet, soldier and courtier",
    "cause": "as he lay ready to be beheaded in the Old Palace Yard at the Palace of Westminster",
    "last_words": "What dost thou fear? Strike, man, strike!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Raleigh",
    "died": "29 October 1618"
   },
@@ -66,6 +75,7 @@
    "desc": "English philosopher and statesman",
    "cause": "John Aubrey reported in Brief Lives that the English philosopher and statesman died of pneumonia after stuffing a chicken carcass with snow to learn whether it could preserve meat.",
    "last_words": "Thy creatures, O Lord, have been my books, but Thy Holy Scriptures much more. I have sought Thee in the fields and gardens, but I have found Thee, O God, in Thy Sanctuary-Thy Temple.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Bacon",
    "died": "9 April 1626"
   },
@@ -77,8 +87,21 @@
    "desc": "French philosopher, Catholic priest, astronomer and mathematician",
    "cause": null,
    "last_words": "You see what is man's life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Gassendi",
    "died": "24 October 1655"
+  },
+  {
+   "year": 1751,
+   "year_label": "1751",
+   "name": "William Bromley Cadogan",
+   "kind": "individual",
+   "desc": null,
+   "cause": "to a longtime servant",
+   "last_words": "I thank you for all your faithful services; God bless you.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Bromley_Cadogan",
+   "died": "18 January 1797"
   },
   {
    "year": 1788,
@@ -88,6 +111,7 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I must sleep now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
    "died": "19 April 1824"
   },
@@ -99,6 +123,7 @@
    "desc": "Swedish author",
    "cause": null,
    "last_words": "Everything is atoned for.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/August_Strindberg",
    "died": "14 May 1912"
   },
@@ -110,6 +135,7 @@
    "desc": "American author and creator of Conan the Barbarian",
    "cause": "his suicide note, a quotation from \"The House of Cæsar\" by Viola Garvin",
    "last_words": "All fled, all done, so lift me on the pyre. The feast is over, and the lamps expire.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_E._Howard",
    "died": "11 June 1936"
   }

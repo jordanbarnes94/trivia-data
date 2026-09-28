@@ -9,8 +9,10 @@
    "desc": "Calvinistic Anglican churchman, academic and theologian",
    "cause": null,
    "last_words": "Life or death is welcome to me; and I desire not to live, but so far as I may be serviceable to God and His church.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Whitaker_(theologian)",
-   "born": null
+   "born": null,
+   "died": "4 December 1595"
   },
   {
    "year": 1642,
@@ -20,8 +22,10 @@
    "desc": "French clergyman and statesman",
    "cause": "when asked whether he pardoned his enemies",
    "last_words": "Absolutely, and I pray God to condemn me, if I have had any other aim than the welfare of God and the state.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cardinal_Richelieu",
-   "born": "9 September 1585"
+   "born": "9 September 1585",
+   "died": "4 December 1642"
   },
   {
    "year": 1679,
@@ -31,8 +35,10 @@
    "desc": "English philosopher",
    "cause": null,
    "last_words": "Now I am about to take my last voyage, a great leap in the dark.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Hobbes",
-   "born": "5 April 1588"
+   "born": "5 April 1588",
+   "died": "4 December 1679"
   },
   {
    "year": 1758,
@@ -42,8 +48,10 @@
    "desc": "British priest in the Church of England and theological writer",
    "cause": null,
    "last_words": "Peace.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Webster_(theologian)",
-   "born": null
+   "born": null,
+   "died": "4 December 1758"
   },
   {
    "year": 1950,
@@ -53,8 +61,10 @@
    "desc": "United States Naval Aviator",
    "cause": "mentioning his wife while trapped and dying in cockpit after being shot down during the Battle of Chosin Reservoir in the Korean War. Thomas J. Hudner Jr. received the Medal of Honor for his unsuccessful attempt to rescue Brown",
    "last_words": "Tell Daisy that I love her.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_L._Brown",
-   "born": "13 October 1926"
+   "born": "13 October 1926",
+   "died": "4 December 1950"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Scottish philosopher and author",
    "cause": null,
    "last_words": "So this is death ... well ...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Carlyle",
    "died": "5 February 1881"
   },
@@ -77,6 +88,7 @@
    "desc": "English novelist",
    "cause": null,
    "last_words": "Have you brought the chequebook, Alfred?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Butler_(novelist)",
    "died": "18 June 1902"
   },
@@ -88,6 +100,7 @@
    "desc": "British nurse",
    "cause": "executed by firing squad in German-occupied Belgium for having helped Allied soldiers escape to the then-neutral Netherlands during World War I. She said this on the night before her execution to Reverend H. Stirling Gahan, the Anglican chaplain who had been allowed to see her and to give her Holy Communion",
    "last_words": "We shall meet again.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edith_Cavell",
    "died": "12 October 1915"
   },
@@ -99,6 +112,7 @@
    "desc": "Bohemian-Austrian poet and novelist",
    "cause": null,
    "last_words": "I don't want the doctor's death. I want to have my own freedom.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rainer_Maria_Rilke",
    "died": "29 December 1926"
   },
@@ -110,6 +124,7 @@
    "desc": "American football fullback fatally injured in game",
    "cause": "responding to teammate who asked if he was going to give up",
    "last_words": "No, Bill, I've got too much Georgia grit for that.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Von_Albade_Gammon",
    "died": "31 October 1897"
   },
@@ -121,6 +136,7 @@
    "desc": "American criminal",
    "cause": "prior to execution by firing squad",
    "last_words": "Let's do it!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gary_Gilmore",
    "died": "17 January 1977"
   },
@@ -132,6 +148,7 @@
    "desc": null,
    "cause": "The 27-year-old American-Canadian film actor, known for playing the lead role in the 1970 film Zabriskie Point, died while in prison for bank robbery when a barbell fell on his neck while he was weightlifting.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Frechette",
    "died": "27 September 1975"
   }

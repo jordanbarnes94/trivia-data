@@ -9,8 +9,10 @@
    "desc": "British Nonconformist minister and author",
    "cause": null,
    "last_words": "A life spent in the service of God, and communion with Him, is the most comfortable and pleasant life that any one can live in this present world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Henry",
-   "born": "18 October 1662"
+   "born": "18 October 1662",
+   "died": "22 June 1714"
   },
   {
    "year": 1956,
@@ -20,8 +22,10 @@
    "desc": "English author",
    "cause": "when asked if he wanted some fruit or flowers",
    "last_words": "Too late for fruit, too soon for flowers.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_de_la_Mare",
-   "born": "25 April 1873"
+   "born": "25 April 1873",
+   "died": "22 June 1956"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "American merchant and philanthropist",
    "cause": "to his wife",
    "last_words": "I will now try to sleep.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Appleton_(merchant)",
    "died": "12 July 1853"
   },
@@ -44,6 +49,7 @@
    "desc": "former Confederate soldier",
    "cause": "prior to execution by hanging for the murder of Laura Foster",
    "last_words": "Gentlemen, do you see this hand? Does it tremble? I never hurt a hair of that girl's head.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Dula",
    "died": "1 May 1868"
   },
@@ -55,6 +61,7 @@
    "desc": "American basketball player",
    "cause": "before dying of an undiagnosed heart defect during a pickup game in Pasadena, California before dying of undiagnosed heart defect during pickup game",
    "last_words": "I feel great.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Maravich",
    "died": "5 January 1988"
   },
@@ -66,6 +73,7 @@
    "desc": "American stand-up comedian and actor",
    "cause": "as his suicide note, before shooting himself in the head",
    "last_words": "I must end it. There's no hope left. I'll be at peace. No one had anything to do with this. My decision totally.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Prinze",
    "died": "29 January 1977"
   }

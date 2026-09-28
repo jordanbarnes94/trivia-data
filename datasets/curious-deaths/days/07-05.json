@@ -9,8 +9,10 @@
    "desc": "Confederate brigadier general of the American Civil War",
    "cause": "prior to being mortally wounded at the Battle of Gettysburg",
    "last_words": "Give them the cold steel, boys.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lewis_Armistead",
-   "born": "18 February 1817"
+   "born": "18 February 1817",
+   "died": "5 July 1863"
   },
   {
    "year": 1941,
@@ -20,8 +22,10 @@
    "desc": "GC, MA, Congregational Church minister",
    "cause": "asking to be lowered into the hold of the sinking SS Anselm, where injured airmen were trapped. Pugh then prayed with the men until the ship sank",
    "last_words": "My love of God is greater than my fear of death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Pugh",
-   "born": "2 November 1898"
+   "born": "2 November 1898",
+   "died": "5 July 1941"
   },
   {
    "year": 1974,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "While working in saturation aboard oil platform Sedco 135F in the British Sector of the North Sea, the 27-year-old British commercial diver suffered a pneumothorax during decompression. The diving supervisor recognized Dimmer's condition, but the onshore physician consulted by the platform incorrectly diagnosed Dimmer as suffering from pneumonia. As a result, decompression continued, and Dimmer's pneumothorax proved fatal.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "5 July 1974"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "American showman",
    "cause": "when asked if he wanted a drink of water",
    "last_words": "Yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/P._T._Barnum",
    "died": "7 April 1891"
   },
@@ -55,6 +62,7 @@
    "desc": "British businessman and politician",
    "cause": null,
    "last_words": "So little done, so much to do.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cecil_Rhodes",
    "died": "26 March 1902"
   }

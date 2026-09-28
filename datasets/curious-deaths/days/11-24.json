@@ -9,8 +9,10 @@
    "desc": "founder of the Presbyterian Church of Scotland",
    "cause": null,
    "last_words": "Now it is come.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Knox",
-   "born": null
+   "born": null,
+   "died": "24 November 1572"
   },
   {
    "year": 1742,
@@ -20,8 +22,10 @@
    "desc": "American newspaper printer and publisher",
    "cause": null,
    "last_words": "Oh Lord! Forgive the errata!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bradford",
-   "born": null
+   "born": null,
+   "died": "24 November 1742"
   },
   {
    "year": 1807,
@@ -31,8 +35,10 @@
    "desc": "Mohawk military and political leader",
    "cause": "to his adopted nephew John Norton",
    "last_words": "Have pity on the poor Indians; if you can get any influence with the great, endeavor to do them all the good you can.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Brant",
-   "born": null
+   "born": null,
+   "died": "24 November 1807"
   },
   {
    "year": 1857,
@@ -42,8 +48,10 @@
    "desc": "KCB, British Army general",
    "cause": null,
    "last_words": "Come, my son, and see how a Christian can die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Havelock",
-   "born": "5 April 1795"
+   "born": "5 April 1795",
+   "died": "24 November 1857"
   },
   {
    "year": 1875,
@@ -53,8 +61,10 @@
    "desc": "American business magnate",
    "cause": null,
    "last_words": "I might have lived another year if I had not caught this cold, but I am satisfied to go now. I am eighty-four years old-long past the allotted time of man-and at my age, life becomes a burden.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Backhouse_Astor_Sr.",
-   "born": "19 September 1792"
+   "born": "19 September 1792",
+   "died": "24 November 1875"
   },
   {
    "year": 1922,
@@ -64,8 +74,10 @@
    "desc": "English-born Irish writer",
    "cause": "facing a firing squad",
    "last_words": "Take a step or two closer, lads. It will be easier that way.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Erskine_Childers_(author)",
-   "born": "25 June 1870"
+   "born": "25 June 1870",
+   "died": "24 November 1922"
   },
   {
    "year": 1963,
@@ -75,8 +87,10 @@
    "desc": "accused of killing Kennedy and Tippit",
    "cause": "shortly before he was shot by Jack Ruby The 24-year old assassin of President John F. Kennedy was being led through the basement of the Dallas Police Headquarters to be transferred to the county jail when he was shot at point-blank range by local nightclub owner Jack Ruby. The entire incident was filmed and broadcast live by NBC, making it the first death and first murder to occur on a live television broadcast.",
    "last_words": "I want to see the American Civil Liberties Union.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lee_Harvey_Oswald",
-   "born": "18 October 1939"
+   "born": "18 October 1939",
+   "died": "24 November 1963"
   },
   {
    "year": 1991,
@@ -86,8 +100,10 @@
    "desc": "British lead vocalist of Queen",
    "cause": "to his assistant Peter Freestone, before he slipped into a coma and died shortly thereafter",
    "last_words": "Thank you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Freddie_Mercury",
-   "born": "5 September 1946"
+   "born": "5 September 1946",
+   "died": "24 November 1991"
   }
  ],
  "born": [
@@ -99,19 +115,9 @@
    "desc": "Anglo-Irish novelist and Anglican cleric",
    "cause": null,
    "last_words": "Now it has come.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Sterne",
    "died": "18 March 1768"
-  },
-  {
-   "year": 1784,
-   "year_label": "1784",
-   "name": "Zachary Taylor",
-   "kind": "individual",
-   "desc": "president of the United States",
-   "cause": "dying in office The 12th President of the United States died of diarrhea and dysentery 5 days after consuming raw cherries and iced milk at a 4th of July event at the site of the Washington Monument. Persistent speculation that Taylor was poisoned would lead to the exhumation of some of his remains in 1991, but scientific testing found no evidence of poison.",
-   "last_words": "I am about to die. I expect the summons soon. I have endeavored to discharge all my official duties faithfully. I regret nothing, but am sorry that I am about to leave my friends.",
-   "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
-   "died": "9 July 1850"
   },
   {
    "year": 1784,
@@ -121,8 +127,21 @@
    "desc": "FRS, British financier, banker and philanthropist",
    "cause": "dying at age 100",
    "last_words": "Thank God! Thank Heaven!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Moses_Montefiore",
    "died": "28 July 1885"
+  },
+  {
+   "year": 1784,
+   "year_label": "1784",
+   "name": "Zachary Taylor",
+   "kind": "individual",
+   "desc": "president of the United States",
+   "cause": "dying in office The 12th President of the United States died of diarrhea and dysentery 5 days after consuming raw cherries and iced milk at a 4th of July event at the site of the Washington Monument. Persistent speculation that Taylor was poisoned would lead to the exhumation of some of his remains in 1991, but scientific testing found no evidence of poison.",
+   "last_words": "I am about to die. I expect the summons soon. I have endeavored to discharge all my official duties faithfully. I regret nothing, but am sorry that I am about to leave my friends.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Zachary_Taylor",
+   "died": "9 July 1850"
   },
   {
    "year": 1821,
@@ -132,6 +151,7 @@
    "desc": "English historian and author",
    "cause": null,
    "last_words": "Poor little boys!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Thomas_Buckle",
    "died": "29 May 1862"
   },
@@ -143,6 +163,7 @@
    "desc": "vice-president of the United States",
    "cause": "alluding to Psalms 84:10 just before dying of a heart attack while giving keynote address at the 1956 Washington and Lee Mock Convention",
    "last_words": "I am wiling to be a junior. I am glad to sit in the back row, for I had rather be a servant in the house of the Lord than to sit in the seats of the mighty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alben_W._Barkley",
    "died": "30 April 1956"
   },
@@ -154,6 +175,7 @@
    "desc": "Italian-American gangster",
    "cause": "after meeting with a producer about a proposed film based on his life",
    "last_words": "Tell Georgie I want to get in the movies one way or another.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Luciano",
    "died": "26 January 1962"
   },
@@ -165,6 +187,7 @@
    "desc": "American serial killer",
    "cause": "prior to execution by electrocution",
    "last_words": "Give my love to my family and friends.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ted_Bundy",
    "died": "24 January 1989"
   }

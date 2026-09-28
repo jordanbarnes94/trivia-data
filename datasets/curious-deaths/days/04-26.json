@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "The Vice-Chancellor of Cambridge University and Dean of Ely was known for his frequent religious conversions to match the established faith of the time in England. He reportedly died due to having heard the jester of Queen Elizabeth I make a joke about his uncertain spiritual state, referring to him as \"one that is neither heaven nor earth, but hangs betwixt both\".",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Perne",
-   "born": null
+   "born": null,
+   "died": "26 April 1589"
   },
   {
    "year": 1865,
@@ -20,8 +22,10 @@
    "desc": "American actor and assassin of Abraham Lincoln",
    "cause": "after being fatally shot by Boston Corbett",
    "last_words": "Tell mother, tell mother, I died for my country...useless...useless...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Wilkes_Booth",
-   "born": "10 May 1838"
+   "born": "10 May 1838",
+   "died": "26 April 1865"
   },
   {
    "year": 1901,
@@ -31,8 +35,10 @@
    "desc": "American outlaw and cowboy",
    "cause": "executed by hanging for attempted train robbery",
    "last_words": "Goodbye. Please dig my grave very deep. All right; hurry up.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Ketchum",
-   "born": "31 October 1863"
+   "born": "31 October 1863",
+   "died": "26 April 1901"
   },
   {
    "year": 1909,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "The 38-year-old American Major League Baseball player ran into a wall while chasing a foul ball during a Boston Red Sox-Philadelphia Athletics game at Philadelphia's Shibe Park, on 12 April 1909. He died from internal injuries and gangrene two weeks later.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Doc_Powers",
-   "born": "22 September 1870"
+   "born": "22 September 1870",
+   "died": "26 April 1909"
   },
   {
    "year": 1926,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The American stunt performer died after a botched amputation of the infected leg which he had broken after slipping on an orange peel. He had gone over Niagara Falls in a barrel 15 years earlier.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Leach",
-   "born": null
+   "born": null,
+   "died": "26 April 1926"
   },
   {
    "year": 1984,
@@ -64,8 +74,10 @@
    "desc": "United States Air Force lieutenant general",
    "cause": "prior to failed ejection from Mikoyan-Gurevich MiG-23 jet fighter-bomber",
    "last_words": "I've got to get out, I'm out of control.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_M._Bond",
-   "born": "16 December 1929"
+   "born": "16 December 1929",
+   "died": "26 April 1984"
   },
   {
    "year": 1989,
@@ -75,8 +87,10 @@
    "desc": "American actress, television producer and studio executive",
    "cause": "when asked if she wanted anything",
    "last_words": "My Florida water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucille_Ball",
-   "born": "6 August 1911"
+   "born": "6 August 1911",
+   "died": "26 April 1989"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "Roman emperor and philosopher",
    "cause": null,
    "last_words": "Go to the rising sun, for I am setting. Think more of death than of me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Aurelius",
    "died": "17 March 180"
   },
@@ -99,8 +114,21 @@
    "desc": "American ornithologist, naturalist and painter",
    "cause": "speaking to his friend William Bakewell while suffering from senility",
    "last_words": "Yes, yes, Billy! You go down that side on Long Pond, and I'll go this side, and we'll get the ducks.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_James_Audubon",
    "died": "27 January 1851"
+  },
+  {
+   "year": 1820,
+   "year_label": "1820",
+   "name": "Alice Cary",
+   "kind": "individual",
+   "desc": "American poet",
+   "cause": null,
+   "last_words": "I want to go away.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Alice_Cary",
+   "died": "12 February 1871"
   },
   {
    "year": 1821,
@@ -110,6 +138,7 @@
    "desc": null,
    "cause": "The 41-year-old American professional soldier was killed on the first day of the Battle of Stones River when a cannonball decapitated him.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julius_Peter_Garesché",
    "died": "31 December 1862"
   },
@@ -121,6 +150,7 @@
    "desc": "Austrian philosopher",
    "cause": "upon being told that his close friends would come to visit him the next day",
    "last_words": "Tell them I've had a wonderful life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
    "died": "29 April 1951"
   },
@@ -132,6 +162,7 @@
    "desc": "Kansas City Chiefs running back",
    "cause": "after suffering fractured vertebra in neck during kickoff return on 30 August 1963",
    "last_words": "Oh my God, oh my God! Where's my head, where's my head?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stone_Johnson",
    "died": "8 September 1963"
   }

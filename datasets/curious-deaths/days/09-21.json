@@ -9,8 +9,10 @@
    "desc": "Roman poet",
    "cause": null,
    "last_words": "Death twitches my ear. 'Live,' he says. 'I am coming.'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Virgil",
-   "born": "15 October 70 BC"
+   "born": "15 October 70 BC",
+   "died": "21 September 19 BC"
   },
   {
    "year": 1327,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The English king was rumoured to have been murdered after being deposed and imprisoned by his wife Isabella and her lover Roger Mortimer, by having a horn pushed into his anus through which a red-hot iron was inserted, burning out his internal organs without marking his body. However, there is no real academic consensus on the manner of Edward II's death, and it has been plausibly argued that the story is propaganda.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_II",
-   "born": "25 April 1284"
+   "born": "25 April 1284",
+   "died": "21 September 1327"
   },
   {
    "year": 1558,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "looking at a crucifix",
    "last_words": "Now, Lord, I go! Ay, Jesus!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_V,_Holy_Roman_Emperor",
-   "born": "24 February 1500"
+   "born": "24 February 1500",
+   "died": "21 September 1558"
   },
   {
    "year": 1745,
@@ -42,8 +48,10 @@
    "desc": "British Army officer",
    "cause": "to a Jacobite officer after being mortally wounded at the Battle of Prestonpans",
    "last_words": "You are fighting for an earthly crown; I am going to receive a heavenly one.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Gardiner_(British_Army_officer)",
-   "born": "10 January 1686"
+   "born": "10 January 1686",
+   "died": "21 September 1745"
   },
   {
    "year": 1796,
@@ -53,8 +61,10 @@
    "desc": "French general of the Revolutionary Wars",
    "cause": "to General Jean-Baptiste Jourdan when mortally wounded at the Battle of Limburg (1796)",
    "last_words": "General, why do you shed tears? I am happy to die for my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Séverin_Marceau",
-   "born": "1 March 1769"
+   "born": "1 March 1769",
+   "died": "21 September 1796"
   },
   {
    "year": 1832,
@@ -64,8 +74,10 @@
    "desc": "Scottish novelist and poet",
    "cause": null,
    "last_words": "I have written nothing which on my deathbed I should wish blotted.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Scott",
-   "born": "15 August 1771"
+   "born": "15 August 1771",
+   "died": "21 September 1832"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Italian Dominican friar",
    "cause": "when asked before his execution if he was resigned to death",
    "last_words": "My Lord died innocent of all crimes, for my sins; and shall not I willingly give my soul for the love of Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Girolamo_Savonarola",
    "died": "23 May 1498"
   },
@@ -88,6 +101,7 @@
    "desc": "British stage actor",
    "cause": "quoting his play Nadjezda",
    "last_words": "Our trade falls heavily upon these feeble folk.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Barrymore",
    "died": "25 March 1905"
   },
@@ -99,6 +113,7 @@
    "desc": "English author and futurist",
    "cause": null,
    "last_words": "Go away. I'm all right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/H._G._Wells",
    "died": "13 August 1946"
   },
@@ -110,6 +125,7 @@
    "desc": "Russian lyric poet",
    "cause": "in his final poem before allegedly taking his own life",
    "last_words": "Goodbye, my friend, goodbye. My dear, you are in my heart. Predestined separation promises a future meeting.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sergei_Yesenin",
    "died": "28 December 1925"
   }

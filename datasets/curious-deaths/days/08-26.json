@@ -9,8 +9,10 @@
    "desc": "English noble and courtier",
    "cause": null,
    "last_words": "I will lie down on the couch; I can sleep, and after that I shall be entirely recovered.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Pierrepont,_Duchess_of_Kingston-upon-Hull",
-   "born": null
+   "born": null,
+   "died": "26 August 1788"
   },
   {
    "year": 1813,
@@ -20,8 +22,10 @@
    "desc": "German poet and soldier",
    "cause": "final lines of the \"Schwertlied\", written two hours before his death in battle",
    "last_words": "Now let her sing and clash, / That glowing sparks may flash! / Morn wakes in nuptial pride. / Hurrah, thou iron bride! / Hurrah!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodor_Körner_(author)",
-   "born": "23 September 1791"
+   "born": "23 September 1791",
+   "died": "26 August 1813"
   },
   {
    "year": 1910,
@@ -31,8 +35,10 @@
    "desc": "American philosopher and psychologist",
    "cause": null,
    "last_words": "These then are my last words to you. Be not afraid of life. Believe that life is worth living and your belief will help create the fact.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_James",
-   "born": "11 January 1842"
+   "born": "11 January 1842",
+   "died": "26 August 1910"
   },
   {
    "year": 1931,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "After the 40-year-old deputy sheriff stepped out of his car at an oil station, the vehicle began to roll forward, and he attempted to hop onto the car's running board to stop it. It carried him forward and slammed him into a hook used to hold air and water hoses, which impaled him just below the heart.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "26 August 1931"
   },
   {
    "year": 1960,
@@ -53,8 +61,10 @@
    "desc": "Danish cyclist",
    "cause": "shortly before collapsing to the pavement while competing in the 1960 Summer Olympics",
    "last_words": "I'm dizzy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Knud_Enemark_Jensen",
-   "born": "30 November 1936"
+   "born": "30 November 1936",
+   "died": "26 August 1960"
   },
   {
    "year": 1980,
@@ -64,8 +74,10 @@
    "desc": "American animator",
    "cause": "to an animator while watching a baseball game, according to Chuck Jones",
    "last_words": "I don't know where animators go when they die, but I guess there must be a lot of them. They could probably use a good director though.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tex_Avery",
-   "born": "26 February 1908"
+   "born": "26 February 1908",
+   "died": "26 August 1980"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": null,
    "cause": "to his wife, Queen Victoria",
    "last_words": "Good little wife.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert,_Prince_Consort",
    "died": "14 December 1861"
   }

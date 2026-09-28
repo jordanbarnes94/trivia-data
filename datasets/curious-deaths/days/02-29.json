@@ -9,8 +9,10 @@
    "desc": "Scottish churchman",
    "cause": "while being burned at the stake",
    "last_words": "How long, Lord, shall darkness cover this land? How long wilt thou suffer this tyranny of men? Lord Jesus, receive my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Hamilton_(martyr)",
-   "born": null
+   "born": null,
+   "died": "29 February 1528"
   }
  ],
  "born": [
@@ -22,6 +24,7 @@
    "desc": "Viennese dancer and wife of David Garrick",
    "cause": "telling a servant to put down a cup of tea prior to dying at age 98",
    "last_words": "Put it down, hussy! Do you think I cannot help myself?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eva_Marie_Veigel",
    "died": "16 October 1822"
   }

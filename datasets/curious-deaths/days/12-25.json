@@ -9,8 +9,10 @@
    "desc": "English clergyman and writer",
    "cause": null,
    "last_words": "Precious salvation!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Hervey",
-   "born": "26 February 1714"
+   "born": "26 February 1714",
+   "died": "25 December 1758"
   },
   {
    "year": 1946,
@@ -20,8 +22,10 @@
    "desc": "American entertainer",
    "cause": "addressing his mistress, Carlotta Monti",
    "last_words": "God damn the whole fuckin' world and everyone in it but you, Carlotta.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/W._C._Fields",
-   "born": "29 January 1880"
+   "born": "29 January 1880",
+   "died": "25 December 1946"
   },
   {
    "year": 1954,
@@ -31,8 +35,10 @@
    "desc": "American rhythm-and-blues singer and musician",
    "cause": "American musician, playing with a .32 caliber revolver",
    "last_words": "I'll show you that it won't shoot.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Ace",
-   "born": "9 June 1929"
+   "born": "9 June 1929",
+   "died": "25 December 1954"
   },
   {
    "year": 1977,
@@ -42,8 +48,10 @@
    "desc": "English actor and filmmaker",
    "cause": "to a priest who had said, \"May the Lord have mercy on your soul\"",
    "last_words": "Why not? After all, it belongs to him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
-   "born": "16 April 1889"
+   "born": "16 April 1889",
+   "died": "25 December 1977"
   },
   {
    "year": 1989,
@@ -53,8 +61,10 @@
    "desc": "Romanian communist politician, dictator and president of the Romanian Communist Party from 1965 to 1989",
    "cause": "executed by firing squad along with his wife Elena",
    "last_words": "Long Live the Socialist Republic of Romania, independent and free.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicolae_Ceaușescu",
-   "born": "26 January 1918"
+   "born": "26 January 1918",
+   "died": "25 December 1989"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": null,
    "cause": null,
    "last_words": "Fie on life! Speak no more of it to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Stewart,_Dauphine_of_France",
    "died": "16 August 1445"
   },
@@ -77,6 +88,7 @@
    "desc": "English physicist",
    "cause": null,
    "last_words": "I don't know what I may seem to the world. But as to myself I seem to have been only like a boy playing on the seashore and diverting myself now and then in finding a smoother pebble or a prettier shell than the ordinary, whilst the great ocean of truth lay all undiscovered before me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Newton",
    "died": "31 March 1727"
   },
@@ -88,8 +100,21 @@
    "desc": "Scottish divine",
    "cause": null,
    "last_words": "Pray, pray!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Halyburton",
    "died": "23 September 1712"
+  },
+  {
+   "year": 1766,
+   "year_label": "1766",
+   "name": "Christmas Evans",
+   "kind": "individual",
+   "desc": "Welsh nonconformist minister",
+   "cause": null,
+   "last_words": "I am about to leave you. I have labored in the sanctuary fifty-three years, and this is my comfort and confidence, that I have never labored without blood in the vessel. Goodbye! Drive on!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Christmas_Evans",
+   "died": "19 July 1838"
   },
   {
    "year": 1793,
@@ -99,6 +124,7 @@
    "desc": "American Methodist minister",
    "cause": "when a friend asked him if Jesus was precious",
    "last_words": "Why, certainly, certainly!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Thompson_Taylor",
    "died": "6 April 1871"
   },
@@ -110,6 +136,7 @@
    "desc": "American nurse and founder of the American Red Cross",
    "cause": null,
    "last_words": "Let me go! Let me go!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clara_Barton",
    "died": "12 April 1912"
   },
@@ -121,6 +148,7 @@
    "desc": "founder and 1st Governor-General of Pakistan",
    "cause": "on being told by his doctor, Lieutenant Colonel Ilahi Bakhsh, that he was going to live. He died thirty minutes later",
    "last_words": "No, I am not.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Muhammad_Ali_Jinnah",
    "died": "11 September 1948"
   },
@@ -132,6 +160,7 @@
    "desc": "American hotelier",
    "cause": "on being asked if he had any final words of wisdom",
    "last_words": "Leave the shower curtain on the inside of the tub.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Conrad_Hilton",
    "died": "3 January 1979"
   },
@@ -143,6 +172,7 @@
    "desc": "American actor",
    "cause": "to his wife Lauren as she left to collect their children, after which he entered a fatal coma",
    "last_words": "Goodbye, kid. Hurry back.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Bogart",
    "died": "14 January 1957"
   },
@@ -154,6 +184,7 @@
    "desc": "Czech politician",
    "cause": "prior to execution by hanging on fabricated charges of conspiracy and treason",
    "last_words": "I'm falling, I'm falling, I have lost this fight but I leave with honour. I love this country, I love this nation, strive for its wellbeing. I depart without rancour towards you. I wish you that, I wish you that...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Milada_Horáková",
    "died": "27 June 1950"
   },
@@ -165,6 +196,7 @@
    "desc": "English writer, racounteur and actor",
    "cause": null,
    "last_words": "You crawl out of your mother's womb, you crawl across open country under fire, and drop into your grave.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Quentin_Crisp",
    "died": "21 November 1999"
   },
@@ -176,6 +208,7 @@
    "desc": "American screenwriter",
    "cause": "note written from hospital bed to colleague Owen Comora",
    "last_words": "You can't kill this tough Jew.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rod_Serling",
    "died": "28 June 1975"
   }

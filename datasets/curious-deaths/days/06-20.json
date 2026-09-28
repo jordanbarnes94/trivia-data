@@ -9,8 +9,10 @@
    "desc": "King of the Franks",
    "cause": "after turning his face to the wall before dying",
    "last_words": "Out! out!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_Pious",
-   "born": "16 April 778"
+   "born": "16 April 778",
+   "died": "20 June 840"
   },
   {
    "year": 1774,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The English carpenter and wheelwright was the first human known to have died in an accident with a submarine. Day submerged himself in Plymouth Sound in a wooden diving chamber attached to a sloop named the Maria and never resurfaced.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Day_(carpenter)",
-   "born": null
+   "born": null,
+   "died": "20 June 1774"
   },
   {
    "year": 1820,
@@ -31,8 +35,10 @@
    "desc": "Argentine economist, lawyer, politician, journalist, and military leader",
    "cause": null,
    "last_words": "Oh, my homeland!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Manuel_Belgrano",
-   "born": "3 June 1770"
+   "born": "3 June 1770",
+   "died": "20 June 1820"
   },
   {
    "year": 1991,
@@ -42,8 +48,10 @@
    "desc": "English planning officer",
    "cause": "asking for the cameraman to get a picture of Albert Dryden, who had brandished a revolver and shot him moments after",
    "last_words": "Can you get a shot of this gun?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Murder_of_Harry_Collinson",
-   "born": null
+   "born": null,
+   "died": "20 June 1991"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "Italian artist and poet",
    "cause": "when asked how he was",
    "last_words": "Bad, bad! To judge by what I now endure, the hand of death grasps me sharply.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Salvator_Rosa",
    "died": "15 March 1673"
   },
@@ -66,6 +75,7 @@
    "desc": "English Unitarian theologian and clergyman",
    "cause": "to a friend who suggested that Lindsey was strengthened by the saying, \"Whatever is, is right\"",
    "last_words": "No, whatever is, is best.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theophilus_Lindsey",
    "died": "3 November 1808"
   },
@@ -77,6 +87,7 @@
    "desc": "Irish revolutionary",
    "cause": "when told a wound in his throat would reopen and cause him to bleed to death if he spoke. Tone died in prison under unclear circumstances (possibly suicide) while awaiting execution by hanging",
    "last_words": "I can yet find words to thank you, sir; it is the most welcome news you could give me. What should I wish to live for?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wolfe_Tone",
    "died": "19 November 1798"
   },
@@ -88,6 +99,7 @@
    "desc": "American anarchist leader",
    "cause": "during hanging after Haymarket affair; interrupted by opening of gallows trapdoor",
    "last_words": "Will I be allowed to speak, O men of America? Let me speak, Sheriff Matson! Let the voice of the people be heard! O-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Parsons",
    "died": "11 November 1887"
   },
@@ -99,6 +111,7 @@
    "desc": "Australian-born American actor",
    "cause": null,
    "last_words": "I've had a hell of a lot of fun and I've enjoyed every minute of it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Errol_Flynn",
    "died": "14 October 1959"
   }

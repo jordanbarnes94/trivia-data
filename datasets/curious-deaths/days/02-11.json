@@ -9,8 +9,10 @@
    "desc": "French playwright, writer and literary critic",
    "cause": "his final recorded words, spoken the day before his death",
    "last_words": "I am grateful to Divine Mercy for having left me sufficient recollection to feel how consoling these prayers are to the dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-François_de_La_Harpe",
-   "born": "20 November 1739"
+   "born": "20 November 1739",
+   "died": "11 February 1803"
   },
   {
    "year": 1992,
@@ -20,8 +22,10 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "I'd like to thank my family for loving me and taking care of me, and the rest of the world can kiss my ass.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Frank_Garrett",
-   "born": "24 December 1963"
+   "born": "24 December 1963",
+   "died": "11 February 1992"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "French author",
    "cause": "dying at the age of 99",
    "last_words": "I do not suffer, my friends; I only feel a certain difficulty of living.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_Le_Bovier_de_Fontenelle",
    "died": "9 January 1757"
   },
@@ -44,6 +49,7 @@
    "desc": "American inventor",
    "cause": "speaking words of unclear meaning as he was dying",
    "last_words": "It's very beautiful over there.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Edison",
    "died": "18 October 1931"
   },
@@ -55,6 +61,7 @@
    "desc": "American newspaper publisher",
    "cause": "to his son, Walter Annenberg. Moses Annenberg had been released from prison a month earlier after being convicted of tax evasion",
    "last_words": "Walter, who knows what is the scheme of things? My suffering has all been for the purpose of making you a man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Moses_Annenberg",
    "died": "20 July 1942"
   },
@@ -66,6 +73,7 @@
    "desc": "American boxer",
    "cause": "dying of a heart attack",
    "last_words": "Oh, God, here I go!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Max_Baer_(boxer)",
    "died": "21 November 1959"
   },
@@ -77,6 +85,7 @@
    "desc": "American rock and roll and rockabilly musician",
    "cause": "dying of a bleeding ulcer while in his mother's trailer",
    "last_words": "Mama, if I get through this, I swear I'll be a better man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gene_Vincent",
    "died": "12 October 1971"
   },
@@ -88,6 +97,7 @@
    "desc": "American basketball player",
    "cause": "after collapsing during game",
    "last_words": "I don't want to lay down.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hank_Gathers",
    "died": "4 March 1990"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "dying of pneumonia after breaking his collarbone, to his physician The king of England was riding his horse when it stumbled on a molehill. William fell and broke his collarbone, then contracted pneumonia and died several days later. After he died, Jacobites were said to have toasted in the mole's honour, calling it \"the little gentleman in the black velvet waistcoat\".",
    "last_words": "Can this last long?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_III_of_England",
-   "born": "14 November 1650"
+   "born": "14 November 1650",
+   "died": "8 March 1702"
   },
   {
    "year": 1844,
@@ -20,8 +22,10 @@
    "desc": "King of Sweden and Norway",
    "cause": "whispering the name of his son and heir",
    "last_words": "Oscar.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_XIV_John",
-   "born": "26 January 1763"
+   "born": "26 January 1763",
+   "died": "8 March 1844"
   },
   {
    "year": 1869,
@@ -31,8 +35,10 @@
    "desc": "French composer",
    "cause": null,
    "last_words": "One thousand greetings to Balakirev.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hector_Berlioz",
-   "born": "11 December 1803"
+   "born": "11 December 1803",
+   "died": "8 March 1869"
   },
   {
    "year": 1874,
@@ -42,8 +48,10 @@
    "desc": "president of the United States",
    "cause": "referring to soup he had eaten",
    "last_words": "The nourishment is palatable.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Millard_Fillmore",
-   "born": "7 January 1800"
+   "born": "7 January 1800",
+   "died": "8 March 1874"
   },
   {
    "year": 1887,
@@ -53,8 +61,10 @@
    "desc": "American clergyman",
    "cause": null,
    "last_words": "Now comes the mystery.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Ward_Beecher",
-   "born": "24 June 1813"
+   "born": "24 June 1813",
+   "died": "8 March 1887"
   },
   {
    "year": 1917,
@@ -64,8 +74,10 @@
    "desc": "German general and airship inventor",
    "cause": null,
    "last_words": "I have perfect faith.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ferdinand_von_Zeppelin",
-   "born": "8 July 1838"
+   "born": "8 July 1838",
+   "died": "8 March 1917"
   },
   {
    "year": 1941,
@@ -75,8 +87,10 @@
    "desc": null,
    "cause": "The 64-year-old American writer died of peritonitis after accidentally swallowing an olive that had a toothpick inside.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sherwood_Anderson",
-   "born": "13 September 1876"
+   "born": "13 September 1876",
+   "died": "8 March 1941"
   },
   {
    "year": 1945,
@@ -86,8 +100,10 @@
    "desc": "professional football player, United States Marine Corps officer and Medal of Honor recipient",
    "cause": "after losing his legs to a land mine at the Battle of Iwo Jima",
    "last_words": "Doc, the New York Giants lost a mighty good end today.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Lummus",
-   "born": "22 October 1915"
+   "born": "22 October 1915",
+   "died": "8 March 1945"
   },
   {
    "year": 1951,
@@ -97,8 +113,10 @@
    "desc": "American serial killer",
    "cause": "whispering while being placed in the electric chair",
    "last_words": "So long.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Raymond_Fernandez_and_Martha_Beck",
-   "born": null
+   "born": "17 December 1914",
+   "died": "8 March 1951"
   },
   {
    "year": 1999,
@@ -108,8 +126,10 @@
    "desc": "American baseball player",
    "cause": null,
    "last_words": "I'll finally get to see Marilyn.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joe_DiMaggio",
-   "born": "25 November 1914"
+   "born": "25 November 1914",
+   "died": "8 March 1999"
   }
  ],
  "born": [
@@ -121,6 +141,7 @@
    "desc": null,
    "cause": "The 67-year-old woman was found by police in her St. Petersburg, Florida, home almost totally cremated where she sat, while her apartment was relatively damage-free. Some speculate that she spontaneously combusted.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Reeser",
    "died": "2 July 1951"
   }

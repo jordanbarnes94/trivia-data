@@ -9,8 +9,10 @@
    "desc": "Norwegian nobleman",
    "cause": "before being killed by supporters of King Haakon IV of Norway",
    "last_words": "Don't cut my face.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Skule_Bårdsson",
-   "born": null
+   "born": null,
+   "died": "24 May 1240"
   },
   {
    "year": 1543,
@@ -20,8 +22,10 @@
    "desc": "mathematician and astronomer",
    "cause": "paraphrasing Luke 2:29 KJV",
    "last_words": "Now, O Lord, set thy servant free.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicolaus_Copernicus",
-   "born": "19 February 1473"
+   "born": "19 February 1473",
+   "died": "24 May 1543"
   },
   {
    "year": 1612,
@@ -31,8 +35,10 @@
    "desc": "English statesman",
    "cause": null,
    "last_words": "Ease and pleasure quake to hear of death; but my life, full of cares and miseries, desireth to be dissolved.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Cecil,_1st_Earl_of_Salisbury",
-   "born": "1 June 1563"
+   "born": "1 June 1563",
+   "died": "24 May 1612"
   },
   {
    "year": 1725,
@@ -42,8 +48,10 @@
    "desc": "London organized crime figure",
    "cause": "prior to execution by hanging",
    "last_words": "Lord Jesus, receive my soul!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Wild",
-   "born": "6 May 1683"
+   "born": "6 May 1683",
+   "died": "24 May 1725"
   },
   {
    "year": 1833,
@@ -53,8 +61,10 @@
    "desc": "American planter and politician",
    "cause": null,
    "last_words": "Write that word 'Remorse'; show it to me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Randolph_of_Roanoke",
-   "born": "2 June 1773"
+   "born": "2 June 1773",
+   "died": "24 May 1833"
   },
   {
    "year": 1915,
@@ -64,8 +74,10 @@
    "desc": "VC, British Army officer",
    "cause": "mortally wounded during World War I, referring to his squadron",
    "last_words": "Tell them I died happy, loving them all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_Octavius_Grenfell",
-   "born": "4 September 1880"
+   "born": "4 September 1880",
+   "died": "24 May 1915"
   },
   {
    "year": 1998,
@@ -75,8 +87,10 @@
    "desc": "American mountaineer",
    "cause": "to British climber Ian Woodall while dying during descent from Mount Everest",
    "last_words": "I'm an American. Please don't leave me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francys_Arsentiev",
-   "born": "18 January 1958"
+   "born": "18 January 1958",
+   "died": "24 May 1998"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": null,
    "cause": "to his wife, after being stabbed by Charlotte Corday",
    "last_words": "Help! help me, my dear!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Paul_Marat",
    "died": "13 July 1793"
   },
@@ -99,6 +114,7 @@
    "desc": "queen regnant of the United Kingdom",
    "cause": "calling to her eldest son and heir, Albert, Prince of Wales",
    "last_words": "Bertie.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Queen_Victoria",
    "died": "22 January 1901"
   },
@@ -110,6 +126,7 @@
    "desc": "American ornithologist",
    "cause": "to his wife",
    "last_words": "I think I'll go now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oliver_L._Austin",
    "died": "31 December 1988"
   },
@@ -121,6 +138,7 @@
    "desc": "American convicted murderer",
    "cause": "prior to execution by electrocution",
    "last_words": "I don't hold any grudges. This is my doing. Sorry it happened.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Steven_Judy",
    "died": "9 March 1981"
   }

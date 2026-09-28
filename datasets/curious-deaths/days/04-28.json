@@ -9,8 +9,10 @@
    "desc": "last Protestant martyr burned in Scotland before the Scottish Reformation",
    "cause": null,
    "last_words": "Lord, have mercy upon me! Pray, people, while there is time.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Milne",
-   "born": null
+   "born": null,
+   "died": "28 April 1558"
   },
   {
    "year": 1842,
@@ -20,8 +22,10 @@
    "desc": "Scottish physician, artist and philosophical theologian",
    "cause": "to his wife",
    "last_words": "Hold me in your arms.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Bell",
-   "born": "12 November 1774"
+   "born": "12 November 1774",
+   "died": "28 April 1842"
   },
   {
    "year": 1849,
@@ -31,8 +35,10 @@
    "desc": "Scottish politician",
    "cause": null,
    "last_words": "Did the doctors really say I was not to get up?-If they said so, then I won't get up; but I feel well.-No, I will keep them [the pillows] as the doctors left them.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sir_Andrew_Agnew,_7th_Baronet",
-   "born": "21 March 1793"
+   "born": "21 March 1793",
+   "died": "28 April 1849"
   },
   {
    "year": 1945,
@@ -42,8 +48,10 @@
    "desc": "Italian fascist statesman",
    "cause": "facing a partisan leader",
    "last_words": "Shoot me in the chest!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Benito_Mussolini",
-   "born": "29 July 1883"
+   "born": "29 July 1883",
+   "died": "28 April 1945"
   },
   {
    "year": 1988,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "On Aloha Airlines Flight 243 from Hilo to Honolulu, Hawaii, the 58-year-old flight attendant was blown out of the Boeing 737-209 30000 ft above the Pacific Ocean when the plane experienced explosive decompression due to metal fatigue.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Clarabelle_Lansing",
-   "born": null
+   "born": null,
+   "died": "28 April 1988"
   },
   {
    "year": 1996,
@@ -64,8 +74,10 @@
    "desc": "victim of the Port Arthur massacre",
    "cause": "reacting to Martin Bryant pointing his weapon at him",
    "last_words": "No, not here!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Port_Arthur_massacre",
-   "born": null
+   "born": null,
+   "died": "28 April 1996"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Roman emperor",
    "cause": "to a freedman, prior to committing suicide",
    "last_words": "Go and show yourself to the soldiers, lest they cut you to pieces for being accessory to my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Otho",
    "died": "16 April 69"
   },
@@ -88,6 +101,7 @@
    "desc": "Korean naval commander",
    "cause": "telling his nephew to hide his death by gunshot from his soldiers to avoid demoralizing them during the Battle of Noryang",
    "last_words": "Do not announce my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Yi_Sun-sin",
    "died": "16 December 1598"
   },
@@ -99,6 +113,7 @@
    "desc": "president of the United States",
    "cause": "referring to his close friend James Madison",
    "last_words": "I regret that I should leave this world without again beholding him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Monroe",
    "died": "4 July 1831"
   },
@@ -110,6 +125,7 @@
    "desc": "VC, DSC, Royal Naval Reserve, skipper of armed trawler Nelson",
    "cause": "to his son after being mortally wounded in a German submarine attack during World War I",
    "last_words": "Tom, I'm done. Throw me overboard.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Crisp",
    "died": "15 August 1917"
   },
@@ -121,6 +137,7 @@
    "desc": null,
    "cause": "The 71-year-old logician and mathematician developed an obsessive fear of being poisoned and refused to eat food prepared by anyone but his wife. When she became ill and was hospitalized, he starved to death. At the time of his death, he only weighed around 65 lb.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kurt_Gödel",
    "died": "14 January 1978"
   }

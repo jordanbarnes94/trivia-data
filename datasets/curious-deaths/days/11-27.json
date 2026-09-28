@@ -9,8 +9,10 @@
    "desc": "one of the last two men executed for sodomy in England",
    "cause": "prior to being hanged with the other man, John Smith",
    "last_words": "Oh God, this is horrible, this is indeed horrible.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Pratt_and_John_Smith",
-   "born": null
+   "born": null,
+   "died": "27 November 1835"
   },
   {
    "year": 1872,
@@ -20,8 +22,10 @@
    "desc": "president of Bolivia",
    "cause": "speaking to Federico La Faye before being shot by the latter",
    "last_words": "You to me, Federico?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Agustín_Morales",
-   "born": "11 March 1808"
+   "born": "11 March 1808",
+   "died": "27 November 1872"
   },
   {
    "year": 1900,
@@ -31,8 +35,10 @@
    "desc": "United States Senator from Minnesota",
    "cause": null,
    "last_words": "Oh, that I might live five years more for my country's sake.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Cushman_Kellogg_Davis",
-   "born": "16 June 1838"
+   "born": "16 June 1838",
+   "died": "27 November 1900"
   },
   {
    "year": 1953,
@@ -42,8 +48,10 @@
    "desc": "American playwright",
    "cause": "to his wife Carlotta Monterey",
    "last_words": "I knew it! I knew it! Born in a hotel room and, goddamn it, dying in a hotel room.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eugene_O'Neill",
-   "born": "16 October 1888"
+   "born": "16 October 1888",
+   "died": "27 November 1953"
   },
   {
    "year": 1988,
@@ -53,8 +61,10 @@
    "desc": "American actor",
    "cause": "dying in Milan, Italy",
    "last_words": "Oh, to die in Italy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Carradine",
-   "born": "5 February 1906"
+   "born": "5 February 1906",
+   "died": "27 November 1988"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "duc de Mouchy",
    "cause": "prior to execution by guillotine",
    "last_words": "When I was sixty years of age, I mounted the breach for my king; and now that I am eighty-four I shall not want courage to mount the scaffold for my God.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philippe_de_Noailles",
    "died": "27 June 1794"
   },
@@ -77,6 +88,7 @@
    "desc": "English Congregational minister and hymnwriter",
    "cause": "pondering the fate of the souls of intellectually disabled persons",
    "last_words": "I remember that little fellow who said, 'I love God!' Nothing that loves him shall perish. No, they shall not die. I shall meet them soon in heaven. Amen.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Reed_(minister)",
    "died": "25 February 1862"
   },
@@ -88,6 +100,7 @@
    "desc": "Filipino politician",
    "cause": "moments just arrived in the Philippines after his 3-year self-exile along with his brother-in-law Ken Kashiwahara by his side, prior to his assassination at Manila International Airport",
    "last_words": "Though God slay me, I will trust Him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ninoy_Aquino",
    "died": "21 August 1983"
   },
@@ -99,6 +112,7 @@
    "desc": "American musician, singer, and songwriter",
    "cause": "to his manager, Chas Chandler, in an answering machine message he left for him",
    "last_words": "I need help bad, man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
    "died": "18 September 1970"
   }

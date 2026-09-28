@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "quoting Matthew 5:10 while an incompetent executioner attempted to behead her",
    "last_words": "Blessed are they who suffer persecution for righteousness' sake.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Margaret_Pole,_Countess_of_Salisbury",
-   "born": "14 August 1473"
+   "born": "14 August 1473",
+   "died": "27 May 1541"
   },
   {
    "year": 1564,
@@ -20,8 +22,10 @@
    "desc": "French theologian and Protestant reformer, principal developer of Calvinism",
    "cause": null,
    "last_words": "Thou, Lord, bruisest me; but I am abundantly satisfied, since it is from thy hand.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Calvin",
-   "born": "10 July 1509"
+   "born": "10 July 1509",
+   "died": "27 May 1564"
   },
   {
    "year": 1610,
@@ -31,8 +35,10 @@
    "desc": "French Catholic zealot, assassin of Henry IV of France",
    "cause": "receiving conditional absolution prior to his execution due to his insistence that he had no accomplices",
    "last_words": "I receive absolution upon this condition.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François_Ravaillac",
-   "born": null
+   "born": null,
+   "died": "27 May 1610"
   },
   {
    "year": 1661,
@@ -42,8 +48,10 @@
    "desc": "Scottish nobleman",
    "cause": "before execution by beheading",
    "last_words": "I die not only a Protestant, but with a heart-hatred of popery, prelacy, and all superstition. Lord Jesus, receive me into Thy glory.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Archibald_Campbell,_1st_Marquess_of_Argyll",
-   "born": null
+   "born": null,
+   "died": "27 May 1661"
   },
   {
    "year": 1702,
@@ -53,8 +61,10 @@
    "desc": "French priest and grammarian",
    "cause": null,
    "last_words": "I am about to-or I am going to-die; either expression is correct.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Dominique_Bouhours",
-   "born": "15 May 1628"
+   "born": "15 May 1628",
+   "died": "27 May 1702"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "American poet and author",
    "cause": null,
    "last_words": "God will help me. I am so tired.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Julia_Ward_Howe",
    "died": "17 October 1910"
   },
@@ -77,6 +88,7 @@
    "desc": "English writer",
    "cause": "to his mistress, Dorothy Cheston The 63-year-old British novelist was dining in Paris with his partner, Dorothy Cheston Bennett. He drank two glasses of tap water during the meal, scoffing at Dorothy's claims that the water in Paris was not properly treated to be safe to drink. Within two days, he contracted typhoid fever and died two months later.",
    "last_words": "Everything's gone wrong, my girl.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Bennett",
    "died": "27 March 1931"
   }

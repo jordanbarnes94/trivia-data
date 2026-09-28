@@ -9,8 +9,10 @@
    "desc": "French nun, philosopher, writer, scholar and abbess",
    "cause": null,
    "last_words": "In death at last let me rest with Abelard.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Héloïse",
-   "born": null
+   "born": null,
+   "died": "16 May 1163"
   },
   {
    "year": 1815,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "to his aide Major von Wachholtz asking for whereabouts of adjutant-general Elias Olfermann shortly after being shot in the liver at the Battle of Quatre Bras",
    "last_words": "My dear Wachholtz, where is Olfermann?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_William,_Duke_of_Brunswick-Wolfenbüttel",
-   "born": "9 October 1771"
+   "born": "9 October 1771",
+   "died": "16 May 1815"
   },
   {
    "year": 1830,
@@ -31,8 +35,10 @@
    "desc": "French mathematician and physicist",
    "cause": "calling to his physician, who had stepped out of the room",
    "last_words": "Quick, quick! some vinegar! I am fainting.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Fourier",
-   "born": "21 March 1768"
+   "born": "21 March 1768",
+   "died": "16 May 1830"
   },
   {
    "year": 1835,
@@ -42,8 +48,10 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I feel as if I were sitting with Mary at the feet of my Redeemer, hearing the music of his voice, and learning of Him to be meek and lowly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Felicia_Hemans",
-   "born": "25 September 1793"
+   "born": "25 September 1793",
+   "died": "16 May 1835"
   },
   {
    "year": 1990,
@@ -53,8 +61,10 @@
    "desc": "American puppeteer",
    "cause": "to his ex-wife Jane",
    "last_words": "See you later, I feel like I'm in good hands.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Henson",
-   "born": "24 September 1936"
+   "born": "24 September 1936",
+   "died": "16 May 1990"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "United States Secretary of State",
    "cause": "when asked if he had any final words",
    "last_words": "Nothing, only 'love one another'.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_H._Seward",
    "died": "10 October 1872"
   },
@@ -77,6 +88,7 @@
    "desc": "American industrialist, founder of Armour and Company",
    "cause": null,
    "last_words": "I am not afraid to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Danforth_Armour",
    "died": "6 January 1901"
   }

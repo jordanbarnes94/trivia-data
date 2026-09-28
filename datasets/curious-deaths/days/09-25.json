@@ -9,8 +9,10 @@
    "desc": "American Bureau of Indian Affairs agent",
    "cause": "prior to his throat being cut by a member of the Yakama",
    "last_words": "Do not kill me! I did not come to fight you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bolon",
-   "born": null
+   "born": null,
+   "died": "25 September 1855"
   },
   {
    "year": 1900,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The 34-year-old American physician was convinced that mosquitoes were carriers for yellow fever. He allowed himself to be bitten by multiple mosquitoes and died days later from the disease.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jesse_William_Lazear",
-   "born": "2 May 1866"
+   "born": "2 May 1866",
+   "died": "25 September 1900"
   },
   {
    "year": 1978,
@@ -31,8 +35,10 @@
    "desc": "pilot of Pacific Southwest Airlines Flight 182",
    "cause": "as the Boeing 727 crashed after colliding with a Cessna 172 over San Diego",
    "last_words": "This is it, baby! Brace yourself.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_McFeron",
-   "born": null
+   "born": null,
+   "died": "25 September 1978"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "French composer",
    "cause": "to his confessor",
    "last_words": "What the devil do you mean to sing to me, priest? You are out of tune.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
    "died": "12 September 1764"
   },
@@ -55,6 +62,7 @@
    "desc": "evangelical divine of the Church of England",
    "cause": null,
    "last_words": "Holy, holy, holy, blessed Lord Jesus! to Thee be endless praise!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Romaine",
    "died": "26 July 1795"
   },
@@ -66,8 +74,21 @@
    "desc": "English poet",
    "cause": null,
    "last_words": "I feel as if I were sitting with Mary at the feet of my Redeemer, hearing the music of his voice, and learning of Him to be meek and lowly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Felicia_Hemans",
    "died": "16 May 1835"
+  },
+  {
+   "year": 1899,
+   "year_label": "1899",
+   "name": "William J. O'Brien",
+   "kind": "individual",
+   "desc": "United States Army officer and Medal of Honor recipient",
+   "cause": "during Banzai charge on his battalion at the Battle of Saipan",
+   "last_words": "Don't give them a damned inch!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_J._O'Brien_(Medal_of_Honor)",
+   "died": "7 July 1944"
   }
  ]
 }

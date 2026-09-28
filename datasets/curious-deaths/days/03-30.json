@@ -9,8 +9,10 @@
    "desc": "king of the Joseon Dynasty",
    "cause": "Korea would later be invaded and pillaged by the Japanese, and later, subjugated by the Manchus, who the Koreans considered 'barbarians'",
    "last_words": "Although dealing with the Japanese and the barbarians is not something that should be taken lightly, I fear that as peace is ingrained in you, the days growing longer, all matters might be done lazily and slowly, so you should always be careful and watch out every day, so you do not give in to negligence.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sejong_the_Great",
-   "born": "10 April 1397"
+   "born": "10 April 1397",
+   "died": "30 March 1450"
   },
   {
    "year": 1783,
@@ -20,8 +22,10 @@
    "desc": "Scottish anatomist and physician",
    "cause": null,
    "last_words": "If I had strength to hold a pen, I would write down how easy and pleasant a thing it is to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Hunter_(anatomist)",
-   "born": "23 May 1718"
+   "born": "23 May 1718",
+   "died": "30 March 1783"
   },
   {
    "year": 1871,
@@ -31,8 +35,10 @@
    "desc": "Queen of Sweden and Norway",
    "cause": null,
    "last_words": "I am positioned between Heaven and Earth and feel like I am surrounded by nothing but light. Kiss me one last time! If I have failed in my duties toward you, then forgive me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louise_of_the_Netherlands",
-   "born": "5 August 1828"
+   "born": "5 August 1828",
+   "died": "30 March 1871"
   },
   {
    "year": 1960,
@@ -42,11 +48,25 @@
    "desc": "American murderer",
    "cause": "facing a firing squad",
    "last_words": "I done told you my last request ... a bulletproof vest.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_W._Rodgers",
-   "born": "3 August 1910"
+   "born": "3 August 1910",
+   "died": "30 March 1960"
   }
  ],
  "born": [
+  {
+   "year": 1770,
+   "year_label": "1770",
+   "name": "Sir William Erskine, 2nd Baronet",
+   "kind": "individual",
+   "desc": null,
+   "cause": "after jumping from a window in Lisbon, Portugal",
+   "last_words": "Now, why did I do that?",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sir_William_Erskine,_2nd_Baronet",
+   "died": "14 May 1813"
+  },
   {
    "year": 1844,
    "year_label": "1844",
@@ -55,6 +75,7 @@
    "desc": "French poet",
    "cause": "who spent much of his later life in poverty",
    "last_words": "Don't sole the dead man's shoes yet!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Paul_Verlaine",
    "died": "8 January 1896"
   },
@@ -66,6 +87,7 @@
    "desc": "Dutch painter",
    "cause": "to his brother sometime before dying of (presumably) a self-inflicted gunshot wound",
    "last_words": "The sadness will last forever.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
    "died": "29 July 1890"
   }

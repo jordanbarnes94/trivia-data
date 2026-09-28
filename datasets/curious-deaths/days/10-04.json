@@ -9,8 +9,10 @@
    "desc": "Dutch theologian and humanist",
    "cause": null,
    "last_words": "I know only Jesus the crucified.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Wessel_Gansfort",
-   "born": null
+   "born": null,
+   "died": "4 October 1489"
   },
   {
    "year": 1989,
@@ -20,8 +22,10 @@
    "desc": "English comedian, writer, actor, and author",
    "cause": "to a nurse who stuck a needle in his arm",
    "last_words": "Sorry for saying fuck.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Graham_Chapman",
-   "born": "8 January 1941"
+   "born": "8 January 1941",
+   "died": "4 October 1989"
   },
   {
    "year": 1992,
@@ -31,8 +35,10 @@
    "desc": "First Officer of El Al Flight 1862",
    "cause": "last ATC transmission before the plane crashed into a residential complex in Amsterdam",
    "last_words": "Going down, [Flight] 1862, going down, going down, copied, going down.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/El_Al_Flight_1862",
-   "born": null
+   "born": null,
+   "died": "4 October 1992"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "Italian Jesuit and Roman Catholic cardinal",
    "cause": null,
    "last_words": "Jesus, Jesus, Jesus.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bellarmine",
    "died": "17 September 1621"
   },
@@ -55,6 +62,7 @@
    "desc": "president of the United States",
    "cause": "referring to his wife, Lucy Webb Hayes, who had died in 1889",
    "last_words": "I know I am going where Lucy is.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rutherford_B._Hayes",
    "died": "17 January 1893"
   },
@@ -66,6 +74,7 @@
    "desc": "American artist",
    "cause": "prior to emergency appendectomy; he subsequently died of peritonitis",
    "last_words": "Cut 'er loose, Doc!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederic_Remington",
    "died": "26 December 1909"
   },
@@ -77,6 +86,7 @@
    "desc": "American newspaperman and short-story writer",
    "cause": null,
    "last_words": "You can keep the things of bronze and stone and give me one man to remember me just once a year.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Damon_Runyon",
    "died": "10 December 1946"
   },
@@ -88,6 +98,7 @@
    "desc": "American actor, comedian and filmmaker",
    "cause": null,
    "last_words": "Why can't I give up at last?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Buster_Keaton",
    "died": "1 February 1966"
   },
@@ -99,6 +110,7 @@
    "desc": "Austrian SS official, major perpetrator of The Holocaust",
    "cause": "prior to his execution by hanging for war crimes and crimes against humanity (Nuremberg executions)",
    "last_words": "I have loved my German people and my fatherland with a warm heart. I have done my duty by the laws of my people and I am sorry my people were led this time by men who were not soldiers and that crimes were committed of which I had no knowledge. Germany, good luck.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ernst_Kaltenbrunner",
    "died": "16 October 1946"
   }

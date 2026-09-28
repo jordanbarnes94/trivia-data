@@ -9,8 +9,10 @@
    "desc": "Italian Dominican friar",
    "cause": "prior to burning at the stake for heresy",
    "last_words": "I die a martyr and willingly - my soul shall mount up to heaven in this chariot of smoke.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Giordano_Bruno",
-   "born": null
+   "born": null,
+   "died": "17 February 1600"
   },
   {
    "year": 1673,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "The French playwright suffered a pulmonary hemorrhage caused by tuberculosis while playing the part of a hypochondriac in his own play Le malade imaginaire. He disguised his convulsion as part of his performance and finished the show, which ends with his character dead in a chair. After the show, he was carried in the chair to his house, where he died.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Molière",
-   "born": "15 January 1622"
+   "born": "15 January 1622",
+   "died": "17 February 1673"
   },
   {
    "year": 1688,
@@ -31,8 +35,10 @@
    "desc": "Scottish minister",
    "cause": "before execution by hanging",
    "last_words": "Lord, into Thy hands I commend my spirit; for Thou hast redeemed me, Lord God of truth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Renwick_(Covenanter)",
-   "born": "15 February 1662"
+   "born": "15 February 1662",
+   "died": "17 February 1688"
   },
   {
    "year": 1856,
@@ -42,8 +48,10 @@
    "desc": "German writer and literary critic",
    "cause": null,
    "last_words": "Write! Write! Write! Paper! Pencil!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Heinrich_Heine",
-   "born": "13 December 1797"
+   "born": "13 December 1797",
+   "died": "17 February 1856"
   },
   {
    "year": 1934,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "shortly before falling to his death while rock climbing",
    "last_words": "Follow the path for another fifty yards. I am going back to the foot of the rocks to make another climb. If I feel in good form I shall take the difficult way up; if I do not I shall take the easy one. I shall join you in an hour.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_I_of_Belgium",
-   "born": "8 April 1875"
+   "born": "8 April 1875",
+   "died": "17 February 1934"
   },
   {
    "year": 1991,
@@ -64,8 +74,10 @@
    "desc": "captain of Ryan International Airlines Flight 590",
    "cause": "just before plane crashed on takeoff from Cleveland Hopkins International Airport",
    "last_words": "Okay air speed's alive. Engines are stabilized, power's set for departure. Fuel's even kind'a balanced. One hundred knots. V1. Rotate. V2. Plus ten. Positive rate. Watch out. Watch out. Watch out.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ryan_International_Airlines_Flight_590",
-   "born": null
+   "born": null,
+   "died": "17 February 1991"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "Spanish Romanticist poet and writer",
    "cause": "in a delirium from fever",
    "last_words": "All mortal!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustavo_Adolfo_Bécquer",
    "died": "22 December 1870"
   },
@@ -88,6 +101,7 @@
    "desc": "English Roman Catholic priest and writer",
    "cause": "when Lady Elton asked if he would like her to read from his translation of the New Testament",
    "last_words": "No.... Awfully jolly of you to suggest it, though.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ronald_Knox",
    "died": "24 August 1957"
   },
@@ -99,6 +113,7 @@
    "desc": "American convicted murderer, neo-Nazi, and the second-to-last person to be executed by the state of New Jersey",
    "cause": null,
    "last_words": "You're not going to see anything.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Roland_Ernst",
    "died": "31 July 1962"
   }

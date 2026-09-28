@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "when asked if he was in pain",
    "last_words": "I would say 'somewhat,' but I cannot utter it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Frederick,_Prince_of_Wales",
-   "born": "19 February 1594"
+   "born": "19 February 1594",
+   "died": "6 November 1612"
   },
   {
    "year": 1793,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "remembering his former acclaim on the way to the guillotine",
    "last_words": "They applauded me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Philippe_II,_Duke_of_Orléans",
-   "born": "13 April 1747"
+   "born": "13 April 1747",
+   "died": "6 November 1793"
   },
   {
    "year": 1816,
@@ -31,8 +35,10 @@
    "desc": "American statesman and Founding Father of the United States",
    "cause": "quoting from Elegy Written in a Country Churchyard by Thomas Gray on being told the weather was fine",
    "last_words": "A beautiful day, yes, but- / 'Who, to dumb forgetfulness a prey, / This pleasing, anxious being e'er resigned; / Left the warm precincts of the cheerful day, / Nor cast one longing, lingering look behind?'",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gouverneur_Morris",
-   "born": "31 January 1752"
+   "born": "31 January 1752",
+   "died": "6 November 1816"
   },
   {
    "year": 1817,
@@ -42,8 +48,10 @@
    "desc": null,
    "cause": "dying of postpartum bleeding",
    "last_words": "You make me drunk. Pray leave me quiet. I feel it affects my head.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Princess_Charlotte_of_Wales_(1796–1817)",
-   "born": "7 January 1796"
+   "born": "7 January 1796",
+   "died": "6 November 1817"
   },
   {
    "year": 1873,
@@ -53,8 +61,10 @@
    "desc": null,
    "cause": "The 25-year-old Irish man became the only man ever lynched in Mapleton, Maine, after he committed a robbery and beat two deputy sheriffs to death with an axe.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "6 November 1873"
   },
   {
    "year": 1928,
@@ -64,8 +74,10 @@
    "desc": "American mobster",
    "cause": "when asked who had fatally shot him",
    "last_words": "Me mudder did it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Rothstein",
-   "born": "17 January 1882"
+   "born": "17 January 1882",
+   "died": "6 November 1928"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "mother of Nero",
    "cause": "to her murderer",
    "last_words": "Strike here! Level your rage against the womb which gave birth to such a monster.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
    "died": "23 March 59"
   },
@@ -88,6 +101,7 @@
    "desc": null,
    "cause": null,
    "last_words": "I am nothing.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_Spain",
    "died": "1 November 1700"
   },
@@ -99,6 +113,7 @@
    "desc": "United States Marine Corps corporal",
    "cause": "mortally wounded at the Battle of Iwo Jima",
    "last_words": "They killed me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harlon_Block",
    "died": "1 March 1945"
   },
@@ -110,6 +125,7 @@
    "desc": "American actress and model",
    "cause": "spoken to the neighbors after being shot at her apartment doorsteps by stalker Robert John Bardo",
    "last_words": "Why? Why?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Schaeffer",
    "died": "18 July 1989"
   }

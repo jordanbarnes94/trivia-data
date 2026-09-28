@@ -9,8 +9,10 @@
    "desc": "last direct heir of the House of Hohenstaufen",
    "cause": "prior to execution by beheading at the age of 16",
    "last_words": "O my mother! how deep will be thy sorrow at the news of this day!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Conradin",
-   "born": "25 March 1252"
+   "born": "25 March 1252",
+   "died": "29 October 1268"
   },
   {
    "year": 1618,
@@ -20,8 +22,10 @@
    "desc": "English poet, soldier and courtier",
    "cause": "as he lay ready to be beheaded in the Old Palace Yard at the Palace of Westminster",
    "last_words": "What dost thou fear? Strike, man, strike!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Walter_Raleigh",
-   "born": "22 January 1552"
+   "born": "22 January 1552",
+   "died": "29 October 1618"
   },
   {
    "year": 1901,
@@ -31,8 +35,10 @@
    "desc": "assassin of U.S. President William McKinley",
    "cause": "prior to execution by electrocution",
    "last_words": "I killed the President because he was the enemy of the good people-the good working people. I am not sorry for my crime. I am sorry I could not see my father.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leon_Czolgosz",
-   "born": "5 May 1873"
+   "born": "5 May 1873",
+   "died": "29 October 1901"
   },
   {
    "year": 1957,
@@ -42,8 +48,10 @@
    "desc": "Canadian-American film producer, co-founder of Metro-Goldwyn-Mayer",
    "cause": null,
    "last_words": "Nothing matters. Nothing matters.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_B._Mayer",
-   "born": "30 June 1884"
+   "born": "30 June 1884",
+   "died": "29 October 1957"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": null,
    "cause": "on learning that the King was to visit him",
    "last_words": "Too late.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Fernando_Álvarez_de_Toledo,_3rd_Duke_of_Alba",
    "died": "11 December 1582"
   },
@@ -66,6 +75,7 @@
    "desc": "American serial killer",
    "cause": "right before her execution",
    "last_words": "I know that everybody has gone through a lot of pain, all the families connected, and I am sorry, and I want to thank everybody who have been supporting me all these six years.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Velma_Barfield",
    "died": "2 November 1984"
   }

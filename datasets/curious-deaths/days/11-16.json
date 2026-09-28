@@ -9,8 +9,10 @@
    "desc": null,
    "cause": "mortally wounded at the Battle of Lützen (1632)",
    "last_words": "I have enough, brother; try to save your own life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gustavus_Adolphus_of_Sweden",
-   "born": "9 December 1594"
+   "born": "9 December 1594",
+   "died": "16 November 1632"
   },
   {
    "year": 1724,
@@ -20,8 +22,10 @@
    "desc": "English thief and prison escapee",
    "cause": "prior to execution by hanging",
    "last_words": "I have ever cherished an honest pride; never have I stooped to friendship with Jonathan Wild, or with any of his detestable thief-takers; and though an undutiful son, I never damned my mother's eyes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Sheppard",
-   "born": "4 March 1702"
+   "born": "4 March 1702",
+   "died": "16 November 1724"
   }
  ],
  "born": [
@@ -33,6 +37,7 @@
    "desc": "American outlaw and gunfighter",
    "cause": "killed by cowboy George Scarborough",
    "last_words": "You god damned son-of-a-bitch, I am going to kill you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Selman",
    "died": "6 April 1896"
   },
@@ -44,6 +49,7 @@
    "desc": "American playwright",
    "cause": null,
    "last_words": "I'm not afraid any more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_S._Kaufman",
    "died": "2 June 1961"
   }

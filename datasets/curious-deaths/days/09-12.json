@@ -9,8 +9,10 @@
    "desc": "Byzantine Emperor",
    "cause": "lynched by his former subjects",
    "last_words": "Lord, have mercy upon me. Wilt thou break a bruised reed?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
-   "born": null
+   "born": null,
+   "died": "12 September 1185"
   },
   {
    "year": 1764,
@@ -20,8 +22,10 @@
    "desc": "French composer",
    "cause": "to his confessor",
    "last_words": "What the devil do you mean to sing to me, priest? You are out of tune.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jean-Philippe_Rameau",
-   "born": "25 September 1683"
+   "born": "25 September 1683",
+   "died": "12 September 1764"
   },
   {
    "year": 1806,
@@ -31,8 +35,10 @@
    "desc": "British lawyer and politician",
    "cause": null,
    "last_words": "I'll be shot if I don't believe I'm dying.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_Thurlow,_1st_Baron_Thurlow",
-   "born": "9 December 1731"
+   "born": "9 December 1731",
+   "died": "12 September 1806"
   },
   {
    "year": 1819,
@@ -42,8 +48,10 @@
    "desc": "Prussian field marshal",
    "cause": "to his aide-de-camp, August Ludwig von Nostitz",
    "last_words": "Nostitz, you have learned many a thing from me. Now you are to learn how peacefully a man can die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gebhard_Leberecht_von_Blücher",
-   "born": "16 December 1742"
+   "born": "16 December 1742",
+   "died": "12 September 1819"
   },
   {
    "year": 1864,
@@ -53,8 +61,10 @@
    "desc": "American poet, journalist and editor",
    "cause": "when his wife asked him if he knew her",
    "last_words": "Why should I not know you, Mary?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Park_Benjamin_Sr.",
-   "born": "14 August 1809"
+   "born": "14 August 1809",
+   "died": "12 September 1864"
   },
   {
    "year": 1944,
@@ -64,8 +74,10 @@
    "desc": "Australian rugby union player",
    "cause": "responding to requests to save himself during the sinking of the Rakuyo Maru",
    "last_words": "I'm staying here. In any case, I can swim to Australia if I have to.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Winston_Ide",
-   "born": "17 September 1914"
+   "born": "17 September 1914",
+   "died": "12 September 1944"
   },
   {
    "year": 1996,
@@ -75,8 +87,10 @@
    "desc": "Uruguayan-born American pest controller",
    "cause": "before committing suicide with a gun after he mailed a bomb to Icelandic musician Björk, attempting to kill her",
    "last_words": "This is for you!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ricardo_López_(stalker)",
-   "born": "14 January 1975"
+   "born": "14 January 1975",
+   "died": "12 September 1996"
   }
  ],
  "born": [
@@ -88,6 +102,7 @@
    "desc": "French nobleman",
    "cause": "prior to execution by beheading for blasphemy and sacrilege",
    "last_words": "I did not think that they would put a young gentleman to death for such a trifle.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/François-Jean_de_la_Barre",
    "died": "1 July 1766"
   }

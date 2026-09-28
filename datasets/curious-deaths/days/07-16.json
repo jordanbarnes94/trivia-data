@@ -9,8 +9,10 @@
    "desc": "English writer and poet",
    "cause": "when offered letter of pardon before being burned at the stake for heresy",
    "last_words": "I came not hither to deny my Lord and Master.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Askew",
-   "born": null
+   "born": null,
+   "died": "16 July 1546"
   },
   {
    "year": 1647,
@@ -20,8 +22,10 @@
    "desc": "Italian fisherman and revolutionary leader",
    "cause": "to his assassins",
    "last_words": "Ungrateful traitors!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Masaniello",
-   "born": "29 June 1620"
+   "born": "29 June 1620",
+   "died": "16 July 1647"
   },
   {
    "year": 1782,
@@ -31,8 +35,10 @@
    "desc": "Queen of Sweden",
    "cause": null,
    "last_words": "Pray [to] God for me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louisa_Ulrika_of_Prussia",
-   "born": "24 July 1720"
+   "born": "24 July 1720",
+   "died": "16 July 1782"
   },
   {
    "year": 1857,
@@ -42,11 +48,25 @@
    "desc": "French poet and chansonnier",
    "cause": null,
    "last_words": "My God, my God! Enlighten us. Inspire in a united mankind the love of the good, the love of well being.-To do good, to live for others-that's happiness. Charity, charity, for all the world to be happy. -Widows, small boys-help them.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pierre-Jean_de_Béranger",
-   "born": "19 August 1780"
+   "born": "19 August 1780",
+   "died": "16 July 1857"
   }
  ],
  "born": [
+  {
+   "year": -239,
+   "year_label": "239 BC",
+   "name": "Ennius",
+   "kind": "individual",
+   "desc": null,
+   "cause": "lines dictated to be engraved on his memorial. Only fragments of his works now survive",
+   "last_words": "Let no one weep for me, or celebrate my funeral with mourning; for I still live, as I pass to and fro through the mouths of men.",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ennius",
+   "died": "8 October 169 BC"
+  },
   {
    "year": 1723,
    "year_label": "1723",
@@ -55,6 +75,7 @@
    "desc": "English painter",
    "cause": null,
    "last_words": "I have been fortunate in long good health and constant success, and I ought not to complain. I know that all things on earth must have an end, and now I am come to mine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joshua_Reynolds",
    "died": "23 February 1792"
   },
@@ -66,6 +87,7 @@
    "desc": "founder of Christian Science",
    "cause": null,
    "last_words": "God is my life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Baker_Eddy",
    "died": "3 December 1910"
   },
@@ -77,6 +99,7 @@
    "desc": "United States Army colonel",
    "cause": "dying after being shot at the Battle of Tientsin",
    "last_words": "Keep up the fire, men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Emerson_H._Liscum",
    "died": "13 July 1900"
   },
@@ -88,6 +111,7 @@
    "desc": null,
    "cause": "Belgian violinist, composer and conductor, after his Fourth Sonata was played for him",
    "last_words": "Splendid. The finale just a little too fast.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eugène_Ysaÿe",
    "died": "12 May 1931"
   },
@@ -99,6 +123,7 @@
    "desc": "first African-American woman to practice law before the United States Supreme Court",
    "cause": "speaking to Claude Albert Barnett while dying of cancer prior to Zeta Phi Beta's annual boule",
    "last_words": "Tell the girls to keep on going ahead. Put over the boule with a bang. Don't let my passing throw the slightest shadow of gloom. The organization has a grand mission before it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Violette_Neatley_Anderson",
    "died": "24 December 1937"
   }

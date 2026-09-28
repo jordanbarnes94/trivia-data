@@ -9,8 +9,10 @@
    "desc": "English gentleman, conspirator in the Babington Plot",
    "cause": "prior to being hanged, drawn and quartered for high treason",
    "last_words": "The murder of the Queen had been represented to me as a deed lawful and meritorious. I die a firm Catholic.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anthony_Babington",
-   "born": "24 October 1561"
+   "born": "24 October 1561",
+   "died": "20 September 1586"
   },
   {
    "year": 1803,
@@ -20,8 +22,10 @@
    "desc": "Irish Republican and Irish nationalist patriot, orator and rebel leader",
    "cause": "during execution by hanging for treason. The executioner carried out the hanging in the middle of Emmet's attempt to say \"Not yet\" for the third time",
    "last_words": "Not yet. Not yet. Not-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Robert_Emmet",
-   "born": "4 March 1780"
+   "born": "4 March 1780",
+   "died": "20 September 1803"
   },
   {
    "year": 1863,
@@ -31,8 +35,10 @@
    "desc": "Confederate soldier",
    "cause": "mortally wounded at the Battle of Chickamauga",
    "last_words": "Tell my father I died right.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Rowland_Kirkland",
-   "born": "20 August 1843"
+   "born": "20 August 1843",
+   "died": "20 September 1863"
   },
   {
    "year": 1920,
@@ -42,8 +48,10 @@
    "desc": "Korean independence activist",
    "cause": "writing in prison before being tortured and beaten to death by Japanese prison officers",
    "last_words": "Even if my fingernails are torn out, my nose and ears are ripped apart, and my legs and arms are crushed, this physical pain does not compare to the pain of losing my nation. My only remorse is not being able to do more than dedicating my life to my country.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ryu_Gwansun",
-   "born": "17 December 1902"
+   "born": "17 December 1902",
+   "died": "20 September 1920"
   },
   {
    "year": 1956,
@@ -53,8 +61,10 @@
    "desc": "American baseball player",
    "cause": "final radio transmission before crash of his ERCO Ercoupe into Chesapeake Bay",
    "last_words": "75-Hotel. I'm going into the water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Gastall",
-   "born": "13 June 1932"
+   "born": "13 June 1932",
+   "died": "20 September 1956"
   },
   {
    "year": 1973,
@@ -64,8 +74,10 @@
    "desc": "American folk and rock singer-songwriter",
    "cause": "in a letter written to his wife Ingrid shortly before he boarded a plane that killed him",
    "last_words": "Remember, it's the first 60 years that count and I've got 30 to go. I love you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jim_Croce",
-   "born": "10 January 1943"
+   "born": "10 January 1943",
+   "died": "20 September 1973"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English politician and leader of Wyatt's rebellion",
    "cause": "exculpating Princess Elizabeth and Edward Courtenay, 1st Earl of Devon, prior to execution by beheading for treason",
    "last_words": "What I then said I unsay now; and what I now say is the truth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Wyatt_the_Younger",
    "died": "11 April 1554"
   },
@@ -88,6 +101,7 @@
    "desc": "Union general of the American Civil War",
    "cause": "prior to being fatally shot at the Battle of Gettysburg",
    "last_words": "Forward men forward for God's sake and drive those fellows out of those woods.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_F._Reynolds",
    "died": "1 July 1863"
   },
@@ -99,6 +113,7 @@
    "desc": "English dramatist",
    "cause": "when his nurse and his niece asked which of them he would prefer to stay with him",
    "last_words": "The prettier. Now fight for it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Arthur_Jones",
    "died": "7 January 1929"
   }

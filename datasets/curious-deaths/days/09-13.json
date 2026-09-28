@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": null,
    "last_words": "I have made but one mistake.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Titus",
-   "born": "30 December 39"
+   "born": "30 December 39",
+   "died": "13 September 81"
   },
   {
    "year": 1759,
@@ -20,8 +22,10 @@
    "desc": "British Army general",
    "cause": "mortally wounded at the Battle of the Plains of Abraham, on learning that the French forces were fleeing",
    "last_words": "Go, one of you, to Colonel Burton; tell him to march Webb's regiment down to Charles River, to cut off their retreat from the bridge. Now, God be praised, I will die in peace!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Wolfe",
-   "born": "2 January 1727"
+   "born": "2 January 1727",
+   "died": "13 September 1759"
   },
   {
    "year": 1806,
@@ -31,8 +35,10 @@
    "desc": "British statesman",
    "cause": null,
    "last_words": "I die happy.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_James_Fox",
-   "born": "24 January 1749"
+   "born": "24 January 1749",
+   "died": "13 September 1806"
   },
   {
    "year": 1944,
@@ -42,8 +48,10 @@
    "desc": "GC, British spy in the Special Operations Executive",
    "cause": "prior to execution by firing squad at Dachau concentration camp",
    "last_words": "Liberté!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Noor_Inayat_Khan",
-   "born": "1 January 1914"
+   "born": "1 January 1914",
+   "died": "13 September 1944"
   },
   {
    "year": 1996,
@@ -53,8 +61,10 @@
    "desc": "American rapper",
    "cause": "to the first responder police officer at the scene of his murder",
    "last_words": "Fuck you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tupac_Shakur",
-   "born": "16 June 1971"
+   "born": "16 June 1971",
+   "died": "13 September 1996"
   },
   {
    "year": 2000,
@@ -64,8 +74,10 @@
    "desc": "American armed robber and murderer",
    "cause": "prior to execution by lethal injection",
    "last_words": "Somebody needs to kill my trial attorney.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Missouri",
-   "born": null
+   "born": null,
+   "died": "13 September 2000"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": null,
    "cause": "The Byzantine Emperor cut himself with a poisoned arrow during a boar hunt, subsequently dying from sepsis.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_II_Komnenos",
    "died": "1 April 1143"
   },
@@ -88,6 +101,7 @@
    "desc": "Union general of the American Civil War",
    "cause": "at the Battle of Spotsylvania Court House shortly before being shot and killed by enemy fire shortly before being shot in the head by a Confederate sharpshooter",
    "last_words": "They couldn't hit an elephant at this distance...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Sedgwick",
    "died": "9 May 1864"
   },
@@ -99,6 +113,7 @@
    "desc": "Austrian-American composer",
    "cause": null,
    "last_words": "Harmony.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Schoenberg",
    "died": "13 July 1951"
   },
@@ -110,6 +125,7 @@
    "desc": null,
    "cause": "The 64-year-old American writer died of peritonitis after accidentally swallowing an olive that had a toothpick inside.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Sherwood_Anderson",
    "died": "8 March 1941"
   },
@@ -121,6 +137,7 @@
    "desc": "British author",
    "cause": "after a nurse pricked him with a needle",
    "last_words": "Ow, fuck!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Roald_Dahl",
    "died": "23 November 1990"
   },
@@ -132,6 +149,7 @@
    "desc": "Soviet partisan",
    "cause": "prior to her execution by Germans in Petrishchevo for arson in there",
    "last_words": "Farewell, comrades! Fight, do not be afraid! Stalin is with us! Stalin will come!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Zoya_Kosmodemyanskaya",
    "died": "29 November 1941"
   },
@@ -143,6 +161,7 @@
    "desc": "South African photojournalist",
    "cause": "in his suicide note, before killing himself from carbon monoxide poisoning",
    "last_words": "I'm really, really sorry. The pain of life overrides the joy to the point that joy does not exist... depressed... without phone... money for rent... money for child support... money for debts... money!!!... I am haunted by the vivid memories of killings & corpses & anger & pain... of starving or wounded children, of trigger-happy madmen, often police, of killer executioners... I have gone to join Ken if I am that lucky.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kevin_Carter",
    "died": "27 July 1994"
   }

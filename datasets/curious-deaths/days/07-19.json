@@ -9,8 +9,10 @@
    "desc": "Queen of Prussia",
    "cause": null,
    "last_words": "I am a queen, but I have not the power to move my arms.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louise_of_Mecklenburg-Strelitz",
-   "born": "10 March 1776"
+   "born": "10 March 1776",
+   "died": "19 July 1810"
   },
   {
    "year": 1811,
@@ -20,8 +22,10 @@
    "desc": "French anatomist and surgeon",
    "cause": "to his son",
    "last_words": "Contemplate the state in which I am fallen, and learn to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Raphaël_Bienvenu_Sabatier",
-   "born": "11 October 1732"
+   "born": "11 October 1732",
+   "died": "19 July 1811"
   },
   {
    "year": 1838,
@@ -31,8 +35,10 @@
    "desc": "Welsh nonconformist minister",
    "cause": null,
    "last_words": "I am about to leave you. I have labored in the sanctuary fifty-three years, and this is my comfort and confidence, that I have never labored without blood in the vessel. Goodbye! Drive on!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Christmas_Evans",
-   "born": null
+   "born": "25 December 1766",
+   "died": "19 July 1838"
   },
   {
    "year": 1868,
@@ -42,8 +48,10 @@
    "desc": "Japanese samurai and Shinsengumi captain",
    "cause": "referencing his failure to kill a stray cat over previous days, as he died of tuberculosis",
    "last_words": "I'll bet that cat is here.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Okita_Sōji",
-   "born": null
+   "born": null,
+   "died": "19 July 1868"
   },
   {
    "year": 1873,
@@ -53,8 +61,10 @@
    "desc": "Anglican bishop",
    "cause": null,
    "last_words": "There is no such thing as sudden death to a Christian.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Wilberforce",
-   "born": "7 September 1805"
+   "born": "7 September 1805",
+   "died": "19 July 1873"
   },
   {
    "year": 1895,
@@ -64,8 +74,10 @@
    "desc": "Prime Minister of Bulgaria",
    "cause": "mortally wounded by assassins",
    "last_words": "God protect Bulgaria.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Stefan_Stambolov",
-   "born": "30 January 1854"
+   "born": "30 January 1854",
+   "died": "19 July 1895"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "American professional football player who was a tight end for the National Football League",
    "cause": "dying of AIDS",
    "last_words": "Every important thing a man searches for in his life, I found in Coach Lombardi. He made us men.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Smith_(tight_end)",
    "died": "15 October 1986"
   }

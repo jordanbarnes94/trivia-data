@@ -2,6 +2,19 @@
  "date": "11-30",
  "died": [
   {
+   "year": 762,
+   "year_label": "762",
+   "name": "Li Bai",
+   "kind": "individual",
+   "desc": null,
+   "cause": "According to popular legend, the Chinese poet got drunk while riding his boat along the Yangtze River and tried to hug the moon's reflection. He then fell off and drowned.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Li_Bai",
+   "born": "19 May 701",
+   "died": "30 November 762"
+  },
+  {
    "year": 1016,
    "year_label": "1016",
    "name": "Edmund Ironside",
@@ -9,8 +22,10 @@
    "desc": null,
    "cause": "According to Henry of Huntington, the English king was stabbed while on a toilet by an assassin hiding underneath.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Ironside",
-   "born": null
+   "born": null,
+   "died": "30 November 1016"
   },
   {
    "year": 1718,
@@ -20,8 +35,10 @@
    "desc": "King of Sweden",
    "cause": "when stepping down from his perch into an entrenchment just as he was shot in the head",
    "last_words": "I am coming down now.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_XII",
-   "born": "27 June 1682"
+   "born": "27 June 1682",
+   "died": "30 November 1718"
   },
   {
    "year": 1812,
@@ -31,8 +48,10 @@
    "desc": "American Christian missionary and memoirist",
    "cause": "dying in Mauritius",
    "last_words": "The pains, the groans, the dying strife. How long, O Lord, how long?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Newell",
-   "born": null
+   "born": "10 October 1793",
+   "died": "30 November 1812"
   },
   {
    "year": 1900,
@@ -42,8 +61,10 @@
    "desc": "Irish playwright",
    "cause": null,
    "last_words": "My wallpaper and I are fighting a duel to the death. One or the other of us has to go.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Oscar_Wilde",
-   "born": "16 October 1854"
+   "born": "16 October 1854",
+   "died": "30 November 1900"
   },
   {
    "year": 1923,
@@ -53,8 +74,10 @@
    "desc": null,
    "cause": "While the 24-year-old American film actress was on location in San Antonio, Texas filming the American Civil War drama The Warrens of Virginia, a lit match was carelessly tossed by a crew member, which ignited the hoop skirts and ruffles of her Civil War costume. Co-star Wilfred Lytell and a chauffeur were able to extinguish the flames and rush her to a hospital, where she died the following day from her injuries.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Martha_Mansfield",
-   "born": "14 July 1899"
+   "born": "14 July 1899",
+   "died": "30 November 1923"
   },
   {
    "year": 1996,
@@ -64,8 +87,10 @@
    "desc": "American musician, ukulele player and musical archivist",
    "cause": "to his wife after she asked if he was alright, right before collapsing on stage during a performance of \"Tip-Toe Through the Tulips\"",
    "last_words": "No, I'm not!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tiny_Tim_(musician)",
-   "born": "12 April 1932"
+   "born": "12 April 1932",
+   "died": "30 November 1996"
   }
  ],
  "born": [
@@ -77,6 +102,7 @@
    "desc": "English poet and soldier",
    "cause": "mortally wounded at the Battle of Zutphen, passing a cup of water to another wounded soldier",
    "last_words": "Take it; thy need is greater than mine.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Philip_Sidney",
    "died": "17 October 1586"
   },
@@ -88,6 +114,7 @@
    "desc": "English churchman",
    "cause": "raising his hand",
    "last_words": "Lord!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Cosin",
    "died": "15 January 1672"
   },
@@ -99,6 +126,7 @@
    "desc": null,
    "cause": "to his executioner prior to beheading for alleged treason",
    "last_words": "I do forgive you.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Howard,_1st_Viscount_Stafford",
    "died": "29 December 1680"
   },
@@ -110,6 +138,7 @@
    "desc": "Anglo-Irish author and cleric",
    "cause": "referring to George Frideric Handel, who had come to visit him",
    "last_words": "Ah! A German and a genius! A prodigy-admit him!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jonathan_Swift",
    "died": "19 October 1745"
   },
@@ -121,6 +150,7 @@
    "desc": "British epidemiologist",
    "cause": null,
    "last_words": "Lord, receive my spirit.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Farr",
    "died": "14 April 1883"
   },
@@ -132,6 +162,7 @@
    "desc": "American novelist",
    "cause": "to his daughter Clara",
    "last_words": "Give me my glasses.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain",
    "died": "21 April 1910"
   },
@@ -143,6 +174,7 @@
    "desc": "OBE, Canadian author",
    "cause": "conclusion of note found on her bedside table after her death. It may or may not have been a suicide note",
    "last_words": "I have lost my mind by spells and I do not dare think what I may do in those spells. May God forgive me and I hope everyone else will forgive me even if they cannot understand. My position is too awful to endure and nobody realizes it. What an end to a life in which I tried always to do my best.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucy_Maud_Montgomery",
    "died": "24 April 1942"
   },
@@ -154,19 +186,21 @@
    "desc": "prime minister of the United Kingdom",
    "cause": null,
    "last_words": "I'm bored with it all.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Winston_Churchill",
    "died": "24 January 1965"
   },
   {
-   "year": 1936,
-   "year_label": "1936",
-   "name": "Knud Enemark Jensen",
+   "year": 1918,
+   "year_label": "1918",
+   "name": "Maj. Kenneth D. McCullar",
    "kind": "individual",
-   "desc": "Danish cyclist",
-   "cause": "shortly before collapsing to the pavement while competing in the 1960 Summer Olympics",
-   "last_words": "I'm dizzy!",
-   "wikipedia": "https://en.wikipedia.org/wiki/Knud_Enemark_Jensen",
-   "died": "26 August 1960"
+   "desc": null,
+   "cause": "The 27-year-old member of the 64th Bombardment Squadron was taking off for a night mission in New Guinea when he struck something with his bomber, referred to in reports as a \"brush kangaroo\" or \"baby kangaroo\" and later found to be a wallaby. The bomber crashed on takeoff, which detonated its load of bombs, killing McCullar and the rest of the bomber's crew.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Kenneth_D._McCullar",
+   "died": "12 April 1943"
   },
   {
    "year": 1936,
@@ -176,8 +210,21 @@
    "desc": "American political and social activist",
    "cause": "in note written prior to phenobarbital overdose",
    "last_words": "It's too late. We can't win, they've gotten too powerful.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Abbie_Hoffman",
    "died": "12 April 1989"
+  },
+  {
+   "year": 1936,
+   "year_label": "1936",
+   "name": "Knud Enemark Jensen",
+   "kind": "individual",
+   "desc": "Danish cyclist",
+   "cause": "shortly before collapsing to the pavement while competing in the 1960 Summer Olympics",
+   "last_words": "I'm dizzy!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Knud_Enemark_Jensen",
+   "died": "26 August 1960"
   },
   {
    "year": 1937,
@@ -187,6 +234,7 @@
    "desc": "British cyclist",
    "cause": "asking to be put back on his bike prior to his death on Mont Ventoux during the 1967 Tour de France",
    "last_words": "On! On! On!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Tom_Simpson",
    "died": "13 July 1967"
   }

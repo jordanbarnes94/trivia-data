@@ -9,8 +9,10 @@
    "desc": "German biographer, diplomat and soldier",
    "cause": "playing chess with his young niece",
    "last_words": "I lost.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Karl_August_Varnhagen_von_Ense",
-   "born": "21 February 1785"
+   "born": "21 February 1785",
+   "died": "10 October 1858"
   },
   {
    "year": 1872,
@@ -20,8 +22,10 @@
    "desc": "United States Secretary of State",
    "cause": "when asked if he had any final words",
    "last_words": "Nothing, only 'love one another'.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_H._Seward",
-   "born": "16 May 1801"
+   "born": "16 May 1801",
+   "died": "10 October 1872"
   },
   {
    "year": 1911,
@@ -31,8 +35,10 @@
    "desc": "American alcohol businessman",
    "cause": null,
    "last_words": "One last drink, please.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jack_Daniel",
-   "born": "5 September 1849"
+   "born": "5 September 1849",
+   "died": "10 October 1911"
   },
   {
    "year": 1963,
@@ -42,8 +48,10 @@
    "desc": "French singer-songwriter",
    "cause": "to her sister",
    "last_words": "All the damn fool things you do in life you pay for.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Édith_Piaf",
-   "born": "19 December 1915"
+   "born": "19 December 1915",
+   "died": "10 October 1963"
   }
  ],
  "born": [
@@ -55,8 +63,21 @@
    "desc": null,
    "cause": "The contemporary chronicler Froissart relates that the king of Navarre, known as \"Charles the Bad\", suffering from illness in old age, was ordered by his physician to be tightly sewn into a linen sheet soaked in distilled spirits. The highly flammable sheet accidentally caught fire, and he later died of his injuries.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_Navarre",
    "died": "1 January 1387"
+  },
+  {
+   "year": 1793,
+   "year_label": "1793",
+   "name": "Harriet Newell",
+   "kind": "individual",
+   "desc": "American Christian missionary and memoirist",
+   "cause": "dying in Mauritius",
+   "last_words": "The pains, the groans, the dying strife. How long, O Lord, how long?",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Newell",
+   "died": "30 November 1812"
   },
   {
    "year": 1834,
@@ -66,6 +87,7 @@
    "desc": "Finnish author and poet",
    "cause": null,
    "last_words": "I live.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aleksis_Kivi",
    "died": "31 December 1872"
   },
@@ -77,6 +99,7 @@
    "desc": "Scottish minister and writer",
    "cause": null,
    "last_words": "I believe everything I have written about immortality.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Robertson_Nicoll",
    "died": "4 May 1923"
   }

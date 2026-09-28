@@ -9,8 +9,10 @@
    "desc": "Roman senator and general, one of Julius Caesar's assassins",
    "cause": "erroneously believing his comrade Titinius had been captured by Mark Antony's forces at the Battle of Philippi. Cassius then killed himself",
    "last_words": "Through too much fondness of life, I have lived to endure the sight of my friend taken by the enemy before my face.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
-   "born": null
+   "born": null,
+   "died": "3 October 42 BC"
   },
   {
    "year": 610,
@@ -20,8 +22,10 @@
    "desc": "Eastern Roman emperor",
    "cause": "to his successor Heraclius before being executed",
    "last_words": "Will you govern it any better?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Phocas",
-   "born": null
+   "born": null,
+   "died": "3 October 610"
   },
   {
    "year": 1226,
@@ -31,8 +35,10 @@
    "desc": "Italian Catholic friar",
    "cause": null,
    "last_words": "I have sinned against my brother, the ass.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Francis_of_Assisi",
-   "born": "24 June 1182"
+   "born": "24 June 1182",
+   "died": "3 October 1226"
   },
   {
    "year": 1896,
@@ -42,8 +48,10 @@
    "desc": "British textile designer, poet and socialist",
    "cause": "to his family doctor",
    "last_words": "I want to get mumbo-jumbo out of the world.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Morris",
-   "born": "24 March 1834"
+   "born": "24 March 1834",
+   "died": "3 October 1896"
   },
   {
    "year": 1910,
@@ -53,8 +61,10 @@
    "desc": "Portuguese psychiatrist",
    "cause": "after being shot by a mental patient",
    "last_words": "To die this way is stupid... And it would please so many scoundrels!... This very night, Magalhães, I could have died for the Republic!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Miguel_Bombarda",
-   "born": "6 March 1851"
+   "born": "6 March 1851",
+   "died": "3 October 1910"
   }
  ],
  "born": [
@@ -66,6 +76,7 @@
    "desc": "Italian actress",
    "cause": null,
    "last_words": "We must stir ourselves. Move on! Work, work! Cover me! Must move on! Must work! Cover me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Eleonora_Duse",
    "died": "21 April 1924"
   }

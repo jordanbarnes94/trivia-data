@@ -9,8 +9,10 @@
    "desc": "Italian writer and blackmailer",
    "cause": "after receiving the last rites The influential Italian author and libertine is said to have died of suffocation from laughing too much at an obscene joke during a meal in Venice. Another version states that he fell from a chair from too much laughter, fracturing his skull.",
    "last_words": "Now I'm oiled. Keep me from the rats.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Aretino",
-   "born": null
+   "born": null,
+   "died": "21 October 1556"
   },
   {
    "year": 1621,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": "when his confessor chastised him for his attention to his appearance prior to his execution by beheading",
    "last_words": "All my life I have carried myself gracefully.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rodrigo_Calderón,_Count_of_Oliva",
-   "born": null
+   "born": null,
+   "died": "21 October 1621"
   },
   {
    "year": 1805,
@@ -31,8 +35,10 @@
    "desc": "Royal Navy admiral",
    "cause": "mortally wounded at the Battle of Trafalgar",
    "last_words": "Thank God, I have done my duty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Horatio_Nelson,_1st_Viscount_Nelson",
-   "born": "29 September 1758"
+   "born": "29 September 1758",
+   "died": "21 October 1805"
   },
   {
    "year": 1861,
@@ -42,8 +48,10 @@
    "desc": "United States Senator and Union colonel of the American Civil War",
    "cause": "pointing to a Confederate horseman who had been struck by gunfire at the Battle of Ball's Bluff. Baker was then himself shot four times. He was the only sitting United States Senator ever killed in a military engagement",
    "last_words": "See, he falls.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_D._Baker",
-   "born": "24 February 1811"
+   "born": "24 February 1811",
+   "died": "21 October 1861"
   },
   {
    "year": 1978,
@@ -53,8 +61,10 @@
    "desc": "Australian aviator",
    "cause": "last transmission before disappearing after possibly sighting a UFO",
    "last_words": "It is hovering and it's not an aircraft.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Valentich",
-   "born": null
+   "born": null,
+   "died": "21 October 1978"
   },
   {
    "year": 1988,
@@ -64,8 +74,10 @@
    "desc": null,
    "cause": "A poodle named Cachy, in Caballito, Buenos Aires, fell 13 floors and hit 75-year-old Marta Espina, killing both instantly. In the course of events, 46-year-old Edith Solá came to see the incident and was fatally hit by a bus. An unidentified man who witnessed her death had a heart attack and also died on his way to the hospital.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "21 October 1988"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": null,
    "cause": "The 1st Duke of Clarence was allegedly executed by drowning in a barrel of Malmsey wine, apparently his own choice once he accepted he was to be killed.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Plantagenet,_Duke_of_Clarence",
    "died": "18 February 1478"
   },
@@ -88,6 +101,7 @@
    "desc": "English poet and literary critic",
    "cause": null,
    "last_words": "My mind is quite unclouded. I could even be witty.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge",
    "died": "25 July 1834"
   },
@@ -99,6 +113,7 @@
    "desc": "African-American child and youngest American with an exact age executed by the United States",
    "cause": "on whether he had any final words before his wrongful execution via electric chair. 14-year-old Stinney was tried and sentenced to death by Judge Philip H. Stoll in under three hours on 14 April after an all-white jury declared him guilty for double murder after only ten minutes of deliberation",
    "last_words": "No.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Stinney",
    "died": "16 June 1944"
   }

@@ -9,8 +9,10 @@
    "desc": null,
    "cause": null,
    "last_words": "I have been a most unconscionable time dying, but I beg you to excuse it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_II_of_England",
-   "born": "29 May 1630"
+   "born": "29 May 1630",
+   "died": "6 February 1685"
   },
   {
    "year": 1804,
@@ -20,8 +22,10 @@
    "desc": "English chemist, natural philosopher and theologian",
    "cause": "while dictating revisions to his works",
    "last_words": "That is right; I have now done.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Priestley",
-   "born": "13 March 1733"
+   "born": "13 March 1733",
+   "died": "6 February 1804"
   },
   {
    "year": 1958,
@@ -31,8 +35,10 @@
    "desc": "Irish footballer",
    "cause": "during British European Airways Flight 609's third takeoff attempt prior to the Munich air disaster",
    "last_words": "If this is death, then I am ready for it.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Billy_Whelan",
-   "born": "1 April 1935"
+   "born": "1 April 1935",
+   "died": "6 February 1958"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "the last emperor of Ming dynasty",
    "cause": null,
    "last_words": "It has been seventeen years since I ascended the throne. I, feeble and of small virtue, have offended against Heaven; the rebels have seized my capital because my ministers deceived me. Ashamed to face my ancestors, I die. Removing my imperial cap and with my hair disheveled about my face, I leave to the rebels the dismemberment of my body. Let them not harm my people!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Chongzhen_Emperor",
    "died": "24 April 1644"
   },
@@ -55,6 +62,7 @@
    "desc": null,
    "cause": "handing the Lord High Treasurer's staff of office to Charles Talbot, 1st Duke of Shrewsbury",
    "last_words": "Use it for the good of my people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain",
    "died": "1 August 1714"
   },
@@ -66,6 +74,7 @@
    "desc": "English Particular Baptist minister and theologian",
    "cause": "to a young minister",
    "last_words": "I have no religious joys; but I have a hope, in the strength of which I think I could plunge into eternity.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Fuller",
    "died": "7 May 1815"
   },
@@ -77,6 +86,7 @@
    "desc": "vice president of the United States",
    "cause": null,
    "last_words": "Madame.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Aaron_Burr",
    "died": "14 September 1836"
   },
@@ -88,6 +98,7 @@
    "desc": "American baseball player",
    "cause": null,
    "last_words": "I'm going over the valley.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Babe_Ruth",
    "died": "16 August 1948"
   },
@@ -99,6 +110,7 @@
    "desc": "Jamaican musician",
    "cause": null,
    "last_words": "Money can't buy life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bob_Marley",
    "died": "11 May 1981"
   }

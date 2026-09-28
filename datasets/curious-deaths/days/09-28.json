@@ -9,8 +9,10 @@
    "desc": "Roman general and statesman",
    "cause": "to Lucius Septimius, one of his assassins",
    "last_words": "Surely I am not mistaken, and you are an old comrade of mine!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pompey",
-   "born": "29 September 106 BC"
+   "born": "29 September 106 BC",
+   "died": "28 September 48 BC"
   },
   {
    "year": 135,
@@ -20,8 +22,10 @@
    "desc": "Jewish scholar and sage",
    "cause": "reciting the Shema Yisrael while being executed by the Romans",
    "last_words": "Hear, O Israel! The Lord is our God! The Lord is One!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Rabbi_Akiva",
-   "born": null
+   "born": null,
+   "died": "28 September 135"
   },
   {
    "year": 1567,
@@ -31,8 +35,10 @@
    "desc": null,
    "cause": "The burgomaster of Braunau am Inn (then Bavaria, now Austria) died when he broke his neck by tripping over his own beard. The beard, which was 4.5 ft long at the time, was usually kept rolled up in a leather pouch.",
    "last_words": null,
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hans_Staininger_(mayor)",
-   "born": null
+   "born": null,
+   "died": "28 September 1567"
   },
   {
    "year": 1582,
@@ -42,8 +48,10 @@
    "desc": "Scottish historian and humanist scholar",
    "cause": "when his servant asked who would pay for his burial after Buchanan told him to distribute his property among the poor",
    "last_words": "It matters little to me; for if I am but once dead they may bury me or not bury me as they please. They may leave my corpse to rot where I die if they wish.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Buchanan",
-   "born": "1 February 1506"
+   "born": "1 February 1506",
+   "died": "28 September 1582"
   },
   {
    "year": 1891,
@@ -53,8 +61,10 @@
    "desc": "American novelist",
    "cause": "quoting his final, unfinished novella, Billy Budd",
    "last_words": "God bless Captain Vere!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herman_Melville",
-   "born": "1 August 1819"
+   "born": "1 August 1819",
+   "died": "28 September 1891"
   },
   {
    "year": 1978,
@@ -64,8 +74,10 @@
    "desc": "Italian Roman Catholic prelate and Pope",
    "cause": "who had just elected as Pope following the papal conclave on the death of his predecessor, Pope Paul VI, who died in 6 August",
    "last_words": "Tomorrow, we will see each other, if the Lord still wishes it, and we will celebrate Mass together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pope_John_Paul_I",
-   "born": "17 October 1912"
+   "born": "17 October 1912",
+   "died": "28 September 1978"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "daimyō of the Akō Domain in Japan",
    "cause": "death poem for his seppuku",
    "last_words": "I wish I could enjoy / the rest of Spring / as the cherry blossoms are yet in bloom / in spite of the spring breeze / which is attempting to blow off all their petals.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Asano_Naganori",
    "died": "21 April 1701"
   },
@@ -88,6 +101,7 @@
    "desc": "Portuguese bibliographer",
    "cause": null,
    "last_words": "Farewell, the martyrdom is no more!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Inocêncio_Francisco_da_Silva",
    "died": "27 June 1876"
   },
@@ -99,6 +113,7 @@
    "desc": "Indian revolutionary and Socialist, founder of Hindustan Socialist republican association",
    "cause": null,
    "last_words": "Long live Revolution",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bhagat_Singh",
    "died": "23 March 1931"
   }

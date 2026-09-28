@@ -9,8 +9,10 @@
    "desc": "English silk-weaver and Protestant martyr",
    "cause": "while being burned at the stake for heresy",
    "last_words": "I am not afraid. Lord, Lord, Lord, receive my spirit!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Hunter_(martyr)",
-   "born": null
+   "born": null,
+   "died": "27 March 1555"
   },
   {
    "year": 1918,
@@ -20,8 +22,10 @@
    "desc": "American historian and descendant of two U.S. Presidents",
    "cause": "to his secretary companion the day before he died",
    "last_words": "Dear child, keep me alive.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Adams",
-   "born": "16 February 1838"
+   "born": "16 February 1838",
+   "died": "27 March 1918"
   },
   {
    "year": 1931,
@@ -31,8 +35,10 @@
    "desc": "English writer",
    "cause": "to his mistress, Dorothy Cheston The 63-year-old British novelist was dining in Paris with his partner, Dorothy Cheston Bennett. He drank two glasses of tap water during the meal, scoffing at Dorothy's claims that the water in Paris was not properly treated to be safe to drink. Within two days, he contracted typhoid fever and died two months later.",
    "last_words": "Everything's gone wrong, my girl.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Arnold_Bennett",
-   "born": "27 May 1867"
+   "born": "27 May 1867",
+   "died": "27 March 1931"
   },
   {
    "year": 1977,
@@ -42,8 +48,10 @@
    "desc": "pilot of KLM Flight 4805",
    "cause": "shortly before colliding with Pan Am Flight 1736",
    "last_words": "Oh yes.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jacob_Veldhuyzen_van_Zanten",
-   "born": "5 February 1927"
+   "born": "5 February 1927",
+   "died": "27 March 1977"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "pretender to the French throne",
    "cause": "dying in prison custody at the age of 10",
    "last_words": "I have something to tell you...",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_XVII",
    "died": "8 June 1795"
   },
@@ -66,6 +75,7 @@
    "desc": "French author of Scenes of Bohemian Life",
    "cause": null,
    "last_words": "No noise, no music, no bohemia!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henri_Murger",
    "died": "28 January 1861"
   },
@@ -77,8 +87,9 @@
    "desc": "American high school student",
    "cause": "while talking to her mother before slipping into a diabetic coma and losing consciousness, she lived another 42 years without regaining consciousness dying 21 November 2012",
    "last_words": "Mommy, promise you won't leave me, will you, Mommy?",
+   "date_kind": "last_words",
    "wikipedia": "https://en.wikipedia.org/wiki/Edwarda_O'Bara",
-   "died": "3 January 1970"
+   "died": "21 November 2012"
   }
  ]
 }

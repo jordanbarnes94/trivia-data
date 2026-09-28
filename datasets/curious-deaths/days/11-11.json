@@ -9,8 +9,10 @@
    "desc": "English Baptist hymn writer and essayist",
    "cause": "quoting Job 19:25",
    "last_words": "I know that my Redeemer liveth.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anne_Steele",
-   "born": null
+   "born": null,
+   "died": "11 November 1778"
   },
   {
    "year": 1880,
@@ -20,19 +22,10 @@
    "desc": "Australian bushranger and convicted police murderer",
    "cause": "prior to execution by hanging",
    "last_words": "I suppose it had to come to this. Such is life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ned_Kelly",
-   "born": null
-  },
-  {
-   "year": 1887,
-   "year_label": "1887",
-   "name": "George Engel",
-   "kind": "individual",
-   "desc": "German-born American labor union activist",
-   "cause": "prior to hanging after Haymarket affair",
-   "last_words": "Hurrah for anarchy!",
-   "wikipedia": "https://en.wikipedia.org/wiki/George_Engel",
-   "born": "15 April 1836"
+   "born": null,
+   "died": "11 November 1880"
   },
   {
    "year": 1887,
@@ -42,8 +35,10 @@
    "desc": "German-born American labor union activist and anarchist",
    "cause": "prior to hanging after Haymarket affair",
    "last_words": "This is the happiest moment of my life!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Adolph_Fischer",
-   "born": null
+   "born": null,
+   "died": "11 November 1887"
   },
   {
    "year": 1887,
@@ -53,8 +48,23 @@
    "desc": "American anarchist leader",
    "cause": "during hanging after Haymarket affair; interrupted by opening of gallows trapdoor",
    "last_words": "Will I be allowed to speak, O men of America? Let me speak, Sheriff Matson! Let the voice of the people be heard! O-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Albert_Parsons",
-   "born": "20 June 1848"
+   "born": "20 June 1848",
+   "died": "11 November 1887"
+  },
+  {
+   "year": 1887,
+   "year_label": "1887",
+   "name": "George Engel",
+   "kind": "individual",
+   "desc": "German-born American labor union activist",
+   "cause": "prior to hanging after Haymarket affair",
+   "last_words": "Hurrah for anarchy!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/George_Engel",
+   "born": "15 April 1836",
+   "died": "11 November 1887"
   },
   {
    "year": 1991,
@@ -64,8 +74,10 @@
    "desc": "American convicted murderer",
    "cause": "echoing Gary Gilmore prior to execution by lethal injection",
    "last_words": "Lock and load. Let's do it, man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/List_of_people_executed_in_Texas,_1990–1999",
-   "born": null
+   "born": null,
+   "died": "11 November 1991"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "American author and editor",
    "cause": null,
    "last_words": "In spite of it all, I am going to sleep; put out the lights.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Bailey_Aldrich",
    "died": "19 March 1907"
   },
@@ -88,6 +101,7 @@
    "desc": "Russian artist and diarist",
    "cause": "looking at a candle beside her deathbed",
    "last_words": "We shall go out together.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie_Bashkirtseff",
    "died": "31 October 1884"
   },
@@ -99,6 +113,7 @@
    "desc": "American actress known for playing Peter Pan",
    "cause": null,
    "last_words": "Life is still full of joy. Thumbs up for joy and adventure.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maude_Adams",
    "died": "17 July 1953"
   },
@@ -110,6 +125,7 @@
    "desc": "United States Army general",
    "cause": "paralyzed from neck down after automobile collision",
    "last_words": "This is a hell of a way to die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_S._Patton",
    "died": "21 December 1945"
   },
@@ -121,6 +137,7 @@
    "desc": "American war correspondent and historian",
    "cause": "spoken into tape recorder just before stepping on land mine that killed him and U.S. Marine Byron G. Highland during the Vietnam War",
    "last_words": "We've reached one of our phase lines after the fire fight and it smells bad-meaning it's a little bit suspicious...Could be an amb-",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Bernard_B._Fall",
    "died": "21 February 1967"
   }

@@ -9,8 +9,10 @@
    "desc": "Spanish playwright",
    "cause": null,
    "last_words": "All right then, I'll say it. Dante makes me sick.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lope_de_Vega",
-   "born": "25 November 1562"
+   "born": "25 November 1562",
+   "died": "27 August 1635"
   },
   {
    "year": 1782,
@@ -20,8 +22,10 @@
    "desc": "American soldier, statesman and abolitionist",
    "cause": "prior to death at the Battle of the Combahee River",
    "last_words": "Charge!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Laurens",
-   "born": "28 October 1754"
+   "born": "28 October 1754",
+   "died": "27 August 1782"
   },
   {
    "year": 1964,
@@ -31,8 +35,10 @@
    "desc": "American vaudevillian and comedian",
    "cause": null,
    "last_words": "I'm sorry, boys, I'm all wet.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gracie_Allen",
-   "born": "26 July 1895"
+   "born": "26 July 1895",
+   "died": "27 August 1964"
   },
   {
    "year": 1979,
@@ -42,8 +48,10 @@
    "desc": "British Royal Navy officer and statesman",
    "cause": "prior to death in IRA bombing of his fishing boat",
    "last_words": "Do you really think the IRA would think me a worthwhile target?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_Mountbatten,_1st_Earl_Mountbatten_of_Burma",
-   "born": "25 June 1900"
+   "born": "25 June 1900",
+   "died": "27 August 1979"
   }
  ],
  "born": [
@@ -55,6 +63,7 @@
    "desc": "German philosopher",
    "cause": null,
    "last_words": "Only one man ever understood me. And he really didn't understand me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
    "died": "14 November 1831"
   },
@@ -66,6 +75,7 @@
    "desc": "American politician and Union general of the American Civil War",
    "cause": "mortally wounded at the Battle of Chancellorsville",
    "last_words": "I am dying, carry me to the rear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hiram_Gregory_Berry",
    "died": "3 May 1863"
   },
@@ -77,6 +87,7 @@
    "desc": "American novelist",
    "cause": null,
    "last_words": "Shakespeare, I come.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodore_Dreiser",
    "died": "28 December 1945"
   },
@@ -88,6 +99,7 @@
    "desc": "president of the United States",
    "cause": "referring to his Secret Service agent. By the time Mike arrived, Johnson had already died",
    "last_words": "Send Mike immediately.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
    "died": "22 January 1973"
   }

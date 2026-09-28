@@ -9,8 +9,10 @@
    "desc": "Austrian general",
    "cause": "writing to his wife",
    "last_words": "Relieved to hear that you feel better. I had a very bad night-am now stronger. Your poor Louis.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_von_Benedek",
-   "born": "14 July 1804"
+   "born": "14 July 1804",
+   "died": "27 April 1881"
   },
   {
    "year": 1882,
@@ -20,8 +22,10 @@
    "desc": "American author, philosopher and transcendentalist",
    "cause": null,
    "last_words": "O, that beautiful boy!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ralph_Waldo_Emerson",
-   "born": "25 May 1803"
+   "born": "25 May 1803",
+   "died": "27 April 1882"
   },
   {
    "year": 1932,
@@ -31,19 +35,10 @@
    "desc": "American poet",
    "cause": "prior to jumping off a cruise ship",
    "last_words": "Goodbye, everybody!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Hart_Crane",
-   "born": "21 July 1899"
-  },
-  {
-   "year": 1965,
-   "year_label": "1965",
-   "name": "Lou Everett",
-   "kind": "individual",
-   "desc": "American test pilot",
-   "cause": "prior to failed ejection from Ryan XV-5 Vertifan",
-   "last_words": "I've got to get out!",
-   "wikipedia": "https://en.wikipedia.org/wiki/Lou_Everett",
-   "born": "28 November 1924"
+   "born": "21 July 1899",
+   "died": "27 April 1932"
   },
   {
    "year": 1965,
@@ -53,8 +48,23 @@
    "desc": "American broadcast journalist and war correspondent",
    "cause": "patting the hand of his wife, Janet Huntington Brewster",
    "last_words": "Well, Jan, we were lucky at that.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Edward_R._Murrow",
-   "born": "25 April 1908"
+   "born": "25 April 1908",
+   "died": "27 April 1965"
+  },
+  {
+   "year": 1965,
+   "year_label": "1965",
+   "name": "Lou Everett",
+   "kind": "individual",
+   "desc": "American test pilot",
+   "cause": "prior to failed ejection from Ryan XV-5 Vertifan",
+   "last_words": "I've got to get out!",
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Lou_Everett",
+   "born": "28 November 1924",
+   "died": "27 April 1965"
   },
   {
    "year": 1980,
@@ -64,8 +74,10 @@
    "desc": "French physician and alpinist",
    "cause": "prior to disappearing on Lhotse Shar in Nepal",
    "last_words": "When you've been in the mountains for many years, you may forget that it's not a man's world. Every day I have to remember that this is not a world for man. This is the only sure way to approach it. Otherwise it's like when a boxer lets his guard down, it can stop very quickly.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Nicolas_Jaeger",
-   "born": "20 October 1946"
+   "born": "20 October 1946",
+   "died": "27 April 1980"
   }
  ],
  "born": [
@@ -77,6 +89,7 @@
    "desc": "English writer and feminist philosopher",
    "cause": "to her husband, William Godwin, while dying from the effects of giving birth to Mary Shelley",
    "last_words": "I know what you are thinking of, but I have nothing to communicate on the subject of religion.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mary_Wollstonecraft",
    "died": "10 September 1797"
   },
@@ -88,6 +101,7 @@
    "desc": "president of the United States",
    "cause": "when asked if he wanted anything while dying of throat cancer",
    "last_words": "Water.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Ulysses_S._Grant",
    "died": "23 July 1885"
   },
@@ -99,6 +113,7 @@
    "desc": "English man of letters",
    "cause": "when asked what he wanted for lunch",
    "last_words": "Whatever you would like me to have.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Maurice_Baring",
    "died": "14 December 1945"
   },
@@ -110,6 +125,7 @@
    "desc": "British colonial police officer",
    "cause": "killed in action at the Battle of Dul Madoba",
    "last_words": "Leave me!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_Corfield",
    "died": "9 August 1913"
   },
@@ -121,6 +137,7 @@
    "desc": "Welsh musician and songwriter",
    "cause": "written on a suicide note before hanging himself",
    "last_words": "Anne, I love you. Blair, I love you. I will not be allowed to love and trust everybody. This is better. Pete. P.S. Stan Polley is a soulless bastard. I will take him with me.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Pete_Ham",
    "died": "24 April 1975"
   }

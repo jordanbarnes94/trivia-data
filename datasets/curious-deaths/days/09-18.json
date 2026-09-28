@@ -9,8 +9,10 @@
    "desc": "Swiss mathematician and scientist",
    "cause": null,
    "last_words": "I die.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Leonhard_Euler",
-   "born": "15 April 1707"
+   "born": "15 April 1707",
+   "died": "18 September 1783"
   },
   {
    "year": 1830,
@@ -20,8 +22,10 @@
    "desc": "English essayist and critic",
    "cause": null,
    "last_words": "Well, I've had a happy life.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/William_Hazlitt",
-   "born": "10 April 1778"
+   "born": "10 April 1778",
+   "died": "18 September 1830"
   },
   {
    "year": 1970,
@@ -31,8 +35,10 @@
    "desc": "American musician, singer, and songwriter",
    "cause": "to his manager, Chas Chandler, in an answering machine message he left for him",
    "last_words": "I need help bad, man.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Jimi_Hendrix",
-   "born": "27 November 1942"
+   "born": "27 November 1942",
+   "died": "18 September 1970"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "English writer",
    "cause": "to Miss Morris, a young woman",
    "last_words": "God bless you, my dear.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Johnson",
    "died": "13 December 1784"
   },
@@ -55,6 +62,7 @@
    "desc": "American police officer",
    "cause": "over his police radio shortly before being shot and killed, less than one hour after the Kennedy assassination",
    "last_words": "10–4.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/J._D._Tippit",
    "died": "22 November 1963"
   }

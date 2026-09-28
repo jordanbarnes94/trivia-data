@@ -9,8 +9,10 @@
    "desc": "Roman emperor",
    "cause": "to a freedman, prior to committing suicide",
    "last_words": "Go and show yourself to the soldiers, lest they cut you to pieces for being accessory to my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Otho",
-   "born": "28 April 32"
+   "born": "28 April 32",
+   "died": "16 April 69"
   },
   {
    "year": 1870,
@@ -20,8 +22,10 @@
    "desc": null,
    "cause": null,
    "last_words": "Is not this dying with true courage and true greatness?",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Marie-Caroline_of_Bourbon-Two_Sicilies,_Duchess_of_Berry",
-   "born": "5 November 1798"
+   "born": "5 November 1798",
+   "died": "16 April 1870"
   },
   {
    "year": 1997,
@@ -31,8 +35,10 @@
    "desc": "American criminal",
    "cause": "prior to execution by lethal injection",
    "last_words": "Thank the Lord for the past 14 years that have allowed me to grow as a man. To J.D.'s family, I am sorry for the suffering you have gone through the past 14 years. I hope you can get some peace tonight. To my family, I am happy to be going home to Jesus. Sweet Jesus, here I come. Take me home. I am going your way.",
+   "date_kind": "death",
    "wikipedia": null,
-   "born": null
+   "born": null,
+   "died": "16 April 1997"
   }
  ],
  "born": [
@@ -44,6 +50,7 @@
    "desc": "King of the Franks",
    "cause": "after turning his face to the wall before dying",
    "last_words": "Out! out!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Louis_the_Pious",
    "died": "20 June 840"
   },
@@ -55,6 +62,7 @@
    "desc": "English merchant",
    "cause": "prior to death in the Namamugi Incident",
    "last_words": "I know how to deal with these people.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charles_Lennox_Richardson",
    "died": "14 September 1862"
   },
@@ -66,6 +74,7 @@
    "desc": "French writer and journalist",
    "cause": null,
    "last_words": "So this is what it is like to die – it takes a long time!",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Anatole_France",
    "died": "12 October 1924"
   },
@@ -77,6 +86,7 @@
    "desc": "Irish author",
    "cause": null,
    "last_words": "It is no use fighting death any more.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Millington_Synge",
    "died": "24 March 1909"
   },
@@ -88,6 +98,7 @@
    "desc": "White Russian military leader",
    "cause": "dying during the Great Siberian Ice March",
    "last_words": "Let my soldiers know that I've always been committed to them, loved them and proved it by my death.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Vladimir_Kappel",
    "died": "26 January 1920"
   },
@@ -99,6 +110,7 @@
    "desc": "English actor and filmmaker",
    "cause": "to a priest who had said, \"May the Lord have mercy on your soul\"",
    "last_words": "Why not? After all, it belongs to him.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Chaplin",
    "died": "25 December 1977"
   },
@@ -110,6 +122,7 @@
    "desc": "English novelist and poet",
    "cause": null,
    "last_words": "Oh, come on.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Kingsley_Amis",
    "died": "22 October 1995"
   },
@@ -121,6 +134,7 @@
    "desc": "American singer",
    "cause": "explaining her murderer's name and room number to the hotel staff shortly after being shot by Yolanda Saldívar",
    "last_words": "Yolanda...158.",
+   "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Selena",
    "died": "31 March 1995"
   }
