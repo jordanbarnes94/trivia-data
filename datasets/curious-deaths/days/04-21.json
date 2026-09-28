@@ -4,6 +4,9 @@
   {
    "year": 1109,
    "year_label": "1109",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anselm of Canterbury",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -17,6 +20,9 @@
   {
    "year": 1142,
    "year_label": "1142",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Peter Abelard",
    "kind": "individual",
    "desc": "French philosopher and theologian",
@@ -30,6 +36,9 @@
   {
    "year": 1509,
    "year_label": "1509",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry VII of England",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1701,
    "year_label": "1701",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Asano Naganori",
    "kind": "individual",
    "desc": "daimyō of the Akō Domain in Japan",
@@ -56,6 +68,9 @@
   {
    "year": 1753,
    "year_label": "1753",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Newton",
    "kind": "individual",
    "desc": "English educator and clergyman",
@@ -69,6 +84,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mark Twain",
    "kind": "individual",
    "desc": "American novelist",
@@ -82,6 +100,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Manfred von Richthofen",
    "kind": "individual",
    "desc": "or the Red Baron",
@@ -95,6 +116,9 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eleonora Duse",
    "kind": "individual",
    "desc": "Italian actress",
@@ -108,6 +132,9 @@
   {
    "year": 1992,
    "year_label": "1992",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Alton Harris",
    "kind": "individual",
    "desc": "American kidnapper and murderer",
@@ -123,6 +150,10 @@
   {
    "year": 1523,
    "year_label": "1523",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Marco Antonio Bragadin",
    "kind": "individual",
    "desc": null,
@@ -135,6 +166,10 @@
   {
    "year": 1816,
    "year_label": "1816",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charlotte Brontë",
    "kind": "individual",
    "desc": "English author",
@@ -147,6 +182,10 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leonard Warren",
    "kind": "individual",
    "desc": "American operatic baritone",

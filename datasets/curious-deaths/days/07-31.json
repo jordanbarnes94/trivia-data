@@ -4,6 +4,9 @@
   {
    "year": 1784,
    "year_label": "1784",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Denis Diderot",
    "kind": "individual",
    "desc": "French philosopher",
@@ -17,6 +20,9 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andrew Johnson",
    "kind": "individual",
    "desc": "president of the United States",
@@ -30,6 +36,9 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Roland Ernst",
    "kind": "individual",
    "desc": "American convicted murderer, neo-Nazi, and the second-to-last person to be executed by the state of New Jersey",
@@ -45,6 +54,10 @@
   {
    "year": 1822,
    "year_label": "1822",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Abram Hewitt",
    "kind": "individual",
    "desc": "United States Congressman and Mayor of New York City",
@@ -57,6 +70,10 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rudolf Slánský",
    "kind": "individual",
    "desc": "Czech communist politician",

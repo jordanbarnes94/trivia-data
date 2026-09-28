@@ -4,6 +4,9 @@
   {
    "year": 1661,
    "year_label": "1661",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Guthrie",
    "kind": "individual",
    "desc": "Scottish Presbyterian minister",
@@ -17,6 +20,9 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Buchanan",
    "kind": "individual",
    "desc": "president of the United States",
@@ -30,6 +36,9 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adolf Eichmann",
    "kind": "individual",
    "desc": "German-Austrian SS-Obersturmbannführer",
@@ -45,6 +54,10 @@
   {
    "year": 1563,
    "year_label": "1563",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Cecil, 1st Earl of Salisbury",
    "kind": "individual",
    "desc": "English statesman",
@@ -57,6 +70,10 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Francis Lyte",
    "kind": "individual",
    "desc": "Anglican poet",
@@ -69,6 +86,10 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Brigham Young",
    "kind": "individual",
    "desc": "American religious leader and politician",
@@ -81,6 +102,10 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marilyn Monroe",
    "kind": "individual",
    "desc": "American actress",
@@ -93,6 +118,10 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Georgy Dobrovolsky",
    "kind": "individual",
    "desc": "Soviet cosmonaut",

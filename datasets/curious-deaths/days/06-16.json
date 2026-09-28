@@ -4,6 +4,9 @@
   {
    "year": 1752,
    "year_label": "1752",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Butler",
    "kind": "individual",
    "desc": "English Anglican bishop and theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1779,
    "year_label": "1779",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sir Francis Bernard, 1st Baronet",
    "kind": "individual",
    "desc": "British colonial administrator",
@@ -30,6 +36,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Stinney",
    "kind": "individual",
    "desc": "African-American child and youngest American with an exact age executed by the United States",
@@ -43,6 +52,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Reeves",
    "kind": "individual",
    "desc": "American actor",
@@ -58,6 +70,10 @@
   {
    "year": 1838,
    "year_label": "1838",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cushman Kellogg Davis",
    "kind": "individual",
    "desc": "United States Senator from Minnesota",
@@ -70,6 +86,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stan Laurel",
    "kind": "individual",
    "desc": "English actor, member of the duo Laurel and Hardy",
@@ -82,6 +102,10 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James French",
    "kind": "individual",
    "desc": "American murderer",
@@ -94,6 +118,10 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tupac \"2Pac\" Shakur",
    "kind": "individual",
    "desc": "American rapper",

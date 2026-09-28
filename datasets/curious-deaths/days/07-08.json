@@ -4,6 +4,9 @@
   {
    "year": 1796,
    "year_label": "1796",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adam Naruszewicz",
    "kind": "individual",
    "desc": "Polish-Lithuanian bishop and author",
@@ -17,6 +20,9 @@
   {
    "year": 1974,
    "year_label": "1974",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Deborah Gail Stone",
    "kind": "individual",
    "desc": null,
@@ -32,6 +38,10 @@
   {
    "year": 1838,
    "year_label": "1838",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ferdinand von Zeppelin",
    "kind": "individual",
    "desc": "German general and airship inventor",
@@ -44,6 +54,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Percy Grainger",
    "kind": "individual",
    "desc": "Australian-American composer",

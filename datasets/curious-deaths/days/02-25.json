@@ -4,6 +4,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andrew Reed",
    "kind": "individual",
    "desc": "English Congregational minister and hymnwriter",
@@ -19,6 +22,10 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Sigmund Neuberger",
    "kind": "individual",
    "desc": null,
@@ -31,6 +38,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Meher Baba",
    "kind": "individual",
    "desc": "Indian spiritual master",

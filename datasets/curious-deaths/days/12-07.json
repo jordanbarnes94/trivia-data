@@ -4,6 +4,9 @@
   {
    "year": -43,
    "year_label": "43 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cicero",
    "kind": "individual",
    "desc": "Roman statesman",
@@ -17,6 +20,9 @@
   {
    "year": 1683,
    "year_label": "1683",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Algernon Sidney",
    "kind": "individual",
    "desc": "English politician",
@@ -30,6 +36,9 @@
   {
    "year": 1815,
    "year_label": "1815",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Michel Ney",
    "kind": "individual",
    "desc": "Marshal of the Empire",
@@ -43,6 +52,9 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Irving",
    "kind": "individual",
    "desc": "Scottish clergyman",
@@ -56,6 +68,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Herbert C. Jones",
    "kind": "individual",
    "desc": "United States Navy officer and Medal of Honor recipient",
@@ -69,6 +84,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert R. Scott",
    "kind": "individual",
    "desc": "United States Navy sailor and Medal of Honor recipient",
@@ -82,6 +100,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Darby Crash",
    "kind": "individual",
    "desc": "American musician",
@@ -97,6 +118,10 @@
   {
    "year": 521,
    "year_label": "521",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Columba",
    "kind": "individual",
    "desc": "Irish abbot and missionary evangelist",
@@ -109,6 +134,10 @@
   {
    "year": 1804,
    "year_label": "1804",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Barton Rogers",
    "kind": "individual",
    "desc": "founder and first president of the Massachusetts Institute of Technology",
@@ -121,6 +150,10 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hedley Vicars",
    "kind": "individual",
    "desc": "British Army officer and evangelical",
@@ -133,6 +166,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Walter Nowotny",
    "kind": "individual",
    "desc": "Second World War German fighter ace",

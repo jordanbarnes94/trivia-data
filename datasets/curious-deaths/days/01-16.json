@@ -4,6 +4,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Gibbon",
    "kind": "individual",
    "desc": "English historian and Member of Parliament",
@@ -17,6 +20,9 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Moore",
    "kind": "individual",
    "desc": "British Army general",
@@ -30,6 +36,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ma Barker",
    "kind": "individual",
    "desc": "American mother of criminals",
@@ -43,6 +52,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Susan Grace Kelly",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert Fish",
    "kind": "individual",
    "desc": "American serial killer, child rapist and cannibal",
@@ -69,6 +84,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bob Jones Sr.",
    "kind": "individual",
    "desc": "American evangelist, founder of Bob Jones University",
@@ -84,6 +102,10 @@
   {
    "year": 1697,
    "year_label": "1697",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Savage",
    "kind": "individual",
    "desc": "English poet",
@@ -96,6 +118,10 @@
   {
    "year": 1749,
    "year_label": "1749",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vittorio Alfieri",
    "kind": "individual",
    "desc": "Italian dramatist and poet",
@@ -108,6 +134,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Kelly",
    "kind": "individual",
    "desc": "American playwright and actor",

@@ -4,6 +4,9 @@
   {
    "year": 1797,
    "year_label": "1797",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edmund Burke",
    "kind": "individual",
    "desc": "Irish statesman and philosopher",
@@ -17,6 +20,10 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Zachary Taylor",
    "kind": "individual",
    "desc": "president of the United States",
@@ -30,6 +37,9 @@
   {
    "year": 1993,
    "year_label": "1993",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Garry Hoy",
    "kind": "individual",
    "desc": null,
@@ -43,6 +53,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Jeremy T. Brenno",
    "kind": "individual",
    "desc": null,
@@ -58,6 +71,10 @@
   {
    "year": 1892,
    "year_label": "1892",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cromwell Dixon",
    "kind": "individual",
    "desc": "American aviator",

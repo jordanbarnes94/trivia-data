@@ -4,6 +4,9 @@
   {
    "year": 1802,
    "year_label": "1802",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Erasmus Darwin",
    "kind": "individual",
    "desc": "English physician and natural philosopher",
@@ -17,6 +20,9 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rukara",
    "kind": "individual",
    "desc": "one of the leaders of Ndungutse's rebellion",
@@ -30,6 +36,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ernie Pyle",
    "kind": "individual",
    "desc": "American war correspondent",
@@ -43,6 +52,9 @@
   {
    "year": 1955,
    "year_label": "1955",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert Einstein",
    "kind": "individual",
    "desc": "German physicist",
@@ -56,6 +68,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Candace Newmaker",
    "kind": "individual",
    "desc": "American child murder victim",

@@ -4,6 +4,9 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "João Carlos de Saldanha Oliveira e Daun, 1st Duke of Saldanha",
    "kind": "individual",
    "desc": "Portuguese statesman",
@@ -17,6 +20,9 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Allingham",
    "kind": "individual",
    "desc": "Irish poet, diarist and editor",
@@ -30,6 +36,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marcel Proust",
    "kind": "individual",
    "desc": "French novelist",
@@ -43,6 +52,9 @@
   {
    "year": 1972,
    "year_label": "1972",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adrian McGill",
    "kind": "individual",
    "desc": "Glasgow Fire Service Sub Officer",
@@ -56,6 +68,9 @@
   {
    "year": 1978,
    "year_label": "1978",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jim Jones",
    "kind": "individual",
    "desc": "American cult leader and mass murderer",
@@ -71,6 +86,10 @@
   {
    "year": 1736,
    "year_label": "1736",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Fordyce",
    "kind": "individual",
    "desc": "Scottish physician",
@@ -83,6 +102,10 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "W. S. Gilbert",
    "kind": "individual",
    "desc": "English dramatist and librettist",
@@ -95,6 +118,10 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Hugh Benson",
    "kind": "individual",
    "desc": "AFSC KC*SG KGCHS, English Roman Catholic priest and author",
@@ -107,6 +134,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wyndham Lewis",
    "kind": "individual",
    "desc": "English writer and painter",
@@ -119,6 +150,10 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Karla Faye Tucker",
    "kind": "individual",
    "desc": "American double murderer who converted to Christianity in prison",

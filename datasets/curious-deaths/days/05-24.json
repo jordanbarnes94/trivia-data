@@ -4,6 +4,9 @@
   {
    "year": 1240,
    "year_label": "1240",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Skule Bårdsson",
    "kind": "individual",
    "desc": "Norwegian nobleman",
@@ -17,6 +20,9 @@
   {
    "year": 1543,
    "year_label": "1543",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nicolaus Copernicus",
    "kind": "individual",
    "desc": "mathematician and astronomer",
@@ -30,6 +36,9 @@
   {
    "year": 1612,
    "year_label": "1612",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Cecil, 1st Earl of Salisbury",
    "kind": "individual",
    "desc": "English statesman",
@@ -43,6 +52,9 @@
   {
    "year": 1725,
    "year_label": "1725",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jonathan Wild",
    "kind": "individual",
    "desc": "London organized crime figure",
@@ -56,6 +68,9 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Randolph of Roanoke",
    "kind": "individual",
    "desc": "American planter and politician",
@@ -69,6 +84,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francis Octavius Grenfell",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -82,6 +100,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francys Arsentiev",
    "kind": "individual",
    "desc": "American mountaineer",
@@ -97,6 +118,10 @@
   {
    "year": 1743,
    "year_label": "1743",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jean-Paul Marat",
    "kind": "individual",
    "desc": null,
@@ -109,6 +134,10 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Victoria",
    "kind": "individual",
    "desc": "queen regnant of the United Kingdom",
@@ -121,6 +150,10 @@
   {
    "year": 1903,
    "year_label": "1903",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Oliver L. Austin",
    "kind": "individual",
    "desc": "American ornithologist",
@@ -133,6 +166,10 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Steven Judy",
    "kind": "individual",
    "desc": "American convicted murderer",

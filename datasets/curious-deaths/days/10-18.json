@@ -4,6 +4,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles de Bonchamps",
    "kind": "individual",
    "desc": "French politician and leader of the Royalist Vendéan insurrection",
@@ -17,6 +20,9 @@
   {
    "year": 1802,
    "year_label": "1802",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sophie Arnould",
    "kind": "individual",
    "desc": "French operatic soprano",
@@ -30,6 +36,9 @@
   {
    "year": 1817,
    "year_label": "1817",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gomes Freire de Andrade",
    "kind": "individual",
    "desc": "Portuguese military officer",
@@ -43,6 +52,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Jim Creighton",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry John Temple, 3rd Viscount Palmerston",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",
@@ -69,6 +84,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Edison",
    "kind": "individual",
    "desc": "American inventor",
@@ -82,6 +100,10 @@
   {
    "year": 1984,
    "year_label": "1984",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Jon-Erik Hexum",
    "kind": "individual",
    "desc": "American actor and model",
@@ -97,6 +119,10 @@
   {
    "year": 1662,
    "year_label": "1662",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Matthew Henry",
    "kind": "individual",
    "desc": "British Nonconformist minister and author",
@@ -109,6 +135,10 @@
   {
    "year": 1785,
    "year_label": "1785",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Love Peacock",
    "kind": "individual",
    "desc": "English novelist and poet",
@@ -121,6 +151,10 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Boris Sagal",
    "kind": "individual",
    "desc": null,
@@ -133,6 +167,11 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Lee Harvey Oswald",
    "kind": "individual",
    "desc": "accused of killing Kennedy and Tippit",

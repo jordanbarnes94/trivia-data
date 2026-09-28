@@ -4,6 +4,9 @@
   {
    "year": 1747,
    "year_label": "1747",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David Brainerd",
    "kind": "individual",
    "desc": "American missionary to the Native Americans",
@@ -17,6 +20,9 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pierre Pigneau de Behaine",
    "kind": "individual",
    "desc": "French Roman Catholic priest and missionary in Vietnam",
@@ -30,6 +36,9 @@
   {
    "year": 1934,
    "year_label": "1934",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis Barthou",
    "kind": "individual",
    "desc": "French Minister of Foreign Affairs",
@@ -43,6 +52,9 @@
   {
    "year": 1958,
    "year_label": "1958",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pope Pius XII",
    "kind": "individual",
    "desc": "Italian Roman Catholic prelate and Pope",
@@ -56,6 +68,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Howard Glenn",
    "kind": "individual",
    "desc": "Titans of New York offensive guard",
@@ -69,6 +84,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Che Guevara",
    "kind": "individual",
    "desc": "Argentinean statesman and socialist revolutionary",
@@ -84,6 +102,10 @@
   {
    "year": 1771,
    "year_label": "1771",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick William, Duke of Brunswick-Wolfenbüttel",
    "kind": "individual",
    "desc": null,
@@ -96,6 +118,10 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Reginald Dyer",
    "kind": "individual",
    "desc": "British Indian Army officer",
@@ -108,6 +134,10 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Lennon",
    "kind": "individual",
    "desc": "English musician",

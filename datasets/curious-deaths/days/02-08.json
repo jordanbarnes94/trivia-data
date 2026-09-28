@@ -4,6 +4,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Laurence Saunders",
    "kind": "individual",
    "desc": "English Protestant martyr",
@@ -17,6 +20,10 @@
   {
    "year": 1587,
    "year_label": "1587",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Mary, Queen of Scots",
    "kind": "individual",
    "desc": null,
@@ -30,6 +37,9 @@
   {
    "year": 1676,
    "year_label": "1676",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexis of Russia",
    "kind": "individual",
    "desc": "Russian Tsar",
@@ -43,6 +53,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bob Collins",
    "kind": "individual",
    "desc": "American radio disc jockey",
@@ -58,6 +71,10 @@
   {
    "year": 1404,
    "year_label": "1404",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Constantine XI",
    "kind": "individual",
    "desc": null,
@@ -70,6 +87,10 @@
   {
    "year": 1552,
    "year_label": "1552",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Agrippa d'Aubigné",
    "kind": "individual",
    "desc": "French poet, soldier, propagandist and chronicler",
@@ -82,6 +103,10 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Barnard Elliott Bee Jr.",
    "kind": "individual",
    "desc": "Confederate general of the American Civil War",
@@ -94,6 +119,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Thomas Selfridge",
    "kind": "individual",
    "desc": null,
@@ -106,6 +135,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John U. D. Page",
    "kind": "individual",
    "desc": "United States Army officer and Medal of Honor recipient",
@@ -118,6 +151,10 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Burton Abbott",
    "kind": "individual",
    "desc": "American convicted rapist and murderer",
@@ -130,6 +167,10 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Dean",
    "kind": "individual",
    "desc": "American actor",

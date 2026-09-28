@@ -4,6 +4,9 @@
   {
    "year": 1677,
    "year_label": "1677",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Isaac Barrow",
    "kind": "individual",
    "desc": "English Christian theologian and mathematician",
@@ -17,6 +20,9 @@
   {
    "year": 1737,
    "year_label": "1737",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eustace Budgell",
    "kind": "individual",
    "desc": "English writer and politician",
@@ -30,6 +36,9 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Duchess Sophie Charlotte in Bavaria",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Robertson Nicoll",
    "kind": "individual",
    "desc": "Scottish minister and writer",
@@ -56,6 +68,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victor Prather",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Aubrey Dennis Adams, Jr.",
    "kind": "individual",
    "desc": "American convicted child murderer",
@@ -84,6 +102,10 @@
   {
    "year": 1613,
    "year_label": "1613",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Sharp",
    "kind": "individual",
    "desc": "Archbishop of St Andrews",

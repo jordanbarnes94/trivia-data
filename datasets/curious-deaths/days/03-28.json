@@ -4,6 +4,9 @@
   {
    "year": 1757,
    "year_label": "1757",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert-François Damiens",
    "kind": "individual",
    "desc": "French domestic servant, attempted assassin of Louis XV",
@@ -17,6 +20,9 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ralph Abercromby",
    "kind": "individual",
    "desc": "Scottish soldier and politician",
@@ -30,6 +36,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Virginia Woolf",
    "kind": "individual",
    "desc": "English writer",
@@ -43,6 +52,9 @@
   {
    "year": 1969,
    "year_label": "1969",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dwight D. Eisenhower",
    "kind": "individual",
    "desc": "president of the United States",
@@ -58,6 +70,10 @@
   {
    "year": 1483,
    "year_label": "1483",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Raphael",
    "kind": "individual",
    "desc": "Italian artist",
@@ -70,6 +86,10 @@
   {
    "year": 1515,
    "year_label": "1515",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Teresa of Ávila",
    "kind": "individual",
    "desc": "Spanish Carmelite nun, mystic and author",
@@ -82,6 +102,10 @@
   {
    "year": 1522,
    "year_label": "1522",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albert Alcibiades, Margrave of Brandenburg-Kulmbach",
    "kind": "individual",
    "desc": null,
@@ -94,6 +118,10 @@
   {
    "year": 1905,
    "year_label": "1905",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Armitage",
    "kind": "individual",
    "desc": "GC GM, Royal Navy officer",
@@ -106,6 +134,10 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "David Ferrie",
    "kind": "individual",
    "desc": "American pilot",
@@ -118,6 +150,10 @@
   {
    "year": 1949,
    "year_label": "1949",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Thanos",
    "kind": "individual",
    "desc": "American murderer",

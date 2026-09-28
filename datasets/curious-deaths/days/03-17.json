@@ -4,6 +4,9 @@
   {
    "year": 180,
    "year_label": "180",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marcus Aurelius",
    "kind": "individual",
    "desc": "Roman emperor and philosopher",
@@ -17,6 +20,9 @@
   {
    "year": 1713,
    "year_label": "1713",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Juraj Jánošík",
    "kind": "individual",
    "desc": "Slovak highwayman known as \"the Slovak Robin Hood\"",
@@ -30,6 +36,9 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lawrence Oates",
    "kind": "individual",
    "desc": "British army officer and Antarctic explorer",
@@ -43,6 +52,9 @@
   {
    "year": 1978,
    "year_label": "1978",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eddie Aikau",
    "kind": "individual",
    "desc": "American lifeguard and surfer",
@@ -58,6 +70,10 @@
   {
    "year": 1754,
    "year_label": "1754",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Madame Roland",
    "kind": "individual",
    "desc": "French revolutionary and writer",
@@ -70,6 +86,10 @@
   {
    "year": 1777,
    "year_label": "1777",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Patrick Brontë",
    "kind": "individual",
    "desc": "Irish Anglican priest and author, father of Charlotte, Branwell, Emily and Anne Brontë",
@@ -82,6 +102,10 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nat King Cole",
    "kind": "individual",
    "desc": "American singer",
@@ -94,6 +118,10 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Wayne Gacy",
    "kind": "individual",
    "desc": "American serial killer and sex offender",

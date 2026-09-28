@@ -4,6 +4,9 @@
   {
    "year": 1661,
    "year_label": "1661",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cardinal Mazarin",
    "kind": "individual",
    "desc": "Italian cardinal, diplomat and politician",
@@ -17,6 +20,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ian James Campbell",
    "kind": "individual",
    "desc": "American police officer",
@@ -30,6 +36,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Steven Judy",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -45,6 +54,10 @@
   {
    "year": 1749,
    "year_label": "1749",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Honoré Gabriel Riqueti, comte de Mirabeau",
    "kind": "individual",
    "desc": null,
@@ -57,6 +70,10 @@
   {
    "year": 1768,
    "year_label": "1768",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tecumseh",
    "kind": "individual",
    "desc": "leader of the Shawnee",
@@ -69,6 +86,10 @@
   {
    "year": 1773,
    "year_label": "1773",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Isaac Hull",
    "kind": "individual",
    "desc": "United States Navy Commodore",
@@ -81,6 +102,10 @@
   {
    "year": 1954,
    "year_label": "1954",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bobby Sands",
    "kind": "individual",
    "desc": "Provisional Irish Republican Army volunteer and British Member of Parliament",

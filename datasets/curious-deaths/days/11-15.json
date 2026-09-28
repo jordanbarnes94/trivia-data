@@ -4,6 +4,9 @@
   {
    "year": 1787,
    "year_label": "1787",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Christoph Willibald Gluck",
    "kind": "individual",
    "desc": "composer of Italian and French opera",
@@ -17,6 +20,9 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maria II",
    "kind": "individual",
    "desc": "queen regnant of Portugal",
@@ -30,6 +36,9 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Empress Dowager Cixi",
    "kind": "individual",
    "desc": "de facto ruler of China",
@@ -43,6 +52,9 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Harry Turner",
    "kind": "individual",
    "desc": "Canton Professionals center",
@@ -56,6 +68,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Michael J. Adams",
    "kind": "individual",
    "desc": "American astronaut",
@@ -69,6 +84,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Le Mesurier",
    "kind": "individual",
    "desc": "English actor",
@@ -84,6 +102,10 @@
   {
    "year": 1797,
    "year_label": "1797",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thurlow Weed",
    "kind": "individual",
    "desc": "American newspaper publisher and politician",
@@ -96,6 +118,10 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Claus von Stauffenberg",
    "kind": "individual",
    "desc": "German army officer",

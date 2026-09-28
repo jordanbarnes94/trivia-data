@@ -4,6 +4,9 @@
   {
    "year": 1645,
    "year_label": "1645",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Laud",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -17,6 +20,9 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Benjamin Parsons",
    "kind": "individual",
    "desc": "English congregational minister",
@@ -30,6 +36,9 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary Russell Mitford",
    "kind": "individual",
    "desc": "English author and dramatist",
@@ -43,6 +52,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lyman Beecher",
    "kind": "individual",
    "desc": "American Presbyterian minister",
@@ -56,6 +68,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick Harding Turner",
    "kind": "individual",
    "desc": "Scottish sportsman",
@@ -69,6 +84,9 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Coco Chanel",
    "kind": "individual",
    "desc": "French fashion businesswoman",
@@ -84,6 +102,10 @@
   {
    "year": 1686,
    "year_label": "1686",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Gardiner",
    "kind": "individual",
    "desc": "British Army officer",
@@ -96,6 +118,10 @@
   {
    "year": 1738,
    "year_label": "1738",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ethan Allen",
    "kind": "individual",
    "desc": "American patriot and militia general",
@@ -108,6 +134,10 @@
   {
    "year": 1769,
    "year_label": "1769",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Michel Ney",
    "kind": "individual",
    "desc": "Marshal of the Empire",
@@ -120,6 +150,10 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vicente Huidobro",
    "kind": "individual",
    "desc": "Chilean poet",
@@ -132,6 +166,10 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sal Mineo",
    "kind": "individual",
    "desc": "American actor",
@@ -144,6 +182,10 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jim Croce",
    "kind": "individual",
    "desc": "American folk and rock singer-songwriter",

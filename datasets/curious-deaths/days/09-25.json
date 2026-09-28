@@ -4,6 +4,9 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andrew Bolon",
    "kind": "individual",
    "desc": "American Bureau of Indian Affairs agent",
@@ -17,6 +20,9 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Jesse William Lazear",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1978,
    "year_label": "1978",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain James McFeron",
    "kind": "individual",
    "desc": "pilot of Pacific Southwest Airlines Flight 182",
@@ -45,6 +54,10 @@
   {
    "year": 1683,
    "year_label": "1683",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jean-Philippe Rameau",
    "kind": "individual",
    "desc": "French composer",
@@ -57,6 +70,10 @@
   {
    "year": 1714,
    "year_label": "1714",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Romaine",
    "kind": "individual",
    "desc": "evangelical divine of the Church of England",
@@ -69,6 +86,10 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Felicia Hemans",
    "kind": "individual",
    "desc": "English poet",
@@ -81,6 +102,10 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William J. O'Brien",
    "kind": "individual",
    "desc": "United States Army officer and Medal of Honor recipient",

@@ -4,6 +4,9 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Patrick Henry",
    "kind": "individual",
    "desc": "American attorney, politician and orator",
@@ -17,6 +20,9 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jeremy Bentham",
    "kind": "individual",
    "desc": "English philosopher, jurist and social reformer",
@@ -30,6 +36,9 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Camillo Benso, Count of Cavour",
    "kind": "individual",
    "desc": "Italian statesman, Prime Minister of Italy",
@@ -43,6 +52,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Turner Ashby",
    "kind": "individual",
    "desc": "Confederate cavalry commander of the American Civil War",
@@ -56,6 +68,9 @@
   {
    "year": 1867,
    "year_label": "1867",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Archduchess Mathilda of Austria",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Fred C. Roberts",
    "kind": "individual",
    "desc": "English physician and medical missionary",
@@ -82,6 +100,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Carl Jung",
    "kind": "individual",
    "desc": null,
@@ -95,6 +116,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert F. Kennedy",
    "kind": "individual",
    "desc": "American politician",
@@ -108,6 +132,9 @@
   {
    "year": 1972,
    "year_label": "1972",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Huguette Gaulin",
    "kind": "individual",
    "desc": "Canadian Novelist",
@@ -121,6 +148,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Feltus Taylor",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -136,6 +166,10 @@
   {
    "year": 1646,
    "year_label": "1646",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hortense Mancini",
    "kind": "individual",
    "desc": "Duchesse de Mazarin, niece of Cardinal Mazarin and mistress of Charles II of England",
@@ -148,6 +182,10 @@
   {
    "year": 1755,
    "year_label": "1755",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nathan Hale",
    "kind": "individual",
    "desc": "American soldier and spy",
@@ -160,6 +198,10 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Falcon Scott",
    "kind": "individual",
    "desc": "Royal Navy officer and Antarctic explorer",
@@ -172,6 +214,10 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Italo Balbo",
    "kind": "individual",
    "desc": null,
@@ -184,6 +230,10 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jack Youll",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -196,6 +246,10 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Isaiah Berlin",
    "kind": "individual",
    "desc": "Russian-British philosopher",
@@ -208,6 +262,10 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Neville Heath",
    "kind": "individual",
    "desc": "English murderer",

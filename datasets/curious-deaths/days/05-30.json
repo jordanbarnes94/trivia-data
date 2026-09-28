@@ -4,6 +4,9 @@
   {
    "year": 1416,
    "year_label": "1416",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jerome of Prague",
    "kind": "individual",
    "desc": "Czech scholastic philosopher and theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1431,
    "year_label": "1431",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joan of Arc",
    "kind": "individual",
    "desc": "French military leader and mystic",
@@ -30,6 +36,9 @@
   {
    "year": 1574,
    "year_label": "1574",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles IX of France",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1744,
    "year_label": "1744",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander Pope",
    "kind": "individual",
    "desc": "English poet",
@@ -56,6 +68,9 @@
   {
    "year": 1778,
    "year_label": "1778",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Voltaire",
    "kind": "individual",
    "desc": "French writer",
@@ -69,6 +84,9 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Mackintosh",
    "kind": "individual",
    "desc": "FRS FRSE, Scottish jurist, politician and historian",
@@ -82,6 +100,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Barton Rogers",
    "kind": "individual",
    "desc": "founder and first president of the Massachusetts Institute of Technology",
@@ -95,6 +116,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Louis Slotin",
    "kind": "individual",
    "desc": null,
@@ -108,6 +132,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Boris Pasternak",
    "kind": "individual",
    "desc": "Russian author",
@@ -123,6 +150,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mel Blanc",
    "kind": "individual",
    "desc": "American voice actor and radio personality",
@@ -135,6 +166,10 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Benny Goodman",
    "kind": "individual",
    "desc": "American clarinetist",

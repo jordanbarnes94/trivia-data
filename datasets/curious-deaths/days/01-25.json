@@ -4,6 +4,9 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander Roberts Dunn",
    "kind": "individual",
    "desc": "VC, Canadian British Army officer, Crimean War Victoria Cross recipient",
@@ -17,6 +20,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Robert Williams",
    "kind": "individual",
    "desc": null,
@@ -32,6 +38,10 @@
   {
    "year": 1688,
    "year_label": "1688",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Juraj Jánošík",
    "kind": "individual",
    "desc": "Slovak highwayman known as \"the Slovak Robin Hood\"",
@@ -44,6 +54,10 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Burns",
    "kind": "individual",
    "desc": "Scottish poet",
@@ -56,6 +70,10 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Archduchess Mathilda of Austria",
    "kind": "individual",
    "desc": null,
@@ -68,6 +86,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "W. Somerset Maugham",
    "kind": "individual",
    "desc": "English author",
@@ -80,6 +102,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Virginia Woolf",
    "kind": "individual",
    "desc": "English writer",

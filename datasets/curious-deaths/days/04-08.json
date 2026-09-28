@@ -4,6 +4,9 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Augustus Muhlenberg",
    "kind": "individual",
    "desc": "American Episcopal clergyman and educator",
@@ -17,6 +20,9 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Abd al-Qadir al-Husayni",
    "kind": "individual",
    "desc": "Palestinian leader and fighter",
@@ -30,6 +36,9 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vaslav Nijinsky",
    "kind": "individual",
    "desc": "Polish ballet dancer and choreographer",
@@ -43,6 +52,9 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anthony Strollo",
    "kind": "individual",
    "desc": "American gangster",
@@ -56,6 +68,9 @@
   {
    "year": 1973,
    "year_label": "1973",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pablo Picasso",
    "kind": "individual",
    "desc": "Spanish artist",
@@ -71,6 +86,10 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albert I of Belgium",
    "kind": "individual",
    "desc": null,

@@ -4,6 +4,9 @@
   {
    "year": 1777,
    "year_label": "1777",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Dodd",
    "kind": "individual",
    "desc": "English Anglican clergyman and man of letters",
@@ -17,6 +20,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Philippe de Noailles",
    "kind": "individual",
    "desc": "duc de Mouchy",
@@ -30,6 +36,9 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Smith",
    "kind": "individual",
    "desc": "founder of Mormonism",
@@ -43,6 +52,9 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Inocêncio Francisco da Silva",
    "kind": "individual",
    "desc": "Portuguese bibliographer",
@@ -56,6 +68,9 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Milada Horáková",
    "kind": "individual",
    "desc": "Czech politician",
@@ -71,6 +86,10 @@
   {
    "year": 1550,
    "year_label": "1550",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles IX of France",
    "kind": "individual",
    "desc": null,
@@ -83,6 +102,10 @@
   {
    "year": 1682,
    "year_label": "1682",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles XII",
    "kind": "individual",
    "desc": "King of Sweden",

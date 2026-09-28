@@ -4,6 +4,9 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Catharine Beecher",
    "kind": "individual",
    "desc": "American educator",
@@ -17,6 +20,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eugène Ysaÿe",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1993,
    "year_label": "1993",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leonel Torres Herrera",
    "kind": "individual",
    "desc": "American convicted police murderer",
@@ -45,6 +54,10 @@
   {
    "year": 1760,
    "year_label": "1760",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Bannister",
    "kind": "individual",
    "desc": "English actor and theater manager",
@@ -57,6 +70,10 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Cathcart",
    "kind": "individual",
    "desc": "British general and diplomat",
@@ -69,6 +86,10 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Lear",
    "kind": "individual",
    "desc": "English nonsense poet",
@@ -81,6 +102,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dante Gabriel Rossetti",
    "kind": "individual",
    "desc": "English poet, translator and artist",
@@ -93,6 +118,10 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick Holder",
    "kind": "individual",
    "desc": "Speaker of the Australian House of Representatives",

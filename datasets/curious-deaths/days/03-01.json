@@ -4,6 +4,9 @@
   {
    "year": 1244,
    "year_label": "1244",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Gruffudd ap Llywelyn ab Iorwerth",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1539,
    "year_label": "1539",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Forret",
    "kind": "individual",
    "desc": "vicar of Dollar, Clackmannanshire, burned for heresy",
@@ -30,6 +36,9 @@
   {
    "year": 1546,
    "year_label": "1546",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Wishart",
    "kind": "individual",
    "desc": "Scottish Protestant reformer and martyr",
@@ -43,6 +52,9 @@
   {
    "year": 1633,
    "year_label": "1633",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Herbert",
    "kind": "individual",
    "desc": "Welsh-born poet, orator, and priest of the Church of England",
@@ -56,6 +68,9 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francisco Solano López",
    "kind": "individual",
    "desc": "2nd president of Paraguay",
@@ -69,6 +84,9 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lucky Baldwin",
    "kind": "individual",
    "desc": "California businessman",
@@ -82,6 +100,9 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Trumpeldor",
    "kind": "individual",
    "desc": "Jewish Zionist activist",
@@ -95,6 +116,9 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gabriele D'Annunzio",
    "kind": "individual",
    "desc": "Italian author and soldier",
@@ -108,6 +132,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Harlon Block",
    "kind": "individual",
    "desc": "United States Marine Corps corporal",
@@ -121,6 +148,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Lothar Sieber",
    "kind": "individual",
    "desc": null,
@@ -136,6 +166,10 @@
   {
    "year": 1769,
    "year_label": "1769",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "François Séverin Marceau",
    "kind": "individual",
    "desc": "French general of the Revolutionary Wars",
@@ -148,6 +182,10 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Cameron",
    "kind": "individual",
    "desc": "Union colonel of the American Civil War",
@@ -160,6 +198,10 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frédéric Chopin",
    "kind": "individual",
    "desc": "Polish composer and pianist",
@@ -172,6 +214,10 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Michael F. Farley",
    "kind": "individual",
    "desc": null,
@@ -184,6 +230,10 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lytton Strachey",
    "kind": "individual",
    "desc": "English writer and critic",
@@ -196,6 +246,10 @@
   {
    "year": 1892,
    "year_label": "1892",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ryūnosuke Akutagawa",
    "kind": "individual",
    "desc": "Japanese writer",
@@ -208,6 +262,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Norman F. Baesall",
    "kind": "individual",
    "desc": "U.S. Army Air Force lieutenant colonel",
@@ -220,6 +278,10 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Yitzhak Rabin",
    "kind": "individual",
    "desc": "Israeli Prime Minister",
@@ -232,6 +294,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Georgi Markov",
    "kind": "individual",
    "desc": null,
@@ -244,6 +310,10 @@
   {
    "year": 1949,
    "year_label": "1949",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Donald Harding",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -256,6 +326,10 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Daniel Hittle",
    "kind": "individual",
    "desc": "American serial killer",

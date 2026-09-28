@@ -4,6 +4,9 @@
   {
    "year": 1787,
    "year_label": "1787",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Brown of Haddington",
    "kind": "individual",
    "desc": "Scottish minister and author",
@@ -17,6 +20,9 @@
   {
    "year": 1831,
    "year_label": "1831",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Victor Yvart",
    "kind": "individual",
    "desc": "French agronomist",
@@ -30,6 +36,9 @@
   {
    "year": 1867,
    "year_label": "1867",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maximilian I of Mexico",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Hodge",
    "kind": "individual",
    "desc": "American Presbyterian theologian",
@@ -56,6 +68,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "J. M. Barrie",
    "kind": "individual",
    "desc": "Scottish novelist and playwright",
@@ -69,6 +84,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Alan Stacey",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vincent Chin",
    "kind": "individual",
    "desc": "Chinese-American draftsman",
@@ -97,6 +118,10 @@
   {
    "year": 1623,
    "year_label": "1623",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Blaise Pascal",
    "kind": "individual",
    "desc": "French mathematician, physicist and theologian",
@@ -109,6 +134,10 @@
   {
    "year": 1721,
    "year_label": "1721",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Baron Johann de Kalb",
    "kind": "individual",
    "desc": "officer in the American War of Independence",
@@ -121,6 +150,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Monckton Milnes, 1st Baron Houghton",
    "kind": "individual",
    "desc": "FRS, English poet and politician",
@@ -133,6 +166,10 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Elbert Hubbard",
    "kind": "individual",
    "desc": "American writer and publisher",
@@ -145,6 +182,10 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "José Rizal",
    "kind": "individual",
    "desc": "Filipino nationalist, ophthalmologist and polymath",

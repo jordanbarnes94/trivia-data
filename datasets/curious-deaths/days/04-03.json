@@ -4,6 +4,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jesse James",
    "kind": "individual",
    "desc": "American outlaw",
@@ -17,6 +20,9 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johannes Brahms",
    "kind": "individual",
    "desc": "German composer",
@@ -30,6 +36,9 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wilson Mizner",
    "kind": "individual",
    "desc": "American playwright and entrepreneur",
@@ -43,6 +52,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Graham Greene",
    "kind": "individual",
    "desc": "English novelist",
@@ -58,6 +70,10 @@
   {
    "year": 1593,
    "year_label": "1593",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Herbert",
    "kind": "individual",
    "desc": "Welsh-born poet, orator, and priest of the Church of England",
@@ -70,6 +86,10 @@
   {
    "year": 1764,
    "year_label": "1764",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Abernethy",
    "kind": "individual",
    "desc": "English surgeon",
@@ -82,6 +102,10 @@
   {
    "year": 1783,
    "year_label": "1783",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Washington Irving",
    "kind": "individual",
    "desc": "American writer and diplomat",
@@ -94,6 +118,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lucky Baldwin",
    "kind": "individual",
    "desc": "California businessman",
@@ -106,6 +134,10 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "St John Philby",
    "kind": "individual",
    "desc": "British Arabist and intelligence officer",
@@ -118,6 +150,10 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gus Grissom",
    "kind": "individual",
    "desc": "American astronaut",

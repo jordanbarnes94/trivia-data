@@ -4,6 +4,9 @@
   {
    "year": 1546,
    "year_label": "1546",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anne Askew",
    "kind": "individual",
    "desc": "English writer and poet",
@@ -17,6 +20,9 @@
   {
    "year": 1647,
    "year_label": "1647",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Masaniello",
    "kind": "individual",
    "desc": "Italian fisherman and revolutionary leader",
@@ -30,6 +36,9 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louise Ulrica",
    "kind": "individual",
    "desc": "Queen of Sweden",
@@ -43,6 +52,9 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pierre-Jean de Béranger",
    "kind": "individual",
    "desc": "French poet and chansonnier",
@@ -58,6 +70,10 @@
   {
    "year": -239,
    "year_label": "239 BC",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ennius",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1723,
    "year_label": "1723",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joshua Reynolds",
    "kind": "individual",
    "desc": "English painter",
@@ -82,6 +102,10 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary Baker Eddy",
    "kind": "individual",
    "desc": "founder of Christian Science",
@@ -94,6 +118,10 @@
   {
    "year": 1841,
    "year_label": "1841",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emerson H. Liscum",
    "kind": "individual",
    "desc": "United States Army colonel",
@@ -106,6 +134,10 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eugène Ysaÿe",
    "kind": "individual",
    "desc": null,
@@ -118,6 +150,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Violette Neatley Anderson",
    "kind": "individual",
    "desc": "first African-American woman to practice law before the United States Supreme Court",

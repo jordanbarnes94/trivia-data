@@ -4,6 +4,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stephen Gardiner",
    "kind": "individual",
    "desc": "English bishop and politician",
@@ -17,6 +20,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jean Sylvain Bailly",
    "kind": "individual",
    "desc": "French astronomer, mathematician and politician",
@@ -30,6 +36,9 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jesse Appleton",
    "kind": "individual",
    "desc": "second president of Bowdoin College and father of First Lady of the United States Jane Pierce",
@@ -43,6 +52,9 @@
   {
    "year": 1958,
    "year_label": "1958",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Michael Curley",
    "kind": "individual",
    "desc": "American politician",
@@ -56,6 +68,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "William Holden",
    "kind": "individual",
    "desc": null,
@@ -71,6 +86,10 @@
   {
    "year": 1615,
    "year_label": "1615",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Baxter",
    "kind": "individual",
    "desc": "English Puritan church leader, poet, hymnodist and theologian",
@@ -83,6 +102,10 @@
   {
    "year": 1774,
    "year_label": "1774",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Bell",
    "kind": "individual",
    "desc": "Scottish physician, artist and philosophical theologian",
@@ -95,6 +118,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ben Travers",
    "kind": "individual",
    "desc": "English writer",
@@ -107,6 +134,10 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Christian Marty",
    "kind": "individual",
    "desc": null,

@@ -4,6 +4,9 @@
   {
    "year": 1088,
    "year_label": "1088",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Berengar of Tours",
    "kind": "individual",
    "desc": "French Christian theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Philip Danforth Armour",
    "kind": "individual",
    "desc": "American industrialist, founder of Armour and Company",
@@ -30,6 +36,9 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Theodore Roosevelt",
    "kind": "individual",
    "desc": "president of the United States and Medal of Honor recipient",
@@ -43,6 +52,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "André Bessette",
    "kind": "individual",
    "desc": "C.S.C., Canadian Roman Catholic lay brother",
@@ -58,6 +70,10 @@
   {
    "year": 1811,
    "year_label": "1811",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Sumner",
    "kind": "individual",
    "desc": "American statesman and United States Senator",
@@ -70,6 +86,10 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ruppert L. Sargent",
    "kind": "individual",
    "desc": "United States Army officer and Medal of Honor recipient",

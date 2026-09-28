@@ -4,6 +4,9 @@
   {
    "year": 1797,
    "year_label": "1797",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary Wollstonecraft",
    "kind": "individual",
    "desc": "English writer and feminist philosopher",
@@ -17,6 +20,9 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tecumseh",
    "kind": "individual",
    "desc": "leader of the Shawnee",
@@ -30,6 +36,9 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sophie Swetchine",
    "kind": "individual",
    "desc": "Russian Roman Catholic mystic",
@@ -43,6 +52,10 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Empress Elisabeth of Austria",
    "kind": "individual",
    "desc": null,
@@ -56,6 +69,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Huey Long",
    "kind": "individual",
    "desc": "United States Senator",
@@ -71,6 +87,10 @@
   {
    "year": 1750,
    "year_label": "1750",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicholas Biddle",
    "kind": "individual",
    "desc": "Continental Navy captain",
@@ -83,6 +103,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Simon Dubnow",
    "kind": "individual",
    "desc": "Jewish-born Russian historian, writer and activist",
@@ -95,6 +119,10 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Garfield M. Langhorn",
    "kind": "individual",
    "desc": "United States Army soldier and Medal of Honor recipient",

@@ -4,6 +4,9 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edvard Grieg",
    "kind": "individual",
    "desc": "Norwegian composer and pianist",
@@ -17,6 +20,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vincent R. Capodanno",
    "kind": "individual",
    "desc": "United States Navy Roman Catholic chaplain and Medal of Honor recipient",
@@ -30,6 +36,9 @@
   {
    "year": 1993,
    "year_label": "1993",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hervé Villechaize",
    "kind": "individual",
    "desc": "French-American actor",
@@ -45,6 +54,10 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francis Octavius Grenfell",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -57,6 +70,10 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Abdul Hafiz",
    "kind": "individual",
    "desc": "VC, Indian recipient of the Victoria Cross",

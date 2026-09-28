@@ -4,6 +4,9 @@
   {
    "year": 649,
    "year_label": "649",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Goar of Aquitaine",
    "kind": "individual",
    "desc": "priest and hermit",
@@ -17,6 +20,9 @@
   {
    "year": 1189,
    "year_label": "1189",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry II of England",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1415,
    "year_label": "1415",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jan Hus",
    "kind": "individual",
    "desc": "Czech theologian and church reformer",
@@ -43,6 +52,9 @@
   {
    "year": 1533,
    "year_label": "1533",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ludovico Ariosto",
    "kind": "individual",
    "desc": "Italian poet",
@@ -56,6 +68,9 @@
   {
    "year": 1535,
    "year_label": "1535",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas More",
    "kind": "individual",
    "desc": "Lord High Chancellor of Britain",
@@ -69,6 +84,9 @@
   {
    "year": 1553,
    "year_label": "1553",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward VI",
    "kind": "individual",
    "desc": "of England",
@@ -82,6 +100,9 @@
   {
    "year": 1802,
    "year_label": "1802",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Daniel Morgan",
    "kind": "individual",
    "desc": "American pioneer, soldier and politician",
@@ -95,6 +116,9 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sophie Blanchard",
    "kind": "individual",
    "desc": "French aeronaut",
@@ -108,6 +132,9 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Daniel Dukes",
    "kind": "individual",
    "desc": null,
@@ -123,6 +150,10 @@
   {
    "year": 1766,
    "year_label": "1766",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Wilson",
    "kind": "individual",
    "desc": "American ornithologist",
@@ -135,6 +166,10 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maximilian I of Mexico",
    "kind": "individual",
    "desc": null,

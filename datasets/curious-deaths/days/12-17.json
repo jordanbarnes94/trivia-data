@@ -4,6 +4,9 @@
   {
    "year": 1692,
    "year_label": "1692",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louise-Anastasia Serment",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kaspar Hauser",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick W. Adams",
    "kind": "individual",
    "desc": "American physician, author and violin maker",
@@ -43,6 +52,9 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Desideria",
    "kind": "individual",
    "desc": "Queen of Sweden and Norway",
@@ -56,6 +68,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Harold Holt",
    "kind": "individual",
    "desc": "17th Prime Minister of Australia",
@@ -69,6 +84,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Harold Holt",
    "kind": "individual",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Benjamin Franklin Butler",
    "kind": "individual",
    "desc": "Attorney General of the United States",
@@ -96,6 +118,10 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Greenleaf Whittier",
    "kind": "individual",
    "desc": "American Quaker poet and abolitionist",
@@ -108,6 +134,10 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Starr King",
    "kind": "individual",
    "desc": "American Universalist and Unitarian minister and orator",
@@ -120,6 +150,10 @@
   {
    "year": 1902,
    "year_label": "1902",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ryu Gwansun",
    "kind": "individual",
    "desc": "Korean independence activist",
@@ -132,6 +166,10 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Martha Beck",
    "kind": "individual",
    "desc": "American serial killer",

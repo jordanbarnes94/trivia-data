@@ -4,6 +4,9 @@
   {
    "year": 1270,
    "year_label": "1270",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis IX of France",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1984,
    "year_label": "1984",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Truman Capote",
    "kind": "individual",
    "desc": "American author",
@@ -32,6 +38,10 @@
   {
    "year": 1744,
    "year_label": "1744",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johann Gottfried Herder",
    "kind": "individual",
    "desc": "German philosopher, theologian, poet and literary critic",
@@ -44,6 +54,10 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis Barthou",
    "kind": "individual",
    "desc": "French Minister of Foreign Affairs",
@@ -56,6 +70,10 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leonard Bernstein",
    "kind": "individual",
    "desc": "American composer and conductor",

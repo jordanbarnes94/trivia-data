@@ -4,6 +4,9 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Bannister",
    "kind": "individual",
    "desc": "English actor and theater manager",
@@ -17,6 +20,9 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Félix Arvers",
    "kind": "individual",
    "desc": "French poet and dramatist",
@@ -32,6 +38,10 @@
   {
    "year": 1660,
    "year_label": "1660",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Fantet de Lagny",
    "kind": "individual",
    "desc": "French mathematician",
@@ -44,6 +54,10 @@
   {
    "year": 1867,
    "year_label": "1867",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marie Skłodowska Curie",
    "kind": "individual",
    "desc": "Polish scientist",

@@ -4,6 +4,9 @@
   {
    "year": 1788,
    "year_label": "1788",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Elizabeth Pierrepont, Duchess of Kingston-upon-Hull",
    "kind": "individual",
    "desc": "English noble and courtier",
@@ -17,6 +20,9 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Theodor Körner",
    "kind": "individual",
    "desc": "German poet and soldier",
@@ -30,6 +36,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William James",
    "kind": "individual",
    "desc": "American philosopher and psychologist",
@@ -43,6 +52,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "James Leo McDermott",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Knud Enemark Jensen",
    "kind": "individual",
    "desc": "Danish cyclist",
@@ -69,6 +84,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tex Avery",
    "kind": "individual",
    "desc": "American animator",
@@ -84,6 +102,10 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albert, Prince Consort",
    "kind": "individual",
    "desc": null,

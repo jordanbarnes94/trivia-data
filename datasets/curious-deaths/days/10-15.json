@@ -4,6 +4,9 @@
   {
    "year": 961,
    "year_label": "961",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Abd al-Rahman III",
    "kind": "individual",
    "desc": "first Caliph of Córdoba",
@@ -17,6 +20,9 @@
   {
    "year": 1582,
    "year_label": "1582",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Teresa of Ávila",
    "kind": "individual",
    "desc": "Spanish Carmelite nun, mystic and author",
@@ -30,6 +36,9 @@
   {
    "year": 1817,
    "year_label": "1817",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tadeusz Kościuszko",
    "kind": "individual",
    "desc": "Polish-Lithuanian military engineer, statesman, and military leader",
@@ -43,6 +52,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stanley Ketchel",
    "kind": "individual",
    "desc": "American professional boxer nicknamed \"The Michigan Assassin\"",
@@ -56,6 +68,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ralph Hemingway",
    "kind": "individual",
    "desc": "English cricketer",
@@ -69,6 +84,9 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mata Hari",
    "kind": "individual",
    "desc": "Dutch exotic dancer and courtesan",
@@ -82,6 +100,9 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lluís Companys",
    "kind": "individual",
    "desc": "President of the Government of Catalonia",
@@ -95,6 +116,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jerry Smith",
    "kind": "individual",
    "desc": "American professional football player who was a tight end for the National Football League",
@@ -110,6 +134,10 @@
   {
    "year": -70,
    "year_label": "70 BC",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Virgil",
    "kind": "individual",
    "desc": "Roman poet",
@@ -122,6 +150,10 @@
   {
    "year": 1542,
    "year_label": "1542",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Akbar",
    "kind": "individual",
    "desc": "third Mughal emperor",
@@ -134,6 +166,10 @@
   {
    "year": 1772,
    "year_label": "1772",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Paul-Thérèse-David d'Astros",
    "kind": "individual",
    "desc": "French Roman Catholic cardinal and archbishop",
@@ -146,6 +182,10 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Hennard",
    "kind": "individual",
    "desc": "perpetrator of the Luby's shooting",

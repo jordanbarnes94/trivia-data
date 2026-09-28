@@ -4,6 +4,9 @@
   {
    "year": 1827,
    "year_label": "1827",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pierre-Simon Laplace",
    "kind": "individual",
    "desc": "French scholar and polymath",
@@ -17,6 +20,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lena Baker",
    "kind": "individual",
    "desc": "African American maid",
@@ -30,6 +36,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Tom Pryce and Frederick Jansen van Vuuren",
    "kind": "group",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Belushi",
    "kind": "individual",
    "desc": "American actor and comedian",
@@ -58,6 +70,10 @@
   {
    "year": 1133,
    "year_label": "1133",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry II of England",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Harry Turner",
    "kind": "individual",
    "desc": "Canton Professionals center",

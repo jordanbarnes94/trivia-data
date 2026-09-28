@@ -4,6 +4,9 @@
   {
    "year": 1560,
    "year_label": "1560",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Amy Robsart",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Elisabeth von Thadden",
    "kind": "individual",
    "desc": "German progressive educator and resistance fighter",
@@ -30,6 +36,9 @@
   {
    "year": 1949,
    "year_label": "1949",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Strauss",
    "kind": "individual",
    "desc": "German composer and conductor",
@@ -43,6 +52,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stone Johnson",
    "kind": "individual",
    "desc": "Kansas City Chiefs running back",
@@ -56,6 +68,9 @@
   {
    "year": 1970,
    "year_label": "1970",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Schaffner",
    "kind": "individual",
    "desc": "United States Air Force pilot",
@@ -71,6 +86,10 @@
   {
    "year": 1157,
    "year_label": "1157",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard I of England",
    "kind": "individual",
    "desc": null,
@@ -83,6 +102,10 @@
   {
    "year": 1474,
    "year_label": "1474",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ludovico Ariosto",
    "kind": "individual",
    "desc": "Italian poet",
@@ -95,6 +118,10 @@
   {
    "year": 1591,
    "year_label": "1591",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marie Angélique Arnauld",
    "kind": "individual",
    "desc": "Abbess of the Abbey of Port-Royal",
@@ -107,6 +134,10 @@
   {
    "year": 1749,
    "year_label": "1749",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marie Thérèse Louise of Savoy, Princesse de Lamballe",
    "kind": "individual",
    "desc": "confidante of Marie Antoinette",
@@ -119,6 +150,10 @@
   {
    "year": 1841,
    "year_label": "1841",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Antonín Dvořák",
    "kind": "individual",
    "desc": "Czech composer",
@@ -131,6 +166,10 @@
   {
    "year": 1841,
    "year_label": "1841",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles J. Guiteau",
    "kind": "individual",
    "desc": "assassin of President James A. Garfield",
@@ -143,6 +182,10 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfred Jarry",
    "kind": "individual",
    "desc": "French symbolist writer",
@@ -155,6 +198,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wilfrith Elstob",
    "kind": "individual",
    "desc": "VC DSO MC, British Army officer",

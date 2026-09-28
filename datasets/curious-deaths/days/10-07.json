@@ -4,6 +4,9 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Georg Ritter von Zimmermann",
    "kind": "individual",
    "desc": "Swiss philosophical writer, naturalist and physician",
@@ -17,6 +20,9 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edgar Allan Poe",
    "kind": "individual",
    "desc": "American writer",
@@ -30,6 +36,9 @@
   {
    "year": 1867,
    "year_label": "1867",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Timrod",
    "kind": "individual",
    "desc": "American and Confederate poet",
@@ -43,6 +52,9 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Radclyffe Hall",
    "kind": "individual",
    "desc": "English poet and author",
@@ -56,6 +68,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mario Lanza",
    "kind": "individual",
    "desc": "American operatic tenor and actor",
@@ -71,6 +86,10 @@
   {
    "year": 1573,
    "year_label": "1573",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Laud",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -83,6 +102,10 @@
   {
    "year": 1734,
    "year_label": "1734",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ralph Abercromby",
    "kind": "individual",
    "desc": "Scottish soldier and politician",
@@ -95,6 +118,10 @@
   {
    "year": 1762,
    "year_label": "1762",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Abbott, 1st Baron Tenterden",
    "kind": "individual",
    "desc": "Lord Chief Justice of the King's Bench",
@@ -107,6 +134,10 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Alford",
    "kind": "individual",
    "desc": "English churchman",
@@ -119,6 +150,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joe Hill",
    "kind": "individual",
    "desc": "Swedish-American labor activist",
@@ -131,6 +166,10 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Heinrich Himmler",
    "kind": "individual",
    "desc": "German Nazi officer",
@@ -143,6 +182,10 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Irma Grese",
    "kind": "individual",
    "desc": "SS concentration camp guard",
@@ -155,6 +198,10 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "R. D. Laing",
    "kind": "individual",
    "desc": null,

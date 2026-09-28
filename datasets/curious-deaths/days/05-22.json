@@ -4,6 +4,9 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Victor Hugo",
    "kind": "individual",
    "desc": "French novelist",
@@ -17,6 +20,9 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Bellamy",
    "kind": "individual",
    "desc": "American author, journalist and political activist",
@@ -30,6 +36,9 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anton Gag",
    "kind": "individual",
    "desc": "Sudeten-American painter and studio photographer",
@@ -43,6 +52,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stjepan Filipović",
    "kind": "individual",
    "desc": "Yugoslav communist",
@@ -56,6 +68,9 @@
   {
    "year": 1949,
    "year_label": "1949",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Forrestal",
    "kind": "individual",
    "desc": "United States Secretary of Defense",
@@ -69,6 +84,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Boris Sagal",
    "kind": "individual",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 1788,
    "year_label": "1788",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Broughton",
    "kind": "individual",
    "desc": "Anglican Bishop of Australia",
@@ -96,6 +118,10 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Wagner",
    "kind": "individual",
    "desc": "German composer",
@@ -108,6 +134,10 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Arthur Conan Doyle",
    "kind": "individual",
    "desc": "British physician, author and spiritualist",
@@ -120,6 +150,10 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hergé",
    "kind": "individual",
    "desc": "Belgian cartoonist",
@@ -132,6 +166,10 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Laurence Olivier",
    "kind": "individual",
    "desc": "English actor and director",

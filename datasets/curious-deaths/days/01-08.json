@@ -4,6 +4,9 @@
   {
    "year": 1557,
    "year_label": "1557",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert Alcibiades, Margrave of Brandenburg-Kulmbach",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paul Verlaine",
    "kind": "individual",
    "desc": "French poet",
@@ -30,6 +36,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jeremy Wade Delle",
    "kind": "individual",
    "desc": "American high school student",
@@ -45,6 +54,10 @@
   {
    "year": 1830,
    "year_label": "1830",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hans von Bülow",
    "kind": "individual",
    "desc": "German conductor, pianist and composer",
@@ -57,6 +70,10 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Prince Albert Victor, Duke of Clarence and Avondale",
    "kind": "individual",
    "desc": "second in line to the British throne",
@@ -69,6 +86,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maximilian Kolbe",
    "kind": "individual",
    "desc": "Polish Catholic priest, promoter of veneration of the Immaculate Virgin Mary",
@@ -81,6 +102,10 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Elvis Presley",
    "kind": "individual",
    "desc": "American musician",
@@ -93,6 +118,10 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Graham Chapman",
    "kind": "individual",
    "desc": "English comedian, writer, actor, and author",

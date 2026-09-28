@@ -4,6 +4,9 @@
   {
    "year": 1184,
    "year_label": "1184",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Erfurt latrine disaster",
    "kind": "group",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1533,
    "year_label": "1533",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Atahualpa",
    "kind": "individual",
    "desc": "last Sapa Inca of the Inca Empire",
@@ -30,6 +36,9 @@
   {
    "year": 1680,
    "year_label": "1680",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Wilmot, 2nd Earl of Rochester",
    "kind": "individual",
    "desc": "English poet and courtier",
@@ -43,6 +52,9 @@
   {
    "year": 1693,
    "year_label": "1693",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ulrica Eleanor the Elder",
    "kind": "individual",
    "desc": "Queen of Sweden",
@@ -56,6 +68,9 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Romaine",
    "kind": "individual",
    "desc": "evangelical divine of the Church of England",
@@ -69,6 +84,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sam Houston",
    "kind": "individual",
    "desc": "American soldier and politician",
@@ -82,6 +100,9 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James A. Mulligan",
    "kind": "individual",
    "desc": "Union Army colonel of the American Civil War",
@@ -95,6 +116,9 @@
   {
    "year": 1934,
    "year_label": "1934",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Winsor McCay",
    "kind": "individual",
    "desc": "American cartoonist and animator",
@@ -108,6 +132,9 @@
   {
    "year": 1958,
    "year_label": "1958",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Iven Carl Kincheloe Jr.",
    "kind": "individual",
    "desc": "American test pilot",
@@ -123,6 +150,10 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Field",
    "kind": "individual",
    "desc": "Irish pianist and composer",
@@ -135,6 +166,10 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Bernard Shaw",
    "kind": "individual",
    "desc": "Irish playwright and critic",
@@ -147,6 +182,10 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Becker",
    "kind": "individual",
    "desc": "American police officer",
@@ -159,6 +198,10 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Carl Jung",
    "kind": "individual",
    "desc": null,
@@ -171,6 +214,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Aldous Huxley",
    "kind": "individual",
    "desc": "philosopher, writer",
@@ -183,6 +230,10 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gracie Allen",
    "kind": "individual",
    "desc": "American vaudevillian and comedian",

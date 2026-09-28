@@ -4,6 +4,9 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Farr",
    "kind": "individual",
    "desc": "British epidemiologist",
@@ -17,6 +20,9 @@
   {
    "year": 1934,
    "year_label": "1934",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Karl Dane",
    "kind": "individual",
    "desc": "Danish-American comedian and actor",
@@ -32,6 +38,10 @@
   {
    "year": 1578,
    "year_label": "1578",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Philip III of Spain",
    "kind": "individual",
    "desc": null,
@@ -44,6 +54,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maury Henry Biddle Paul",
    "kind": "individual",
    "desc": "American journalist and society columnist",
@@ -56,6 +70,10 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William D. Hawkins",
    "kind": "individual",
    "desc": "United States Marine Corps officer and Medal of Honor recipient",
@@ -68,6 +86,10 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lance Sijan",
    "kind": "individual",
    "desc": "United States Air Force fighter pilot and Medal of Honor recipient",

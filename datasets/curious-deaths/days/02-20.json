@@ -4,6 +4,9 @@
   {
    "year": 1258,
    "year_label": "1258",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Al-Musta'sim",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1429,
    "year_label": "1429",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Giovanni di Bicci de' Medici",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph II, Holy Roman Emperor",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andreas Hofer",
    "kind": "individual",
    "desc": "leader of the Tyrolean Rebellion",
@@ -56,6 +68,9 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Broughton",
    "kind": "individual",
    "desc": "Anglican Bishop of Australia",
@@ -69,6 +84,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Percy Grainger",
    "kind": "individual",
    "desc": "Australian-American composer",
@@ -84,6 +102,10 @@
   {
    "year": 1719,
    "year_label": "1719",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Bellamy",
    "kind": "individual",
    "desc": "American Congregationalist pastor, author, educator and theologian",
@@ -96,6 +118,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pedro Muñoz Seca",
    "kind": "individual",
    "desc": "Spanish comic playwright",
@@ -108,6 +134,10 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kurt Cobain",
    "kind": "individual",
    "desc": "American musician",

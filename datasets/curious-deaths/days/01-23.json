@@ -4,6 +4,9 @@
   {
    "year": 1570,
    "year_label": "1570",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "James Stewart, Earl of Moray, Regent of Scotland",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1806,
    "year_label": "1806",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Pitt the Younger",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",
@@ -30,6 +36,9 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Field",
    "kind": "individual",
    "desc": "Irish pianist and composer",
@@ -43,6 +52,9 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Luigi Lablache",
    "kind": "individual",
    "desc": "Italian operatic bass",
@@ -56,6 +68,9 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Love Peacock",
    "kind": "individual",
    "desc": "English novelist and poet",
@@ -69,6 +84,9 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Kingsley",
    "kind": "individual",
    "desc": "English priest, university professor and author",
@@ -82,6 +100,9 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Miller Beard",
    "kind": "individual",
    "desc": "American neurologist",
@@ -95,6 +116,9 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Phillips Brooks",
    "kind": "individual",
    "desc": "American Episcopal clergyman and author, Bishop of Massachusetts",
@@ -108,6 +132,9 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Price",
    "kind": "individual",
    "desc": "Welsh physician",
@@ -121,6 +148,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anna Pavlova",
    "kind": "individual",
    "desc": "Russian prima ballerina, creator of the role of The Dying Swan",
@@ -134,6 +164,9 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander Woollcott",
    "kind": "individual",
    "desc": "American critic and radio personality",
@@ -147,6 +180,9 @@
   {
    "year": 1978,
    "year_label": "1978",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Terry Kath",
    "kind": "individual",
    "desc": "American lead singer and guitarist for Chicago",
@@ -160,6 +196,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Beard",
    "kind": "individual",
    "desc": "American chef and cookbook author",
@@ -173,6 +212,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Salvador Dalí",
    "kind": "individual",
    "desc": "Spanish surrealist painter",
@@ -188,6 +230,10 @@
   {
    "year": 1737,
    "year_label": "1737",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Hancock",
    "kind": "individual",
    "desc": "American merchant, statesman and Patriot",
@@ -200,6 +246,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Takamori Saigo",
    "kind": "individual",
    "desc": "Japanese general",

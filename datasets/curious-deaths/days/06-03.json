@@ -4,6 +4,9 @@
   {
    "year": 1615,
    "year_label": "1615",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sanada Yukimura",
    "kind": "individual",
    "desc": "Japanese samurai warrior",
@@ -17,6 +20,9 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stephen A. Douglas",
    "kind": "individual",
    "desc": "American politician, Senator from Illinois and 1860 Democratic presidential nominee",
@@ -30,6 +36,9 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Georges Bizet",
    "kind": "individual",
    "desc": "French composer",
@@ -43,6 +52,9 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frances Ridley Havergal",
    "kind": "individual",
    "desc": "English religious poet and hymnwriter",
@@ -56,6 +68,9 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Strauss II",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -69,6 +84,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Ada Gregory",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Franz Kafka",
    "kind": "individual",
    "desc": "German-speaking Bohemian novelist and short-story writer",
@@ -95,6 +116,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick George Hutchins",
    "kind": "individual",
    "desc": "QPM, British police officer",
@@ -108,6 +132,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pope John XXIII",
    "kind": "individual",
    "desc": "Italian Roman Catholic prelate and Pope",
@@ -123,6 +150,10 @@
   {
    "year": 1770,
    "year_label": "1770",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Manuel Belgrano",
    "kind": "individual",
    "desc": "Argentine economist, lawyer, politician, journalist, and military leader",
@@ -135,6 +166,10 @@
   {
    "year": 1808,
    "year_label": "1808",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jefferson Davis",
    "kind": "individual",
    "desc": "President of the Confederate States of America",
@@ -147,6 +182,10 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George V",
    "kind": "individual",
    "desc": "king of the United Kingdom",
@@ -159,6 +198,10 @@
   {
    "year": 1906,
    "year_label": "1906",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Josephine Baker",
    "kind": "individual",
    "desc": "French-American dancer and singer",
@@ -171,6 +214,10 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Allen Ginsberg",
    "kind": "individual",
    "desc": "American poet and writer",

@@ -4,6 +4,9 @@
   {
    "year": 14,
    "year_label": "14",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Augustus",
    "kind": "individual",
    "desc": "First Roman Emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1531,
    "year_label": "1531",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Bilney",
    "kind": "individual",
    "desc": "English Christian martyr",
@@ -30,6 +36,9 @@
   {
    "year": 1662,
    "year_label": "1662",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Blaise Pascal",
    "kind": "individual",
    "desc": "French mathematician, physicist and theologian",
@@ -43,6 +52,9 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Wesley Hardin",
    "kind": "individual",
    "desc": "American outlaw and gunfighter",
@@ -56,6 +68,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Groucho Marx",
    "kind": "individual",
    "desc": "American actor and comedian",
@@ -69,6 +84,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Michael Ryan",
    "kind": "individual",
    "desc": "perpetrator of the Hungerford massacre",
@@ -84,6 +102,10 @@
   {
    "year": 1686,
    "year_label": "1686",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eustace Budgell",
    "kind": "individual",
    "desc": "English writer and politician",
@@ -96,6 +118,10 @@
   {
    "year": 1780,
    "year_label": "1780",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pierre-Jean de Béranger",
    "kind": "individual",
    "desc": "French poet and chansonnier",
@@ -108,6 +134,10 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Coco Chanel",
    "kind": "individual",
    "desc": "French fashion businesswoman",
@@ -120,6 +150,10 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Dundas",
    "kind": "individual",
    "desc": "Second World War British fighter ace",

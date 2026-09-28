@@ -4,6 +4,9 @@
   {
    "year": 1540,
    "year_label": "1540",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Cromwell",
    "kind": "individual",
    "desc": "1st Earl of Essex",
@@ -17,6 +20,9 @@
   {
    "year": 1750,
    "year_label": "1750",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Sebastian Bach",
    "kind": "individual",
    "desc": "German composer",
@@ -30,6 +36,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maximilien Robespierre",
    "kind": "individual",
    "desc": "French lawyer and statesman",
@@ -43,6 +52,9 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Moses Montefiore",
    "kind": "individual",
    "desc": "FRS, British financier, banker and philanthropist",
@@ -58,6 +70,10 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gerard Manley Hopkins",
    "kind": "individual",
    "desc": "SJ]], English poet and priest",
@@ -70,6 +86,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jacqueline Kennedy Onassis",
    "kind": "individual",
    "desc": "former First Lady of the United States",

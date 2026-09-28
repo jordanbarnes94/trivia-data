@@ -4,6 +4,9 @@
   {
    "year": 1712,
    "year_label": "1712",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Halyburton",
    "kind": "individual",
    "desc": "Scottish divine",
@@ -17,6 +20,9 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vincenzo Bellini",
    "kind": "individual",
    "desc": "Italian opera composer",
@@ -30,6 +36,9 @@
   {
    "year": 1840,
    "year_label": "1840",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nathanael Emmons",
    "kind": "individual",
    "desc": "American Congregational minister and theologian",
@@ -43,6 +52,9 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sigmund Freud",
    "kind": "individual",
    "desc": "Austrian neurologist, founder of psychoanalysis",
@@ -56,6 +68,9 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kenneth Muir",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -71,6 +86,10 @@
   {
    "year": -63,
    "year_label": "63 BC",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Augustus",
    "kind": "individual",
    "desc": "First Roman Emperor",
@@ -83,6 +102,10 @@
   {
    "year": 1783,
    "year_label": "1783",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jane Taylor",
    "kind": "individual",
    "desc": "English poet and novelist, author of \"Twinkle, Twinkle, Little Star\"",
@@ -95,6 +118,10 @@
   {
    "year": 1791,
    "year_label": "1791",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Theodor Körner",
    "kind": "individual",
    "desc": "German poet and soldier",

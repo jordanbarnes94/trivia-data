@@ -4,6 +4,9 @@
   {
    "year": 1445,
    "year_label": "1445",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Margaret Stewart, Dauphine of France",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1733,
    "year_label": "1733",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Matthew Tindal",
    "kind": "individual",
    "desc": "English deist author",
@@ -30,6 +36,9 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eugene Aram",
    "kind": "individual",
    "desc": "English philologist and murderer",
@@ -43,6 +52,9 @@
   {
    "year": 1780,
    "year_label": "1780",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Baron Johann de Kalb",
    "kind": "individual",
    "desc": "officer in the American War of Independence",
@@ -56,6 +68,9 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Babe Ruth",
    "kind": "individual",
    "desc": "American baseball player",
@@ -69,6 +84,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Elvis Presley",
    "kind": "individual",
    "desc": "American musician",

@@ -4,6 +4,10 @@
   {
    "year": 1556,
    "year_label": "1556",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Pietro Aretino",
    "kind": "individual",
    "desc": "Italian writer and blackmailer",
@@ -17,6 +21,9 @@
   {
    "year": 1621,
    "year_label": "1621",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rodrigo Calderón, Count of Oliva",
    "kind": "individual",
    "desc": null,
@@ -30,6 +37,9 @@
   {
    "year": 1805,
    "year_label": "1805",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Horatio Nelson, 1st Viscount Nelson",
    "kind": "individual",
    "desc": "Royal Navy admiral",
@@ -43,6 +53,9 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Dickinson Baker",
    "kind": "individual",
    "desc": "United States Senator and Union colonel of the American Civil War",
@@ -56,6 +69,9 @@
   {
    "year": 1978,
    "year_label": "1978",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick Valentich",
    "kind": "individual",
    "desc": "Australian aviator",
@@ -69,6 +85,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "3 people and Cachy the poodle",
    "kind": "group",
    "desc": null,
@@ -84,6 +103,10 @@
   {
    "year": 1449,
    "year_label": "1449",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "George Plantagenet, Duke of Clarence",
    "kind": "individual",
    "desc": null,
@@ -96,6 +119,10 @@
   {
    "year": 1772,
    "year_label": "1772",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Samuel Taylor Coleridge",
    "kind": "individual",
    "desc": "English poet and literary critic",
@@ -108,6 +135,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Stinney",
    "kind": "individual",
    "desc": "African-American child and youngest American with an exact age executed by the United States",

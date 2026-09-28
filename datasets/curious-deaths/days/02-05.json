@@ -4,6 +4,9 @@
   {
    "year": 664,
    "year_label": "664",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Xuanzang",
    "kind": "individual",
    "desc": "Chinese Buddhist monk, scholar, traveler and translator",
@@ -17,6 +20,9 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Cullen",
    "kind": "individual",
    "desc": "Scottish physician, chemist and agriculturalist",
@@ -30,6 +36,9 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Carlyle",
    "kind": "individual",
    "desc": "Scottish philosopher and author",
@@ -43,6 +52,9 @@
   {
    "year": 1921,
    "year_label": "1921",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Thomas Lynn Bradford",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edith Ewing Bouvier Beale",
    "kind": "individual",
    "desc": "American socialite",
@@ -71,6 +86,10 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dwight L. Moody",
    "kind": "individual",
    "desc": "American evangelist and publisher",
@@ -83,6 +102,10 @@
   {
    "year": 1906,
    "year_label": "1906",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Carradine",
    "kind": "individual",
    "desc": "American actor",
@@ -95,6 +118,10 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jacob Veldhuyzen van Zanten",
    "kind": "individual",
    "desc": "pilot of KLM Flight 4805",
@@ -107,6 +134,10 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Terry Melvin Sims",
    "kind": "individual",
    "desc": "American convicted murderer",

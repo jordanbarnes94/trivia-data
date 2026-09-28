@@ -4,6 +4,9 @@
   {
    "year": 1808,
    "year_label": "1808",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Fisher Ames",
    "kind": "individual",
    "desc": "member of the U.S. House of Representatives",
@@ -17,6 +20,9 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Adams",
    "kind": "individual",
    "desc": "Founding Father and second president of the United States",
@@ -30,6 +36,9 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Jefferson",
    "kind": "individual",
    "desc": "president of the United States",
@@ -43,6 +52,9 @@
   {
    "year": 1831,
    "year_label": "1831",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Monroe",
    "kind": "individual",
    "desc": "president of the United States",
@@ -56,6 +68,9 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Montgomery Lawrence",
    "kind": "individual",
    "desc": "British military officer and statesman",
@@ -69,6 +84,9 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Alfred Loewenstein",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1934,
    "year_label": "1934",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marie Skłodowska Curie",
    "kind": "individual",
    "desc": "Polish scientist",
@@ -95,6 +116,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frank McAteer",
    "kind": "individual",
    "desc": "La Plata County, Colorado sergeant",
@@ -108,6 +132,9 @@
   {
    "year": 1984,
    "year_label": "1984",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Reginald Tucker",
    "kind": "individual",
    "desc": null,
@@ -123,6 +150,10 @@
   {
    "year": 1610,
    "year_label": "1610",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Paul Scarron",
    "kind": "individual",
    "desc": "French poet, dramatist and novelist",
@@ -135,6 +166,10 @@
   {
    "year": 1715,
    "year_label": "1715",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Christian Fürchtegott Gellert",
    "kind": "individual",
    "desc": "German poet",
@@ -147,6 +182,10 @@
   {
    "year": 1845,
    "year_label": "1845",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas John Barnardo",
    "kind": "individual",
    "desc": "Irish-born British philanthropist, founder of the Barnardo's charity",
@@ -159,6 +198,10 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Calvin Coolidge",
    "kind": "individual",
    "desc": "president of the United States",

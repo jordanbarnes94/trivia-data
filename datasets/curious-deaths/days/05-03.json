@@ -4,6 +4,9 @@
   {
    "year": 1679,
    "year_label": "1679",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Sharp",
    "kind": "individual",
    "desc": "Archbishop of St Andrews",
@@ -17,6 +20,9 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pope Benedict XIV",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1784,
    "year_label": "1784",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anthony Benezet",
    "kind": "individual",
    "desc": "French-American abolitionist and educator",
@@ -43,6 +52,9 @@
   {
    "year": 1845,
    "year_label": "1845",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Hood",
    "kind": "individual",
    "desc": "English poet, author and humorist",
@@ -56,6 +68,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hiram Gregory Berry",
    "kind": "individual",
    "desc": "American politician and Union general of the American Civil War",
@@ -69,6 +84,9 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Patrick Pearse",
    "kind": "individual",
    "desc": "Irish author and revolutionary",
@@ -82,6 +100,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dalida",
    "kind": "individual",
    "desc": "Italian-French singer and actress",
@@ -95,6 +116,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jerzy Kosiński",
    "kind": "individual",
    "desc": "Polish-American novelist",
@@ -110,6 +134,10 @@
   {
    "year": 1469,
    "year_label": "1469",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Niccolò Machiavelli",
    "kind": "individual",
    "desc": null,
@@ -122,6 +150,10 @@
   {
    "year": 1764,
    "year_label": "1764",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Élisabeth of France",
    "kind": "individual",
    "desc": "sister of Louis XVI",
@@ -134,6 +166,10 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Osgood Andrew",
    "kind": "individual",
    "desc": "American bishop of the Methodist Episcopal Church, South",
@@ -146,6 +182,10 @@
   {
    "year": 1903,
    "year_label": "1903",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bing Crosby",
    "kind": "individual",
    "desc": "American singer and actor",

@@ -4,6 +4,9 @@
   {
    "year": 1603,
    "year_label": "1603",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Elizabeth I",
    "kind": "individual",
    "desc": "queen regnant of England",
@@ -17,6 +20,9 @@
   {
    "year": 1773,
    "year_label": "1773",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Philip Stanhope, 4th Earl of Chesterfield",
    "kind": "individual",
    "desc": "British statesman and diplomat",
@@ -30,6 +36,9 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Walter Bagehot",
    "kind": "individual",
    "desc": "British journalist, businessman and essayist",
@@ -43,6 +52,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Wadsworth Longfellow",
    "kind": "individual",
    "desc": "American poet",
@@ -56,6 +68,9 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Millington Synge",
    "kind": "individual",
    "desc": "Irish author",
@@ -69,6 +84,9 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Alex Mitchell",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Óscar Romero",
    "kind": "individual",
    "desc": "Salvadoran Roman Catholic prelate",
@@ -97,6 +118,10 @@
   {
    "year": 1778,
    "year_label": "1778",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sophie Blanchard",
    "kind": "individual",
    "desc": "French aeronaut",
@@ -109,6 +134,10 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Morris",
    "kind": "individual",
    "desc": "British textile designer, poet and socialist",
@@ -121,6 +150,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Harry Houdini",
    "kind": "individual",
    "desc": null,

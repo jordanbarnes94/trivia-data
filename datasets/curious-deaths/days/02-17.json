@@ -4,6 +4,9 @@
   {
    "year": 1600,
    "year_label": "1600",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Giordano Bruno",
    "kind": "individual",
    "desc": "Italian Dominican friar",
@@ -17,6 +20,9 @@
   {
    "year": 1673,
    "year_label": "1673",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Molière",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1688,
    "year_label": "1688",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Renwick",
    "kind": "individual",
    "desc": "Scottish minister",
@@ -43,6 +52,9 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Heinrich Heine",
    "kind": "individual",
    "desc": "German writer and literary critic",
@@ -56,6 +68,9 @@
   {
    "year": 1934,
    "year_label": "1934",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert I of Belgium",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David Reay",
    "kind": "individual",
    "desc": "captain of Ryan International Airlines Flight 590",
@@ -84,6 +102,10 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gustavo Adolfo Bécquer",
    "kind": "individual",
    "desc": "Spanish Romanticist poet and writer",
@@ -96,6 +118,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ronald Knox",
    "kind": "individual",
    "desc": "English Roman Catholic priest and writer",
@@ -108,6 +134,10 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Roland Ernst",
    "kind": "individual",
    "desc": "American convicted murderer, neo-Nazi, and the second-to-last person to be executed by the state of New Jersey",

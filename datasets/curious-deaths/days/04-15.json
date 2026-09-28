@@ -4,6 +4,9 @@
   {
    "year": 1764,
    "year_label": "1764",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Madame de Pompadour",
    "kind": "individual",
    "desc": "chief mistress of Louis XV of France",
@@ -17,6 +20,9 @@
   {
    "year": 1781,
    "year_label": "1781",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Túpac Katari",
    "kind": "individual",
    "desc": "Aymara revolutionary",
@@ -30,6 +36,9 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Abraham Lincoln",
    "kind": "individual",
    "desc": "president of the United States",
@@ -43,6 +52,9 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Father Damien",
    "kind": "individual",
    "desc": "SS.CC., Belgian Roman Catholic priest, minister to people with leprosy in the Hawaiian Kingdom",
@@ -56,6 +68,9 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jane Delano",
    "kind": "individual",
    "desc": "American nurse, founder of the American Red Cross Nursing Service",
@@ -69,6 +84,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jean-Paul Sartre",
    "kind": "individual",
    "desc": "French philosopher and writer",
@@ -82,6 +100,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kenneth Williams",
    "kind": "individual",
    "desc": "British actor and comedian",
@@ -97,6 +118,10 @@
   {
    "year": 1452,
    "year_label": "1452",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leonardo da Vinci",
    "kind": "individual",
    "desc": "Italian artist and scientist",
@@ -109,6 +134,10 @@
   {
    "year": 1707,
    "year_label": "1707",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leonhard Euler",
    "kind": "individual",
    "desc": "Swiss mathematician and scientist",
@@ -121,6 +150,10 @@
   {
    "year": 1710,
    "year_label": "1710",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Cullen",
    "kind": "individual",
    "desc": "Scottish physician, chemist and agriculturalist",
@@ -133,6 +166,10 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Lothrop Motley",
    "kind": "individual",
    "desc": "American author and diplomat",
@@ -145,6 +182,10 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Engel",
    "kind": "individual",
    "desc": "German-born American labor union activist",
@@ -157,6 +198,10 @@
   {
    "year": 1841,
    "year_label": "1841",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Jim Creighton",
    "kind": "individual",
    "desc": null,
@@ -169,6 +214,10 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry James",
    "kind": "individual",
    "desc": "American-British author",
@@ -181,6 +230,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bessie Smith",
    "kind": "individual",
    "desc": "American blues singer",
@@ -193,6 +246,10 @@
   {
    "year": 1958,
    "year_label": "1958",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Daniel V. Jones",
    "kind": "individual",
    "desc": "American citizen",

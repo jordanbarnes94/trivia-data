@@ -4,6 +4,9 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Wordsworth",
    "kind": "individual",
    "desc": "English poet",
@@ -17,6 +20,9 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ramón María Narváez",
    "kind": "individual",
    "desc": "1st Duke of Valencia, Spanish general and Prime Minister of Spain",
@@ -30,6 +36,9 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alferd Packer",
    "kind": "individual",
    "desc": "American prospector and wilderness guide",
@@ -43,6 +52,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rupert Brooke",
    "kind": "individual",
    "desc": "English poet",
@@ -58,6 +70,10 @@
   {
    "year": 1791,
    "year_label": "1791",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Buchanan",
    "kind": "individual",
    "desc": "president of the United States",
@@ -70,6 +86,10 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stephen A. Douglas",
    "kind": "individual",
    "desc": "American politician, Senator from Illinois and 1860 Democratic presidential nominee",
@@ -82,6 +102,10 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hervé Villechaize",
    "kind": "individual",
    "desc": "French-American actor",

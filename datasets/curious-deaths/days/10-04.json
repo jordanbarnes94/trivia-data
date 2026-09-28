@@ -4,6 +4,9 @@
   {
    "year": 1489,
    "year_label": "1489",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wessel Gansfort",
    "kind": "individual",
    "desc": "Dutch theologian and humanist",
@@ -17,6 +20,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Graham Chapman",
    "kind": "individual",
    "desc": "English comedian, writer, actor, and author",
@@ -30,6 +36,9 @@
   {
    "year": 1992,
    "year_label": "1992",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arnon Ohad",
    "kind": "individual",
    "desc": "First Officer of El Al Flight 1862",
@@ -45,6 +54,10 @@
   {
    "year": 1542,
    "year_label": "1542",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Bellarmine",
    "kind": "individual",
    "desc": "Italian Jesuit and Roman Catholic cardinal",
@@ -57,6 +70,10 @@
   {
    "year": 1822,
    "year_label": "1822",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rutherford B. Hayes",
    "kind": "individual",
    "desc": "president of the United States",
@@ -69,6 +86,10 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederic Remington",
    "kind": "individual",
    "desc": "American artist",
@@ -81,6 +102,10 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Damon Runyon",
    "kind": "individual",
    "desc": "American newspaperman and short-story writer",
@@ -93,6 +118,10 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Buster Keaton",
    "kind": "individual",
    "desc": "American actor, comedian and filmmaker",
@@ -105,6 +134,10 @@
   {
    "year": 1903,
    "year_label": "1903",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ernst Kaltenbrunner",
    "kind": "individual",
    "desc": "Austrian SS official, major perpetrator of The Holocaust",

@@ -4,6 +4,9 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Francis Burton",
    "kind": "individual",
    "desc": "British polymath",
@@ -17,6 +20,9 @@
   {
    "year": 1930,
    "year_label": "1930",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "William Kogut",
    "kind": "individual",
    "desc": null,
@@ -32,6 +38,10 @@
   {
    "year": 1677,
    "year_label": "1677",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Stanisław Leszczyński",
    "kind": "individual",
    "desc": null,
@@ -44,6 +54,10 @@
   {
    "year": 1733,
    "year_label": "1733",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Adam Naruszewicz",
    "kind": "individual",
    "desc": "Polish-Lithuanian bishop and author",
@@ -56,6 +70,10 @@
   {
    "year": 1784,
    "year_label": "1784",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry John Temple, 3rd Viscount Palmerston",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",
@@ -68,6 +86,10 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Atcheson Jr.",
    "kind": "individual",
    "desc": "American diplomat",
@@ -80,6 +102,10 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicolas Jaeger",
    "kind": "individual",
    "desc": "French physician and alpinist",

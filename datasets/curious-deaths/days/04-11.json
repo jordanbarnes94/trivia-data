@@ -4,6 +4,9 @@
   {
    "year": 1447,
    "year_label": "1447",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Beaufort",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1554,
    "year_label": "1554",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Wyatt the Younger",
    "kind": "individual",
    "desc": "English politician and leader of Wyatt's rebellion",
@@ -30,6 +36,9 @@
   {
    "year": 1734,
    "year_label": "1734",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Fantet de Lagny",
    "kind": "individual",
    "desc": "French mathematician",
@@ -43,6 +52,9 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rowland Hill",
    "kind": "individual",
    "desc": "English preacher, evangelical and vaccination advocate",
@@ -56,6 +68,9 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Reade",
    "kind": "individual",
    "desc": "English novelist and dramatist",
@@ -69,6 +84,9 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Luther Burbank",
    "kind": "individual",
    "desc": "American botanist",
@@ -82,6 +100,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jessica Dubroff",
    "kind": "individual",
    "desc": "seven-year-old American pilot trainee",
@@ -97,6 +118,10 @@
   {
    "year": 1492,
    "year_label": "1492",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Margaret of Valois-Angoulême",
    "kind": "individual",
    "desc": "Queen of Navarre",
@@ -109,6 +134,10 @@
   {
    "year": 1744,
    "year_label": "1744",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "José Anastácio da Cunha",
    "kind": "individual",
    "desc": "Portuguese mathematician and poet",
@@ -121,6 +150,10 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfredo Rampi",
    "kind": "individual",
    "desc": "Italian child",

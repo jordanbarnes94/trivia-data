@@ -4,6 +4,9 @@
   {
    "year": 1600,
    "year_label": "1600",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Hooker",
    "kind": "individual",
    "desc": "English priest and theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1808,
    "year_label": "1808",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Theophilus Lindsey",
    "kind": "individual",
    "desc": "English Unitarian theologian and clergyman",
@@ -32,6 +38,10 @@
   {
    "year": 39,
    "year_label": "39",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lucan",
    "kind": "individual",
    "desc": "Roman poet",
@@ -44,6 +54,10 @@
   {
    "year": 1618,
    "year_label": "1618",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Aurangzeb",
    "kind": "individual",
    "desc": "seventh Mughal emperor",
@@ -56,6 +70,10 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stephen F. Austin",
    "kind": "individual",
    "desc": "founder of Anglo Texas, Secretary of State of the Republic of Texas",
@@ -68,6 +86,10 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Cullen Bryant",
    "kind": "individual",
    "desc": "American poet, journalist and editor",
@@ -80,6 +102,10 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vincenzo Bellini",
    "kind": "individual",
    "desc": "Italian opera composer",
@@ -92,6 +118,10 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Osamu Tezuka",
    "kind": "individual",
    "desc": "Japanese cartoonist",

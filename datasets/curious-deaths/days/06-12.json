@@ -4,6 +4,9 @@
   {
    "year": 1842,
    "year_label": "1842",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Arnold",
    "kind": "individual",
    "desc": "English educator and historian",
@@ -17,6 +20,9 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Cullen Bryant",
    "kind": "individual",
    "desc": "American poet, journalist and editor",
@@ -30,6 +36,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Major Lloyd W. Williams",
    "kind": "individual",
    "desc": "United States Marine Corps officer",
@@ -43,6 +52,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jimmy L. Glass",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -58,6 +70,10 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Kingsley",
    "kind": "individual",
    "desc": "English priest, university professor and author",
@@ -70,6 +86,10 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anton Gag",
    "kind": "individual",
    "desc": "Sudeten-American painter and studio photographer",

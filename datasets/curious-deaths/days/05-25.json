@@ -4,6 +4,9 @@
   {
    "year": 1085,
    "year_label": "1085",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pope Gregory VII",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1510,
    "year_label": "1510",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Georges d'Amboise",
    "kind": "individual",
    "desc": "French Roman Catholic cardinal and minister of state",
@@ -30,6 +36,9 @@
   {
    "year": 1569,
    "year_label": "1569",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bartolomeo Bartocci",
    "kind": "individual",
    "desc": "Italian trader",
@@ -43,6 +52,9 @@
   {
    "year": 1802,
    "year_label": "1802",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Fordyce",
    "kind": "individual",
    "desc": "Scottish physician",
@@ -56,6 +68,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "First officer James Dillard",
    "kind": "individual",
    "desc": "pilot of American Airlines Flight 191",
@@ -69,6 +84,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Spenkelink",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -84,6 +102,10 @@
   {
    "year": 1803,
    "year_label": "1803",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ralph Waldo Emerson",
    "kind": "individual",
    "desc": "American author, philosopher and transcendentalist",
@@ -96,6 +118,10 @@
   {
    "year": 1869,
    "year_label": "1869",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robbie Ross",
    "kind": "individual",
    "desc": "Canadian-British journalist, art critic and art dealer",
@@ -108,6 +134,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Max Aitken, 1st Baron Beaverbrook",
    "kind": "individual",
    "desc": null,

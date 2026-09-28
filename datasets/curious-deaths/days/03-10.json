@@ -4,6 +4,9 @@
   {
    "year": 1615,
    "year_label": "1615",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Ogilvie",
    "kind": "individual",
    "desc": "SJ]]",
@@ -17,6 +20,9 @@
   {
    "year": 1902,
    "year_label": "1902",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "C. Y. O'Connor",
    "kind": "individual",
    "desc": "engineer-in-chief of Western Australia",
@@ -30,6 +36,9 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Harriet Tubman",
    "kind": "individual",
    "desc": "American humanitarian and activist",
@@ -43,6 +52,9 @@
   {
    "year": 1972,
    "year_label": "1972",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Professor Zovek",
    "kind": "individual",
    "desc": null,
@@ -58,6 +70,10 @@
   {
    "year": 1776,
    "year_label": "1776",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louise of Mecklenburg-Strelitz",
    "kind": "individual",
    "desc": "Queen of Prussia",
@@ -70,6 +86,10 @@
   {
    "year": 1787,
    "year_label": "1787",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Etty",
    "kind": "individual",
    "desc": "English artist",
@@ -82,6 +102,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Boris Vian",
    "kind": "individual",
    "desc": "French polymath",

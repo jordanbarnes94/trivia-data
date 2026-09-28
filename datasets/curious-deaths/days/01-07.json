@@ -4,6 +4,9 @@
   {
    "year": 1536,
    "year_label": "1536",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Catherine of Aragon",
    "kind": "individual",
    "desc": "Queen of England",
@@ -17,6 +20,9 @@
   {
    "year": 1715,
    "year_label": "1715",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "François Fénelon",
    "kind": "individual",
    "desc": "French Roman Catholic archbishop, theologian and writer",
@@ -30,6 +36,9 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Arthur Jones",
    "kind": "individual",
    "desc": "English dramatist",
@@ -43,6 +52,9 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas F. Mantell",
    "kind": "individual",
    "desc": "Kentucky Air National Guard captain",
@@ -56,6 +68,9 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Thomas Mantell",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Emperor Hirohito of Japan,",
    "kind": "individual",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 891,
    "year_label": "891",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Abd al-Rahman III",
    "kind": "individual",
    "desc": "first Caliph of Córdoba",
@@ -96,6 +118,10 @@
   {
    "year": 1796,
    "year_label": "1796",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Princess Charlotte of Wales",
    "kind": "individual",
    "desc": null,
@@ -108,6 +134,10 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Millard Fillmore",
    "kind": "individual",
    "desc": "president of the United States",

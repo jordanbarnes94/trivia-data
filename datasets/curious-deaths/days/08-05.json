@@ -4,6 +4,9 @@
   {
    "year": 882,
    "year_label": "882",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Louis III of France",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Jack Budlong",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis J. Sebille",
    "kind": "individual",
    "desc": "United States Air Force fighter pilot and Medal of Honor recipient",
@@ -43,6 +52,9 @@
   {
    "year": 1993,
    "year_label": "1993",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Khamar-Daban incident",
    "kind": "group",
    "desc": null,
@@ -58,6 +70,10 @@
   {
    "year": 1540,
    "year_label": "1540",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Justus Scaliger",
    "kind": "individual",
    "desc": "French Calvinist religious leader and scholar",
@@ -70,6 +86,10 @@
   {
    "year": 1604,
    "year_label": "1604",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Eliot",
    "kind": "individual",
    "desc": "Puritan missionary to the American Indians, founder of Roxbury Latin School",
@@ -82,6 +102,10 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ramón María Narváez",
    "kind": "individual",
    "desc": "1st Duke of Valencia, Spanish general and Prime Minister of Spain",
@@ -94,6 +118,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lovisa",
    "kind": "individual",
    "desc": "Queen of Sweden and Norway",
@@ -106,6 +134,10 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cyril Rattigan",
    "kind": "individual",
    "desc": "English cricketer",
@@ -118,6 +150,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Harold Holt",
    "kind": "individual",
    "desc": "17th Prime Minister of Australia",

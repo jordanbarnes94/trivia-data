@@ -4,6 +4,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Boris Vian",
    "kind": "individual",
    "desc": "French polymath",
@@ -19,6 +22,10 @@
   {
    "year": 1763,
    "year_label": "1763",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Empress Joséphine",
    "kind": "individual",
    "desc": "former wife of Napoleon",
@@ -31,6 +38,10 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Rolf Mützelburg",
    "kind": "individual",
    "desc": null,

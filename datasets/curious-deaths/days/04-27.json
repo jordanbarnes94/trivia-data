@@ -4,6 +4,9 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ludwig von Benedek",
    "kind": "individual",
    "desc": "Austrian general",
@@ -17,6 +20,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ralph Waldo Emerson",
    "kind": "individual",
    "desc": "American author, philosopher and transcendentalist",
@@ -30,6 +36,9 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hart Crane",
    "kind": "individual",
    "desc": "American poet",
@@ -43,6 +52,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward R. Murrow",
    "kind": "individual",
    "desc": "American broadcast journalist and war correspondent",
@@ -56,6 +68,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lou Everett",
    "kind": "individual",
    "desc": "American test pilot",
@@ -69,6 +84,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nicolas Jaeger",
    "kind": "individual",
    "desc": "French physician and alpinist",
@@ -84,6 +102,10 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary Wollstonecraft",
    "kind": "individual",
    "desc": "English writer and feminist philosopher",
@@ -96,6 +118,10 @@
   {
    "year": 1822,
    "year_label": "1822",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ulysses S. Grant",
    "kind": "individual",
    "desc": "president of the United States",
@@ -108,6 +134,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maurice Baring",
    "kind": "individual",
    "desc": "English man of letters",
@@ -120,6 +150,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Corfield",
    "kind": "individual",
    "desc": "British colonial police officer",
@@ -132,6 +166,10 @@
   {
    "year": 1947,
    "year_label": "1947",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pete Ham",
    "kind": "individual",
    "desc": "Welsh musician and songwriter",

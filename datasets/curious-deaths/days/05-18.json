@@ -4,6 +4,9 @@
   {
    "year": 1160,
    "year_label": "1160",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eric the Holy",
    "kind": "individual",
    "desc": "Swedish king",
@@ -17,6 +20,9 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Bellingham",
    "kind": "individual",
    "desc": "English merchant, assassin of Spencer Perceval",
@@ -30,6 +36,9 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maltbie Davenport Babcock",
    "kind": "individual",
    "desc": "American clergyman and writer",
@@ -43,6 +52,9 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gustav Mahler",
    "kind": "individual",
    "desc": "Austrian composer and conductor",
@@ -56,6 +68,9 @@
   {
    "year": 1955,
    "year_label": "1955",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary McLeod Bethune",
    "kind": "individual",
    "desc": "American educator, stateswoman and civil rights activist",
@@ -69,6 +84,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David A. Johnston",
    "kind": "individual",
    "desc": "American volcanologist",
@@ -82,6 +100,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ian Curtis",
    "kind": "individual",
    "desc": "English musician",
@@ -95,6 +116,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Saroyan",
    "kind": "individual",
    "desc": "American author",
@@ -110,6 +134,10 @@
   {
    "year": 1662,
    "year_label": "1662",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Smalridge",
    "kind": "individual",
    "desc": "Bishop of Bristol",
@@ -122,6 +150,10 @@
   {
    "year": 1692,
    "year_label": "1692",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Butler",
    "kind": "individual",
    "desc": "English Anglican bishop and theologian",
@@ -134,6 +166,10 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicholas II of Russia",
    "kind": "individual",
    "desc": "last Emperor of Russia",
@@ -146,6 +182,10 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Thomas Midgley Jr.",
    "kind": "individual",
    "desc": null,
@@ -158,6 +198,10 @@
   {
    "year": 1955,
    "year_label": "1955",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vincent Chin",
    "kind": "individual",
    "desc": "Chinese-American draftsman",

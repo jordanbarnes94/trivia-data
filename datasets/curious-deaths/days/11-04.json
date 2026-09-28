@@ -4,6 +4,9 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Abbott, 1st Baron Tenterden",
    "kind": "individual",
    "desc": "Lord Chief Justice of the King's Bench",
@@ -17,6 +20,9 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Felix Mendelssohn",
    "kind": "individual",
    "desc": "German composer",
@@ -30,6 +36,9 @@
   {
    "year": 1869,
    "year_label": "1869",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Peabody",
    "kind": "individual",
    "desc": "American financier and philanthropist",
@@ -43,6 +52,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wilfred Owen",
    "kind": "individual",
    "desc": "English soldier and poet",
@@ -56,6 +68,9 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hawthorne C. Gray",
    "kind": "individual",
    "desc": "American aeronaut",
@@ -69,6 +84,9 @@
   {
    "year": 1995,
    "year_label": "1995",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Yitzhak Rabin",
    "kind": "individual",
    "desc": "Israeli Prime Minister",
@@ -84,6 +102,10 @@
   {
    "year": 1740,
    "year_label": "1740",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Augustus Toplady",
    "kind": "individual",
    "desc": "Anglican cleric and hymn writer, author of \"Rock of Ages\"",
@@ -96,6 +118,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Will Rogers",
    "kind": "individual",
    "desc": "American stage and film actor, vaudeville performer, cowboy, humorist, newspaper columnist, and social commentator",
@@ -108,6 +134,10 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Basilone",
    "kind": "individual",
    "desc": "United States Marine Corps Gunnery Sergeant and Medal of Honor recipient",
@@ -120,6 +150,10 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward H. Ahrens",
    "kind": "individual",
    "desc": "United States Marine Raider",

@@ -4,6 +4,9 @@
   {
    "year": 1520,
    "year_label": "1520",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Moctezuma II",
    "kind": "individual",
    "desc": "Huey Tlatoani or Emperor of the Aztec Empire",
@@ -17,6 +20,9 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Elizabeth Barrett Browning",
    "kind": "individual",
    "desc": "English poet",
@@ -30,6 +36,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Jayne Mansfield, Samuel Brody, and Ronnie Harrison",
    "kind": "group",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Georgy Dobrovolsky, Vladislav Volkov, and Viktor Patsayev",
    "kind": "group",
    "desc": null,
@@ -58,6 +70,10 @@
   {
    "year": 1620,
    "year_label": "1620",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Masaniello",
    "kind": "individual",
    "desc": "Italian fisherman and revolutionary leader",
@@ -70,6 +86,10 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ludwig Beck",
    "kind": "individual",
    "desc": "German general",

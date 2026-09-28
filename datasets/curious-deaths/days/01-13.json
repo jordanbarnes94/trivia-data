@@ -4,6 +4,9 @@
   {
    "year": 1691,
    "year_label": "1691",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Fox",
    "kind": "individual",
    "desc": "English Dissenter, founder of the Religious Society of Friends",
@@ -17,6 +20,9 @@
   {
    "year": 1838,
    "year_label": "1838",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Scott, 1st Earl of Eldon",
    "kind": "individual",
    "desc": "British barrister and politician",
@@ -30,6 +36,9 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arthur Barker",
    "kind": "individual",
    "desc": "American criminal",
@@ -43,6 +52,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Joyce",
    "kind": "individual",
    "desc": "Irish novelist, author of Ulysses and Finnegans Wake",
@@ -56,6 +68,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Larry Wheaton",
    "kind": "individual",
    "desc": "pilot of Flight 90",
@@ -69,6 +84,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "First Officer Roger A. Pettit",
    "kind": "individual",
    "desc": "first officer of Flight 90",
@@ -84,6 +102,10 @@
   {
    "year": -69,
    "year_label": "69 BC",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cleopatra",
    "kind": "individual",
    "desc": "pharaoh of Egypt",
@@ -96,6 +118,10 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Horatio Alger",
    "kind": "individual",
    "desc": "American author and educator",
@@ -108,6 +134,10 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Miguel Pro",
    "kind": "individual",
    "desc": "Mexican Jesuit Catholic priest",
@@ -120,6 +150,10 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Toni Kurz",
    "kind": "individual",
    "desc": "German mountain climber",

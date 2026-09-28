@@ -4,6 +4,9 @@
   {
    "year": 1629,
    "year_label": "1629",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pierre de Bérulle",
    "kind": "individual",
    "desc": "French Roman Catholic cardinal and statesman",
@@ -17,6 +20,9 @@
   {
    "year": 1780,
    "year_label": "1780",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John André",
    "kind": "individual",
    "desc": "British Army officer",
@@ -30,6 +36,9 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Lee",
    "kind": "individual",
    "desc": "Continental Army general",
@@ -43,6 +52,9 @@
   {
    "year": 1842,
    "year_label": "1842",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Ellery Channing",
    "kind": "individual",
    "desc": "American Unitarian preacher and theologian",
@@ -56,6 +68,9 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "François Arago",
    "kind": "individual",
    "desc": "French mathematician, physicist and astronomer",
@@ -69,6 +84,9 @@
   {
    "year": 1892,
    "year_label": "1892",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ernest Renan",
    "kind": "individual",
    "desc": "French scholar",
@@ -82,6 +100,9 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cromwell Dixon",
    "kind": "individual",
    "desc": "American aviator",
@@ -95,6 +116,9 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Clarence W. Barron",
    "kind": "individual",
    "desc": "American newsman and de facto manager of The Wall Street Journal",
@@ -108,6 +132,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rock Hudson",
    "kind": "individual",
    "desc": "American actor",
@@ -123,6 +150,10 @@
   {
    "year": 1452,
    "year_label": "1452",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard III of England",
    "kind": "individual",
    "desc": null,
@@ -135,6 +166,10 @@
   {
    "year": 1869,
    "year_label": "1869",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mahatma Gandhi",
    "kind": "individual",
    "desc": "Indian revolutionary and pacifist",
@@ -147,6 +182,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Groucho Marx",
    "kind": "individual",
    "desc": "American actor and comedian",
@@ -159,6 +198,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Graham Greene",
    "kind": "individual",
    "desc": "English novelist",
@@ -171,6 +214,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lal Bahadur Shastri",
    "kind": "individual",
    "desc": "Prime Minister of India",

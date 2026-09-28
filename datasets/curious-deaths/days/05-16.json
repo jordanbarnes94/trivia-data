@@ -4,6 +4,9 @@
   {
    "year": 1163,
    "year_label": "1163",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Héloïse",
    "kind": "individual",
    "desc": "French nun, philosopher, writer, scholar and abbess",
@@ -17,6 +20,9 @@
   {
    "year": 1815,
    "year_label": "1815",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick William, Duke of Brunswick-Wolfenbüttel",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1830,
    "year_label": "1830",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Fourier",
    "kind": "individual",
    "desc": "French mathematician and physicist",
@@ -43,6 +52,9 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Felicia Hemans",
    "kind": "individual",
    "desc": "English poet",
@@ -56,6 +68,9 @@
   {
    "year": 1990,
    "year_label": "1990",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jim Henson",
    "kind": "individual",
    "desc": "American puppeteer",
@@ -71,6 +86,10 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William H. Seward",
    "kind": "individual",
    "desc": "United States Secretary of State",
@@ -83,6 +102,10 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Philip Danforth Armour",
    "kind": "individual",
    "desc": "American industrialist, founder of Armour and Company",

@@ -4,6 +4,9 @@
   {
    "year": 1595,
    "year_label": "1595",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Torquato Tasso",
    "kind": "individual",
    "desc": "Italian poet",
@@ -17,6 +20,9 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Cowper",
    "kind": "individual",
    "desc": "English poet and hymnodist",
@@ -30,6 +36,9 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Crowfoot",
    "kind": "individual",
    "desc": "Siksika Nation chief",
@@ -43,6 +52,9 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Mr. & Mrs. Emile Froment-Meurice",
    "kind": "group",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1972,
    "year_label": "1972",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Sanders",
    "kind": "individual",
    "desc": "British actor",
@@ -69,6 +84,9 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Valerie Olusanya",
    "kind": "individual",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 1214,
    "year_label": "1214",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis IX of France",
    "kind": "individual",
    "desc": null,
@@ -96,6 +118,10 @@
   {
    "year": 1284,
    "year_label": "1284",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Edward II of England",
    "kind": "individual",
    "desc": null,
@@ -108,6 +134,10 @@
   {
    "year": 1599,
    "year_label": "1599",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Oliver Cromwell",
    "kind": "individual",
    "desc": "English general and statesman, Lord Protector",
@@ -120,6 +150,10 @@
   {
    "year": 1750,
    "year_label": "1750",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joanna Southcott",
    "kind": "individual",
    "desc": "English self-described religious prophetess",
@@ -132,6 +166,10 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Princess Alice of the United Kingdom",
    "kind": "individual",
    "desc": "daughter of Queen Victoria",
@@ -144,6 +182,10 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Walter de la Mare",
    "kind": "individual",
    "desc": "English author",
@@ -156,6 +198,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward R. Murrow",
    "kind": "individual",
    "desc": "American broadcast journalist and war correspondent",

@@ -4,6 +4,9 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick John Cokayne Frith",
    "kind": "individual",
    "desc": "Scottish officer in the British Army",
@@ -17,6 +20,9 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stephen Crane",
    "kind": "individual",
    "desc": "American author",
@@ -30,6 +36,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "O. Henry",
    "kind": "individual",
    "desc": "American writer",

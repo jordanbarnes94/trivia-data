@@ -4,6 +4,9 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Benjamin Franklin",
    "kind": "individual",
    "desc": "American statesman and scientist",
@@ -17,6 +20,9 @@
   {
    "year": 1825,
    "year_label": "1825",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Fuseli",
    "kind": "individual",
    "desc": "Swiss painter, draughtsman and writer on art",
@@ -30,6 +36,9 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Gold Appleton",
    "kind": "individual",
    "desc": "American writer, artist and art patron, brother-in-law of Henry Wadsworth Longfellow",
@@ -43,6 +52,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hannie Schaft",
    "kind": "individual",
    "desc": "Dutch Resistance Fighter",
@@ -58,6 +70,10 @@
   {
    "year": 1818,
    "year_label": "1818",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander II of Russia",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "J. P. Morgan",
    "kind": "individual",
    "desc": "American financier and banker",
@@ -82,6 +102,10 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "William Holden",
    "kind": "individual",
    "desc": null,

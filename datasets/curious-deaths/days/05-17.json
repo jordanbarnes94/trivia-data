@@ -4,6 +4,9 @@
   {
    "year": 1536,
    "year_label": "1536",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mark Smeaton",
    "kind": "individual",
    "desc": "musician in the household of Queen Anne Boleyn",
@@ -17,6 +20,9 @@
   {
    "year": 1838,
    "year_label": "1838",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Maurice de Talleyrand-Périgord",
    "kind": "individual",
    "desc": "French clergyman and diplomat",
@@ -30,6 +36,9 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kondō Isami",
    "kind": "individual",
    "desc": "Japanese samurai, Tennen Rishin-ryū master, and Shinsengumi commander",
@@ -43,6 +52,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Thanos",
    "kind": "individual",
    "desc": "American murderer",
@@ -58,6 +70,10 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Erik Satie",
    "kind": "individual",
    "desc": "French composer and pianist",
@@ -70,6 +86,10 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henri Barbusse",
    "kind": "individual",
    "desc": "French novelist and Communist",
@@ -82,6 +102,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfonso XIII",
    "kind": "individual",
    "desc": "former King of Spain",
@@ -94,6 +118,10 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexandru Șerbănescu",
    "kind": "individual",
    "desc": "Second World War Romanian fighter ace",

@@ -4,6 +4,9 @@
   {
    "year": 1778,
    "year_label": "1778",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anne Steele",
    "kind": "individual",
    "desc": "English Baptist hymn writer and essayist",
@@ -17,6 +20,9 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ned Kelly",
    "kind": "individual",
    "desc": "Australian bushranger and convicted police murderer",
@@ -30,6 +36,9 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adolph Fischer",
    "kind": "individual",
    "desc": "German-born American labor union activist and anarchist",
@@ -43,6 +52,9 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert Parsons",
    "kind": "individual",
    "desc": "American anarchist leader",
@@ -56,6 +68,9 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Engel",
    "kind": "individual",
    "desc": "German-born American labor union activist",
@@ -69,6 +84,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "G. W. Green",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -84,6 +102,10 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Bailey Aldrich",
    "kind": "individual",
    "desc": "American author and editor",
@@ -96,6 +118,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marie Bashkirtseff",
    "kind": "individual",
    "desc": "Russian artist and diarist",
@@ -108,6 +134,10 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maude Adams",
    "kind": "individual",
    "desc": "American actress known for playing Peter Pan",
@@ -120,6 +150,10 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George S. Patton",
    "kind": "individual",
    "desc": "United States Army general",
@@ -132,6 +166,10 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bernard B. Fall",
    "kind": "individual",
    "desc": "American war correspondent and historian",

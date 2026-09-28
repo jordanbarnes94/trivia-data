@@ -4,6 +4,9 @@
   {
    "year": 1663,
    "year_label": "1663",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Sanderson",
    "kind": "individual",
    "desc": "English theologian and casuist",
@@ -17,6 +20,9 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Gottlieb Fichte",
    "kind": "individual",
    "desc": "German philosopher",
@@ -30,6 +36,9 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Sugden, 1st Baron St Leonards",
    "kind": "individual",
    "desc": "British lawyer, judge and politician",
@@ -43,6 +52,9 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Lear",
    "kind": "individual",
    "desc": "English nonsense poet",
@@ -56,6 +68,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Freddie Prinze",
    "kind": "individual",
    "desc": "American stand-up comedian and actor",
@@ -71,6 +86,10 @@
   {
    "year": 133,
    "year_label": "133",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Didius Julianus",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -83,6 +102,10 @@
   {
    "year": 1688,
    "year_label": "1688",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emanuel Swedenborg",
    "kind": "individual",
    "desc": "Swedish theologian, scientist, philosopher and mystic",
@@ -95,6 +118,10 @@
   {
    "year": 1737,
    "year_label": "1737",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Paine",
    "kind": "individual",
    "desc": "English-born American political activist and theorist, philosopher and revolutionary",
@@ -107,6 +134,10 @@
   {
    "year": 1772,
    "year_label": "1772",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Legh Richmond",
    "kind": "individual",
    "desc": "Church of England clergyman and writer",
@@ -119,6 +150,10 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William McKinley",
    "kind": "individual",
    "desc": "president of the United States",
@@ -131,6 +166,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anton Chekhov",
    "kind": "individual",
    "desc": "Russian author and playwright",
@@ -143,6 +182,10 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "W. C. Fields",
    "kind": "individual",
    "desc": "American entertainer",
@@ -155,6 +198,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dmitry Bogrov",
    "kind": "individual",
    "desc": "assassin of Russian Prime Minister Pyotr Stolypin",
@@ -167,6 +214,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Boris Pasternak",
    "kind": "individual",
    "desc": "Russian author",
@@ -179,6 +230,10 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Abbey",
    "kind": "individual",
    "desc": "American author, essayist and environmental advocate",

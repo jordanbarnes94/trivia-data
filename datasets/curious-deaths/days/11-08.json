@@ -4,6 +4,9 @@
   {
    "year": 397,
    "year_label": "397",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Martin of Tours",
    "kind": "individual",
    "desc": "third bishop of Tours",
@@ -17,6 +20,9 @@
   {
    "year": 1605,
    "year_label": "1605",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Catesby",
    "kind": "individual",
    "desc": "leader of the Gunpowder Plot",
@@ -30,6 +36,9 @@
   {
    "year": 1674,
    "year_label": "1674",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Milton",
    "kind": "individual",
    "desc": "English poet and intellectual",
@@ -43,6 +52,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Madame Roland",
    "kind": "individual",
    "desc": "French revolutionary and writer",
@@ -56,6 +68,9 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Benjamin Franklin Butler",
    "kind": "individual",
    "desc": "Attorney General of the United States",
@@ -69,6 +84,9 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Doc Holliday",
    "kind": "individual",
    "desc": "American gambler and gunfighter",
@@ -82,6 +100,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Walter Nowotny",
    "kind": "individual",
    "desc": "Second World War German fighter ace",
@@ -97,6 +118,10 @@
   {
    "year": 1028,
    "year_label": "1028",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William the Conqueror",
    "kind": "individual",
    "desc": "King of England",
@@ -109,6 +134,10 @@
   {
    "year": 1625,
    "year_label": "1625",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary Rich, Countess of Warwick",
    "kind": "individual",
    "desc": null,
@@ -121,6 +150,10 @@
   {
    "year": 1676,
    "year_label": "1676",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Newton",
    "kind": "individual",
    "desc": "English educator and clergyman",
@@ -133,6 +166,10 @@
   {
    "year": 1777,
    "year_label": "1777",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Desideria",
    "kind": "individual",
    "desc": "Queen of Sweden and Norway",
@@ -145,6 +182,10 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Felix Hausdorff",
    "kind": "individual",
    "desc": "German mathematician",

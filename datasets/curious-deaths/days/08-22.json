@@ -4,6 +4,9 @@
   {
    "year": 1485,
    "year_label": "1485",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard III of England",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1532,
    "year_label": "1532",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Warham",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -30,6 +36,9 @@
   {
    "year": 1650,
    "year_label": "1650",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eusebius Andrews",
    "kind": "individual",
    "desc": "English royalist",
@@ -43,6 +52,9 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Unknown Iraqi male",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Michael Collins",
    "kind": "individual",
    "desc": "Irish revolutionary, soldier and politician",
@@ -71,6 +86,10 @@
   {
    "year": 1798,
    "year_label": "1798",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jules Michelet",
    "kind": "individual",
    "desc": "French historian",
@@ -83,6 +102,10 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Bouverie Pusey",
    "kind": "individual",
    "desc": "English churchman, Regius Professor of Hebrew at the University of Oxford",
@@ -95,6 +118,10 @@
   {
    "year": 1817,
    "year_label": "1817",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Bartholomew Gough",
    "kind": "individual",
    "desc": "American temperance orator",
@@ -107,6 +134,10 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Alexander Bogdanov",
    "kind": "individual",
    "desc": null,
@@ -119,6 +150,10 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dorothy Parker",
    "kind": "individual",
    "desc": "American writer and wit",

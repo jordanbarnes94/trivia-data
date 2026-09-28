@@ -4,6 +4,9 @@
   {
    "year": 1719,
    "year_label": "1719",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Addison",
    "kind": "individual",
    "desc": "English writer and politician",
@@ -17,6 +20,9 @@
   {
    "year": 1775,
    "year_label": "1775",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Warren",
    "kind": "individual",
    "desc": "American physician and Patriot",
@@ -30,6 +36,9 @@
   {
    "year": 1791,
    "year_label": "1791",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Selina Hastings, Countess of Huntingdon",
    "kind": "individual",
    "desc": "English religious leader",
@@ -43,6 +52,9 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Clement Vallandigham",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,10 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Nicholas Comper",
    "kind": "individual",
    "desc": "English aviator and aircraft designer",
@@ -71,6 +87,10 @@
   {
    "year": 1239,
    "year_label": "1239",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward I of England",
    "kind": "individual",
    "desc": null,
@@ -83,6 +103,10 @@
   {
    "year": 1703,
    "year_label": "1703",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Wesley",
    "kind": "individual",
    "desc": "English cleric and theologian, founder of Methodism",
@@ -95,6 +119,10 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Red Foley",
    "kind": "individual",
    "desc": "American country music singer",

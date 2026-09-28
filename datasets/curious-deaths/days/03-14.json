@@ -4,6 +4,9 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Karl Marx",
    "kind": "individual",
    "desc": "political theorist",
@@ -17,6 +20,9 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Richard Cotter",
    "kind": "individual",
    "desc": "VC, British Army soldier",
@@ -30,6 +36,9 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Eastman",
    "kind": "individual",
    "desc": "American entrepreneur",
@@ -43,6 +52,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Abbey",
    "kind": "individual",
    "desc": "American author, essayist and environmental advocate",
@@ -58,6 +70,10 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Hart Benton",
    "kind": "individual",
    "desc": "United States Senator from Missouri",
@@ -70,6 +86,10 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Josephine",
    "kind": "individual",
    "desc": "Queen of Sweden and Norway",
@@ -82,6 +102,10 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Casey Jones",
    "kind": "individual",
    "desc": "American railroader",
@@ -94,6 +118,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albert Einstein",
    "kind": "individual",
    "desc": "German physicist",
@@ -106,6 +134,10 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Amery",
    "kind": "individual",
    "desc": "British fascist",

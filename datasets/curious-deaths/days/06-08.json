@@ -4,6 +4,9 @@
   {
    "year": 597,
    "year_label": "597",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Columba",
    "kind": "individual",
    "desc": "Irish abbot and missionary evangelist",
@@ -17,6 +20,9 @@
   {
    "year": 632,
    "year_label": "632",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Muhammad",
    "kind": "individual",
    "desc": "Prophet of God in Islam",
@@ -30,6 +36,9 @@
   {
    "year": 1376,
    "year_label": "1376",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward the Black Prince",
    "kind": "individual",
    "desc": "heir to the English throne",
@@ -43,6 +52,9 @@
   {
    "year": 1727,
    "year_label": "1727",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "August Hermann Francke",
    "kind": "individual",
    "desc": "German Lutheran clergyman and theologian",
@@ -56,6 +68,9 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis XVII",
    "kind": "individual",
    "desc": "pretender to the French throne",
@@ -69,6 +84,9 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Paine",
    "kind": "individual",
    "desc": "English-born American political activist and theorist, philosopher and revolutionary",
@@ -82,6 +100,9 @@
   {
    "year": 1845,
    "year_label": "1845",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andrew Jackson",
    "kind": "individual",
    "desc": "president of the United States",
@@ -95,6 +116,9 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Sand",
    "kind": "individual",
    "desc": "French novelist",
@@ -108,6 +132,9 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gerard Manley Hopkins",
    "kind": "individual",
    "desc": "SJ]], English poet and priest",
@@ -121,6 +148,9 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Emily Davison",
    "kind": "individual",
    "desc": null,
@@ -134,6 +164,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Joseph A. Walker and Carl Cross",
    "kind": "group",
    "desc": null,
@@ -147,6 +180,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Karen Wetterhahn",
    "kind": "individual",
    "desc": null,
@@ -162,6 +198,10 @@
   {
    "year": 1784,
    "year_label": "1784",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marie-Antoine Carême",
    "kind": "individual",
    "desc": "French chef",
@@ -174,6 +214,10 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Reade",
    "kind": "individual",
    "desc": "English novelist and dramatist",
@@ -186,6 +230,10 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ernst Enno",
    "kind": "individual",
    "desc": "Estonian writer",
@@ -198,6 +246,10 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lena Baker",
    "kind": "individual",
    "desc": "African American maid",

@@ -4,6 +4,9 @@
   {
    "year": 1551,
    "year_label": "1551",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Martinuzzi",
    "kind": "individual",
    "desc": "Archbishop of Esztergom",
@@ -17,6 +20,9 @@
   {
    "year": 1598,
    "year_label": "1598",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Yi Sun-sin",
    "kind": "individual",
    "desc": "Korean naval commander",
@@ -30,6 +36,9 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Antoine François, comte de Fourcroy",
    "kind": "individual",
    "desc": "French chemist",
@@ -45,6 +54,10 @@
   {
    "year": 1485,
    "year_label": "1485",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Catherine of Aragon",
    "kind": "individual",
    "desc": "Queen of England",
@@ -57,6 +70,10 @@
   {
    "year": 1714,
    "year_label": "1714",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Whitefield",
    "kind": "individual",
    "desc": "Anglican cleric and evangelist",
@@ -69,6 +86,10 @@
   {
    "year": 1742,
    "year_label": "1742",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gebhard Leberecht von Blücher",
    "kind": "individual",
    "desc": "Prussian field marshal",
@@ -81,6 +102,10 @@
   {
    "year": 1770,
    "year_label": "1770",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ludwig van Beethoven",
    "kind": "individual",
    "desc": "German composer",
@@ -93,6 +118,10 @@
   {
    "year": 1775,
    "year_label": "1775",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jane Austen",
    "kind": "individual",
    "desc": "English novelist",
@@ -105,6 +134,10 @@
   {
    "year": 1787,
    "year_label": "1787",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary Russell Mitford",
    "kind": "individual",
    "desc": "English author and dramatist",
@@ -117,6 +150,10 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Noël Coward",
    "kind": "individual",
    "desc": "English playwright, composer and performer",
@@ -129,6 +166,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert M. Bond",
    "kind": "individual",
    "desc": "United States Air Force lieutenant general",

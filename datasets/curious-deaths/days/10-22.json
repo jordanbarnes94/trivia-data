@@ -4,6 +4,9 @@
   {
    "year": 1827,
    "year_label": "1827",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Payson",
    "kind": "individual",
    "desc": "American Congregational preacher",
@@ -17,6 +20,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jane Dornacker",
    "kind": "individual",
    "desc": "American rock musician and traffic reporter",
@@ -30,6 +36,9 @@
   {
    "year": 1995,
    "year_label": "1995",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kingsley Amis",
    "kind": "individual",
    "desc": "English novelist and poet",
@@ -45,6 +54,10 @@
   {
    "year": 1761,
    "year_label": "1761",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Antoine Barnave",
    "kind": "individual",
    "desc": "French politician",
@@ -57,6 +70,10 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jack Lummus",
    "kind": "individual",
    "desc": "professional football player, United States Marine Corps officer and Medal of Honor recipient",
@@ -69,6 +86,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Timothy Leary",
    "kind": "individual",
    "desc": "American psychologist and writer",

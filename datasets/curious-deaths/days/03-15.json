@@ -4,6 +4,9 @@
   {
    "year": -44,
    "year_label": "44 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Julius Caesar",
    "kind": "individual",
    "desc": "Roman dictator",
@@ -17,6 +20,9 @@
   {
    "year": 1673,
    "year_label": "1673",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Salvator Rosa",
    "kind": "individual",
    "desc": "Italian artist and poet",
@@ -30,6 +36,9 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Burton Abbott",
    "kind": "individual",
    "desc": "American convicted rapist and murderer",
@@ -43,6 +52,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Victor Feguer",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -56,6 +68,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ruppert L. Sargent",
    "kind": "individual",
    "desc": "United States Army officer and Medal of Honor recipient",
@@ -69,6 +84,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Timothy Gribble",
    "kind": "individual",
    "desc": "American serial killer",
@@ -84,6 +102,10 @@
   {
    "year": 1767,
    "year_label": "1767",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Andrew Jackson",
    "kind": "individual",
    "desc": "president of the United States",
@@ -96,6 +118,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jean Brillant",
    "kind": "individual",
    "desc": "VC , Canadian Expeditionary Force officer",

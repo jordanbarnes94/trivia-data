@@ -4,6 +4,9 @@
   {
    "year": 1170,
    "year_label": "1170",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Becket",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -17,6 +20,9 @@
   {
    "year": 1680,
    "year_label": "1680",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Howard, 1st Viscount Stafford",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Christina Rossetti",
    "kind": "individual",
    "desc": "English poet",
@@ -43,6 +52,9 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rainer Maria Rilke",
    "kind": "individual",
    "desc": "Bohemian-Austrian poet and novelist",
@@ -58,6 +70,10 @@
   {
    "year": 1721,
    "year_label": "1721",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Madame de Pompadour",
    "kind": "individual",
    "desc": "chief mistress of Louis XV of France",
@@ -70,6 +86,10 @@
   {
    "year": 1808,
    "year_label": "1808",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Andrew Johnson",
    "kind": "individual",
    "desc": "president of the United States",
@@ -82,6 +102,10 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Herbert Anderson",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -94,6 +118,10 @@
   {
    "year": 1947,
    "year_label": "1947",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cozy Powell",
    "kind": "individual",
    "desc": "English drummer",

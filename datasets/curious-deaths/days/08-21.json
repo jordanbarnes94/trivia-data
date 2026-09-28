@@ -4,6 +4,9 @@
   {
    "year": 1693,
    "year_label": "1693",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Patrick Sarsfield, 1st Earl of Lucan",
    "kind": "individual",
    "desc": "Irish soldier",
@@ -17,6 +20,9 @@
   {
    "year": 1762,
    "year_label": "1762",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary Wortley Montagu",
    "kind": "individual",
    "desc": "English traveler",
@@ -30,6 +36,9 @@
   {
    "year": 1823,
    "year_label": "1823",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Markos Botsaris",
    "kind": "individual",
    "desc": "Greek general, hero of the Greek War of Independence",
@@ -43,6 +52,10 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Leon Trotsky",
    "kind": "individual",
    "desc": "Soviet revolutionary",
@@ -56,6 +69,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sobhuza II",
    "kind": "individual",
    "desc": "King of Swaziland, longest verifiably-reigning monarch in recorded history",
@@ -69,6 +85,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ninoy Aquino",
    "kind": "individual",
    "desc": "Filipino politician",
@@ -82,6 +101,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Lake Nyos disaster",
    "kind": "group",
    "desc": null,
@@ -97,6 +119,10 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Barksdale",
    "kind": "individual",
    "desc": "Confederate general of the American Civil War",
@@ -109,6 +135,10 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Aubrey Beardsley",
    "kind": "individual",
    "desc": "English illustrator and author",

@@ -4,6 +4,9 @@
   {
    "year": 1307,
    "year_label": "1307",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward I of England",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1816,
    "year_label": "1816",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Brinsley Sheridan",
    "kind": "individual",
    "desc": "Irish satirist, playwright and poet",
@@ -30,6 +36,9 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jereboam O. Beauchamp",
    "kind": "individual",
    "desc": "American lawyer and murderer",
@@ -43,6 +52,9 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary Surratt",
    "kind": "individual",
    "desc": "American boarding house owner",
@@ -56,6 +68,9 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Soapy Smith",
    "kind": "individual",
    "desc": "con artist and gangster in the American frontier",
@@ -69,6 +84,9 @@
   {
    "year": 1930,
    "year_label": "1930",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arthur Conan Doyle",
    "kind": "individual",
    "desc": "British physician, author and spiritualist",
@@ -82,6 +100,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ben L. Salomon",
    "kind": "individual",
    "desc": "United States Army dental officer and Medal of Honor recipient",
@@ -95,6 +116,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William J. O'Brien",
    "kind": "individual",
    "desc": "United States Army officer and Medal of Honor recipient",
@@ -110,6 +134,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gustav Mahler",
    "kind": "individual",
    "desc": "Austrian composer and conductor",
@@ -122,6 +150,10 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Virginia Rappe",
    "kind": "individual",
    "desc": "American model and silent film actress",

@@ -4,6 +4,9 @@
   {
    "year": 1563,
    "year_label": "1563",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pierre de Bocosel de Chastelard",
    "kind": "individual",
    "desc": "French poet",
@@ -17,6 +20,9 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Michael Malloy",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stefan Zweig",
    "kind": "individual",
    "desc": "Austrian writer",
@@ -43,6 +52,9 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hans Scholl",
    "kind": "individual",
    "desc": "co-founder of White Rose resistance movement",
@@ -56,6 +68,9 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sophie Scholl",
    "kind": "individual",
    "desc": "member of White Rose anti-Nazi resistance movement, sister of Hans Scholl",
@@ -69,6 +84,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David Ferrie",
    "kind": "individual",
    "desc": "American pilot",
@@ -84,6 +102,10 @@
   {
    "year": 1732,
    "year_label": "1732",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Washington",
    "kind": "individual",
    "desc": "president of the United States",
@@ -96,6 +118,10 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Duchess Sophie Charlotte in Bavaria",
    "kind": "individual",
    "desc": null,
@@ -108,6 +134,10 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kenneth Williams",
    "kind": "individual",
    "desc": "British actor and comedian",
@@ -120,6 +150,10 @@
   {
    "year": 1953,
    "year_label": "1953",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Romas Kalanta",
    "kind": "individual",
    "desc": "Lithuanian high school student",

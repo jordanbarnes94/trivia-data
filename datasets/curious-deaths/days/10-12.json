@@ -4,6 +4,9 @@
   {
    "year": -322,
    "year_label": "322 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Demosthenes",
    "kind": "individual",
    "desc": "Greek statesman and orator",
@@ -17,6 +20,9 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert E. Lee",
    "kind": "individual",
    "desc": "United States and Confederate States soldier and general",
@@ -30,6 +36,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edith Cavell",
    "kind": "individual",
    "desc": "British nurse",
@@ -43,6 +52,9 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anatole France",
    "kind": "individual",
    "desc": "French writer and journalist",
@@ -56,6 +68,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Inejirō Asanuma",
    "kind": "individual",
    "desc": "then-chairman of the Japan Socialist Party",
@@ -69,6 +84,9 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gene Vincent",
    "kind": "individual",
    "desc": "American rock and roll and rockabilly musician",
@@ -82,6 +100,9 @@
   {
    "year": 1992,
    "year_label": "1992",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Chris Rouse",
    "kind": "individual",
    "desc": "American scuba diver",
@@ -95,6 +116,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Denver",
    "kind": "individual",
    "desc": "American singer-songwriter",
@@ -110,6 +134,10 @@
   {
    "year": 1537,
    "year_label": "1537",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward VI",
    "kind": "individual",
    "desc": "of England",
@@ -122,6 +150,10 @@
   {
    "year": 1726,
    "year_label": "1726",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sarah Wesley",
    "kind": "individual",
    "desc": "wife of Charles Wesley",
@@ -134,6 +166,10 @@
   {
    "year": 1775,
    "year_label": "1775",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lyman Beecher",
    "kind": "individual",
    "desc": "American Presbyterian minister",
@@ -146,6 +182,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Karl Dane",
    "kind": "individual",
    "desc": "Danish-American comedian and actor",
@@ -158,6 +198,10 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edith Stein",
    "kind": "individual",
    "desc": "German Jewish philosopher and Discalced Carmelite nun",

@@ -4,6 +4,9 @@
   {
    "year": 1691,
    "year_label": "1691",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Baxter",
    "kind": "individual",
    "desc": "English Puritan church leader, poet, hymnodist and theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1755,
    "year_label": "1755",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Henry Hall",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Henry Vanderbilt",
    "kind": "individual",
    "desc": "American multimillionaire",
@@ -43,6 +52,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Simon Dubnow",
    "kind": "individual",
    "desc": "Jewish-born Russian historian, writer and activist",
@@ -56,6 +68,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Lennon",
    "kind": "individual",
    "desc": "English musician",
@@ -71,6 +86,11 @@
   {
    "year": 1542,
    "year_label": "1542",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Mary, Queen of Scots",
    "kind": "individual",
    "desc": null,
@@ -83,6 +103,10 @@
   {
    "year": 1728,
    "year_label": "1728",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johann Georg Ritter von Zimmermann",
    "kind": "individual",
    "desc": "Swiss philosophical writer, naturalist and physician",
@@ -95,6 +119,10 @@
   {
    "year": 1788,
    "year_label": "1788",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sergey Volkonsky",
    "kind": "individual",
    "desc": "Russian major general and Decembrist",
@@ -107,6 +135,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Timrod",
    "kind": "individual",
    "desc": "American and Confederate poet",
@@ -119,6 +151,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Thurber",
    "kind": "individual",
    "desc": "American humorist",
@@ -131,6 +167,10 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jim Morrison",
    "kind": "individual",
    "desc": "American singer, musician, songwriter and poet",
@@ -143,6 +183,10 @@
   {
    "year": 1953,
    "year_label": "1953",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sam Kinison",
    "kind": "individual",
    "desc": "American comic",

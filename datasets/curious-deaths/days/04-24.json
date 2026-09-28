@@ -4,6 +4,9 @@
   {
    "year": 1644,
    "year_label": "1644",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Chongzhen Emperor",
    "kind": "individual",
    "desc": "the last emperor of Ming dynasty",
@@ -17,6 +20,9 @@
   {
    "year": 1671,
    "year_label": "1671",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "François Vatel",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Athanasios Diakos",
    "kind": "individual",
    "desc": "Greek military commander",
@@ -43,6 +52,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lucy Maud Montgomery",
    "kind": "individual",
    "desc": "OBE, Canadian author",
@@ -56,6 +68,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vladimir Komarov",
    "kind": "individual",
    "desc": "Soviet cosmonaut",
@@ -69,6 +84,9 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pete Ham",
    "kind": "individual",
    "desc": "Welsh musician and songwriter",
@@ -84,6 +102,10 @@
   {
    "year": 1533,
    "year_label": "1533",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William the Silent",
    "kind": "individual",
    "desc": "Prince of Orange",
@@ -96,6 +118,10 @@
   {
    "year": 1851,
    "year_label": "1851",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Morgan Earp",
    "kind": "individual",
    "desc": "American lawman",

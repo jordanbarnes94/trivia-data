@@ -4,6 +4,9 @@
   {
    "year": 1268,
    "year_label": "1268",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Conradin",
    "kind": "individual",
    "desc": "last direct heir of the House of Hohenstaufen",
@@ -17,6 +20,9 @@
   {
    "year": 1618,
    "year_label": "1618",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Walter Raleigh",
    "kind": "individual",
    "desc": "English poet, soldier and courtier",
@@ -30,6 +36,9 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leon Czolgosz",
    "kind": "individual",
    "desc": "assassin of U.S. President William McKinley",
@@ -43,6 +52,9 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis B. Mayer",
    "kind": "individual",
    "desc": "Canadian-American film producer, co-founder of Metro-Goldwyn-Mayer",
@@ -58,6 +70,10 @@
   {
    "year": 1507,
    "year_label": "1507",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Fernando Álvarez de Toledo, 3rd Duke of Alba",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Velma Barfield",
    "kind": "individual",
    "desc": "American serial killer",

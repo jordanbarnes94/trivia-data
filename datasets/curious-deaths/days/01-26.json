@@ -4,6 +4,9 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Lovell Beddoes",
    "kind": "individual",
    "desc": "English poet, dramatist and physician",
@@ -17,6 +20,9 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vladimir Kappel",
    "kind": "individual",
    "desc": "White Russian military leader",
@@ -30,6 +36,9 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alva Belmont",
    "kind": "individual",
    "desc": "American socialite and women's suffrage activist",
@@ -43,6 +52,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Felix Hausdorff",
    "kind": "individual",
    "desc": "German mathematician",
@@ -56,6 +68,9 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lucky Luciano",
    "kind": "individual",
    "desc": "Italian-American gangster",
@@ -69,6 +84,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tom Lonergan",
    "kind": "individual",
    "desc": "American scuba diver",
@@ -84,6 +102,10 @@
   {
    "year": 1731,
    "year_label": "1731",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Lee",
    "kind": "individual",
    "desc": "Continental Army general",
@@ -96,6 +118,10 @@
   {
    "year": 1763,
    "year_label": "1763",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles XIV John",
    "kind": "individual",
    "desc": "King of Sweden and Norway",
@@ -108,6 +134,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Policarpa Salavarrieta",
    "kind": "individual",
    "desc": "Neogranadine seamstress and spy",
@@ -120,6 +150,10 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Roy Chapman Andrews",
    "kind": "individual",
    "desc": "American explorer, adventurer and naturalist",
@@ -132,6 +166,10 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicolae Ceaușescu",
    "kind": "individual",
    "desc": "Romanian communist politician, dictator and president of the Romanian Communist Party from 1965 to 1989",

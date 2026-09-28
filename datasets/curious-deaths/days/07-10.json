@@ -4,6 +4,9 @@
   {
    "year": 138,
    "year_label": "138",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hadrian",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1559,
    "year_label": "1559",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Henry II of France",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1584,
    "year_label": "1584",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William the Silent",
    "kind": "individual",
    "desc": "Prince of Orange",
@@ -43,6 +52,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mel Blanc",
    "kind": "individual",
    "desc": "American voice actor and radio personality",
@@ -58,6 +70,10 @@
   {
    "year": 1509,
    "year_label": "1509",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Calvin",
    "kind": "individual",
    "desc": "French theologian and Protestant reformer, principal developer of Calvinism",
@@ -70,6 +86,10 @@
   {
    "year": 1792,
    "year_label": "1792",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick Marryat",
    "kind": "individual",
    "desc": "Royal Navy officer and novelist",
@@ -82,6 +102,10 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marcel Proust",
    "kind": "individual",
    "desc": "French novelist",
@@ -94,6 +118,10 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary McLeod Bethune",
    "kind": "individual",
    "desc": "American educator, stateswoman and civil rights activist",
@@ -106,6 +134,10 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Montserrat Grases",
    "kind": "individual",
    "desc": "Spanish Catholic laywoman and venerable",

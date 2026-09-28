@@ -4,6 +4,9 @@
   {
    "year": 1159,
    "year_label": "1159",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Pope Adrian IV",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1715,
    "year_label": "1715",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis XIV",
    "kind": "individual",
    "desc": "king of France",
@@ -30,6 +36,9 @@
   {
    "year": 1776,
    "year_label": "1776",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ludwig Christoph Heinrich Hölty",
    "kind": "individual",
    "desc": "German poet",
@@ -43,6 +52,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anthony T. Kahoʻohanohano",
    "kind": "individual",
    "desc": "United States Army soldier and Medal of Honor recipient",
@@ -56,6 +68,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Chun Byung-in",
    "kind": "individual",
    "desc": "pilot of Korean Air Lines Flight 007",
@@ -71,6 +86,10 @@
   {
    "year": 1703,
    "year_label": "1703",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Battie",
    "kind": "individual",
    "desc": "English psychiatrist",
@@ -83,6 +102,10 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ben L. Salomon",
    "kind": "individual",
    "desc": "United States Army dental officer and Medal of Honor recipient",

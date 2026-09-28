@@ -4,6 +4,9 @@
   {
    "year": 1572,
    "year_label": "1572",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gaspard II de Coligny",
    "kind": "individual",
    "desc": "Admiral of France",
@@ -17,6 +20,9 @@
   {
    "year": 1680,
    "year_label": "1680",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Blood",
    "kind": "individual",
    "desc": "Anglo-Irish officer and desperado",
@@ -30,6 +36,9 @@
   {
    "year": 1683,
    "year_label": "1683",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Owen",
    "kind": "individual",
    "desc": "English Nonconformist church leader and theologian",
@@ -43,6 +52,9 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ronald Knox",
    "kind": "individual",
    "desc": "English Roman Catholic priest and writer",
@@ -58,6 +70,10 @@
   {
    "year": 1631,
    "year_label": "1631",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Philip Henry",
    "kind": "individual",
    "desc": "English Nonconformist clergyman and diarist",
@@ -70,6 +86,10 @@
   {
    "year": 1707,
    "year_label": "1707",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Selina Hastings, Countess of Huntingdon",
    "kind": "individual",
    "desc": "English religious leader",
@@ -82,6 +102,10 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Picton",
    "kind": "individual",
    "desc": "Welsh officer of the British Army",
@@ -94,6 +118,10 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Wilberforce",
    "kind": "individual",
    "desc": "British politician",
@@ -106,6 +134,10 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Theodore Parker",
    "kind": "individual",
    "desc": "American transcendentalist, Unitarian minister and abolitionist",
@@ -118,6 +150,10 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Max Beerbohm",
    "kind": "individual",
    "desc": "English essayist, parodist and caricaturist",
@@ -130,6 +166,10 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Christine Chubbuck",
    "kind": "individual",
    "desc": null,
@@ -142,6 +182,10 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Marc Aaronson",
    "kind": "individual",
    "desc": null,

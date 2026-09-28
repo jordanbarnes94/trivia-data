@@ -4,6 +4,9 @@
   {
    "year": 1619,
    "year_label": "1619",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johan van Oldenbarnevelt",
    "kind": "individual",
    "desc": "Dutch statesman",
@@ -17,6 +20,9 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Beilby Porteus",
    "kind": "individual",
    "desc": "Bishop of London and abolitionist",
@@ -30,6 +36,9 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Georges Cuvier",
    "kind": "individual",
    "desc": "French naturalist and zoologist",
@@ -43,6 +52,9 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "George Murchison",
    "kind": "individual",
    "desc": null,
@@ -58,6 +70,10 @@
   {
    "year": 1717,
    "year_label": "1717",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maria Theresa",
    "kind": "individual",
    "desc": "Archduchess of Austria and Queen of Hungary and Croatia",
@@ -70,6 +86,10 @@
   {
    "year": 1792,
    "year_label": "1792",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pope Pius IX",
    "kind": "individual",
    "desc": null,
@@ -82,6 +102,10 @@
   {
    "year": 1869,
    "year_label": "1869",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Herbert Rowse Armstrong",
    "kind": "individual",
    "desc": "English solicitor",
@@ -94,6 +118,10 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jim Jones",
    "kind": "individual",
    "desc": "American cult leader and mass murderer",

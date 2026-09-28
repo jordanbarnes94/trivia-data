@@ -4,6 +4,9 @@
   {
    "year": 1380,
    "year_label": "1380",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles V of France",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1701,
    "year_label": "1701",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James II of England",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis XVIII",
    "kind": "individual",
    "desc": "King of France",
@@ -43,6 +52,9 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Grace Aguilar",
    "kind": "individual",
    "desc": "English author",
@@ -56,6 +68,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Bouverie Pusey",
    "kind": "individual",
    "desc": "English churchman, Regius Professor of Hebrew at the University of Oxford",
@@ -69,6 +84,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Vittori",
    "kind": "individual",
    "desc": "United States Marine and Medal of Honor recipient",
@@ -82,6 +100,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Art Scholl",
    "kind": "individual",
    "desc": "American aerobatic pilot",
@@ -97,6 +118,10 @@
   {
    "year": 1678,
    "year_label": "1678",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry St John, 1st Viscount Bolingbroke",
    "kind": "individual",
    "desc": "English politician",
@@ -109,6 +134,10 @@
   {
    "year": 1796,
    "year_label": "1796",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Augustus Muhlenberg",
    "kind": "individual",
    "desc": "American Episcopal clergyman and educator",
@@ -121,6 +150,10 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Schmorell",
    "kind": "individual",
    "desc": "Russian-German student and member of the White Rose resistance movement",
@@ -133,6 +166,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hannie Schaft",
    "kind": "individual",
    "desc": "Dutch Resistance Fighter",

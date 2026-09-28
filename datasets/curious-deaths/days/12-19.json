@@ -4,6 +4,9 @@
   {
    "year": 1848,
    "year_label": "1848",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Emily Brontë",
    "kind": "individual",
    "desc": "English novelist",
@@ -17,6 +20,9 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bayard Taylor",
    "kind": "individual",
    "desc": "American poet, literary critic, translator, travel author and diplomat",
@@ -30,6 +36,9 @@
   {
    "year": 1905,
    "year_label": "1905",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Mary Ellen Rumble",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Reddy Foster",
    "kind": "individual",
    "desc": "American baseball player",
@@ -56,6 +68,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John K. Lawson",
    "kind": "individual",
    "desc": "Canadian Army officer",
@@ -69,6 +84,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Amery",
    "kind": "individual",
    "desc": "British fascist",
@@ -84,6 +102,10 @@
   {
    "year": 1852,
    "year_label": "1852",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albert A. Michelson",
    "kind": "individual",
    "desc": "American physicist",
@@ -96,6 +118,10 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Şehzade Ahmed Nuri",
    "kind": "individual",
    "desc": "Ottoman prince",
@@ -108,6 +134,10 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Édith Piaf",
    "kind": "individual",
    "desc": "French singer-songwriter",

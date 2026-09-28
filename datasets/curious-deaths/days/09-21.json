@@ -4,6 +4,9 @@
   {
    "year": -19,
    "year_label": "19 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Virgil",
    "kind": "individual",
    "desc": "Roman poet",
@@ -17,6 +20,9 @@
   {
    "year": 1327,
    "year_label": "1327",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Edward II of England",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1558,
    "year_label": "1558",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles V, Holy Roman Emperor",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1745,
    "year_label": "1745",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Gardiner",
    "kind": "individual",
    "desc": "British Army officer",
@@ -56,6 +68,9 @@
   {
    "year": 1796,
    "year_label": "1796",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "François Séverin Marceau",
    "kind": "individual",
    "desc": "French general of the Revolutionary Wars",
@@ -69,6 +84,9 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Walter Scott",
    "kind": "individual",
    "desc": "Scottish novelist and poet",
@@ -84,6 +102,10 @@
   {
    "year": 1452,
    "year_label": "1452",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Girolamo Savonarola",
    "kind": "individual",
    "desc": "Italian Dominican friar",
@@ -96,6 +118,10 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maurice Barrymore",
    "kind": "individual",
    "desc": "British stage actor",
@@ -108,6 +134,10 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "H. G. Wells",
    "kind": "individual",
    "desc": "English author and futurist",
@@ -120,6 +150,10 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sergei Yesenin",
    "kind": "individual",
    "desc": "Russian lyric poet",

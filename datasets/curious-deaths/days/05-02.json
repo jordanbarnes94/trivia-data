@@ -4,6 +4,9 @@
   {
    "year": 1519,
    "year_label": "1519",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leonardo da Vinci",
    "kind": "individual",
    "desc": "Italian artist and scientist",
@@ -17,6 +20,9 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Beckford",
    "kind": "individual",
    "desc": "English novelist and art collector",
@@ -30,6 +36,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "José Abad Santos",
    "kind": "individual",
    "desc": "fifth Chief Justice of the Philippines, Acting President of the Commonwealth of the Philippines",
@@ -43,6 +52,9 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nancy Astor, Viscountess Astor",
    "kind": "individual",
    "desc": "American-born British politician",
@@ -56,6 +68,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Christina Marie Riggs",
    "kind": "individual",
    "desc": "American murderer",
@@ -71,6 +86,10 @@
   {
    "year": 1729,
    "year_label": "1729",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Catherine the Great",
    "kind": "individual",
    "desc": "empress of Russia",
@@ -83,6 +102,10 @@
   {
    "year": 1750,
    "year_label": "1750",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John André",
    "kind": "individual",
    "desc": "British Army officer",
@@ -95,6 +118,10 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Jesse William Lazear",
    "kind": "individual",
    "desc": null,
@@ -107,6 +134,10 @@
   {
    "year": 1892,
    "year_label": "1892",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Manfred von Richthofen",
    "kind": "individual",
    "desc": "or the Red Baron",

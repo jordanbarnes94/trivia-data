@@ -4,6 +4,9 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Wirz",
    "kind": "individual",
    "desc": "Confederate States Army officer",
@@ -17,6 +20,9 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mustafa Kemal Atatürk",
    "kind": "individual",
    "desc": "President of Turkey",
@@ -30,6 +36,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Karl Gravell",
    "kind": "individual",
    "desc": "GC, Royal Canadian Air Force Leading Aircraftman",
@@ -43,6 +52,9 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ernest M. McSorley",
    "kind": "individual",
    "desc": "Canadian sailor and captain of SS Edmund Fitzgerald",
@@ -58,6 +70,10 @@
   {
    "year": 1483,
    "year_label": "1483",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Martin Luther",
    "kind": "individual",
    "desc": "German theologian who started the Protestant Reformation",
@@ -70,6 +86,10 @@
   {
    "year": 1728,
    "year_label": "1728",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Oliver Goldsmith",
    "kind": "individual",
    "desc": "Anglo-Irish novelist, playwright and poet",
@@ -82,6 +102,10 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Friedrich Schiller",
    "kind": "individual",
    "desc": "German writer, philosopher and physician",
@@ -94,6 +118,10 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Blum",
    "kind": "individual",
    "desc": "German democratic politician and revolutionist",
@@ -106,6 +134,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Patrick Pearse",
    "kind": "individual",
    "desc": "Irish author and revolutionary",
@@ -118,6 +150,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vachel Lindsay",
    "kind": "individual",
    "desc": "American poet",
@@ -130,6 +166,10 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lazar Kaganovich",
    "kind": "individual",
    "desc": "Soviet politician",

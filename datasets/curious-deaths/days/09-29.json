@@ -4,6 +4,9 @@
   {
    "year": 1703,
    "year_label": "1703",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles de Saint-Évremond",
    "kind": "individual",
    "desc": "French soldier, author and hedonist",
@@ -17,6 +20,9 @@
   {
    "year": 1851,
    "year_label": "1851",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paul-Thérèse-David d'Astros",
    "kind": "individual",
    "desc": "French Roman Catholic cardinal and archbishop",
@@ -30,6 +36,9 @@
   {
    "year": 1902,
    "year_label": "1902",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Émile Zola",
    "kind": "individual",
    "desc": "French novelist, playwright and journalist",
@@ -43,6 +52,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Milo Lemert",
    "kind": "individual",
    "desc": "United States Army soldier and recipient of the Medal of Honor",
@@ -56,6 +68,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Matangini Hazra",
    "kind": "individual",
    "desc": "Indian revolutionary",
@@ -71,6 +86,10 @@
   {
    "year": -106,
    "year_label": "106 BC",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pompey",
    "kind": "individual",
    "desc": "Roman general and statesman",
@@ -83,6 +102,10 @@
   {
    "year": 1511,
    "year_label": "1511",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Michael Servetus",
    "kind": "individual",
    "desc": "Spanish theologian, physician and humanist",
@@ -95,6 +118,10 @@
   {
    "year": 1547,
    "year_label": "1547",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Miguel de Cervantes",
    "kind": "individual",
    "desc": "Spanish novelist",
@@ -107,6 +134,10 @@
   {
    "year": 1639,
    "year_label": "1639",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Russell, Lord Russell",
    "kind": "individual",
    "desc": null,
@@ -119,6 +150,10 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Horatio Nelson, 1st Viscount Nelson",
    "kind": "individual",
    "desc": "Royal Navy admiral",
@@ -131,6 +166,10 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ernest M. McSorley",
    "kind": "individual",
    "desc": "Canadian sailor and captain of SS Edmund Fitzgerald",
@@ -143,6 +182,10 @@
   {
    "year": 1952,
    "year_label": "1952",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Arthur Gary Bishop",
    "kind": "individual",
    "desc": "American convicted sex offender and serial killer",

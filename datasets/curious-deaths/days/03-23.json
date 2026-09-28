@@ -4,6 +4,9 @@
   {
    "year": 59,
    "year_label": "59",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Agrippina the Younger",
    "kind": "individual",
    "desc": "mother of Nero",
@@ -17,6 +20,9 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eduardo Abaroa",
    "kind": "individual",
    "desc": "Bolivian hero of the War of the Pacific",
@@ -30,6 +36,9 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lala",
    "kind": "individual",
    "desc": "VC, Indian World War I Victoria Cross recipient",
@@ -43,6 +52,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bhagat Singh",
    "kind": "individual",
    "desc": "Indian revolutionary and Socialist, founder of Hindustan Socialist republican association",
@@ -56,6 +68,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Valentin Bondarenko",
    "kind": "individual",
    "desc": "Soviet cosmonaut",
@@ -69,6 +84,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "75 people on board Aeroflot Flight 593",
    "kind": "group",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 1749,
    "year_label": "1749",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pierre-Simon Laplace",
    "kind": "individual",
    "desc": "French scholar and polymath",
@@ -96,6 +118,10 @@
   {
    "year": 1921,
    "year_label": "1921",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Donald Campbell",
    "kind": "individual",
    "desc": "British racer",

@@ -4,6 +4,9 @@
   {
    "year": 1804,
    "year_label": "1804",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Thomas Millwood",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Constance Spry",
    "kind": "individual",
    "desc": "OBE, British educator, florist and author",
@@ -30,6 +36,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "John A. Byrnes, Richard Leroy McKinley, and Richard C. Legg",
    "kind": "group",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1970,
    "year_label": "1970",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edwarda O'Bara",
    "kind": "individual",
    "desc": "American high school student",
@@ -56,6 +68,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Conrad Hilton",
    "kind": "individual",
    "desc": "American hotelier",
@@ -71,6 +86,10 @@
   {
    "year": -106,
    "year_label": "106 BC",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cicero",
    "kind": "individual",
    "desc": "Roman statesman",
@@ -83,6 +102,10 @@
   {
    "year": 1698,
    "year_label": "1698",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pietro Metastasio",
    "kind": "individual",
    "desc": "Italian poet and librettist",
@@ -95,6 +118,10 @@
   {
    "year": 1773,
    "year_label": "1773",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Gadsby",
    "kind": "individual",
    "desc": "English Baptist pastor",
@@ -107,6 +134,10 @@
   {
    "year": 1839,
    "year_label": "1839",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Harry C. Egbert",
    "kind": "individual",
    "desc": "United States Army officer",
@@ -119,6 +150,10 @@
   {
    "year": 1840,
    "year_label": "1840",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Father Damien",
    "kind": "individual",
    "desc": "SS.CC., Belgian Roman Catholic priest, minister to people with leprosy in the Hawaiian Kingdom",
@@ -131,6 +166,10 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Clement Attlee",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",
@@ -143,6 +182,10 @@
   {
    "year": 1892,
    "year_label": "1892",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "J. R. R. Tolkien",
    "kind": "individual",
    "desc": "English writer and academic",

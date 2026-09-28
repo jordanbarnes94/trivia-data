@@ -4,6 +4,9 @@
   {
    "year": 1410,
    "year_label": "1410",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Martin of Aragon",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1740,
    "year_label": "1740",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick William I of Prussia",
    "kind": "individual",
    "desc": "King in Prussia and Elector of Brandenburg",
@@ -30,6 +36,9 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Haydn",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -43,6 +52,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Herbert Rowse Armstrong",
    "kind": "individual",
    "desc": "English solicitor",
@@ -56,6 +68,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Timothy Leary",
    "kind": "individual",
    "desc": "American psychologist and writer",
@@ -71,6 +86,10 @@
   {
    "year": 1162,
    "year_label": "1162",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Genghis Khan",
    "kind": "individual",
    "desc": "warlord and khan of Mongolia",
@@ -83,6 +102,10 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Walt Whitman",
    "kind": "individual",
    "desc": "American poet",
@@ -95,6 +118,10 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pope Pius XI",
    "kind": "individual",
    "desc": "Italian Roman Catholic prelate and Pope",

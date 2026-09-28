@@ -4,6 +4,9 @@
   {
    "year": 1803,
    "year_label": "1803",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jean-François de La Harpe",
    "kind": "individual",
    "desc": "French playwright, writer and literary critic",
@@ -17,6 +20,9 @@
   {
    "year": 1992,
    "year_label": "1992",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johnny Frank Garrett",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -32,6 +38,10 @@
   {
    "year": 1657,
    "year_label": "1657",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bernard Le Bovier de Fontenelle",
    "kind": "individual",
    "desc": "French author",
@@ -44,6 +54,10 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Edison",
    "kind": "individual",
    "desc": "American inventor",
@@ -56,6 +70,10 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Moses Annenberg",
    "kind": "individual",
    "desc": "American newspaper publisher",
@@ -68,6 +86,10 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Max Baer",
    "kind": "individual",
    "desc": "American boxer",
@@ -80,6 +102,10 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gene Vincent",
    "kind": "individual",
    "desc": "American rock and roll and rockabilly musician",
@@ -92,6 +118,10 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hank Gathers",
    "kind": "individual",
    "desc": "American basketball player",

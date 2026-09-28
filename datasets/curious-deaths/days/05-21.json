@@ -4,6 +4,9 @@
   {
    "year": 1542,
    "year_label": "1542",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hernando de Soto",
    "kind": "individual",
    "desc": "Spanish explorer and conquistador",
@@ -17,6 +20,9 @@
   {
    "year": 1650,
    "year_label": "1650",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Graham, 1st Marquess of Montrose",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1690,
    "year_label": "1690",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Eliot",
    "kind": "individual",
    "desc": "Puritan missionary to the American Indians, founder of Roxbury Latin School",
@@ -43,6 +52,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jane Addams",
    "kind": "individual",
    "desc": "American settlement and temperance activist, social worker and author",
@@ -56,6 +68,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Jason Findley",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rajiv Gandhi",
    "kind": "individual",
    "desc": "former Prime Minister of India",
@@ -84,6 +102,10 @@
   {
    "year": 1688,
    "year_label": "1688",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Pope",
    "kind": "individual",
    "desc": "English poet",
@@ -96,6 +118,10 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Raymond Hamilton",
    "kind": "individual",
    "desc": "member of Barrow Gang",

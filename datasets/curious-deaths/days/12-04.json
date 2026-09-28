@@ -4,6 +4,9 @@
   {
    "year": 1595,
    "year_label": "1595",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Whitaker",
    "kind": "individual",
    "desc": "Calvinistic Anglican churchman, academic and theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1642,
    "year_label": "1642",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cardinal Richelieu",
    "kind": "individual",
    "desc": "French clergyman and statesman",
@@ -30,6 +36,9 @@
   {
    "year": 1679,
    "year_label": "1679",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Hobbes",
    "kind": "individual",
    "desc": "English philosopher",
@@ -43,6 +52,9 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Webster",
    "kind": "individual",
    "desc": "British priest in the Church of England and theological writer",
@@ -56,6 +68,9 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jesse L. Brown",
    "kind": "individual",
    "desc": "United States Naval Aviator",
@@ -71,6 +86,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Carlyle",
    "kind": "individual",
    "desc": "Scottish philosopher and author",
@@ -83,6 +102,10 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Samuel Butler",
    "kind": "individual",
    "desc": "English novelist",
@@ -95,6 +118,10 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edith Cavell",
    "kind": "individual",
    "desc": "British nurse",
@@ -107,6 +134,10 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rainer Maria Rilke",
    "kind": "individual",
    "desc": "Bohemian-Austrian poet and novelist",
@@ -119,6 +150,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Von Albade Gammon",
    "kind": "individual",
    "desc": "American football fullback fatally injured in game",
@@ -131,6 +166,10 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gary Gilmore",
    "kind": "individual",
    "desc": "American criminal",
@@ -143,6 +182,10 @@
   {
    "year": 1947,
    "year_label": "1947",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Mark Frechette",
    "kind": "individual",
    "desc": null,

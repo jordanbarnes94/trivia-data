@@ -4,6 +4,9 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Boston Custer",
    "kind": "individual",
    "desc": "United States Army civilian contractor, brother of George Armstrong Custer and Thomas Custer",
@@ -17,6 +20,9 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Armstrong Custer",
    "kind": "individual",
    "desc": "United States Army officer",
@@ -30,6 +36,9 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sadi Carnot",
    "kind": "individual",
    "desc": "President of France",
@@ -43,6 +52,9 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Seaman",
    "kind": "individual",
    "desc": "British racing driver",
@@ -56,6 +68,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hillel Slovak",
    "kind": "individual",
    "desc": "Israeli-American musician",
@@ -71,6 +86,10 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Erskine Childers",
    "kind": "individual",
    "desc": "English-born Irish writer",
@@ -83,6 +102,10 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis Mountbatten, 1st Earl Mountbatten of Burma",
    "kind": "individual",
    "desc": "British Royal Navy officer and statesman",

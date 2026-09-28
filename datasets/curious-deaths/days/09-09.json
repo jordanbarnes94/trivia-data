@@ -4,6 +4,9 @@
   {
    "year": 1087,
    "year_label": "1087",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William the Conqueror",
    "kind": "individual",
    "desc": "King of England",
@@ -17,6 +20,9 @@
   {
    "year": 1583,
    "year_label": "1583",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Humphrey Gilbert",
    "kind": "individual",
    "desc": "English adventurer and explorer",
@@ -30,6 +36,9 @@
   {
    "year": 1921,
    "year_label": "1921",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Virginia Rappe",
    "kind": "individual",
    "desc": "American model and silent film actress",
@@ -43,6 +52,9 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Roger Baldwin and Peter Holmes",
    "kind": "group",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1976,
    "year_label": "1976",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mao Zedong",
    "kind": "individual",
    "desc": "Chinese statesman and revolutionary",
@@ -71,6 +86,10 @@
   {
    "year": 1585,
    "year_label": "1585",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cardinal Richelieu",
    "kind": "individual",
    "desc": "French clergyman and statesman",
@@ -83,6 +102,10 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Fred C. Roberts",
    "kind": "individual",
    "desc": "English physician and medical missionary",

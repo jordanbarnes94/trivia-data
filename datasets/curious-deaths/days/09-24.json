@@ -4,6 +4,9 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Takamori Saigo",
    "kind": "individual",
    "desc": "Japanese general",
@@ -17,6 +20,9 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dmitry Bogrov",
    "kind": "individual",
    "desc": "assassin of Russian Prime Minister Pyotr Stolypin",
@@ -30,6 +36,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dr. Seuss",
    "kind": "individual",
    "desc": "American children's author, political cartoonist, illustrator, poet, animator, and filmmaker",
@@ -45,6 +54,10 @@
   {
    "year": 15,
    "year_label": "15",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vitellius",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -57,6 +70,10 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Simeon",
    "kind": "individual",
    "desc": "English evangelical Anglican clergyman",
@@ -69,6 +86,10 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "F. Scott Fitzgerald",
    "kind": "individual",
    "desc": "American novelist",
@@ -81,6 +102,10 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jim Henson",
    "kind": "individual",
    "desc": "American puppeteer",
@@ -93,6 +118,10 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Phil Hartman",
    "kind": "individual",
    "desc": "Canadian-American actor, comedian, screenwriter, and graphic designer",

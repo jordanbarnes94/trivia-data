@@ -4,6 +4,9 @@
   {
    "year": 397,
    "year_label": "397",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ambrose",
    "kind": "individual",
    "desc": "Bishop of Milan",
@@ -17,6 +20,9 @@
   {
    "year": 1588,
    "year_label": "1588",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick II of Denmark",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1774,
    "year_label": "1774",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Oliver Goldsmith",
    "kind": "individual",
    "desc": "Anglo-Irish novelist, playwright and poet",
@@ -43,6 +52,9 @@
   {
    "year": 1831,
    "year_label": "1831",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Quick",
    "kind": "individual",
    "desc": "English actor",
@@ -56,6 +68,10 @@
   {
    "year": 1841,
    "year_label": "1841",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "William Henry Harrison",
    "kind": "individual",
    "desc": "president of the United States",
@@ -69,6 +85,9 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Saint Francisco Marto",
    "kind": "individual",
    "desc": "Portuguese Marian mysticist",
@@ -82,6 +101,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Martin Luther King Jr.",
    "kind": "individual",
    "desc": "American civil rights activist",
@@ -95,6 +117,9 @@
   {
    "year": 1969,
    "year_label": "1969",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Félix Conde Falcón",
    "kind": "individual",
    "desc": "United States Army soldier and Medal of Honor recipient",
@@ -108,6 +133,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Zulfikar Ali Bhutto",
    "kind": "individual",
    "desc": "President and Prime Minister of Pakistan",
@@ -123,6 +151,10 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maria II",
    "kind": "individual",
    "desc": "queen regnant of Portugal",

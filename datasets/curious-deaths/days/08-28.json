@@ -4,6 +4,9 @@
   {
    "year": 1645,
    "year_label": "1645",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hugo Grotius",
    "kind": "individual",
    "desc": "Dutch humanist, diplomat, lawyer, theologian and writer",
@@ -17,6 +20,9 @@
   {
    "year": 1648,
    "year_label": "1648",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Lisle",
    "kind": "individual",
    "desc": "Royalist leader in the English Civil War",
@@ -32,6 +38,10 @@
   {
    "year": 1592,
    "year_label": "1592",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Villiers, 1st Duke of Buckingham",
    "kind": "individual",
    "desc": null,
@@ -44,6 +54,10 @@
   {
    "year": 1749,
    "year_label": "1749",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johann Wolfgang von Goethe",
    "kind": "individual",
    "desc": "German statesman and writer",
@@ -56,6 +70,10 @@
   {
    "year": 1774,
    "year_label": "1774",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Elizabeth Ann Seton",
    "kind": "individual",
    "desc": "SC, American Catholic religious sister and educator",
@@ -68,6 +86,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leo Tolstoy",
    "kind": "individual",
    "desc": "Russian novelist",

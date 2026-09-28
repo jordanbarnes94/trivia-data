@@ -4,6 +4,9 @@
   {
    "year": 1536,
    "year_label": "1536",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Robert Pakington",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1829,
    "year_label": "1829",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sam Patch",
    "kind": "individual",
    "desc": "American daredevil",
@@ -30,6 +36,9 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Simeon",
    "kind": "individual",
    "desc": "English evangelical Anglican clergyman",
@@ -43,6 +52,9 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Etty",
    "kind": "individual",
    "desc": "English artist",
@@ -56,6 +68,9 @@
   {
    "year": 1903,
    "year_label": "1903",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andrew Haswell Green",
    "kind": "individual",
    "desc": "American lawyer, city planner and civic leader",
@@ -69,6 +84,9 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cyril Rattigan",
    "kind": "individual",
    "desc": "English cricketer",
@@ -82,6 +100,9 @@
   {
    "year": 1952,
    "year_label": "1952",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Margaret Wise Brown",
    "kind": "individual",
    "desc": null,
@@ -97,6 +118,10 @@
   {
    "year": 1312,
    "year_label": "1312",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward III of England",
    "kind": "individual",
    "desc": null,
@@ -109,6 +134,10 @@
   {
    "year": 1761,
    "year_label": "1761",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Moore",
    "kind": "individual",
    "desc": "British Army general",
@@ -121,6 +150,10 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Louis Stevenson",
    "kind": "individual",
    "desc": "Scottish author",

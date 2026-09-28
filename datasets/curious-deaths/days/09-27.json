@@ -4,6 +4,9 @@
   {
    "year": 1719,
    "year_label": "1719",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Smalridge",
    "kind": "individual",
    "desc": "Bishop of Bristol",
@@ -17,6 +20,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jorge Chávez",
    "kind": "individual",
    "desc": "Peruvian aviator",
@@ -30,6 +36,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Douglas Albert Munro",
    "kind": "individual",
    "desc": "United States Coast Guardsman and Medal of Honor recipient",
@@ -43,6 +52,9 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Milburn G. Apt",
    "kind": "individual",
    "desc": "American test pilot",
@@ -56,6 +68,9 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Mark Frechette",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cliff Burton",
    "kind": "individual",
    "desc": "American musician",
@@ -84,6 +102,10 @@
   {
    "year": 1627,
    "year_label": "1627",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jacques-Bénigne Bossuet",
    "kind": "individual",
    "desc": "French bishop and theologian",
@@ -96,6 +118,10 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Karl Gravell",
    "kind": "individual",
    "desc": "GC, Royal Canadian Air Force Leading Aircraftman",

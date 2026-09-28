@@ -4,6 +4,9 @@
   {
    "year": 762,
    "year_label": "762",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Li Bai",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1016,
    "year_label": "1016",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Edmund Ironside",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1718,
    "year_label": "1718",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles XII",
    "kind": "individual",
    "desc": "King of Sweden",
@@ -43,6 +52,9 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Harriet Newell",
    "kind": "individual",
    "desc": "American Christian missionary and memoirist",
@@ -56,6 +68,9 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Oscar Wilde",
    "kind": "individual",
    "desc": "Irish playwright",
@@ -69,6 +84,9 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Martha Mansfield",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tiny Tim",
    "kind": "individual",
    "desc": "American musician, ukulele player and musical archivist",
@@ -97,6 +118,10 @@
   {
    "year": 1554,
    "year_label": "1554",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Philip Sidney",
    "kind": "individual",
    "desc": "English poet and soldier",
@@ -109,6 +134,10 @@
   {
    "year": 1594,
    "year_label": "1594",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Cosin",
    "kind": "individual",
    "desc": "English churchman",
@@ -121,6 +150,10 @@
   {
    "year": 1614,
    "year_label": "1614",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Howard, 1st Viscount Stafford",
    "kind": "individual",
    "desc": null,
@@ -133,6 +166,10 @@
   {
    "year": 1667,
    "year_label": "1667",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jonathan Swift",
    "kind": "individual",
    "desc": "Anglo-Irish author and cleric",
@@ -145,6 +182,10 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Farr",
    "kind": "individual",
    "desc": "British epidemiologist",
@@ -157,6 +198,10 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mark Twain",
    "kind": "individual",
    "desc": "American novelist",
@@ -169,6 +214,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lucy Maud Montgomery",
    "kind": "individual",
    "desc": "OBE, Canadian author",
@@ -181,6 +230,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Winston Churchill",
    "kind": "individual",
    "desc": "prime minister of the United Kingdom",
@@ -193,6 +246,10 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Maj. Kenneth D. McCullar",
    "kind": "individual",
    "desc": null,
@@ -205,6 +262,10 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Abbie Hoffman",
    "kind": "individual",
    "desc": "American political and social activist",
@@ -217,6 +278,10 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Knud Enemark Jensen",
    "kind": "individual",
    "desc": "Danish cyclist",
@@ -229,6 +294,10 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tom Simpson",
    "kind": "individual",
    "desc": "British cyclist",

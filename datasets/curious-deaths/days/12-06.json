@@ -4,6 +4,9 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Washington Barber",
    "kind": "individual",
    "desc": "American abolitionist",
@@ -17,6 +20,9 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jefferson Davis",
    "kind": "individual",
    "desc": "President of the Confederate States of America",
@@ -30,6 +36,9 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vince Coleman",
    "kind": "individual",
    "desc": "Canadian train dispatcher",
@@ -43,6 +52,9 @@
   {
    "year": 1949,
    "year_label": "1949",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lead Belly",
    "kind": "individual",
    "desc": "American folk and blues singer, musician and songwriter",
@@ -56,6 +68,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marc Lépine",
    "kind": "individual",
    "desc": "Canadian perpetrator of the École Polytechnique massacre",
@@ -69,6 +84,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Daniel Hittle",
    "kind": "individual",
    "desc": "American serial killer",
@@ -84,6 +102,10 @@
   {
    "year": 1721,
    "year_label": "1721",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Guillaume-Chrétien de Lamoignon de Malesherbes",
    "kind": "individual",
    "desc": "French statesman and government minister, defense counsel of Louis XVI",
@@ -96,6 +118,10 @@
   {
    "year": 1738,
    "year_label": "1738",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Ledyard",
    "kind": "individual",
    "desc": "American soldier, lieutenant colonel in the Connecticut militia",
@@ -108,6 +134,10 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Luigi Lablache",
    "kind": "individual",
    "desc": "Italian operatic bass",

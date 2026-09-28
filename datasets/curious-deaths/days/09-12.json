@@ -4,6 +4,9 @@
   {
    "year": 1185,
    "year_label": "1185",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andronikos I Komnenos",
    "kind": "individual",
    "desc": "Byzantine Emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1764,
    "year_label": "1764",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jean-Philippe Rameau",
    "kind": "individual",
    "desc": "French composer",
@@ -30,6 +36,9 @@
   {
    "year": 1806,
    "year_label": "1806",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Thurlow, 1st Baron Thurlow",
    "kind": "individual",
    "desc": "British lawyer and politician",
@@ -43,6 +52,9 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gebhard Leberecht von Blücher",
    "kind": "individual",
    "desc": "Prussian field marshal",
@@ -56,6 +68,9 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Park Benjamin Sr.",
    "kind": "individual",
    "desc": "American poet, journalist and editor",
@@ -69,6 +84,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Winston Ide",
    "kind": "individual",
    "desc": "Australian rugby union player",
@@ -82,6 +100,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ricardo López",
    "kind": "individual",
    "desc": "Uruguayan-born American pest controller",
@@ -97,6 +118,10 @@
   {
    "year": 1745,
    "year_label": "1745",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "François-Jean de la Barre",
    "kind": "individual",
    "desc": "French nobleman",

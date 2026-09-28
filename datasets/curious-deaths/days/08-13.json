@@ -4,6 +4,9 @@
   {
    "year": 363,
    "year_label": "363",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Cassian of Imola",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1667,
    "year_label": "1667",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jeremy Taylor",
    "kind": "individual",
    "desc": "Anglican divine",
@@ -30,6 +36,9 @@
   {
    "year": 1831,
    "year_label": "1831",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dic Penderyn",
    "kind": "individual",
    "desc": "Welsh laborer and coal miner",
@@ -43,6 +52,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "H. G. Wells",
    "kind": "individual",
    "desc": "English author and futurist",
@@ -56,6 +68,9 @@
   {
    "year": 1958,
    "year_label": "1958",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jack Cole",
    "kind": "individual",
    "desc": "American cartoonist, creator of Plastic Man",
@@ -69,6 +84,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hayato Ikeda",
    "kind": "individual",
    "desc": "former Prime Minister of Japan",
@@ -84,6 +102,10 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfred Hitchcock",
    "kind": "individual",
    "desc": "KBE, English filmmaker",
@@ -96,6 +118,10 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bill Masterton",
    "kind": "individual",
    "desc": "Canadian American ice hockey player",

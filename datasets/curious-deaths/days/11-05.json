@@ -4,6 +4,9 @@
   {
    "year": 1678,
    "year_label": "1678",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Giovan Battista Nani",
    "kind": "individual",
    "desc": "Venetian ambassador, librarian and historian",
@@ -17,6 +20,9 @@
   {
    "year": 1854,
    "year_label": "1854",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Cathcart",
    "kind": "individual",
    "desc": "British general and diplomat",
@@ -30,6 +36,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George M. Cohan",
    "kind": "individual",
    "desc": "American entertainer",
@@ -43,6 +52,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johnny Horton",
    "kind": "individual",
    "desc": "American country, honky tonk and rockabilly musician",
@@ -56,6 +68,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Truls Hellevik",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Isaiah Berlin",
    "kind": "individual",
    "desc": "Russian-British philosopher",
@@ -84,6 +102,10 @@
   {
    "year": 1798,
    "year_label": "1798",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marie-Caroline of Bourbon-Two Sicilies, Duchess of Berry",
    "kind": "individual",
    "desc": null,
@@ -96,6 +118,11 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Jon-Erik Hexum",
    "kind": "individual",
    "desc": "American actor and model",

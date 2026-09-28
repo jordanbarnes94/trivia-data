@@ -4,6 +4,9 @@
   {
    "year": 899,
    "year_label": "899",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred the Great",
    "kind": "individual",
    "desc": "king of the Anglo-Saxons",
@@ -17,6 +20,9 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alden Bradford",
    "kind": "individual",
    "desc": "American politician, clergyman and author",
@@ -30,6 +36,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Park Chung Hee",
    "kind": "individual",
    "desc": "3rd President of South Korea",
@@ -45,6 +54,10 @@
   {
    "year": 1684,
    "year_label": "1684",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kurt Christoph Graf von Schwerin",
    "kind": "individual",
    "desc": "Prussian Generalfeldmarschall",
@@ -57,6 +70,10 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Georges Danton",
    "kind": "individual",
    "desc": "leading figure in the French Revolution",
@@ -69,6 +86,11 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Leon Trotsky",
    "kind": "individual",
    "desc": "Soviet revolutionary",
@@ -81,6 +103,10 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mohammad Reza Pahlavi",
    "kind": "individual",
    "desc": "last Shah of Iran",
@@ -93,6 +119,10 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marc Lépine",
    "kind": "individual",
    "desc": "Canadian perpetrator of the École Polytechnique massacre",

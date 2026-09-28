@@ -4,6 +4,9 @@
   {
    "year": 1634,
    "year_label": "1634",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Coke",
    "kind": "individual",
    "desc": "English barrister, judge and politician",
@@ -17,6 +20,9 @@
   {
    "year": 1658,
    "year_label": "1658",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Oliver Cromwell",
    "kind": "individual",
    "desc": "English general and statesman, Lord Protector",
@@ -30,6 +36,9 @@
   {
    "year": 1667,
    "year_label": "1667",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alonso Cano",
    "kind": "individual",
    "desc": "Spanish painter, architect and sculptor",
@@ -43,6 +52,9 @@
   {
    "year": 1792,
    "year_label": "1792",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marie Thérèse Louise of Savoy, Princesse de Lamballe",
    "kind": "individual",
    "desc": "confidante of Marie Antoinette",
@@ -56,6 +68,9 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Zhang Zongchang",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "E. E. Cummings",
    "kind": "individual",
    "desc": "American poet",
@@ -82,6 +100,9 @@
   {
    "year": 1970,
    "year_label": "1970",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vince Lombardi",
    "kind": "individual",
    "desc": "American football coach",

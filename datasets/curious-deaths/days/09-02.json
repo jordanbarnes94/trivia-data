@@ -4,6 +4,9 @@
   {
    "year": 1791,
    "year_label": "1791",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Frantisek Kotzwara",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Annesley West",
    "kind": "individual",
    "desc": "VC DSO1 MC, British Army officer",
@@ -30,6 +36,9 @@
   {
    "year": 1973,
    "year_label": "1973",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "J. R. R. Tolkien",
    "kind": "individual",
    "desc": "English writer and academic",
@@ -43,6 +52,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Urs Zimmermann",
    "kind": "individual",
    "desc": "pilot of Swissair Flight 111",
@@ -58,6 +70,10 @@
   {
    "year": 1726,
    "year_label": "1726",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Howard",
    "kind": "individual",
    "desc": "English philanthropist and prison reformer",
@@ -70,6 +86,10 @@
   {
    "year": 1740,
    "year_label": "1740",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johann Georg Jacobi",
    "kind": "individual",
    "desc": "German poet",
@@ -82,6 +102,10 @@
   {
    "year": 1817,
    "year_label": "1817",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lewis Benedict",
    "kind": "individual",
    "desc": "American politician and Union colonel of the American Civil War",
@@ -94,6 +118,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "An Jung-geun",
    "kind": "individual",
    "desc": "Korean independence fighter and assassin of Ito Hirobumi",
@@ -106,6 +134,10 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Christina Marie Riggs",
    "kind": "individual",
    "desc": "American murderer",

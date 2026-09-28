@@ -4,6 +4,9 @@
   {
    "year": 1542,
    "year_label": "1542",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James V",
    "kind": "individual",
    "desc": "of Scotland",
@@ -17,6 +20,9 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sitting Bull",
    "kind": "individual",
    "desc": "Hunkpapa Lakota leader",
@@ -30,6 +36,9 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Valery Chkalov",
    "kind": "individual",
    "desc": "Soviet test pilot",
@@ -43,6 +52,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Norman F. Baesall",
    "kind": "individual",
    "desc": "U.S. Army Air Force lieutenant colonel",
@@ -56,6 +68,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "W. Somerset Maugham",
    "kind": "individual",
    "desc": "English author",
@@ -69,6 +84,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Walt Disney",
    "kind": "individual",
    "desc": "American animation pioneer and businessman",
@@ -82,6 +100,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Eldon Smith",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -97,6 +118,10 @@
   {
    "year": 37,
    "year_label": "37",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nero",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -109,6 +134,10 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ralph Hemingway",
    "kind": "individual",
    "desc": "English cricketer",

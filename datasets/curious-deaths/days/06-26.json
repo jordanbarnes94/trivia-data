@@ -4,6 +4,9 @@
   {
    "year": 363,
    "year_label": "363",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Julian",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1541,
    "year_label": "1541",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francisco Pizarro",
    "kind": "individual",
    "desc": "Spanish conquistador",
@@ -30,6 +36,9 @@
   {
    "year": 1691,
    "year_label": "1691",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Flavel",
    "kind": "individual",
    "desc": "English Presbyterian clergyman and author",
@@ -43,6 +52,9 @@
   {
    "year": 1830,
    "year_label": "1830",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George IV",
    "kind": "individual",
    "desc": "King of the United Kingdom of Great Britain and Ireland",
@@ -56,6 +68,9 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George David Cummins",
    "kind": "individual",
    "desc": "American Anglican bishop, founder of the Reformed Episcopal Church",
@@ -71,6 +86,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Salvador Allende Gossens",
    "kind": "individual",
    "desc": "Marxist President of Chile",

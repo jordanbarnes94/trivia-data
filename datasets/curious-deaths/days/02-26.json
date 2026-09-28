@@ -4,6 +4,9 @@
   {
    "year": 1577,
    "year_label": "1577",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eric XIV",
    "kind": "individual",
    "desc": "ex-King of Sweden",
@@ -19,6 +22,10 @@
   {
    "year": 1714,
    "year_label": "1714",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Hervey",
    "kind": "individual",
    "desc": "English clergyman and writer",
@@ -31,6 +38,10 @@
   {
    "year": 1732,
    "year_label": "1732",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francis Marion",
    "kind": "individual",
    "desc": "American military officer",
@@ -43,6 +54,10 @@
   {
    "year": 1786,
    "year_label": "1786",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "François Arago",
    "kind": "individual",
    "desc": "French mathematician, physicist and astronomer",
@@ -55,6 +70,10 @@
   {
    "year": 1802,
    "year_label": "1802",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Victor Hugo",
    "kind": "individual",
    "desc": "French novelist",
@@ -67,6 +86,10 @@
   {
    "year": 1845,
    "year_label": "1845",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander III of Russia",
    "kind": "individual",
    "desc": null,
@@ -79,6 +102,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tex Avery",
    "kind": "individual",
    "desc": "American animator",
@@ -91,6 +118,10 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jackie Gleason",
    "kind": "individual",
    "desc": "American actor, comedian, writer, composer, and conductor",

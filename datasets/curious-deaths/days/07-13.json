@@ -4,6 +4,9 @@
   {
    "year": 1705,
    "year_label": "1705",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Titus Oates",
    "kind": "individual",
    "desc": "English priest and perjurer, fabricator of the \"Popish Plot\"",
@@ -17,6 +20,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jean-Paul Marat",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Emerson H. Liscum",
    "kind": "individual",
    "desc": "United States Army colonel",
@@ -43,6 +52,9 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Mr. and Mrs. Earl J. Dunn",
    "kind": "group",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander Schmorell",
    "kind": "individual",
    "desc": "Russian-German student and member of the White Rose resistance movement",
@@ -69,6 +84,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arnold Schoenberg",
    "kind": "individual",
    "desc": "Austrian-American composer",
@@ -82,6 +100,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tom Simpson",
    "kind": "individual",
    "desc": "British cyclist",
@@ -97,6 +118,10 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert R. Scott",
    "kind": "individual",
    "desc": "United States Navy sailor and Medal of Honor recipient",

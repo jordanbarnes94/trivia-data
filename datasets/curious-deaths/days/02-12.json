@@ -4,6 +4,9 @@
   {
    "year": 1554,
    "year_label": "1554",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lady Jane Grey",
    "kind": "individual",
    "desc": "de facto Queen of England and Ireland",
@@ -17,6 +20,9 @@
   {
    "year": 1789,
    "year_label": "1789",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ethan Allen",
    "kind": "individual",
    "desc": "American patriot and militia general",
@@ -30,6 +36,9 @@
   {
    "year": 1804,
    "year_label": "1804",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Immanuel Kant",
    "kind": "individual",
    "desc": "German philosopher",
@@ -43,6 +52,9 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Friedrich Schleiermacher",
    "kind": "individual",
    "desc": "German Reformed theologian, philosopher and biblical scholar",
@@ -56,6 +68,9 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alice Cary",
    "kind": "individual",
    "desc": "American poet",
@@ -69,6 +84,9 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hans von Bülow",
    "kind": "individual",
    "desc": "German conductor, pianist and composer",
@@ -82,6 +100,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richhpal Ram",
    "kind": "individual",
    "desc": "VC, Indian recipient of the Victoria Cross",
@@ -95,6 +116,9 @@
   {
    "year": 1976,
    "year_label": "1976",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sal Mineo",
    "kind": "individual",
    "desc": "American actor",
@@ -108,6 +132,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles M. Schulz",
    "kind": "individual",
    "desc": "American cartoonist",
@@ -123,6 +150,10 @@
   {
    "year": 1079,
    "year_label": "1079",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Peter Abelard",
    "kind": "individual",
    "desc": "French philosopher and theologian",
@@ -135,6 +166,10 @@
   {
    "year": 1663,
    "year_label": "1663",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cotton Mather",
    "kind": "individual",
    "desc": "New England Puritan minister and author",
@@ -147,6 +182,10 @@
   {
    "year": 1781,
    "year_label": "1781",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Sugden, 1st Baron St Leonards",
    "kind": "individual",
    "desc": "British lawyer, judge and politician",
@@ -159,6 +198,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Abraham Lincoln",
    "kind": "individual",
    "desc": "president of the United States",
@@ -171,6 +214,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Darwin",
    "kind": "individual",
    "desc": "English naturalist and evolutionary",
@@ -183,6 +230,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anna Pavlova",
    "kind": "individual",
    "desc": "Russian prima ballerina, creator of the role of The Dying Swan",
@@ -195,6 +246,10 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Julius Streicher",
    "kind": "individual",
    "desc": "Nazi politician, founder and publisher of Der Stürmer",
@@ -207,6 +262,10 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Chris McCandless",
    "kind": "individual",
    "desc": "American hiker",

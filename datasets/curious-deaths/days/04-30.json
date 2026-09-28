@@ -4,6 +4,9 @@
   {
    "year": 65,
    "year_label": "65",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lucan",
    "kind": "individual",
    "desc": "Roman poet",
@@ -17,6 +20,9 @@
   {
    "year": 1524,
    "year_label": "1524",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pierre Terrail, seigneur de Bayard",
    "kind": "individual",
    "desc": "French knight",
@@ -30,6 +36,9 @@
   {
    "year": 1532,
    "year_label": "1532",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Bainham",
    "kind": "individual",
    "desc": "English lawyer and Protestant reformer",
@@ -43,6 +52,9 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Casey Jones",
    "kind": "individual",
    "desc": "American railroader",
@@ -56,6 +68,9 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "A. E. Housman",
    "kind": "individual",
    "desc": "English classical scholar and poet",
@@ -69,6 +84,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adolf Hitler",
    "kind": "individual",
    "desc": "German Nazi statesman",
@@ -82,6 +100,9 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alben W. Barkley",
    "kind": "individual",
    "desc": "vice-president of the United States",
@@ -95,6 +116,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Marc Aaronson",
    "kind": "individual",
    "desc": null,
@@ -108,6 +132,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Daniel V. Jones",
    "kind": "individual",
    "desc": "American citizen",
@@ -123,6 +150,10 @@
   {
    "year": 1331,
    "year_label": "1331",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gaston III, Count of Foix",
    "kind": "individual",
    "desc": null,
@@ -135,6 +166,10 @@
   {
    "year": 1662,
    "year_label": "1662",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary II of England",
    "kind": "individual",
    "desc": null,
@@ -147,6 +182,10 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kaspar Hauser",
    "kind": "individual",
    "desc": null,
@@ -159,6 +198,10 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joachim von Ribbentrop",
    "kind": "individual",
    "desc": "German politician, Minister of Foreign Affairs of Nazi Germany",
@@ -171,6 +214,10 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johnny Horton",
    "kind": "individual",
    "desc": "American country, honky tonk and rockabilly musician",
@@ -183,6 +230,10 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Michael J. Smith",
    "kind": "individual",
    "desc": "American astronaut",

@@ -4,6 +4,9 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Howard Raymond",
    "kind": "individual",
    "desc": "American educator",
@@ -17,6 +20,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maximilian Kolbe",
    "kind": "individual",
    "desc": "Polish Catholic priest, promoter of veneration of the Immaculate Virgin Mary",
@@ -32,6 +38,10 @@
   {
    "year": 1473,
    "year_label": "1473",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Margaret Pole, Countess of Salisbury",
    "kind": "individual",
    "desc": null,
@@ -44,6 +54,10 @@
   {
    "year": 1552,
    "year_label": "1552",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Paolo Sarpi",
    "kind": "individual",
    "desc": "Venetian historian, prelate, scientist, canon lawyer and statesman",
@@ -56,6 +70,10 @@
   {
    "year": 1688,
    "year_label": "1688",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick William I of Prussia",
    "kind": "individual",
    "desc": "King in Prussia and Elector of Brandenburg",
@@ -68,6 +86,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Park Benjamin Sr.",
    "kind": "individual",
    "desc": "American poet, journalist and editor",
@@ -80,6 +102,10 @@
   {
    "year": 1851,
    "year_label": "1851",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Doc Holliday",
    "kind": "individual",
    "desc": "American gambler and gunfighter",
@@ -92,6 +118,10 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albert Ball",
    "kind": "individual",
    "desc": "VC DSO2 MC, British World War I fighter ace",

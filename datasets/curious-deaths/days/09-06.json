@@ -4,6 +4,9 @@
   {
    "year": 1781,
    "year_label": "1781",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Hotman",
    "kind": "individual",
    "desc": "American soldier",
@@ -17,6 +20,9 @@
   {
    "year": 1781,
    "year_label": "1781",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Ledyard",
    "kind": "individual",
    "desc": "American soldier, lieutenant colonel in the Connecticut militia",
@@ -30,6 +36,9 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arshadu'd-Dawla",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfonso, Prince of Asturias",
    "kind": "individual",
    "desc": "former heir apparent to the throne of Spain",
@@ -56,6 +68,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edmund Gwenn",
    "kind": "individual",
    "desc": "English actor",
@@ -69,6 +84,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Margaret Sanger",
    "kind": "individual",
    "desc": "American birth control activist",
@@ -82,6 +100,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Donald Henry Gaskins",
    "kind": "individual",
    "desc": "American serial killer",
@@ -97,6 +118,10 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Catharine Beecher",
    "kind": "individual",
    "desc": "American educator",
@@ -109,6 +134,10 @@
   {
    "year": 1802,
    "year_label": "1802",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jereboam O. Beauchamp",
    "kind": "individual",
    "desc": "American lawyer and murderer",
@@ -121,6 +150,10 @@
   {
    "year": 1816,
    "year_label": "1816",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francis S. Bartow",
    "kind": "individual",
    "desc": "American and Confederate politician and brigade commander of the American Civil War",
@@ -133,6 +166,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jane Addams",
    "kind": "individual",
    "desc": "American settlement and temperance activist, social worker and author",
@@ -145,6 +182,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lorentzos Mavilis",
    "kind": "individual",
    "desc": "Greek poet",

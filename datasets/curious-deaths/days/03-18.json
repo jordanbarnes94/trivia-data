@@ -4,6 +4,9 @@
   {
    "year": 1314,
    "year_label": "1314",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jacques de Molay",
    "kind": "individual",
    "desc": "last Grand Master of the Knights Templar",
@@ -17,6 +20,9 @@
   {
    "year": 1768,
    "year_label": "1768",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Laurence Sterne",
    "kind": "individual",
    "desc": "Anglo-Irish novelist and Anglican cleric",
@@ -30,6 +36,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Morgan Earp",
    "kind": "individual",
    "desc": "American lawman",
@@ -43,6 +52,9 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George I",
    "kind": "individual",
    "desc": "king of Greece",
@@ -58,6 +70,10 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John C. Calhoun",
    "kind": "individual",
    "desc": "vice president of the United States",
@@ -70,6 +86,10 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Grover Cleveland",
    "kind": "individual",
    "desc": "president of the United States",
@@ -82,6 +102,10 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wilfred Owen",
    "kind": "individual",
    "desc": "English soldier and poet",

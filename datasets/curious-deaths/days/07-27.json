@@ -4,6 +4,9 @@
   {
    "year": 1631,
    "year_label": "1631",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Bruce of Kinnaird",
    "kind": "individual",
    "desc": "Moderator of the General Assembly of the Church of Scotland",
@@ -17,6 +20,9 @@
   {
    "year": 1675,
    "year_label": "1675",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henri de La Tour d'Auvergne, Viscount of Turenne",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Lowndes Yancey",
    "kind": "individual",
    "desc": "Confederate journalist, politician, orator and diplomat",
@@ -43,6 +52,9 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "George Taylor",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Gustav Kobbé",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ferruccio Busoni",
    "kind": "individual",
    "desc": "Italian composer",
@@ -82,6 +100,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gertrude Stein",
    "kind": "individual",
    "desc": "American writer",
@@ -95,6 +116,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mohammad Reza Pahlavi",
    "kind": "individual",
    "desc": "last Shah of Iran",
@@ -108,6 +132,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kevin Carter",
    "kind": "individual",
    "desc": "South African photojournalist",
@@ -123,6 +150,10 @@
   {
    "year": 1483,
    "year_label": "1483",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stephen Gardiner",
    "kind": "individual",
    "desc": "English bishop and politician",
@@ -135,6 +166,10 @@
   {
    "year": 1768,
    "year_label": "1768",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charlotte Corday",
    "kind": "individual",
    "desc": null,
@@ -147,6 +182,10 @@
   {
    "year": 1777,
    "year_label": "1777",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Campbell",
    "kind": "individual",
    "desc": "Scottish poet",

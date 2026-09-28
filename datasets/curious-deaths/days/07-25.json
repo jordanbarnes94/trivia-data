@@ -4,6 +4,9 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Bernhard Basedow",
    "kind": "individual",
    "desc": "German educational reformer, teacher and writer",
@@ -17,6 +20,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "André Chénier",
    "kind": "individual",
    "desc": "French poet",
@@ -30,6 +36,9 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mikhail Bestuzhev-Ryumin",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Samuel Taylor Coleridge",
    "kind": "individual",
    "desc": "English poet and literary critic",
@@ -56,6 +68,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lazar Kaganovich",
    "kind": "individual",
    "desc": "Soviet politician",
@@ -69,6 +84,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Christian Marty",
    "kind": "individual",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 1783,
    "year_label": "1783",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Payson",
    "kind": "individual",
    "desc": "American Congregational preacher",
@@ -96,6 +118,10 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "David Belasco",
    "kind": "individual",
    "desc": "American playwright and theater impresario",
@@ -108,6 +134,10 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph P. Kennedy Jr.",
    "kind": "individual",
    "desc": "United States Navy lieutenant",

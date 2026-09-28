@@ -4,6 +4,9 @@
   {
    "year": 735,
    "year_label": "735",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bede",
    "kind": "individual",
    "desc": "English Benedictine monk",
@@ -17,6 +20,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Armitage",
    "kind": "individual",
    "desc": "GC GM, Royal Navy officer",
@@ -32,6 +38,10 @@
   {
    "year": 1700,
    "year_label": "1700",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicolaus Zinzendorf",
    "kind": "individual",
    "desc": "German religious and social reformer and bishop of the Moravian Church",
@@ -44,6 +54,10 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Pushkin",
    "kind": "individual",
    "desc": "Russian poet",
@@ -56,6 +70,10 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Wesley Hardin",
    "kind": "individual",
    "desc": "American outlaw and gunfighter",
@@ -68,6 +86,11 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Isadora Duncan",
    "kind": "individual",
    "desc": "American/French dancer",
@@ -80,6 +103,10 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Peter Kürten",
    "kind": "individual",
    "desc": "German serial killer known as \"The Vampire of Düsseldorf\"",
@@ -92,6 +119,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Al Jolson",
    "kind": "individual",
    "desc": "American singer and actor",
@@ -104,6 +135,10 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Wayne",
    "kind": "individual",
    "desc": "American actor",

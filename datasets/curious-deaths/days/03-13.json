@@ -4,6 +4,9 @@
   {
    "year": 1594,
    "year_label": "1594",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Woolton",
    "kind": "individual",
    "desc": "Bishop of Exeter",
@@ -17,6 +20,9 @@
   {
    "year": 1711,
    "year_label": "1711",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nicolas Boileau-Despréaux",
    "kind": "individual",
    "desc": "French poet and critic",
@@ -30,6 +36,9 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander II of Russia",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Benjamin Harrison",
    "kind": "individual",
    "desc": "president of the United States",
@@ -56,6 +68,9 @@
   {
    "year": 1906,
    "year_label": "1906",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Susan B. Anthony",
    "kind": "individual",
    "desc": "American social reformer and women's rights activist",
@@ -71,6 +86,10 @@
   {
    "year": 1733,
    "year_label": "1733",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Priestley",
    "kind": "individual",
    "desc": "English chemist, natural philosopher and theologian",
@@ -83,6 +102,10 @@
   {
    "year": 1741,
    "year_label": "1741",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph II, Holy Roman Emperor",
    "kind": "individual",
    "desc": null,
@@ -95,6 +118,10 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vince Coleman",
    "kind": "individual",
    "desc": "Canadian train dispatcher",
@@ -107,6 +134,10 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Donald Henry Gaskins",
    "kind": "individual",
    "desc": "American serial killer",

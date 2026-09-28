@@ -4,6 +4,9 @@
   {
    "year": 1621,
    "year_label": "1621",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Philip III of Spain",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1631,
    "year_label": "1631",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Donne",
    "kind": "individual",
    "desc": "English poet, scholar and soldier, Dean of St Paul's",
@@ -30,6 +36,9 @@
   {
    "year": 1727,
    "year_label": "1727",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Isaac Newton",
    "kind": "individual",
    "desc": "English physicist",
@@ -43,6 +52,9 @@
   {
    "year": 1751,
    "year_label": "1751",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Frederick, Prince of Wales",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John C. Calhoun",
    "kind": "individual",
    "desc": "vice president of the United States",
@@ -69,6 +84,9 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charlotte Brontë",
    "kind": "individual",
    "desc": "English author",
@@ -82,6 +100,9 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "J. P. Morgan",
    "kind": "individual",
    "desc": "American financier and banker",
@@ -95,6 +116,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gordon Flowerdew",
    "kind": "individual",
    "desc": "VC, Canadian Expeditionary Force officer",
@@ -108,6 +132,9 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Eben Byers",
    "kind": "individual",
    "desc": null,
@@ -121,6 +148,9 @@
   {
    "year": 1984,
    "year_label": "1984",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ronald Clark O'Bryan",
    "kind": "individual",
    "desc": "American optician who killed his son with poisoned Halloween candy for life insurance money",
@@ -134,6 +164,9 @@
   {
    "year": 1993,
    "year_label": "1993",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Brandon Lee",
    "kind": "individual",
    "desc": null,
@@ -147,6 +180,9 @@
   {
    "year": 1995,
    "year_label": "1995",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Selena Quintanilla-Pérez",
    "kind": "individual",
    "desc": "American singer",
@@ -162,6 +198,10 @@
   {
    "year": 1519,
    "year_label": "1519",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Henry II of France",
    "kind": "individual",
    "desc": null,
@@ -174,6 +214,10 @@
   {
    "year": 1675,
    "year_label": "1675",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pope Benedict XIV",
    "kind": "individual",
    "desc": null,
@@ -186,6 +230,10 @@
   {
    "year": 1723,
    "year_label": "1723",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick V of Denmark",
    "kind": "individual",
    "desc": null,
@@ -198,6 +246,10 @@
   {
    "year": 1732,
    "year_label": "1732",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Haydn",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -210,6 +262,10 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Gold Appleton",
    "kind": "individual",
    "desc": "American writer, artist and art patron, brother-in-law of Henry Wadsworth Longfellow",
@@ -222,6 +278,10 @@
   {
    "year": 1921,
    "year_label": "1921",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lowell Fulson",
    "kind": "individual",
    "desc": "American blues guitarist and songwriter",

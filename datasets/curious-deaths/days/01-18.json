@@ -4,6 +4,9 @@
   {
    "year": 970,
    "year_label": "970",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Hatto II",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1685,
    "year_label": "1685",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wentworth Dillon, 4th Earl of Roscommon",
    "kind": "individual",
    "desc": "Anglo-Irish landlord, Irish peer, and poet",
@@ -30,6 +36,9 @@
   {
    "year": 1797,
    "year_label": "1797",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Bromley Cadogan",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Tyler",
    "kind": "individual",
    "desc": "president of the United States",
@@ -56,6 +68,9 @@
   {
    "year": 1903,
    "year_label": "1903",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Abram Hewitt",
    "kind": "individual",
    "desc": "United States Congressman and Mayor of New York City",
@@ -69,6 +84,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Luciano Re Cecconi",
    "kind": "individual",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Daniel Webster",
    "kind": "individual",
    "desc": "American statesman",
@@ -96,6 +118,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cary Grant",
    "kind": "individual",
    "desc": "English-American actor",
@@ -108,6 +134,10 @@
   {
    "year": 1958,
    "year_label": "1958",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francys Arsentiev",
    "kind": "individual",
    "desc": "American mountaineer",

@@ -4,6 +4,9 @@
   {
    "year": 1694,
    "year_label": "1694",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary II of England",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1734,
    "year_label": "1734",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rob Roy MacGregor",
    "kind": "individual",
    "desc": "Scottish outlaw and folk hero",
@@ -30,6 +36,9 @@
   {
    "year": 1822,
    "year_label": "1822",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sarah Wesley",
    "kind": "individual",
    "desc": "wife of Charles Wesley",
@@ -43,6 +52,9 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francis L. Dade",
    "kind": "individual",
    "desc": "United States Army major",
@@ -56,6 +68,9 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Babington Macaulay",
    "kind": "individual",
    "desc": "British historian and politician",
@@ -69,6 +84,9 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sergei Yesenin",
    "kind": "individual",
    "desc": "Russian lyric poet",
@@ -82,6 +100,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maurice Ravel",
    "kind": "individual",
    "desc": "French composer",
@@ -95,6 +116,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Theodore Dreiser",
    "kind": "individual",
    "desc": "American novelist",
@@ -110,6 +134,10 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Woodrow Wilson",
    "kind": "individual",
    "desc": "president of the United States",

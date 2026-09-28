@@ -4,6 +4,9 @@
   {
    "year": 840,
    "year_label": "840",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis the Pious",
    "kind": "individual",
    "desc": "King of the Franks",
@@ -17,6 +20,9 @@
   {
    "year": 1774,
    "year_label": "1774",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "John Day",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1820,
    "year_label": "1820",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Manuel Belgrano",
    "kind": "individual",
    "desc": "Argentine economist, lawyer, politician, journalist, and military leader",
@@ -43,6 +52,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Harry Collinson",
    "kind": "individual",
    "desc": "English planning officer",
@@ -58,6 +70,10 @@
   {
    "year": 1615,
    "year_label": "1615",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Salvator Rosa",
    "kind": "individual",
    "desc": "Italian artist and poet",
@@ -70,6 +86,10 @@
   {
    "year": 1723,
    "year_label": "1723",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Theophilus Lindsey",
    "kind": "individual",
    "desc": "English Unitarian theologian and clergyman",
@@ -82,6 +102,10 @@
   {
    "year": 1763,
    "year_label": "1763",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wolfe Tone",
    "kind": "individual",
    "desc": "Irish revolutionary",
@@ -94,6 +118,10 @@
   {
    "year": 1848,
    "year_label": "1848",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albert Parsons",
    "kind": "individual",
    "desc": "American anarchist leader",
@@ -106,6 +134,10 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Errol Flynn",
    "kind": "individual",
    "desc": "Australian-born American actor",

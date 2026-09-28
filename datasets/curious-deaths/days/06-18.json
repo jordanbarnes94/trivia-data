@@ -4,6 +4,9 @@
   {
    "year": 1805,
    "year_label": "1805",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arthur Murphy",
    "kind": "individual",
    "desc": "Irish writer",
@@ -17,6 +20,9 @@
   {
    "year": 1815,
    "year_label": "1815",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Picton",
    "kind": "individual",
    "desc": "Welsh officer of the British Army",
@@ -30,6 +36,9 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edmund Ruffin",
    "kind": "individual",
    "desc": "Virginia planter and enslaver",
@@ -43,6 +52,9 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Dublin whiskey fire",
    "kind": "group",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1902,
    "year_label": "1902",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Samuel Butler",
    "kind": "individual",
    "desc": "English novelist",
@@ -69,6 +84,9 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Brian Oswald Donn-Byrne",
    "kind": "individual",
    "desc": "Irish novelist",
@@ -82,6 +100,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ethel Barrymore",
    "kind": "individual",
    "desc": "American actress",
@@ -95,6 +116,9 @@
   {
    "year": 1974,
    "year_label": "1974",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Kelly",
    "kind": "individual",
    "desc": "American playwright and actor",
@@ -110,6 +134,10 @@
   {
    "year": 1482,
    "year_label": "1482",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Martinuzzi",
    "kind": "individual",
    "desc": "Archbishop of Esztergom",
@@ -122,6 +150,10 @@
   {
    "year": 1769,
    "year_label": "1769",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Stewart, Viscount Castlereagh",
    "kind": "individual",
    "desc": "Anglo-Irish statesman",
@@ -134,6 +166,10 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anthony Strollo",
    "kind": "individual",
    "desc": "American gangster",
@@ -146,6 +182,10 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Deborah Gail Stone",
    "kind": "individual",
    "desc": null,
@@ -158,6 +198,10 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kyle Dinkheller",
    "kind": "individual",
    "desc": "American sheriff's deputy",

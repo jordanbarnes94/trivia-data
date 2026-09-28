@@ -4,6 +4,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Şehzade Ahmed Nuri",
    "kind": "individual",
    "desc": "Ottoman prince",
@@ -19,6 +22,10 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Maitland Hog",
    "kind": "individual",
    "desc": "Scottish advocate and landowner",
@@ -31,6 +38,10 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mata Hari",
    "kind": "individual",
    "desc": "Dutch exotic dancer and courtesan",

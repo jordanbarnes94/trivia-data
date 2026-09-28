@@ -4,6 +4,9 @@
   {
    "year": 1711,
    "year_label": "1711",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Ken",
    "kind": "individual",
    "desc": "English bishop",
@@ -17,6 +20,9 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Bailey Aldrich",
    "kind": "individual",
    "desc": "American author and editor",
@@ -32,6 +38,10 @@
   {
    "year": 1601,
    "year_label": "1601",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alonso Cano",
    "kind": "individual",
    "desc": "Spanish painter, architect and sculptor",
@@ -44,6 +54,10 @@
   {
    "year": 1618,
    "year_label": "1618",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Blood",
    "kind": "individual",
    "desc": "Anglo-Irish officer and desperado",
@@ -56,6 +70,10 @@
   {
    "year": 1629,
    "year_label": "1629",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexis of Russia",
    "kind": "individual",
    "desc": "Russian Tsar",
@@ -68,6 +86,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nikolai Gogol",
    "kind": "individual",
    "desc": "Russian author of Ukrainian origin",
@@ -80,6 +102,10 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "David Livingstone",
    "kind": "individual",
    "desc": "Scottish physician, explorer and Christian missionary",
@@ -92,6 +118,10 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Francis Burton",
    "kind": "individual",
    "desc": "British polymath",
@@ -104,6 +134,10 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Allingham",
    "kind": "individual",
    "desc": "Irish poet, diarist and editor",
@@ -116,6 +150,10 @@
   {
    "year": 1906,
    "year_label": "1906",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Adolf Eichmann",
    "kind": "individual",
    "desc": "German-Austrian SS-Obersturmbannführer",

@@ -4,6 +4,9 @@
   {
    "year": 1666,
    "year_label": "1666",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anne of Austria",
    "kind": "individual",
    "desc": "former Queen of France",
@@ -17,6 +20,9 @@
   {
    "year": 1779,
    "year_label": "1779",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David Garrick",
    "kind": "individual",
    "desc": "English actor, playwright, theatre manager and producer",
@@ -30,6 +36,9 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Howard",
    "kind": "individual",
    "desc": "English philanthropist and prison reformer",
@@ -43,6 +52,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis-Michel le Peletier, marquis de Saint-Fargeau",
    "kind": "individual",
    "desc": "French politician",
@@ -56,6 +68,9 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George V",
    "kind": "individual",
    "desc": "king of the United Kingdom",
@@ -69,6 +84,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Catherine Steyer",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Karel Soucek",
    "kind": "individual",
    "desc": "Czech-Canadian stuntman",
@@ -97,6 +118,10 @@
   {
    "year": 1554,
    "year_label": "1554",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sebastian of Portugal",
    "kind": "individual",
    "desc": null,
@@ -109,6 +134,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lead Belly",
    "kind": "individual",
    "desc": "American folk and blues singer, musician and songwriter",
@@ -121,6 +150,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Valery Chkalov",
    "kind": "individual",
    "desc": "Soviet test pilot",
@@ -133,6 +166,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Fireball Roberts",
    "kind": "individual",
    "desc": "American stock car racer",

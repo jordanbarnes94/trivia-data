@@ -4,6 +4,9 @@
   {
    "year": 1523,
    "year_label": "1523",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Franz von Sickingen",
    "kind": "individual",
    "desc": "German knight and Protestant leader",
@@ -17,6 +20,9 @@
   {
    "year": 1815,
    "year_label": "1815",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andrew Fuller",
    "kind": "individual",
    "desc": "English Particular Baptist minister and theologian",
@@ -30,6 +36,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alice Moore Hubbard",
    "kind": "individual",
    "desc": "American feminist and writer",
@@ -43,6 +52,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Frohman",
    "kind": "individual",
    "desc": "American theater manager and producer",
@@ -56,6 +68,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Elbert Hubbard",
    "kind": "individual",
    "desc": "American writer and publisher",
@@ -69,6 +84,9 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert Ball",
    "kind": "individual",
    "desc": "VC DSO2 MC, British World War I fighter ace",
@@ -84,6 +102,10 @@
   {
    "year": 1763,
    "year_label": "1763",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Józef Poniatowski",
    "kind": "individual",
    "desc": "Polish general and Marshal of the Empire",
@@ -96,6 +118,10 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johannes Brahms",
    "kind": "individual",
    "desc": "German composer",
@@ -108,6 +134,11 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Owen Hart",
    "kind": "individual",
    "desc": "Canadian-American professional wrestler",

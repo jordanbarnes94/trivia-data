@@ -4,6 +4,9 @@
   {
    "year": 1779,
    "year_label": "1779",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Cook",
    "kind": "individual",
    "desc": "British explorer and Royal Navy captain",
@@ -17,6 +20,9 @@
   {
    "year": 1820,
    "year_label": "1820",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Ferdinand, Duke of Berry",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "O. O. McIntyre",
    "kind": "individual",
    "desc": "American newspaper columnist",
@@ -43,6 +52,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ray Wetmore",
    "kind": "individual",
    "desc": "American World War II flying ace",
@@ -58,6 +70,10 @@
   {
    "year": 1483,
    "year_label": "1483",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Babur",
    "kind": "individual",
    "desc": "founder of the Mughal Empire and first Emperor of the Mughal dynasty",
@@ -70,6 +86,10 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bill Lancaster",
    "kind": "individual",
    "desc": "Australian aviator",
@@ -82,6 +102,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vic Morrow",
    "kind": "individual",
    "desc": "American actor",

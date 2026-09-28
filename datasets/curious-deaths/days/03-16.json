@@ -4,6 +4,9 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Caroline Yates",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1892,
    "year_label": "1892",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Augustus Freeman",
    "kind": "individual",
    "desc": "English historian and politician",
@@ -30,6 +36,9 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Aubrey Beardsley",
    "kind": "individual",
    "desc": "English illustrator and author",
@@ -43,6 +52,9 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Egon Friedell",
    "kind": "individual",
    "desc": "Austrian polymath",
@@ -56,6 +68,9 @@
   {
    "year": 1995,
    "year_label": "1995",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eric \"Eazy-E\" Wright",
    "kind": "individual",
    "desc": "American rapper who propelled West Coast rap and gangsta rap by leading the group N.W.A and its label, Ruthless Records",
@@ -71,6 +86,10 @@
   {
    "year": 1478,
    "year_label": "1478",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francisco Pizarro",
    "kind": "individual",
    "desc": "Spanish conquistador",
@@ -83,6 +102,10 @@
   {
    "year": 1751,
    "year_label": "1751",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Madison",
    "kind": "individual",
    "desc": "president of the United States",
@@ -95,6 +118,10 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vladimir Komarov",
    "kind": "individual",
    "desc": "Soviet cosmonaut",

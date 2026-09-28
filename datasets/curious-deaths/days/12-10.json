@@ -4,6 +4,9 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sergey Volkonsky",
    "kind": "individual",
    "desc": "Russian major general and Decembrist",
@@ -17,6 +20,9 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Luigi Pirandello",
    "kind": "individual",
    "desc": "Italian playwright",
@@ -30,6 +36,9 @@
   {
    "year": 1938,
    "year_label": "1938",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paul Morgan",
    "kind": "individual",
    "desc": "Austrian actor and cabaret performer",
@@ -43,6 +52,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Damon Runyon",
    "kind": "individual",
    "desc": "American newspaperman and short-story writer",
@@ -56,6 +68,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Karl Barth",
    "kind": "individual",
    "desc": "Swiss Reformed theologian",
@@ -71,6 +86,10 @@
   {
    "year": 1830,
    "year_label": "1830",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emily Dickinson",
    "kind": "individual",
    "desc": "American poet",

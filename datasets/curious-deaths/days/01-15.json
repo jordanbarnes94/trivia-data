@@ -4,6 +4,9 @@
   {
    "year": 69,
    "year_label": "69",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Galba",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1519,
    "year_label": "1519",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vasco Núñez de Balboa",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1623,
    "year_label": "1623",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paolo Sarpi",
    "kind": "individual",
    "desc": "Venetian historian, prelate, scientist, canon lawyer and statesman",
@@ -43,6 +52,9 @@
   {
    "year": 1672,
    "year_label": "1672",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Cosin",
    "kind": "individual",
    "desc": "English churchman",
@@ -56,6 +68,9 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Massimo d'Azeglio",
    "kind": "individual",
    "desc": "Italian statesman, novelist and painter",
@@ -69,6 +84,9 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Great Molasses Flood",
    "kind": "group",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bill Masterton",
    "kind": "individual",
    "desc": "Canadian American ice hockey player",
@@ -95,6 +116,9 @@
   {
    "year": 1969,
    "year_label": "1969",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Garfield M. Langhorn",
    "kind": "individual",
    "desc": "United States Army soldier and Medal of Honor recipient",
@@ -110,6 +134,10 @@
   {
    "year": 1622,
    "year_label": "1622",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Molière",
    "kind": "individual",
    "desc": null,
@@ -122,6 +150,10 @@
   {
    "year": 1623,
    "year_label": "1623",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Algernon Sidney",
    "kind": "individual",
    "desc": "English politician",
@@ -134,6 +166,10 @@
   {
    "year": 1754,
    "year_label": "1754",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jacques Pierre Brissot",
    "kind": "individual",
    "desc": "French abolitionist and leading member of the Girondins",
@@ -146,6 +182,10 @@
   {
    "year": 1763,
    "year_label": "1763",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "François-Joseph Talma",
    "kind": "individual",
    "desc": "French actor",
@@ -158,6 +198,11 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Ray Chapman",
    "kind": "individual",
    "desc": "American baseball player",
@@ -170,6 +215,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Martin Luther King Jr.",
    "kind": "individual",
    "desc": "American civil rights activist",
@@ -182,6 +231,10 @@
   {
    "year": 1953,
    "year_label": "1953",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Alton Harris",
    "kind": "individual",
    "desc": "American kidnapper and murderer",

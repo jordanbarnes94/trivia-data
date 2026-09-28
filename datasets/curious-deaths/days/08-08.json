@@ -4,6 +4,9 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas De Quincey",
    "kind": "individual",
    "desc": "English essayist",
@@ -17,6 +20,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward H. Ahrens",
    "kind": "individual",
    "desc": "United States Marine Raider",
@@ -32,6 +38,10 @@
   {
    "year": 1170,
    "year_label": "1170",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Saint Dominic",
    "kind": "individual",
    "desc": "Castilian Catholic priest, founder of the Dominican Order, when asked where he wanted to be buried",
@@ -44,6 +54,10 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Oswald Samson",
    "kind": "individual",
    "desc": "English cricketer",

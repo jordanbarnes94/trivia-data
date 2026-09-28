@@ -4,6 +4,9 @@
   {
    "year": 1610,
    "year_label": "1610",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry IV of France",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sir William Erskine, 2nd Baronet",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "August Strindberg",
    "kind": "individual",
    "desc": "Swedish author",
@@ -43,6 +52,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David Belasco",
    "kind": "individual",
    "desc": "American playwright and theater impresario",
@@ -56,6 +68,9 @@
   {
    "year": 1972,
    "year_label": "1972",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Romas Kalanta",
    "kind": "individual",
    "desc": "Lithuanian high school student",
@@ -69,6 +84,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frank Sinatra",
    "kind": "individual",
    "desc": "American singer and actor",
@@ -84,6 +102,10 @@
   {
    "year": 1727,
    "year_label": "1727",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Gainsborough",
    "kind": "individual",
    "desc": "English painter",
@@ -96,6 +118,10 @@
   {
    "year": 1752,
    "year_label": "1752",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Timothy Dwight IV",
    "kind": "individual",
    "desc": "American academic and educator",
@@ -108,6 +134,10 @@
   {
    "year": 1771,
    "year_label": "1771",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Owen",
    "kind": "individual",
    "desc": "Welsh textile manufacturer, philanthropist and social reformer",

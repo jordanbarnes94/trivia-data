@@ -4,6 +4,9 @@
   {
    "year": 69,
    "year_label": "69",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vitellius",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1585,
    "year_label": "1585",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vittoria Accoramboni",
    "kind": "individual",
    "desc": "Italian noblewoman",
@@ -30,6 +36,9 @@
   {
    "year": 1666,
    "year_label": "1666",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hugh Mackail",
    "kind": "individual",
    "desc": "Scottish martyr",
@@ -43,6 +52,9 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gustavo Adolfo Bécquer",
    "kind": "individual",
    "desc": "Spanish Romanticist poet and writer",
@@ -56,6 +68,9 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Eliot",
    "kind": "individual",
    "desc": "English novelist",
@@ -69,6 +84,9 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dwight L. Moody",
    "kind": "individual",
    "desc": "American evangelist and publisher",
@@ -84,6 +102,10 @@
   {
    "year": 1768,
    "year_label": "1768",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Crome",
    "kind": "individual",
    "desc": "English landscape artist",
@@ -96,6 +118,10 @@
   {
    "year": 1789,
    "year_label": "1789",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ann Hasseltine Judson",
    "kind": "individual",
    "desc": "American foreign missionary",

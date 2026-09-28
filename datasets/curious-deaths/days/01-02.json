@@ -4,6 +4,9 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vicente Huidobro",
    "kind": "individual",
    "desc": "Chilean poet",
@@ -19,6 +22,10 @@
   {
    "year": 1727,
    "year_label": "1727",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Wolfe",
    "kind": "individual",
    "desc": "British Army general",
@@ -31,6 +38,10 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thérèse of Lisieux",
    "kind": "individual",
    "desc": "French Catholic Carmelite nun and mystic",
@@ -43,6 +54,10 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gordon Flowerdew",
    "kind": "individual",
    "desc": "VC, Canadian Expeditionary Force officer",
@@ -55,6 +70,10 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Folke Bernadotte",
    "kind": "individual",
    "desc": "Swedish nobleman and diplomat",

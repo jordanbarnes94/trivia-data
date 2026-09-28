@@ -4,6 +4,9 @@
   {
    "year": 193,
    "year_label": "193",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Didius Julianus",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Simon Byrne",
    "kind": "individual",
    "desc": "Irish bare-knuckle boxer",
@@ -30,6 +36,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Benjamin Taylor",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George S. Kaufman",
    "kind": "individual",
    "desc": "American playwright",
@@ -56,6 +68,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Quimby Ghilotti",
    "kind": "individual",
    "desc": null,
@@ -71,6 +86,10 @@
   {
    "year": 1690,
    "year_label": "1690",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis Petit de Bachaumont",
    "kind": "individual",
    "desc": "French writer",
@@ -83,6 +102,10 @@
   {
    "year": 1773,
    "year_label": "1773",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Randolph of Roanoke",
    "kind": "individual",
    "desc": "American planter and politician",
@@ -95,6 +118,10 @@
   {
    "year": 1816,
    "year_label": "1816",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Grace Aguilar",
    "kind": "individual",
    "desc": "English author",
@@ -107,6 +134,10 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pope Pius X",
    "kind": "individual",
    "desc": "Italian Roman Catholic prelate and Pope",

@@ -4,6 +4,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jacques Pierre Brissot",
    "kind": "individual",
    "desc": "French abolitionist and leading member of the Girondins",
@@ -17,6 +20,9 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marie Bashkirtseff",
    "kind": "individual",
    "desc": "Russian artist and diarist",
@@ -30,6 +36,9 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Von Albade Gammon",
    "kind": "individual",
    "desc": "American football fullback fatally injured in game",
@@ -43,6 +52,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richie Rose",
    "kind": "individual",
    "desc": "American police officer from the Denver Police Department",
@@ -56,6 +68,9 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Harry Houdini",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Charles Gilbert",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1984,
    "year_label": "1984",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Indira Gandhi",
    "kind": "individual",
    "desc": "Indian politician and stateswoman",
@@ -95,6 +116,9 @@
   {
    "year": 1993,
    "year_label": "1993",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "River Phoenix",
    "kind": "individual",
    "desc": "American actor, musician, and activist",
@@ -108,6 +132,9 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gameel Al-Batouti",
    "kind": "individual",
    "desc": "pilot of EgyptAir Flight 990",
@@ -123,6 +150,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Keats",
    "kind": "individual",
    "desc": "English poet",
@@ -135,6 +166,10 @@
   {
    "year": 1848,
    "year_label": "1848",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Boston Custer",
    "kind": "individual",
    "desc": "United States Army civilian contractor, brother of George Armstrong Custer and Thomas Custer",
@@ -147,6 +182,10 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Wright",
    "kind": "individual",
    "desc": "compiler of The English Dialect Dictionary",
@@ -159,6 +198,10 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tom Ketchum",
    "kind": "individual",
    "desc": "American outlaw and cowboy",
@@ -171,6 +214,10 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francis Crowley",
    "kind": "individual",
    "desc": "American murderer",
@@ -183,6 +230,10 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Michael Landon",
    "kind": "individual",
    "desc": "American actor",

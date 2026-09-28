@@ -4,6 +4,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hugh Latimer",
    "kind": "individual",
    "desc": "former Bishop of Worcester",
@@ -17,6 +20,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nicholas Ridley",
    "kind": "individual",
    "desc": "Bishop of London",
@@ -30,6 +36,9 @@
   {
    "year": 1628,
    "year_label": "1628",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "François de Malherbe",
    "kind": "individual",
    "desc": "French poet, critic and translator",
@@ -43,6 +52,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marie Antoinette",
    "kind": "individual",
    "desc": "queen of France",
@@ -56,6 +68,9 @@
   {
    "year": 1822,
    "year_label": "1822",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eva Marie Veigel",
    "kind": "individual",
    "desc": "Viennese dancer and wife of David Garrick",
@@ -69,6 +84,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred Jodl",
    "kind": "individual",
    "desc": "German Generaloberst",
@@ -82,6 +100,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred Rosenberg",
    "kind": "individual",
    "desc": "Baltic German Nazi theorist and ideologue",
@@ -95,6 +116,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arthur Seyss-Inquart",
    "kind": "individual",
    "desc": "Austrian Nazi politician, Reichskommissar of the occupied Netherlands",
@@ -108,6 +132,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ernst Kaltenbrunner",
    "kind": "individual",
    "desc": "Austrian SS official, major perpetrator of The Holocaust",
@@ -121,6 +148,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Fritz Sauckel",
    "kind": "individual",
    "desc": "German Nazi politician",
@@ -134,6 +164,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hans Frank",
    "kind": "individual",
    "desc": "German politician and lawyer",
@@ -147,6 +180,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joachim von Ribbentrop",
    "kind": "individual",
    "desc": "German politician, Minister of Foreign Affairs of Nazi Germany",
@@ -160,6 +196,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Julius Streicher",
    "kind": "individual",
    "desc": "Nazi politician, founder and publisher of Der Stürmer",
@@ -173,6 +212,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Neville Heath",
    "kind": "individual",
    "desc": "English murderer",
@@ -186,6 +228,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wilhelm Frick",
    "kind": "individual",
    "desc": "German politician of the Nazi Party",
@@ -199,6 +244,9 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wilhelm Keitel",
    "kind": "individual",
    "desc": "German field marshal",
@@ -212,6 +260,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Hennard",
    "kind": "individual",
    "desc": "perpetrator of the Luby's shooting",
@@ -225,6 +276,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Sharon Lopatka",
    "kind": "individual",
    "desc": null,
@@ -240,6 +294,10 @@
   {
    "year": 1708,
    "year_label": "1708",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Albrecht von Haller",
    "kind": "individual",
    "desc": "Swiss anatomist and physiologist",
@@ -252,6 +310,10 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Noah Webster",
    "kind": "individual",
    "desc": "American lexicographer and textbook pioneer",
@@ -264,6 +326,10 @@
   {
    "year": 1854,
    "year_label": "1854",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Oscar Wilde",
    "kind": "individual",
    "desc": "Irish playwright",
@@ -276,6 +342,10 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kaʻiulani",
    "kind": "individual",
    "desc": "last heir apparent to the throne of the Hawaiian Kingdom",
@@ -288,6 +358,11 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Franz Reichelt",
    "kind": "individual",
    "desc": "Austro-Hungarian born French tailor and inventor",
@@ -300,6 +375,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eugene O'Neill",
    "kind": "individual",
    "desc": "American playwright",
@@ -312,6 +391,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Michael Collins",
    "kind": "individual",
    "desc": "Irish revolutionary, soldier and politician",
@@ -324,6 +407,10 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Donald E. Montgomery",
    "kind": "individual",
    "desc": "American economist",
@@ -336,6 +423,10 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Karen Wetterhahn",
    "kind": "individual",
    "desc": null,

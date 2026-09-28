@@ -4,6 +4,9 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Emma Abbott",
    "kind": "individual",
    "desc": "American operatic soprano",
@@ -17,6 +20,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ernest Shackleton",
    "kind": "individual",
    "desc": "Anglo-Irish Antarctic Explorer",
@@ -30,6 +36,9 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Calvin Coolidge",
    "kind": "individual",
    "desc": "president of the United States",
@@ -43,6 +52,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Clyde Smith",
    "kind": "individual",
    "desc": "Australian rules footballer and police constable",
@@ -56,6 +68,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pete Maravich",
    "kind": "individual",
    "desc": "American basketball player",
@@ -69,6 +84,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Versalle",
    "kind": "individual",
    "desc": "American operatic tenor",
@@ -84,6 +102,10 @@
   {
    "year": 1779,
    "year_label": "1779",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stephen Decatur",
    "kind": "individual",
    "desc": "United States naval officer",
@@ -96,6 +118,10 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edmund Ruffin",
    "kind": "individual",
    "desc": "Virginia planter and enslaver",
@@ -108,6 +134,10 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Konrad Adenauer",
    "kind": "individual",
    "desc": "Chancellor of West Germany",
@@ -120,6 +150,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Major Lloyd W. Williams",
    "kind": "individual",
    "desc": "United States Marine Corps officer",
@@ -132,6 +166,10 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Julian Royds Gribble",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -144,6 +182,10 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Reeves",
    "kind": "individual",
    "desc": "American actor",
@@ -156,6 +198,10 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Zulfikar Ali Bhutto",
    "kind": "individual",
    "desc": "President and Prime Minister of Pakistan",

@@ -4,6 +4,9 @@
   {
    "year": -30,
    "year_label": "30 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charmion",
    "kind": "individual",
    "desc": "servant to Cleopatra",
@@ -17,6 +20,9 @@
   {
    "year": -30,
    "year_label": "30 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cleopatra",
    "kind": "individual",
    "desc": "pharaoh of Egypt",
@@ -30,6 +36,9 @@
   {
    "year": -30,
    "year_label": "30 BC",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Cleopatra, Iras, and Charmion",
    "kind": "group",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1822,
    "year_label": "1822",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Stewart, Viscount Castlereagh",
    "kind": "individual",
    "desc": "Anglo-Irish statesman",
@@ -56,6 +68,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph P. Kennedy Jr.",
    "kind": "individual",
    "desc": "United States Navy lieutenant",
@@ -69,6 +84,9 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ian Fleming",
    "kind": "individual",
    "desc": "English naval intelligence officer and novelist",
@@ -82,6 +100,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Masami Takahama",
    "kind": "individual",
    "desc": null,
@@ -95,6 +116,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dmitry Kolesnikov",
    "kind": "individual",
    "desc": "Russian Navy officer",
@@ -110,6 +134,10 @@
   {
    "year": 1762,
    "year_label": "1762",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George IV",
    "kind": "individual",
    "desc": "King of the United Kingdom of Great Britain and Ireland",
@@ -122,6 +150,10 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Radclyffe Hall",
    "kind": "individual",
    "desc": "English poet and author",

@@ -4,6 +4,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles J. Guiteau",
    "kind": "individual",
    "desc": "assassin of President James A. Garfield",
@@ -17,6 +20,9 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Georgy Dobrovolsky",
    "kind": "individual",
    "desc": "Soviet cosmonaut",
@@ -30,6 +36,9 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vladislav Volkov",
    "kind": "individual",
    "desc": "Soviet cosmonaut",
@@ -45,6 +54,11 @@
   {
    "year": 1470,
    "year_label": "1470",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Charles VIII of France",
    "kind": "individual",
    "desc": null,
@@ -57,6 +71,10 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frédéric Bastiat",
    "kind": "individual",
    "desc": "French economist and writer",
@@ -69,6 +87,10 @@
   {
    "year": 1803,
    "year_label": "1803",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Lovell Beddoes",
    "kind": "individual",
    "desc": "English poet, dramatist and physician",
@@ -81,6 +103,10 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis B. Mayer",
    "kind": "individual",
    "desc": "Canadian-American film producer, co-founder of Metro-Goldwyn-Mayer",
@@ -93,6 +119,10 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stanley Spencer",
    "kind": "individual",
    "desc": "CBE RA, English painter",
@@ -105,6 +135,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Isaac Babel",
    "kind": "individual",
    "desc": "Russian author",

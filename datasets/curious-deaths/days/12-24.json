@@ -4,6 +4,9 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adrienne de La Fayette",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frédéric Bastiat",
    "kind": "individual",
    "desc": "French economist and writer",
@@ -30,6 +36,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Makepeace Thackeray",
    "kind": "individual",
    "desc": "English novelist",
@@ -43,6 +52,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alban Berg",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -56,6 +68,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Violette Neatley Anderson",
    "kind": "individual",
    "desc": "first African-American woman to practice law before the United States Supreme Court",
@@ -69,6 +84,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paul Gégauff",
    "kind": "individual",
    "desc": "French director",
@@ -84,6 +102,10 @@
   {
    "year": -3,
    "year_label": "3 BC",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Galba",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -96,6 +118,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kit Carson",
    "kind": "individual",
    "desc": "American frontiersman",
@@ -108,6 +134,10 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gabriel García Moreno",
    "kind": "individual",
    "desc": "President of Ecuador",
@@ -120,6 +150,11 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Empress Elisabeth of Austria",
    "kind": "individual",
    "desc": null,
@@ -132,6 +167,10 @@
   {
    "year": 1845,
    "year_label": "1845",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George I",
    "kind": "individual",
    "desc": "king of Greece",
@@ -144,6 +183,10 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Art Scholl",
    "kind": "individual",
    "desc": "American aerobatic pilot",
@@ -156,6 +199,10 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johnny Frank Garrett",
    "kind": "individual",
    "desc": "American convicted murderer",

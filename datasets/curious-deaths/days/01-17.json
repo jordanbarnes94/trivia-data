@@ -4,6 +4,9 @@
   {
    "year": 356,
    "year_label": "356",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anthony the Great",
    "kind": "individual",
    "desc": "Christian monk from Egypt",
@@ -17,6 +20,9 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rutherford B. Hayes",
    "kind": "individual",
    "desc": "president of the United States",
@@ -30,6 +36,9 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gerrit Achterberg",
    "kind": "individual",
    "desc": "Dutch poet",
@@ -43,6 +52,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gary Gilmore",
    "kind": "individual",
    "desc": "American criminal",
@@ -58,6 +70,10 @@
   {
    "year": 1706,
    "year_label": "1706",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Benjamin Franklin",
    "kind": "individual",
    "desc": "American statesman and scientist",
@@ -70,6 +86,10 @@
   {
    "year": 1789,
    "year_label": "1789",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "August Neander",
    "kind": "individual",
    "desc": "German theologian and church historian",
@@ -82,6 +102,10 @@
   {
    "year": 1820,
    "year_label": "1820",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anne Brontë",
    "kind": "individual",
    "desc": "English novelist",
@@ -94,6 +118,10 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alva Belmont",
    "kind": "individual",
    "desc": "American socialite and women's suffrage activist",
@@ -106,6 +134,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Arnold Rothstein",
    "kind": "individual",
    "desc": "American mobster",
@@ -118,6 +150,10 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dalida",
    "kind": "individual",
    "desc": "Italian-French singer and actress",

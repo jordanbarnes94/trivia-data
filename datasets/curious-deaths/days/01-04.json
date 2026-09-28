@@ -4,6 +4,9 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Georg Jacobi",
    "kind": "individual",
    "desc": "German poet",
@@ -17,6 +20,9 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Elizabeth Ann Seton",
    "kind": "individual",
    "desc": "SC, American Catholic religious sister and educator",
@@ -30,6 +36,9 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred von Schlieffen",
    "kind": "individual",
    "desc": "German field marshal and strategist",
@@ -43,6 +52,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "T. S. Eliot",
    "kind": "individual",
    "desc": "American-born British poet",
@@ -56,6 +68,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Donald Campbell",
    "kind": "individual",
    "desc": "British racer",
@@ -69,6 +84,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Phil Lynott",
    "kind": "individual",
    "desc": "Irish singer, musician and songwriter",
@@ -84,6 +102,10 @@
   {
    "year": 1489,
    "year_label": "1489",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Filippo Strozzi the Younger",
    "kind": "individual",
    "desc": "Florentine banker",
@@ -96,6 +118,10 @@
   {
    "year": 1581,
    "year_label": "1581",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Ussher",
    "kind": "individual",
    "desc": "Church of Ireland Archbishop of Armagh and Primate of All Ireland",
@@ -108,6 +134,10 @@
   {
    "year": 1746,
    "year_label": "1746",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Benjamin Rush",
    "kind": "individual",
    "desc": "American physician, signer of the United States Declaration of Independence",

@@ -4,6 +4,9 @@
   {
    "year": 1128,
    "year_label": "1128",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ranulf Flambard",
    "kind": "individual",
    "desc": "Norman Bishop of Durham and government minister",
@@ -17,6 +20,9 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Ward Burrows II",
    "kind": "individual",
    "desc": "United States naval officer",
@@ -30,6 +36,9 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Auguste Comte",
    "kind": "individual",
    "desc": "French philosopher",
@@ -43,6 +52,9 @@
   {
    "year": 1930,
    "year_label": "1930",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Carl Panzram",
    "kind": "individual",
    "desc": "American serial killer and rapist",
@@ -56,6 +68,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ken Carter",
    "kind": "individual",
    "desc": "Canadian stunt driver",
@@ -71,6 +86,10 @@
   {
    "year": 1638,
    "year_label": "1638",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis XIV",
    "kind": "individual",
    "desc": "king of France",
@@ -83,6 +102,10 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jesse James",
    "kind": "individual",
    "desc": "American outlaw",
@@ -95,6 +118,10 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jack Daniel",
    "kind": "individual",
    "desc": "American alcohol businessman",
@@ -107,6 +134,10 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Freddie Mercury",
    "kind": "individual",
    "desc": "British lead vocalist of Queen",

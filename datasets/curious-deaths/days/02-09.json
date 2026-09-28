@@ -4,6 +4,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Hooper",
    "kind": "individual",
    "desc": "Anglican Bishop of Gloucester and Worcester, Protestant martyr",
@@ -17,6 +20,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rowland Taylor",
    "kind": "individual",
    "desc": "English Protestant martyr",
@@ -30,6 +36,9 @@
   {
    "year": 1619,
    "year_label": "1619",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lucilio Vanini",
    "kind": "individual",
    "desc": "Italian philosopher, physician and freethinker",
@@ -43,6 +52,9 @@
   {
    "year": 1854,
    "year_label": "1854",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Lippard",
    "kind": "individual",
    "desc": "American author, social activist and labor organizer",
@@ -56,6 +68,9 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jules Michelet",
    "kind": "individual",
    "desc": "French historian",
@@ -69,6 +84,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Osamu Tezuka",
    "kind": "individual",
    "desc": "Japanese cartoonist",
@@ -84,6 +102,10 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Burke Jr.",
    "kind": "individual",
    "desc": "English barrister and Member of Parliament",
@@ -96,6 +118,11 @@
   {
    "year": 1773,
    "year_label": "1773",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "William Henry Harrison",
    "kind": "individual",
    "desc": "president of the United States",
@@ -108,6 +135,10 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Samuel J. Tilden",
    "kind": "individual",
    "desc": "American politician",
@@ -120,6 +151,10 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alban Berg",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -132,6 +167,10 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Brendan Behan",
    "kind": "individual",
    "desc": "Irish writer",

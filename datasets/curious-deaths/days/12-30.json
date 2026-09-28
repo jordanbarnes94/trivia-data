@@ -4,6 +4,9 @@
   {
    "year": 1568,
    "year_label": "1568",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Roger Ascham",
    "kind": "individual",
    "desc": "English scholar and didactic writer",
@@ -17,6 +20,9 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "José Rizal",
    "kind": "individual",
    "desc": "Filipino nationalist, ophthalmologist and polymath",
@@ -30,6 +36,9 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Grigori Rasputin",
    "kind": "individual",
    "desc": null,
@@ -45,6 +54,10 @@
   {
    "year": 39,
    "year_label": "39",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Titus",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -57,6 +70,10 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Peter Altgeld",
    "kind": "individual",
    "desc": "20th Governor of Illinois",

@@ -4,6 +4,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lewis Armistead",
    "kind": "individual",
    "desc": "Confederate brigadier general of the American Civil War",
@@ -17,6 +20,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cecil Pugh",
    "kind": "individual",
    "desc": "GC, MA, Congregational Church minister",
@@ -30,6 +36,9 @@
   {
    "year": 1974,
    "year_label": "1974",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "John Dimmer",
    "kind": "individual",
    "desc": null,
@@ -45,6 +54,10 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "P. T. Barnum",
    "kind": "individual",
    "desc": "American showman",
@@ -57,6 +70,10 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Cecil Rhodes",
    "kind": "individual",
    "desc": "British businessman and politician",

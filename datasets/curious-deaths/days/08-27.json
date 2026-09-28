@@ -4,6 +4,9 @@
   {
    "year": 1635,
    "year_label": "1635",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lope de Vega",
    "kind": "individual",
    "desc": "Spanish playwright",
@@ -17,6 +20,9 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Laurens",
    "kind": "individual",
    "desc": "American soldier, statesman and abolitionist",
@@ -30,6 +36,9 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gracie Allen",
    "kind": "individual",
    "desc": "American vaudevillian and comedian",
@@ -43,6 +52,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis Mountbatten, 1st Earl Mountbatten of Burma",
    "kind": "individual",
    "desc": "British Royal Navy officer and statesman",
@@ -58,6 +70,10 @@
   {
    "year": 1770,
    "year_label": "1770",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Georg Wilhelm Friedrich Hegel",
    "kind": "individual",
    "desc": "German philosopher",
@@ -70,6 +86,10 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hiram Gregory Berry",
    "kind": "individual",
    "desc": "American politician and Union general of the American Civil War",
@@ -82,6 +102,10 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Theodore Dreiser",
    "kind": "individual",
    "desc": "American novelist",
@@ -94,6 +118,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lyndon B. Johnson",
    "kind": "individual",
    "desc": "president of the United States",

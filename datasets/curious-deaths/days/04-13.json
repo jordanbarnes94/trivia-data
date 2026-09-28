@@ -4,6 +4,9 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jane Taylor",
    "kind": "individual",
    "desc": "English poet and novelist, author of \"Twinkle, Twinkle, Little Star\"",
@@ -19,6 +22,10 @@
   {
    "year": 1747,
    "year_label": "1747",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Armand Louis de Gontaut",
    "kind": "individual",
    "desc": "French soldier and politician",
@@ -31,6 +38,10 @@
   {
    "year": 1747,
    "year_label": "1747",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis Philippe II, Duke of Orléans",
    "kind": "individual",
    "desc": null,
@@ -43,6 +54,10 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Professor Zovek",
    "kind": "individual",
    "desc": null,
@@ -55,6 +70,10 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hillel Slovak",
    "kind": "individual",
    "desc": "Israeli-American musician",

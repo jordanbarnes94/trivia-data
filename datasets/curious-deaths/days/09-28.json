@@ -4,6 +4,9 @@
   {
    "year": -48,
    "year_label": "48 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pompey",
    "kind": "individual",
    "desc": "Roman general and statesman",
@@ -17,6 +20,9 @@
   {
    "year": 135,
    "year_label": "135",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rabbi Akiva",
    "kind": "individual",
    "desc": "Jewish scholar and sage",
@@ -30,6 +36,9 @@
   {
    "year": 1567,
    "year_label": "1567",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Hans Staininger",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1582,
    "year_label": "1582",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Buchanan",
    "kind": "individual",
    "desc": "Scottish historian and humanist scholar",
@@ -56,6 +68,9 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Herman Melville",
    "kind": "individual",
    "desc": "American novelist",
@@ -69,6 +84,9 @@
   {
    "year": 1978,
    "year_label": "1978",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pope John Paul I",
    "kind": "individual",
    "desc": "Italian Roman Catholic prelate and Pope",
@@ -84,6 +102,10 @@
   {
    "year": 1667,
    "year_label": "1667",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Asano Naganori",
    "kind": "individual",
    "desc": "daimyō of the Akō Domain in Japan",
@@ -96,6 +118,10 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Inocêncio Francisco da Silva",
    "kind": "individual",
    "desc": "Portuguese bibliographer",
@@ -108,6 +134,10 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bhagat Singh",
    "kind": "individual",
    "desc": "Indian revolutionary and Socialist, founder of Hindustan Socialist republican association",

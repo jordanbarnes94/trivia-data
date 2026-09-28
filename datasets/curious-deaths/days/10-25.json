@@ -4,6 +4,9 @@
   {
    "year": 1902,
    "year_label": "1902",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "R. Stanton Walker",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Alexander of Greece",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert Anastasia",
    "kind": "individual",
    "desc": "Italian-American mobster",
@@ -45,6 +54,10 @@
   {
    "year": 1612,
    "year_label": "1612",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Graham, 1st Marquess of Montrose",
    "kind": "individual",
    "desc": null,
@@ -57,6 +70,10 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Babington Macaulay",
    "kind": "individual",
    "desc": "British historian and politician",
@@ -69,6 +86,10 @@
   {
    "year": 1825,
    "year_label": "1825",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johann Strauss II",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -81,6 +102,10 @@
   {
    "year": 1838,
    "year_label": "1838",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Georges Bizet",
    "kind": "individual",
    "desc": "French composer",
@@ -93,6 +118,10 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pablo Picasso",
    "kind": "individual",
    "desc": "Spanish artist",

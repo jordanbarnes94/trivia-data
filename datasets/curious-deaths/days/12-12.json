@@ -4,6 +4,9 @@
   {
    "year": 1751,
    "year_label": "1751",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry St John, 1st Viscount Bolingbroke",
    "kind": "individual",
    "desc": "English politician",
@@ -17,6 +20,9 @@
   {
    "year": 1777,
    "year_label": "1777",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albrecht von Haller",
    "kind": "individual",
    "desc": "Swiss anatomist and physiologist",
@@ -30,6 +36,9 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Douglas Fairbanks",
    "kind": "individual",
    "desc": "American actor and filmmaker",
@@ -43,6 +52,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tallulah Bankhead",
    "kind": "individual",
    "desc": "American actress",
@@ -58,6 +70,10 @@
   {
    "year": 1731,
    "year_label": "1731",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Erasmus Darwin",
    "kind": "individual",
    "desc": "English physician and natural philosopher",
@@ -70,6 +86,10 @@
   {
    "year": 1777,
    "year_label": "1777",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander I of Russia",
    "kind": "individual",
    "desc": null,
@@ -82,6 +102,10 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frank Sinatra",
    "kind": "individual",
    "desc": "American singer and actor",

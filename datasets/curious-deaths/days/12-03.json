@@ -4,6 +4,9 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Louis Stevenson",
    "kind": "individual",
    "desc": "Scottish author",
@@ -17,6 +20,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary Baker Eddy",
    "kind": "individual",
    "desc": "founder of Christian Science",
@@ -30,6 +36,9 @@
   {
    "year": 1952,
    "year_label": "1952",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rudolf Slánský",
    "kind": "individual",
    "desc": "Czech communist politician",
@@ -45,6 +54,10 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "François Xavier Aubry",
    "kind": "individual",
    "desc": "French Canadian merchant and explorer",
@@ -57,6 +70,10 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anton Webern",
    "kind": "individual",
    "desc": "Austrian composer and conductor",
@@ -69,6 +86,10 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hayato Ikeda",
    "kind": "individual",
    "desc": "former Prime Minister of Japan",
@@ -81,6 +102,10 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Versalle",
    "kind": "individual",
    "desc": "American operatic tenor",

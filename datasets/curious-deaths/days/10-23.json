@@ -4,6 +4,9 @@
   {
    "year": -42,
    "year_label": "42 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marcus Junius Brutus",
    "kind": "individual",
    "desc": "Roman senator and assassin of Julius Caesar",
@@ -17,6 +20,9 @@
   {
    "year": 1703,
    "year_label": "1703",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Hannah Twynnoy",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1950,
    "year_label": "1950",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Al Jolson",
    "kind": "individual",
    "desc": "American singer and actor",
@@ -43,6 +52,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Helen Palmer",
    "kind": "individual",
    "desc": "American children's author, editor and philanthropist",
@@ -58,6 +70,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Turner Ashby",
    "kind": "individual",
    "desc": "Confederate cavalry commander of the American Civil War",
@@ -70,6 +86,10 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sarah Bernhardt",
    "kind": "individual",
    "desc": "French actress",

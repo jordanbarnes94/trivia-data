@@ -4,6 +4,9 @@
   {
    "year": 1621,
    "year_label": "1621",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Arndt",
    "kind": "individual",
    "desc": "German Lutheran theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Spencer Perceval",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",
@@ -30,6 +36,9 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eugène François Vidocq",
    "kind": "individual",
    "desc": "French criminal turned criminalist",
@@ -43,6 +52,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bob Marley",
    "kind": "individual",
    "desc": "Jamaican musician",
@@ -56,6 +68,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "First officer Richard Hazen",
    "kind": "individual",
    "desc": "pilot of ValuJet Flight 592",
@@ -69,6 +84,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rob Hall",
    "kind": "individual",
    "desc": "New Zealand mountaineer",
@@ -84,6 +102,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Salvador Dalí",
    "kind": "individual",
    "desc": "Spanish surrealist painter",
@@ -96,6 +118,10 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Feynman",
    "kind": "individual",
    "desc": "American theoretical physicist and raconteur",

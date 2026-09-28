@@ -4,6 +4,9 @@
   {
    "year": 1707,
    "year_label": "1707",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Aurangzeb",
    "kind": "individual",
    "desc": "seventh Mughal emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John George Wood",
    "kind": "individual",
    "desc": "English writer and populariser of natural history",
@@ -30,6 +36,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Balvano train disaster",
    "kind": "group",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lou Costello",
    "kind": "individual",
    "desc": "American actor and comedian",
@@ -56,6 +68,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hergé",
    "kind": "individual",
    "desc": "Belgian cartoonist",
@@ -69,6 +84,9 @@
   {
    "year": 1992,
    "year_label": "1992",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Ellis",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -84,6 +102,10 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Graham Bell",
    "kind": "individual",
    "desc": "Scottish-American inventor",

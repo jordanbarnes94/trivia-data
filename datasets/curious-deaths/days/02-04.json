@@ -4,6 +4,9 @@
   {
    "year": 211,
    "year_label": "211",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Septimius Severus",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Rogers",
    "kind": "individual",
    "desc": "English clergyman, Bible translator and commentator",
@@ -30,6 +36,10 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Franz Reichelt",
    "kind": "individual",
    "desc": "Austro-Hungarian born French tailor and inventor",
@@ -43,6 +53,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Phil Gay",
    "kind": "individual",
    "desc": "captain of fishing trawler Ross Cleveland",
@@ -58,6 +71,10 @@
   {
    "year": 1575,
    "year_label": "1575",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pierre de Bérulle",
    "kind": "individual",
    "desc": "French Roman Catholic cardinal and statesman",
@@ -70,6 +87,10 @@
   {
    "year": 1746,
    "year_label": "1746",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tadeusz Kościuszko",
    "kind": "individual",
    "desc": "Polish-Lithuanian military engineer, statesman, and military leader",
@@ -82,6 +103,10 @@
   {
    "year": 1772,
    "year_label": "1772",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Josiah Quincy III",
    "kind": "individual",
    "desc": "Mayor of Boston and President of Harvard University",
@@ -94,6 +119,10 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Bachman",
    "kind": "individual",
    "desc": "American Lutheran minister, social activist and naturalist",
@@ -106,6 +135,10 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Almeida Garrett",
    "kind": "individual",
    "desc": "Portuguese author",
@@ -118,6 +151,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "MacKinlay Kantor",
    "kind": "individual",
    "desc": "American author",
@@ -130,6 +167,10 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Seaman",
    "kind": "individual",
    "desc": "British racing driver",

@@ -4,6 +4,9 @@
   {
    "year": -42,
    "year_label": "42 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gaius Cassius Longinus",
    "kind": "individual",
    "desc": "Roman senator and general, one of Julius Caesar's assassins",
@@ -17,6 +20,9 @@
   {
    "year": 610,
    "year_label": "610",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Phocas",
    "kind": "individual",
    "desc": "Eastern Roman emperor",
@@ -30,6 +36,9 @@
   {
    "year": 1226,
    "year_label": "1226",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francis of Assisi",
    "kind": "individual",
    "desc": "Italian Catholic friar",
@@ -43,6 +52,9 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Morris",
    "kind": "individual",
    "desc": "British textile designer, poet and socialist",
@@ -56,6 +68,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Miguel Bombarda",
    "kind": "individual",
    "desc": "Portuguese psychiatrist",
@@ -71,6 +86,10 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eleonora Duse",
    "kind": "individual",
    "desc": "Italian actress",

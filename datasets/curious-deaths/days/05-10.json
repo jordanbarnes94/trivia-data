@@ -4,6 +4,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Élisabeth of France",
    "kind": "individual",
    "desc": "sister of Louis XVI",
@@ -17,6 +20,9 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Theodore Parker",
    "kind": "individual",
    "desc": "American transcendentalist, Unitarian minister and abolitionist",
@@ -30,6 +36,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stonewall Jackson",
    "kind": "individual",
    "desc": "American and Confederate soldier and general of the American Civil War",
@@ -43,6 +52,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Raymond Hamilton",
    "kind": "individual",
    "desc": "member of Barrow Gang",
@@ -56,6 +68,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Wayne Gacy",
    "kind": "individual",
    "desc": "American serial killer and sex offender",
@@ -71,6 +86,10 @@
   {
    "year": 1760,
    "year_label": "1760",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles de Bonchamps",
    "kind": "individual",
    "desc": "French politician and leader of the Royalist Vendéan insurrection",
@@ -83,6 +102,10 @@
   {
    "year": 1838,
    "year_label": "1838",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Wilkes Booth",
    "kind": "individual",
    "desc": "American actor and assassin of Abraham Lincoln",
@@ -95,6 +118,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Karl Barth",
    "kind": "individual",
    "desc": "Swiss Reformed theologian",
@@ -107,6 +134,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfred Jodl",
    "kind": "individual",
    "desc": "German Generaloberst",
@@ -119,6 +150,10 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfonso, Prince of Asturias",
    "kind": "individual",
    "desc": "former heir apparent to the throne of Spain",

@@ -4,6 +4,9 @@
   {
    "year": 1798,
    "year_label": "1798",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Giacomo Casanova",
    "kind": "individual",
    "desc": "Italian adventurer and author",
@@ -17,6 +20,9 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Lawrence",
    "kind": "individual",
    "desc": "United States naval officer",
@@ -30,6 +36,9 @@
   {
    "year": 1830,
    "year_label": "1830",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Antonio José de Sucre",
    "kind": "individual",
    "desc": "Venezuelan independence leader and President of Peru and Bolivia",
@@ -43,6 +52,9 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Frank Hayes",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wilhelm II",
    "kind": "individual",
    "desc": "the last German Emperor",
@@ -71,6 +86,10 @@
   {
    "year": 1751,
    "year_label": "1751",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Scott, 1st Earl of Eldon",
    "kind": "individual",
    "desc": "British barrister and politician",
@@ -83,6 +102,10 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mikhail Bestuzhev-Ryumin",
    "kind": "individual",
    "desc": null,
@@ -95,6 +118,10 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tsuyoshi Inukai",
    "kind": "individual",
    "desc": "former Prime Minister of Japan",
@@ -107,6 +134,10 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Arthur Barker",
    "kind": "individual",
    "desc": "American criminal",
@@ -119,6 +150,10 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Victor Prather",
    "kind": "individual",
    "desc": null,

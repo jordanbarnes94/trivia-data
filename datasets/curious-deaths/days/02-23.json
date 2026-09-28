@@ -4,6 +4,9 @@
   {
    "year": 155,
    "year_label": "155",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Polycarp",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1766,
    "year_label": "1766",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Stanisław Leszczyński",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1792,
    "year_label": "1792",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joshua Reynolds",
    "kind": "individual",
    "desc": "English painter",
@@ -43,6 +52,9 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Keats",
    "kind": "individual",
    "desc": "English poet",
@@ -56,6 +68,9 @@
   {
    "year": 1848,
    "year_label": "1848",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Quincy Adams",
    "kind": "individual",
    "desc": "president of the United States",
@@ -69,6 +84,9 @@
   {
    "year": 1955,
    "year_label": "1955",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paul Claudel",
    "kind": "individual",
    "desc": "French writer and diplomat",
@@ -82,6 +100,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stan Laurel",
    "kind": "individual",
    "desc": "English actor, member of the duo Laurel and Hardy",
@@ -95,6 +116,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Terry Melvin Sims",
    "kind": "individual",
    "desc": "American convicted murderer",

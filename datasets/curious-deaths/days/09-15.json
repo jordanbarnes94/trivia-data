@@ -4,6 +4,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anton Webern",
    "kind": "individual",
    "desc": "Austrian composer and conductor",
@@ -17,6 +20,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Dick Wertheim",
    "kind": "individual",
    "desc": null,
@@ -32,6 +38,10 @@
   {
    "year": 1254,
    "year_label": "1254",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Marco Polo",
    "kind": "individual",
    "desc": "Venetian traveller in Asia",
@@ -44,6 +54,10 @@
   {
    "year": 1649,
    "year_label": "1649",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Titus Oates",
    "kind": "individual",
    "desc": "English priest and perjurer, fabricator of the \"Popish Plot\"",
@@ -56,6 +70,10 @@
   {
    "year": 1736,
    "year_label": "1736",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jean Sylvain Bailly",
    "kind": "individual",
    "desc": "French astronomer, mathematician and politician",
@@ -68,6 +86,10 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Roberts Dunn",
    "kind": "individual",
    "desc": "VC, Canadian British Army officer, Crimean War Victoria Cross recipient",
@@ -80,6 +102,10 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Benchley",
    "kind": "individual",
    "desc": "American humorist",

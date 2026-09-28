@@ -4,6 +4,9 @@
   {
    "year": 1700,
    "year_label": "1700",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles II of Spain",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Oliver P. Morton",
    "kind": "individual",
    "desc": "Governor of Indiana and United States Senator",
@@ -30,6 +36,9 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander III of Russia",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1907,
    "year_label": "1907",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred Jarry",
    "kind": "individual",
    "desc": "French symbolist writer",
@@ -56,6 +68,9 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Habibullāh Kalakāni",
    "kind": "individual",
    "desc": "claimant of the titles of King and Emir of Afghanistan",
@@ -69,6 +84,9 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pyotr Dolgov",
    "kind": "individual",
    "desc": "Soviet Air Force colonel and balloonist",
@@ -84,6 +102,10 @@
   {
    "year": 1636,
    "year_label": "1636",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicolas Boileau-Despréaux",
    "kind": "individual",
    "desc": "French poet and critic",
@@ -96,6 +118,10 @@
   {
    "year": 1762,
    "year_label": "1762",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Spencer Perceval",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",
@@ -108,6 +134,10 @@
   {
    "year": 1791,
    "year_label": "1791",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Henry Green",
    "kind": "individual",
    "desc": "English surgeon",
@@ -120,6 +150,10 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stephen Crane",
    "kind": "individual",
    "desc": "American author",
@@ -132,6 +166,10 @@
   {
    "year": 1958,
    "year_label": "1958",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Roger Keith Coleman",
    "kind": "individual",
    "desc": "American rapist and murderer",

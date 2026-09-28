@@ -4,6 +4,9 @@
   {
    "year": 1770,
    "year_label": "1770",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Whitefield",
    "kind": "individual",
    "desc": "Anglican cleric and evangelist",
@@ -17,6 +20,9 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thérèse of Lisieux",
    "kind": "individual",
    "desc": "French Catholic Carmelite nun and mystic",
@@ -30,6 +36,9 @@
   {
    "year": 1955,
    "year_label": "1955",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Dean",
    "kind": "individual",
    "desc": "American actor",
@@ -43,6 +52,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "St John Philby",
    "kind": "individual",
    "desc": "British Arabist and intelligence officer",
@@ -58,6 +70,10 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Buddy Rich",
    "kind": "individual",
    "desc": "American jazz drummer and bandleader",
@@ -70,6 +86,10 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ray Wetmore",
    "kind": "individual",
    "desc": "American World War II flying ace",
@@ -82,6 +102,10 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Truman Capote",
    "kind": "individual",
    "desc": "American author",

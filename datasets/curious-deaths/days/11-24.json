@@ -4,6 +4,9 @@
   {
    "year": 1572,
    "year_label": "1572",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Knox",
    "kind": "individual",
    "desc": "founder of the Presbyterian Church of Scotland",
@@ -17,6 +20,9 @@
   {
    "year": 1742,
    "year_label": "1742",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Andrew Bradford",
    "kind": "individual",
    "desc": "American newspaper printer and publisher",
@@ -30,6 +36,9 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Brant",
    "kind": "individual",
    "desc": "Mohawk military and political leader",
@@ -43,6 +52,9 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Havelock",
    "kind": "individual",
    "desc": "KCB, British Army general",
@@ -56,6 +68,9 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Backhouse Astor Sr.",
    "kind": "individual",
    "desc": "American business magnate",
@@ -69,6 +84,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Erskine Childers",
    "kind": "individual",
    "desc": "English-born Irish writer",
@@ -82,6 +100,10 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Lee Harvey Oswald",
    "kind": "individual",
    "desc": "accused of killing Kennedy and Tippit",
@@ -95,6 +117,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Freddie Mercury",
    "kind": "individual",
    "desc": "British lead vocalist of Queen",
@@ -110,6 +135,10 @@
   {
    "year": 1713,
    "year_label": "1713",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Laurence Sterne",
    "kind": "individual",
    "desc": "Anglo-Irish novelist and Anglican cleric",
@@ -122,6 +151,10 @@
   {
    "year": 1784,
    "year_label": "1784",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Moses Montefiore",
    "kind": "individual",
    "desc": "FRS, British financier, banker and philanthropist",
@@ -134,6 +167,11 @@
   {
    "year": 1784,
    "year_label": "1784",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Zachary Taylor",
    "kind": "individual",
    "desc": "president of the United States",
@@ -146,6 +184,10 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Thomas Buckle",
    "kind": "individual",
    "desc": "English historian and author",
@@ -158,6 +200,10 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alben W. Barkley",
    "kind": "individual",
    "desc": "vice-president of the United States",
@@ -170,6 +216,10 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lucky Luciano",
    "kind": "individual",
    "desc": "Italian-American gangster",
@@ -182,6 +232,10 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ted Bundy",
    "kind": "individual",
    "desc": "American serial killer",

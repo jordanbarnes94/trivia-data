@@ -4,6 +4,9 @@
   {
    "year": 1324,
    "year_label": "1324",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marco Polo",
    "kind": "individual",
    "desc": "Venetian traveller in Asia",
@@ -17,6 +20,9 @@
   {
    "year": 1757,
    "year_label": "1757",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bernard Le Bovier de Fontenelle",
    "kind": "individual",
    "desc": "French author",
@@ -30,6 +36,9 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Napoleon III",
    "kind": "individual",
    "desc": "Emperor of the French",
@@ -43,6 +52,9 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Katherine Mansfield",
    "kind": "individual",
    "desc": "New Zealand modernist writer",
@@ -56,6 +68,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Roosevelt Green, Jr.",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -71,6 +86,10 @@
   {
    "year": 1715,
    "year_label": "1715",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert-François Damiens",
    "kind": "individual",
    "desc": "French domestic servant, attempted assassin of Louis XV",
@@ -83,6 +102,10 @@
   {
    "year": 1869,
    "year_label": "1869",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Grigori Rasputin",
    "kind": "individual",
    "desc": null,
@@ -95,6 +118,10 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Nixon",
    "kind": "individual",
    "desc": "president of the United States",

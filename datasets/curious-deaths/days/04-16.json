@@ -4,6 +4,9 @@
   {
    "year": 69,
    "year_label": "69",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Otho",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marie-Caroline of Bourbon-Two Sicilies, Duchess of Berry",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kenneth Edward Gentry",
    "kind": "individual",
    "desc": "American criminal",
@@ -45,6 +54,10 @@
   {
    "year": 778,
    "year_label": "778",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis the Pious",
    "kind": "individual",
    "desc": "King of the Franks",
@@ -57,6 +70,10 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Lennox Richardson",
    "kind": "individual",
    "desc": "English merchant",
@@ -69,6 +86,10 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anatole France",
    "kind": "individual",
    "desc": "French writer and journalist",
@@ -81,6 +102,10 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Millington Synge",
    "kind": "individual",
    "desc": "Irish author",
@@ -93,6 +118,10 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vladimir Kappel",
    "kind": "individual",
    "desc": "White Russian military leader",
@@ -105,6 +134,10 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charlie Chaplin",
    "kind": "individual",
    "desc": "English actor and filmmaker",
@@ -117,6 +150,10 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kingsley Amis",
    "kind": "individual",
    "desc": "English novelist and poet",
@@ -129,6 +166,10 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Selena Quintanilla-Pérez",
    "kind": "individual",
    "desc": "American singer",

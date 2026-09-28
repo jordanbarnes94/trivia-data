@@ -4,6 +4,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Hunter",
    "kind": "individual",
    "desc": "English silk-weaver and Protestant martyr",
@@ -17,6 +20,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Adams",
    "kind": "individual",
    "desc": "American historian and descendant of two U.S. Presidents",
@@ -30,6 +36,10 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Arnold Bennett",
    "kind": "individual",
    "desc": "English writer",
@@ -43,6 +53,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jacob Veldhuyzen van Zanten",
    "kind": "individual",
    "desc": "pilot of KLM Flight 4805",
@@ -58,6 +71,10 @@
   {
    "year": 1785,
    "year_label": "1785",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis XVII",
    "kind": "individual",
    "desc": "pretender to the French throne",
@@ -70,6 +87,10 @@
   {
    "year": 1822,
    "year_label": "1822",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henri Murger",
    "kind": "individual",
    "desc": "French author of Scenes of Bohemian Life",
@@ -82,6 +103,10 @@
   {
    "year": 1953,
    "year_label": "1953",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edwarda O'Bara",
    "kind": "individual",
    "desc": "American high school student",

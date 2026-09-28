@@ -4,6 +4,9 @@
   {
    "year": 1854,
    "year_label": "1854",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Almeida Garrett",
    "kind": "individual",
    "desc": "Portuguese author",
@@ -19,6 +22,10 @@
   {
    "year": 1594,
    "year_label": "1594",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gustavus Adolphus of Sweden",
    "kind": "individual",
    "desc": null,
@@ -31,6 +38,10 @@
   {
    "year": 1608,
    "year_label": "1608",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Milton",
    "kind": "individual",
    "desc": "English poet and intellectual",
@@ -43,6 +54,10 @@
   {
    "year": 1731,
    "year_label": "1731",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Thurlow, 1st Baron Thurlow",
    "kind": "individual",
    "desc": "British lawyer and politician",
@@ -55,6 +70,10 @@
   {
    "year": 1848,
    "year_label": "1848",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joel Chandler Harris",
    "kind": "individual",
    "desc": "American author and folklorist",
@@ -67,6 +86,10 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emma Abbott",
    "kind": "individual",
    "desc": "American operatic soprano",
@@ -79,6 +102,10 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Breaker Morant",
    "kind": "individual",
    "desc": "Anglo-Australian military officer and war criminal",

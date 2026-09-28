@@ -4,6 +4,9 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tom Dula",
    "kind": "individual",
    "desc": "former Confederate soldier",
@@ -17,6 +20,9 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David Livingstone",
    "kind": "individual",
    "desc": "Scottish physician, explorer and Christian missionary",
@@ -30,6 +36,9 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Antonín Dvořák",
    "kind": "individual",
    "desc": "Czech composer",
@@ -43,6 +52,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ayrton Senna",
    "kind": "individual",
    "desc": "Brazilian Formula One driver",
@@ -58,6 +70,10 @@
   {
    "year": 1218,
    "year_label": "1218",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rudolf I of Germany",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1672,
    "year_label": "1672",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Addison",
    "kind": "individual",
    "desc": "English writer and politician",
@@ -82,6 +102,10 @@
   {
    "year": 1769,
    "year_label": "1769",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Arthur Wellesley",
    "kind": "individual",
    "desc": "1st Duke of Wellington",
@@ -94,6 +118,10 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sidónio Pais",
    "kind": "individual",
    "desc": "Portuguese politician, military officer, and diplomat",

@@ -4,6 +4,9 @@
   {
    "year": 161,
    "year_label": "161",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Antoninus Pius",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1274,
    "year_label": "1274",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Aquinas",
    "kind": "individual",
    "desc": "Italian dominican theologian and philosopher",
@@ -30,6 +36,9 @@
   {
    "year": 1778,
    "year_label": "1778",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nicholas Biddle",
    "kind": "individual",
    "desc": "Continental Navy captain",
@@ -43,6 +52,9 @@
   {
    "year": 1934,
    "year_label": "1934",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ernst Enno",
    "kind": "individual",
    "desc": "Estonian writer",
@@ -56,6 +68,9 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wyndham Lewis",
    "kind": "individual",
    "desc": "English writer and painter",
@@ -69,6 +84,9 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lowell Fulson",
    "kind": "individual",
    "desc": "American blues guitarist and songwriter",
@@ -84,6 +102,10 @@
   {
    "year": 1671,
    "year_label": "1671",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rob Roy MacGregor",
    "kind": "individual",
    "desc": "Scottish outlaw and folk hero",
@@ -96,6 +118,10 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Howard Raymond",
    "kind": "individual",
    "desc": "American educator",
@@ -108,6 +134,10 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Luther Burbank",
    "kind": "individual",
    "desc": "American botanist",
@@ -120,6 +150,10 @@
   {
    "year": 1875,
    "year_label": "1875",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maurice Ravel",
    "kind": "individual",
    "desc": "French composer",

@@ -4,6 +4,9 @@
   {
    "year": 81,
    "year_label": "81",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Titus",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Wolfe",
    "kind": "individual",
    "desc": "British Army general",
@@ -30,6 +36,9 @@
   {
    "year": 1806,
    "year_label": "1806",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles James Fox",
    "kind": "individual",
    "desc": "British statesman",
@@ -43,6 +52,9 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Noor Inayat Khan",
    "kind": "individual",
    "desc": "GC, British spy in the Special Operations Executive",
@@ -56,6 +68,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tupac \"2Pac\" Shakur",
    "kind": "individual",
    "desc": "American rapper",
@@ -69,6 +84,9 @@
   {
    "year": 2000,
    "year_label": "2000",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Bernard Harris",
    "kind": "individual",
    "desc": "American armed robber and murderer",
@@ -84,6 +102,10 @@
   {
    "year": 1087,
    "year_label": "1087",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "John II Komnenos",
    "kind": "individual",
    "desc": null,
@@ -96,6 +118,10 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "General John Sedgwick",
    "kind": "individual",
    "desc": "Union general of the American Civil War",
@@ -108,6 +134,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Arnold Schoenberg",
    "kind": "individual",
    "desc": "Austrian-American composer",
@@ -120,6 +150,10 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Sherwood Anderson",
    "kind": "individual",
    "desc": null,
@@ -132,6 +166,10 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Roald Dahl",
    "kind": "individual",
    "desc": "British author",
@@ -144,6 +182,10 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Zoya Kosmodemyanskaya",
    "kind": "individual",
    "desc": "Soviet partisan",
@@ -156,6 +198,10 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kevin Carter",
    "kind": "individual",
    "desc": "South African photojournalist",

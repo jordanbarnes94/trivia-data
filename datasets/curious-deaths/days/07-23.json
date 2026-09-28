@@ -4,6 +4,9 @@
   {
    "year": 1841,
    "year_label": "1841",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Nares",
    "kind": "individual",
    "desc": "English historian, theologian and writer",
@@ -17,6 +20,9 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ulysses S. Grant",
    "kind": "individual",
    "desc": "president of the United States",
@@ -30,6 +36,9 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick Holder",
    "kind": "individual",
    "desc": "Speaker of the Australian House of Representatives",
@@ -43,6 +52,9 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Reginald Dyer",
    "kind": "individual",
    "desc": "British Indian Army officer",
@@ -56,6 +68,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Montgomery Clift",
    "kind": "individual",
    "desc": "American actor",
@@ -69,6 +84,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vic Morrow",
    "kind": "individual",
    "desc": "American actor",
@@ -82,6 +100,9 @@
   {
    "year": 1982,
    "year_label": "1982",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Vic Morrow, Myca Dinh Le and Renee Shin-Yi Chen",
    "kind": "group",
    "desc": null,
@@ -97,6 +118,10 @@
   {
    "year": 1806,
    "year_label": "1806",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Félix Arvers",
    "kind": "individual",
    "desc": "French poet and dramatist",
@@ -109,6 +134,10 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Elliot See",
    "kind": "individual",
    "desc": "American astronaut",

@@ -4,6 +4,9 @@
   {
    "year": 1538,
    "year_label": "1538",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Filippo Strozzi the Younger",
    "kind": "individual",
    "desc": "Florentine banker",
@@ -17,6 +20,9 @@
   {
    "year": 1803,
    "year_label": "1803",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Johann Gottfried Herder",
    "kind": "individual",
    "desc": "German philosopher, theologian, poet and literary critic",
@@ -30,6 +36,9 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander Adam",
    "kind": "individual",
    "desc": "Scottish teacher",
@@ -43,6 +52,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ben Travers",
    "kind": "individual",
    "desc": "English writer",
@@ -56,6 +68,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Chris Farley",
    "kind": "individual",
    "desc": "American actor and comedian",
@@ -71,6 +86,10 @@
   {
    "year": 1707,
    "year_label": "1707",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Wesley",
    "kind": "individual",
    "desc": "English Methodist leader and hymn writer",
@@ -83,6 +102,10 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Dashiell Bayard",
    "kind": "individual",
    "desc": "Union general of the American Civil War",
@@ -95,6 +118,10 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Archduke Franz Ferdinand of Austria",
    "kind": "individual",
    "desc": "heir to the throne of Austria-Hungary",
@@ -107,6 +134,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gladys Cooper",
    "kind": "individual",
    "desc": "English actress",
@@ -119,6 +150,10 @@
   {
    "year": 1949,
    "year_label": "1949",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "David A. Johnston",
    "kind": "individual",
    "desc": "American volcanologist",

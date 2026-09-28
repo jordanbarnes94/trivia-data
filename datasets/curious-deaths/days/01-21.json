@@ -4,6 +4,9 @@
   {
    "year": 1609,
    "year_label": "1609",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Justus Scaliger",
    "kind": "individual",
    "desc": "French Calvinist religious leader and scholar",
@@ -17,6 +20,9 @@
   {
    "year": 1766,
    "year_label": "1766",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Quin",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis XVI",
    "kind": "individual",
    "desc": "king of France",
@@ -43,6 +52,9 @@
   {
    "year": 1823,
    "year_label": "1823",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Heckewelder",
    "kind": "individual",
    "desc": "American missionary for the Moravian Church",
@@ -56,6 +68,9 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Beaumont",
    "kind": "individual",
    "desc": "English Methodist minister",
@@ -69,6 +84,9 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vladimir Lenin",
    "kind": "individual",
    "desc": "Russian communist statesman and revolutionary",
@@ -82,6 +100,9 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francis Crowley",
    "kind": "individual",
    "desc": "American murderer",
@@ -95,6 +116,9 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lytton Strachey",
    "kind": "individual",
    "desc": "English writer and critic",
@@ -110,6 +134,10 @@
   {
    "year": 1338,
    "year_label": "1338",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles V of France",
    "kind": "individual",
    "desc": null,
@@ -122,6 +150,10 @@
   {
    "year": 1734,
    "year_label": "1734",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Samuel Spencer",
    "kind": "individual",
    "desc": null,
@@ -134,6 +166,10 @@
   {
    "year": 1802,
    "year_label": "1802",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Adolphe Monod",
    "kind": "individual",
    "desc": "French Protestant churchman",
@@ -146,6 +182,10 @@
   {
    "year": 1824,
    "year_label": "1824",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stonewall Jackson",
    "kind": "individual",
    "desc": "American and Confederate soldier and general of the American Civil War",
@@ -158,6 +198,10 @@
   {
    "year": 1842,
    "year_label": "1842",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alferd Packer",
    "kind": "individual",
    "desc": "American prospector and wilderness guide",
@@ -170,6 +214,10 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Egon Friedell",
    "kind": "individual",
    "desc": "Austrian polymath",
@@ -182,6 +230,10 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Herbert C. Jones",
    "kind": "individual",
    "desc": "United States Navy officer and Medal of Honor recipient",

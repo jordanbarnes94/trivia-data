@@ -4,6 +4,9 @@
   {
    "year": 1745,
    "year_label": "1745",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jonathan Swift",
    "kind": "individual",
    "desc": "Anglo-Irish author and cleric",
@@ -17,6 +20,9 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Józef Poniatowski",
    "kind": "individual",
    "desc": "Polish general and Marshal of the Empire",
@@ -30,6 +36,9 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "François-Joseph Talma",
    "kind": "individual",
    "desc": "French actor",
@@ -43,6 +52,9 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Hugh Benson",
    "kind": "individual",
    "desc": "AFSC KC*SG KGCHS, English Roman Catholic priest and author",
@@ -58,6 +70,10 @@
   {
    "year": 1735,
    "year_label": "1735",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Adams",
    "kind": "individual",
    "desc": "Founding Father and second president of the United States",
@@ -70,6 +86,10 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Matangini Hazra",
    "kind": "individual",
    "desc": "Indian revolutionary",
@@ -82,6 +102,10 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ronald Clark O'Bryan",
    "kind": "individual",
    "desc": "American optician who killed his son with poisoned Halloween candy for life insurance money",

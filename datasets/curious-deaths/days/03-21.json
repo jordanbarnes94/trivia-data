@@ -4,6 +4,9 @@
   {
    "year": 1556,
    "year_label": "1556",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Cranmer",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -17,6 +20,9 @@
   {
    "year": 1656,
    "year_label": "1656",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Ussher",
    "kind": "individual",
    "desc": "Church of Ireland Archbishop of Armagh and Primate of All Ireland",
@@ -30,6 +36,9 @@
   {
    "year": 1804,
    "year_label": "1804",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis Antoine, Duke of Enghien",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wilfrith Elstob",
    "kind": "individual",
    "desc": "VC DSO MC, British Army officer",
@@ -58,6 +70,10 @@
   {
    "year": 1685,
    "year_label": "1685",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johann Sebastian Bach",
    "kind": "individual",
    "desc": "German composer",
@@ -70,6 +86,10 @@
   {
    "year": 1763,
    "year_label": "1763",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jean Paul",
    "kind": "individual",
    "desc": "German Romantic writer",
@@ -82,6 +102,10 @@
   {
    "year": 1768,
    "year_label": "1768",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Fourier",
    "kind": "individual",
    "desc": "French mathematician and physicist",
@@ -94,6 +118,10 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sir Andrew Agnew, 7th Baronet",
    "kind": "individual",
    "desc": "Scottish politician",
@@ -106,6 +134,10 @@
   {
    "year": 1867,
    "year_label": "1867",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Florenz Ziegfeld Jr.",
    "kind": "individual",
    "desc": "American Broadway impresario",
@@ -118,6 +150,10 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ayrton Senna",
    "kind": "individual",
    "desc": "Brazilian Formula One driver",

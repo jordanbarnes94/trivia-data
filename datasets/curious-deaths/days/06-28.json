@@ -4,6 +4,9 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Mathews",
    "kind": "individual",
    "desc": "English theatre manager and comic actor",
@@ -17,6 +20,9 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Madison",
    "kind": "individual",
    "desc": "president of the United States",
@@ -30,6 +36,9 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gabriel de la Concepción Valdés",
    "kind": "individual",
    "desc": "Afro-Cuban poet and independence activist",
@@ -43,6 +52,9 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Archduke Franz Ferdinand of Austria",
    "kind": "individual",
    "desc": "heir to the throne of Austria-Hungary",
@@ -56,6 +68,9 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Italo Balbo",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rod Serling",
    "kind": "individual",
    "desc": "American screenwriter",
@@ -84,6 +102,10 @@
   {
    "year": 1491,
    "year_label": "1491",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry VIII",
    "kind": "individual",
    "desc": "King of England",
@@ -96,6 +118,10 @@
   {
    "year": 1712,
    "year_label": "1712",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jean-Jacques Rousseau",
    "kind": "individual",
    "desc": "Genevan philosopher, writer and composer",
@@ -108,6 +134,10 @@
   {
    "year": 1806,
    "year_label": "1806",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Montgomery Lawrence",
    "kind": "individual",
    "desc": "British military officer and statesman",
@@ -120,6 +150,10 @@
   {
    "year": 1867,
    "year_label": "1867",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Luigi Pirandello",
    "kind": "individual",
    "desc": "Italian playwright",
@@ -132,6 +166,10 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Carl Panzram",
    "kind": "individual",
    "desc": "American serial killer and rapist",
@@ -144,6 +182,10 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lester Roloff",
    "kind": "individual",
    "desc": "American fundamentalist Independent Baptist preacher and founder of teen homes",
@@ -156,6 +198,10 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gilda Radner",
    "kind": "individual",
    "desc": "American actress and comedian",

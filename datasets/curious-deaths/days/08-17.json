@@ -4,6 +4,9 @@
   {
    "year": 1571,
    "year_label": "1571",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Marco Antonio Bragadin",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1786,
    "year_label": "1786",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick the Great",
    "kind": "individual",
    "desc": "king of Prussia",
@@ -30,6 +36,9 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Bridget Driscoll",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Ray Chapman",
    "kind": "individual",
    "desc": "American baseball player",
@@ -56,6 +69,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charlotte Perkins Gilman",
    "kind": "individual",
    "desc": "American humanist and writer",
@@ -69,6 +85,9 @@
   {
    "year": 1947,
    "year_label": "1947",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Atcheson Jr.",
    "kind": "individual",
    "desc": "American diplomat",
@@ -82,6 +101,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Azaria Chamberlain",
    "kind": "individual",
    "desc": null,
@@ -97,6 +119,10 @@
   {
    "year": 1768,
    "year_label": "1768",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis Desaix",
    "kind": "individual",
    "desc": "French general",
@@ -109,6 +135,10 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Fredrika Bremer",
    "kind": "individual",
    "desc": "Swedish writer and feminist reformer",
@@ -121,6 +151,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles I of Austria",
    "kind": "individual",
    "desc": "the last Emperor of Austria",
@@ -133,6 +167,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francis Gary Powers",
    "kind": "individual",
    "desc": "American pilot",

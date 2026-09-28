@@ -4,6 +4,9 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Hogg",
    "kind": "individual",
    "desc": "Scottish poet, novelist and essayist",
@@ -17,6 +20,9 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William D. Hawkins",
    "kind": "individual",
    "desc": "United States Marine Corps officer and Medal of Honor recipient",
@@ -30,6 +36,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Benchley",
    "kind": "individual",
    "desc": "American humorist",
@@ -43,6 +52,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Max Baer",
    "kind": "individual",
    "desc": "American boxer",
@@ -56,6 +68,9 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Quentin Crisp",
    "kind": "individual",
    "desc": "English writer, racounteur and actor",
@@ -71,6 +86,10 @@
   {
    "year": 1694,
    "year_label": "1694",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Voltaire",
    "kind": "individual",
    "desc": "French writer",
@@ -83,6 +102,10 @@
   {
    "year": 1768,
    "year_label": "1768",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Friedrich Schleiermacher",
    "kind": "individual",
    "desc": "German Reformed theologian, philosopher and biblical scholar",
@@ -95,6 +118,10 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Trumpeldor",
    "kind": "individual",
    "desc": "Jewish Zionist activist",
@@ -107,6 +134,10 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis J. Sebille",
    "kind": "individual",
    "desc": "United States Air Force fighter pilot and Medal of Honor recipient",
@@ -119,6 +150,10 @@
   {
    "year": 1939,
    "year_label": "1939",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "R. Budd Dwyer",
    "kind": "individual",
    "desc": "American politician",

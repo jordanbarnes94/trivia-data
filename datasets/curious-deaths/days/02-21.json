@@ -4,6 +4,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Olena Teliha",
    "kind": "individual",
    "desc": "Ukrainian poet and activist",
@@ -17,6 +20,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Malcolm X",
    "kind": "individual",
    "desc": "American activist",
@@ -30,6 +36,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bernard B. Fall",
    "kind": "individual",
    "desc": "American war correspondent and historian",
@@ -45,6 +54,10 @@
   {
    "year": 1785,
    "year_label": "1785",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Karl August Varnhagen von Ense",
    "kind": "individual",
    "desc": "German biographer, diplomat and soldier",
@@ -57,6 +70,10 @@
   {
    "year": 1851,
    "year_label": "1851",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Barney Barnato",
    "kind": "individual",
    "desc": "British Randlord",
@@ -69,6 +86,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pyotr Dolgov",
    "kind": "individual",
    "desc": "Soviet Air Force colonel and balloonist",
@@ -81,6 +102,10 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ronald Ryan",
    "kind": "individual",
    "desc": "Australian criminal",

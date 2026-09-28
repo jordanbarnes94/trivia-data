@@ -4,6 +4,9 @@
   {
    "year": 1649,
    "year_label": "1649",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles I of England",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "James Doyle Jr.",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mahatma Gandhi",
    "kind": "individual",
    "desc": "Indian revolutionary and pacifist",
@@ -45,6 +54,10 @@
   {
    "year": 1854,
    "year_label": "1854",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stefan Stambolov",
    "kind": "individual",
    "desc": "Prime Minister of Bulgaria",
@@ -57,6 +70,10 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Franklin D. Roosevelt",
    "kind": "individual",
    "desc": "president of the United States",

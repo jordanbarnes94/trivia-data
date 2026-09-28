@@ -4,6 +4,9 @@
   {
    "year": 1662,
    "year_label": "1662",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Vane the Younger",
    "kind": "individual",
    "desc": "English politician, statesman and colonial governor",
@@ -17,6 +20,9 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis Desaix",
    "kind": "individual",
    "desc": "French general",
@@ -30,6 +36,9 @@
   {
    "year": 1801,
    "year_label": "1801",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Benedict Arnold",
    "kind": "individual",
    "desc": "American military officer and traitor",
@@ -43,6 +52,9 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Barney Barnato",
    "kind": "individual",
    "desc": "British Randlord",
@@ -56,6 +68,9 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "G. K. Chesterton",
    "kind": "individual",
    "desc": "English writer, philosopher, lay theologian and critic",
@@ -71,6 +86,10 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Che Guevara",
    "kind": "individual",
    "desc": "Argentinean statesman and socialist revolutionary",
@@ -83,6 +102,10 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jerzy Kosiński",
    "kind": "individual",
    "desc": "Polish-American novelist",

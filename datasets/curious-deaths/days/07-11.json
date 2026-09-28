@@ -4,6 +4,9 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Gillingham Fair fire disaster",
    "kind": "group",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Laurence Olivier",
    "kind": "individual",
    "desc": "English actor and director",
@@ -32,6 +38,10 @@
   {
    "year": 1653,
    "year_label": "1653",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sarah Good",
    "kind": "individual",
    "desc": "American woman accused of witchcraft during the Salem witch trials",
@@ -44,6 +54,10 @@
   {
    "year": 1711,
    "year_label": "1711",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Professor Georg Wilhelm Richmann",
    "kind": "individual",
    "desc": null,
@@ -56,6 +70,10 @@
   {
    "year": 1767,
    "year_label": "1767",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Quincy Adams",
    "kind": "individual",
    "desc": "president of the United States",
@@ -68,6 +86,10 @@
   {
    "year": 1775,
    "year_label": "1775",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Blanco White",
    "kind": "individual",
    "desc": "Spanish political thinker, theologian and poet",
@@ -80,6 +102,10 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Georgiana Drew",
    "kind": "individual",
    "desc": "American stage actress, mother of Lionel, Ethel and John Barrymore",

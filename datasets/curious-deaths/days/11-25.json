@@ -4,6 +4,9 @@
   {
    "year": 1748,
    "year_label": "1748",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Isaac Watts",
    "kind": "individual",
    "desc": "English Christian minister, hymn writer and theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfonso XII",
    "kind": "individual",
    "desc": "King of Spain",
@@ -30,6 +36,9 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas A. Hendricks",
    "kind": "individual",
    "desc": "Vice President of the United States",
@@ -43,6 +52,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Julian Royds Gribble",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -56,6 +68,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Mrs. W. C. (Elizabeth) Eckersley",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1970,
    "year_label": "1970",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Yukio Mishima",
    "kind": "individual",
    "desc": "Japanese author",
@@ -84,6 +102,10 @@
   {
    "year": 1562,
    "year_label": "1562",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lope de Vega",
    "kind": "individual",
    "desc": "Spanish playwright",
@@ -96,6 +118,10 @@
   {
    "year": 1823,
    "year_label": "1823",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Wirz",
    "kind": "individual",
    "desc": "Confederate States Army officer",
@@ -108,6 +134,10 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pope John XXIII",
    "kind": "individual",
    "desc": "Italian Roman Catholic prelate and Pope",
@@ -120,6 +150,10 @@
   {
    "year": 1914,
    "year_label": "1914",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joe DiMaggio",
    "kind": "individual",
    "desc": "American baseball player",

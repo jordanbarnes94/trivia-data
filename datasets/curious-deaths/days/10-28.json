@@ -4,6 +4,9 @@
   {
    "year": 1412,
    "year_label": "1412",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Margaret",
    "kind": "individual",
    "desc": "Queen of Denmark, Norway and Sweden",
@@ -17,6 +20,9 @@
   {
    "year": 1704,
    "year_label": "1704",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Locke",
    "kind": "individual",
    "desc": "English philosopher and physician",
@@ -30,6 +36,9 @@
   {
    "year": 1818,
    "year_label": "1818",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Abigail Adams",
    "kind": "individual",
    "desc": "First Lady of the United States",
@@ -43,6 +52,9 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edwin Adams",
    "kind": "individual",
    "desc": "American stage actor",
@@ -56,6 +68,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Frank W. \"Billy\" Tyne Jr.",
    "kind": "individual",
    "desc": "American captain of the F/V Andrea Gail",
@@ -69,6 +84,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Bena Tshadi soccer team",
    "kind": "individual",
    "desc": null,
@@ -84,6 +102,10 @@
   {
    "year": 1466,
    "year_label": "1466",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Erasmus",
    "kind": "individual",
    "desc": "Dutch Catholic priest and humanist scholar",
@@ -96,6 +118,10 @@
   {
    "year": 1754,
    "year_label": "1754",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Laurens",
    "kind": "individual",
    "desc": "American soldier, statesman and abolitionist",
@@ -108,6 +134,10 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jack Soo",
    "kind": "individual",
    "desc": "American actor",

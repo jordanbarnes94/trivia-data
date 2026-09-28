@@ -4,6 +4,9 @@
   {
    "year": 1131,
    "year_label": "1131",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Junior KingPhilip of France",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Isaac Brock",
    "kind": "individual",
    "desc": "KB, British Army officer",
@@ -30,6 +36,9 @@
   {
    "year": 1815,
    "year_label": "1815",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joachim Murat",
    "kind": "individual",
    "desc": "King of Naples",
@@ -43,6 +52,9 @@
   {
    "year": 1974,
    "year_label": "1974",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anatoli Kozhemyakin",
    "kind": "individual",
    "desc": "Soviet footballer",
@@ -58,6 +70,10 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eduardo Abaroa",
    "kind": "individual",
    "desc": "Bolivian hero of the War of the Pacific",
@@ -70,6 +86,10 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lenny Bruce",
    "kind": "individual",
    "desc": "American comedian",
@@ -82,6 +102,10 @@
   {
    "year": 1926,
    "year_label": "1926",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jesse L. Brown",
    "kind": "individual",
    "desc": "United States Naval Aviator",
@@ -94,6 +118,10 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Valerie Olusanya",
    "kind": "individual",
    "desc": null,

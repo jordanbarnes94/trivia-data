@@ -4,6 +4,9 @@
   {
    "year": 1586,
    "year_label": "1586",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Philip Sidney",
    "kind": "individual",
    "desc": "English poet and soldier",
@@ -17,6 +20,9 @@
   {
    "year": 1690,
    "year_label": "1690",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Margaret Mary Alacoque",
    "kind": "individual",
    "desc": "French Roman Catholic nun, promoter of devotion to the Sacred Heart of Jesus",
@@ -30,6 +36,9 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the London Beer Flood",
    "kind": "group",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frédéric Chopin",
    "kind": "individual",
    "desc": "Polish composer and pianist",
@@ -56,6 +68,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Julia Ward Howe",
    "kind": "individual",
    "desc": "American poet and author",
@@ -71,6 +86,10 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pope John Paul I",
    "kind": "individual",
    "desc": "Italian Roman Catholic prelate and Pope",
@@ -83,6 +102,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Montgomery Clift",
    "kind": "individual",
    "desc": "American actor",

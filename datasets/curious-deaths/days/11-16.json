@@ -4,6 +4,9 @@
   {
    "year": 1632,
    "year_label": "1632",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gustavus Adolphus of Sweden",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1724,
    "year_label": "1724",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jack Sheppard",
    "kind": "individual",
    "desc": "English thief and prison escapee",
@@ -32,6 +38,10 @@
   {
    "year": 1839,
    "year_label": "1839",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Selman",
    "kind": "individual",
    "desc": "American outlaw and gunfighter",
@@ -44,6 +54,10 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George S. Kaufman",
    "kind": "individual",
    "desc": "American playwright",

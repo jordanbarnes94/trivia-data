@@ -4,6 +4,9 @@
   {
    "year": 1630,
    "year_label": "1630",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Agrippa d'Aubigné",
    "kind": "individual",
    "desc": "French poet, soldier, propagandist and chronicler",
@@ -17,6 +20,9 @@
   {
    "year": 1707,
    "year_label": "1707",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Farquhar",
    "kind": "individual",
    "desc": "Irish dramatist",
@@ -30,6 +36,9 @@
   {
    "year": 1771,
    "year_label": "1771",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis Petit de Bachaumont",
    "kind": "individual",
    "desc": "French writer",
@@ -43,6 +52,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ludwig Wittgenstein",
    "kind": "individual",
    "desc": "Austrian philosopher",
@@ -56,6 +68,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred Hitchcock",
    "kind": "individual",
    "desc": "KBE, English filmmaker",
@@ -71,6 +86,11 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Nicholas Comper",
    "kind": "individual",
    "desc": "English aviator and aircraft designer",
@@ -83,6 +103,10 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emperor Hirohito of Japan,",
    "kind": "individual",
    "desc": null,

@@ -4,6 +4,9 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Noah Webster",
    "kind": "individual",
    "desc": "American lexicographer and textbook pioneer",
@@ -17,6 +20,9 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anne Brontë",
    "kind": "individual",
    "desc": "English novelist",
@@ -30,6 +36,9 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Bryan",
    "kind": "individual",
    "desc": "Welsh Wesleyan Methodist minister",
@@ -43,6 +52,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred Adler",
    "kind": "individual",
    "desc": "Austrian psychotherapist",
@@ -56,6 +68,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Fred Clapp",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Phil Hartman",
    "kind": "individual",
    "desc": "Canadian-American actor, comedian, screenwriter, and graphic designer",
@@ -84,6 +102,10 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Pitt the Younger",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",
@@ -96,6 +118,10 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis Agassiz",
    "kind": "individual",
    "desc": "Swiss-American biologist and geologist",
@@ -108,6 +134,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ian Fleming",
    "kind": "individual",
    "desc": "English naval intelligence officer and novelist",
@@ -120,6 +150,10 @@
   {
    "year": 1949,
    "year_label": "1949",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wendy O. Williams",
    "kind": "individual",
    "desc": "American singer, songwriter and actress",

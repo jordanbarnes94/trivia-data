@@ -4,6 +4,9 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louise of Mecklenburg-Strelitz",
    "kind": "individual",
    "desc": "Queen of Prussia",
@@ -17,6 +20,9 @@
   {
    "year": 1811,
    "year_label": "1811",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Raphaël Bienvenu Sabatier",
    "kind": "individual",
    "desc": "French anatomist and surgeon",
@@ -30,6 +36,9 @@
   {
    "year": 1838,
    "year_label": "1838",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Christmas Evans",
    "kind": "individual",
    "desc": "Welsh nonconformist minister",
@@ -43,6 +52,9 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Okita Sōji",
    "kind": "individual",
    "desc": "Japanese samurai and Shinsengumi captain",
@@ -56,6 +68,9 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Samuel Wilberforce",
    "kind": "individual",
    "desc": "Anglican bishop",
@@ -69,6 +84,9 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stefan Stambolov",
    "kind": "individual",
    "desc": "Prime Minister of Bulgaria",
@@ -84,6 +102,10 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jerry Smith",
    "kind": "individual",
    "desc": "American professional football player who was a tight end for the National Football League",

@@ -4,6 +4,9 @@
   {
    "year": 1506,
    "year_label": "1506",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Christopher Columbus",
    "kind": "individual",
    "desc": "Italian explorer",
@@ -17,6 +20,9 @@
   {
    "year": 1841,
    "year_label": "1841",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Blanco White",
    "kind": "individual",
    "desc": "Spanish political thinker, theologian and poet",
@@ -30,6 +36,9 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Max Beerbohm",
    "kind": "individual",
    "desc": "English essayist, parodist and caricaturist",
@@ -43,6 +52,9 @@
   {
    "year": 1970,
    "year_label": "1970",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Alan Fish",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Earl Johnson",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -69,6 +84,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gilda Radner",
    "kind": "individual",
    "desc": "American actress and comedian",
@@ -82,6 +100,9 @@
   {
    "year": 1992,
    "year_label": "1992",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Roger Keith Coleman",
    "kind": "individual",
    "desc": "American rapist and murderer",
@@ -97,6 +118,10 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Honoré de Balzac",
    "kind": "individual",
    "desc": "French novelist and playwright",
@@ -109,6 +134,10 @@
   {
    "year": 1905,
    "year_label": "1905",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gerrit Achterberg",
    "kind": "individual",
    "desc": "Dutch poet",
@@ -121,6 +150,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Stewart",
    "kind": "individual",
    "desc": "American actor",

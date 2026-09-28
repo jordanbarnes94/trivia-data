@@ -4,6 +4,9 @@
   {
    "year": 1538,
    "year_label": "1538",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Lambert",
    "kind": "individual",
    "desc": "English Protestant martyr",
@@ -17,6 +20,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thurlow Weed",
    "kind": "individual",
    "desc": "American newspaper publisher and politician",
@@ -30,6 +36,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Aldous Huxley",
    "kind": "individual",
    "desc": "philosopher, writer",
@@ -43,6 +52,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "C.S. Lewis",
    "kind": "individual",
    "desc": "a British author of The Chronicles of Narnia, literary scholar and Anglican lay theologian",
@@ -56,6 +68,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "J. D. Tippit",
    "kind": "individual",
    "desc": "American police officer",
@@ -69,6 +84,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John F. Kennedy",
    "kind": "individual",
    "desc": "35th president of the United States",
@@ -82,6 +100,9 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "D. N. Aidit",
    "kind": "individual",
    "desc": "Indonesian communist and Communist Party of Indonesia leader",
@@ -97,6 +118,10 @@
   {
    "year": 1744,
    "year_label": "1744",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Abigail Adams",
    "kind": "individual",
    "desc": "First Lady of the United States",
@@ -109,6 +134,10 @@
   {
    "year": 1767,
    "year_label": "1767",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Andreas Hofer",
    "kind": "individual",
    "desc": "leader of the Tyrolean Rebellion",
@@ -121,6 +150,10 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sophie Swetchine",
    "kind": "individual",
    "desc": "Russian Roman Catholic mystic",
@@ -133,6 +166,10 @@
   {
    "year": 1819,
    "year_label": "1819",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Eliot",
    "kind": "individual",
    "desc": "English novelist",
@@ -145,6 +182,10 @@
   {
    "year": 1869,
    "year_label": "1869",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "André Gide",
    "kind": "individual",
    "desc": "French author",
@@ -157,6 +198,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles de Gaulle",
    "kind": "individual",
    "desc": "French statesman",

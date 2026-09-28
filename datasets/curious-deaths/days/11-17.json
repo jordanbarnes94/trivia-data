@@ -4,6 +4,9 @@
   {
    "year": 375,
    "year_label": "375",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Valentinian I",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1558,
    "year_label": "1558",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary I",
    "kind": "individual",
    "desc": "of England",
@@ -30,6 +36,9 @@
   {
    "year": 1592,
    "year_label": "1592",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John III",
    "kind": "individual",
    "desc": "King of Sweden",
@@ -43,6 +52,9 @@
   {
    "year": 1796,
    "year_label": "1796",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Catherine the Great",
    "kind": "individual",
    "desc": "empress of Russia",
@@ -56,6 +68,9 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Owen",
    "kind": "individual",
    "desc": "Welsh textile manufacturer, philanthropist and social reformer",
@@ -69,6 +84,9 @@
   {
    "year": 1971,
    "year_label": "1971",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gladys Cooper",
    "kind": "individual",
    "desc": "English actress",
@@ -82,6 +100,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Parker Turner",
    "kind": "individual",
    "desc": null,
@@ -97,6 +118,10 @@
   {
    "year": 9,
    "year_label": "9",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vespasian",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -109,6 +134,10 @@
   {
    "year": 331,
    "year_label": "331",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Julian",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -121,6 +150,10 @@
   {
    "year": 1755,
    "year_label": "1755",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis XVIII",
    "kind": "individual",
    "desc": "King of France",
@@ -133,6 +166,10 @@
   {
    "year": 1772,
    "year_label": "1772",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jesse Appleton",
    "kind": "individual",
    "desc": "second president of Bowdoin College and father of First Lady of the United States Jane Pierce",
@@ -145,6 +182,10 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "João Carlos de Saldanha Oliveira e Daun, 1st Duke of Saldanha",
    "kind": "individual",
    "desc": "Portuguese statesman",
@@ -157,6 +198,10 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rock Hudson",
    "kind": "individual",
    "desc": "American actor",

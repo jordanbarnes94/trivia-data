@@ -4,6 +4,9 @@
   {
    "year": 1778,
    "year_label": "1778",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Augustus Toplady",
    "kind": "individual",
    "desc": "Anglican cleric and hymn writer, author of \"Rock of Ages\"",
@@ -17,6 +20,9 @@
   {
    "year": 1885,
    "year_label": "1885",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Monckton Milnes, 1st Baron Houghton",
    "kind": "individual",
    "desc": "FRS, English poet and politician",
@@ -32,6 +38,10 @@
   {
    "year": 1722,
    "year_label": "1722",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Brocklesby",
    "kind": "individual",
    "desc": "English physician",
@@ -44,6 +54,10 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert G. Ingersoll",
    "kind": "individual",
    "desc": "American lawyer, free thought writer and orator",
@@ -56,6 +70,10 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sadi Carnot",
    "kind": "individual",
    "desc": "President of France",
@@ -68,6 +86,10 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emil Zsigmondy",
    "kind": "individual",
    "desc": "Austrian mountain climber",

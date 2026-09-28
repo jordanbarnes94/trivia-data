@@ -4,6 +4,9 @@
   {
    "year": 1549,
    "year_label": "1549",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Margaret of Valois-Angoulême",
    "kind": "individual",
    "desc": "Queen of Navarre",
@@ -17,6 +20,9 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Newton",
    "kind": "individual",
    "desc": "English Anglican cleric and abolitionist, author of \"Amazing Grace\"",
@@ -30,6 +36,9 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William J. Fetterman",
    "kind": "individual",
    "desc": "United States Army officer",
@@ -43,6 +52,9 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "F. Scott Fitzgerald",
    "kind": "individual",
    "desc": "American novelist",
@@ -56,6 +68,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George S. Patton",
    "kind": "individual",
    "desc": "United States Army general",
@@ -69,6 +84,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain James MacQuarrie",
    "kind": "individual",
    "desc": "pilot of Pan Am Flight 103",
@@ -84,6 +102,10 @@
   {
    "year": 1119,
    "year_label": "1119",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Becket",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -96,6 +118,10 @@
   {
    "year": 1748,
    "year_label": "1748",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ludwig Christoph Heinrich Hölty",
    "kind": "individual",
    "desc": "German poet",
@@ -108,6 +134,10 @@
   {
    "year": 1804,
    "year_label": "1804",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Benjamin Disraeli",
    "kind": "individual",
    "desc": "Prime Minister of the United Kingdom",

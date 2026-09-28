@@ -4,6 +4,9 @@
   {
    "year": 1833,
    "year_label": "1833",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marie-Antoine Carême",
    "kind": "individual",
    "desc": "French chef",
@@ -17,6 +20,9 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Alford",
    "kind": "individual",
    "desc": "English churchman",
@@ -30,6 +36,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kyle Dinkheller",
    "kind": "individual",
    "desc": "American sheriff's deputy",
@@ -45,6 +54,10 @@
   {
    "year": 1729,
    "year_label": "1729",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edmund Burke",
    "kind": "individual",
    "desc": "Irish statesman and philosopher",
@@ -57,6 +70,10 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfred Rosenberg",
    "kind": "individual",
    "desc": "Baltic German Nazi theorist and ideologue",
@@ -69,6 +86,10 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tony Morabito",
    "kind": "individual",
    "desc": "founder of the San Francisco 49ers",

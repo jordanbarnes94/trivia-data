@@ -4,6 +4,9 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Sumner",
    "kind": "individual",
    "desc": "American statesman and United States Senator",
@@ -17,6 +20,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Roy Chapman Andrews",
    "kind": "individual",
    "desc": "American explorer, adventurer and naturalist",
@@ -32,6 +38,10 @@
   {
    "year": 1544,
    "year_label": "1544",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Torquato Tasso",
    "kind": "individual",
    "desc": "Italian poet",
@@ -44,6 +54,10 @@
   {
    "year": 1808,
    "year_label": "1808",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Agustín Morales",
    "kind": "individual",
    "desc": "president of Bolivia",
@@ -56,6 +70,10 @@
   {
    "year": 1842,
    "year_label": "1842",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leandro N. Alem",
    "kind": "individual",
    "desc": "Argentine politician",
@@ -68,6 +86,10 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Alfred Loewenstein",
    "kind": "individual",
    "desc": null,

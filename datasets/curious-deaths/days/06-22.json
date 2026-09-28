@@ -4,6 +4,9 @@
   {
    "year": 1714,
    "year_label": "1714",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Matthew Henry",
    "kind": "individual",
    "desc": "British Nonconformist minister and author",
@@ -17,6 +20,9 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Walter de la Mare",
    "kind": "individual",
    "desc": "English author",
@@ -32,6 +38,10 @@
   {
    "year": 1766,
    "year_label": "1766",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Samuel Appleton",
    "kind": "individual",
    "desc": "American merchant and philanthropist",
@@ -44,6 +54,10 @@
   {
    "year": 1846,
    "year_label": "1846",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tom Dula",
    "kind": "individual",
    "desc": "former Confederate soldier",
@@ -56,6 +70,10 @@
   {
    "year": 1947,
    "year_label": "1947",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Pete Maravich",
    "kind": "individual",
    "desc": "American basketball player",
@@ -68,6 +86,10 @@
   {
    "year": 1954,
    "year_label": "1954",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Freddie Prinze",
    "kind": "individual",
    "desc": "American stand-up comedian and actor",

@@ -4,6 +4,9 @@
   {
    "year": 1291,
    "year_label": "1291",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rudolf I of Germany",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1685,
    "year_label": "1685",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Scott, 1st Duke of Monmouth",
    "kind": "individual",
    "desc": "illegitimate son of Charles II of England",
@@ -30,6 +36,9 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anton Chekhov",
    "kind": "individual",
    "desc": "Russian author and playwright",
@@ -43,6 +52,9 @@
   {
    "year": 1974,
    "year_label": "1974",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Christine Chubbuck",
    "kind": "individual",
    "desc": null,
@@ -58,6 +70,10 @@
   {
    "year": 1837,
    "year_label": "1837",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stephanie of Hohenzollern-Sigmaringen",
    "kind": "individual",
    "desc": "queen consort of Portugal",
@@ -70,6 +86,10 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Frohman",
    "kind": "individual",
    "desc": "American theater manager and producer",
@@ -82,6 +102,10 @@
   {
    "year": 1956,
    "year_label": "1956",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ian Curtis",
    "kind": "individual",
    "desc": "English musician",

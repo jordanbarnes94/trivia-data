@@ -4,6 +4,9 @@
   {
    "year": 1692,
    "year_label": "1692",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Giles Corey",
    "kind": "individual",
    "desc": "English-born American farmer",
@@ -17,6 +20,9 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James A. Garfield",
    "kind": "individual",
    "desc": "president of the United States",
@@ -30,6 +36,9 @@
   {
    "year": 1905,
    "year_label": "1905",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas John Barnardo",
    "kind": "individual",
    "desc": "Irish-born British philanthropist, founder of the Barnardo's charity",
@@ -43,6 +52,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Red Foley",
    "kind": "individual",
    "desc": "American country music singer",
@@ -56,6 +68,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John William Rook",
    "kind": "individual",
    "desc": "American convicted murderer",
@@ -71,6 +86,10 @@
   {
    "year": 86,
    "year_label": "86",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Antoninus Pius",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -83,6 +102,10 @@
   {
    "year": 1587,
    "year_label": "1587",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Sanderson",
    "kind": "individual",
    "desc": "English theologian and casuist",
@@ -95,6 +118,10 @@
   {
    "year": 1792,
    "year_label": "1792",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Backhouse Astor Sr.",
    "kind": "individual",
    "desc": "American business magnate",

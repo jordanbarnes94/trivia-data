@@ -4,6 +4,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Samuel Spencer",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Brendan Behan",
    "kind": "individual",
    "desc": "Irish writer",
@@ -30,6 +36,9 @@
   {
    "year": 1995,
    "year_label": "1995",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas J. Grasso",
    "kind": "individual",
    "desc": "American double murderer",
@@ -45,6 +54,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henrik Ibsen",
    "kind": "individual",
    "desc": "Norwegian playwright",

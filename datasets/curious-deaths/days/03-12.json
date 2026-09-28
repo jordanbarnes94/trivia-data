@@ -4,6 +4,9 @@
   {
    "year": 1902,
    "year_label": "1902",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Peter Altgeld",
    "kind": "individual",
    "desc": "20th Governor of Illinois",
@@ -17,6 +20,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Friedrich Fromm",
    "kind": "individual",
    "desc": "German general",
@@ -32,6 +38,10 @@
   {
    "year": 1743,
    "year_label": "1743",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Heckewelder",
    "kind": "individual",
    "desc": "American missionary for the Moravian Church",
@@ -44,6 +54,10 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jane Delano",
    "kind": "individual",
    "desc": "American nurse, founder of the American Red Cross Nursing Service",
@@ -56,6 +70,10 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gabriele D'Annunzio",
    "kind": "individual",
    "desc": "Italian author and soldier",
@@ -68,6 +86,10 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wilhelm Frick",
    "kind": "individual",
    "desc": "German politician of the Nazi Party",
@@ -80,6 +102,10 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vaslav Nijinsky",
    "kind": "individual",
    "desc": "Polish ballet dancer and choreographer",

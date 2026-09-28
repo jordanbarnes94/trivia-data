@@ -5,6 +5,10 @@
   {
    "year": 1798,
    "year_label": "1798",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Auguste Comte",
    "kind": "individual",
    "desc": "French philosopher",
@@ -17,6 +21,10 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert E. Lee",
    "kind": "individual",
    "desc": "United States and Confederate States soldier and general",
@@ -29,6 +37,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edgar Allan Poe",
    "kind": "individual",
    "desc": "American writer",
@@ -41,6 +53,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Woollcott",
    "kind": "individual",
    "desc": "American critic and radio personality",
@@ -53,6 +69,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Habibullāh Kalakāni",
    "kind": "individual",
    "desc": "claimant of the titles of King and Emir of Afghanistan",

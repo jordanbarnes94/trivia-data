@@ -4,6 +4,9 @@
   {
    "year": 1757,
    "year_label": "1757",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kurt Christoph Graf von Schwerin",
    "kind": "individual",
    "desc": "Prussian Generalfeldmarschall",
@@ -17,6 +20,9 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander von Humboldt",
    "kind": "individual",
    "desc": "German polymath",
@@ -30,6 +36,9 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Judah P. Benjamin",
    "kind": "individual",
    "desc": "American and Confederate politician and English barrister after the American Civil War",
@@ -43,6 +52,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward VII",
    "kind": "individual",
    "desc": "king of the United Kingdom",
@@ -58,6 +70,10 @@
   {
    "year": 1683,
    "year_label": "1683",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jonathan Wild",
    "kind": "individual",
    "desc": "London organized crime figure",
@@ -70,6 +86,10 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maximilien Robespierre",
    "kind": "individual",
    "desc": "French lawyer and statesman",
@@ -82,6 +102,10 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sigmund Freud",
    "kind": "individual",
    "desc": "Austrian neurologist, founder of psychoanalysis",
@@ -94,6 +118,10 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rudolph Valentino",
    "kind": "individual",
    "desc": "Italian actor",

@@ -4,6 +4,9 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick William Robertson",
    "kind": "individual",
    "desc": "English divine",
@@ -17,6 +20,9 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Crisp",
    "kind": "individual",
    "desc": "VC, DSC, Royal Naval Reserve, skipper of armed trawler Nelson",
@@ -30,6 +36,9 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Will Rogers",
    "kind": "individual",
    "desc": "American stage and film actor, vaudeville performer, cowboy, humorist, newspaper columnist, and social commentator",
@@ -45,6 +54,10 @@
   {
    "year": 1195,
    "year_label": "1195",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anthony of Padua",
    "kind": "individual",
    "desc": "Portuguese Catholic priest and Franciscan friar",
@@ -57,6 +70,10 @@
   {
    "year": 1613,
    "year_label": "1613",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jeremy Taylor",
    "kind": "individual",
    "desc": "Anglican divine",
@@ -69,6 +86,10 @@
   {
    "year": 1769,
    "year_label": "1769",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Napoleon",
    "kind": "individual",
    "desc": "emperor of the French",
@@ -81,6 +102,10 @@
   {
    "year": 1771,
    "year_label": "1771",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Walter Scott",
    "kind": "individual",
    "desc": "Scottish novelist and poet",
@@ -93,6 +118,10 @@
   {
    "year": 1785,
    "year_label": "1785",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas De Quincey",
    "kind": "individual",
    "desc": "English essayist",
@@ -105,6 +134,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ethel Barrymore",
    "kind": "individual",
    "desc": "American actress",
@@ -117,6 +150,10 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Óscar Romero",
    "kind": "individual",
    "desc": "Salvadoran Roman Catholic prelate",
@@ -129,6 +166,11 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Birth",
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Nick Piantanida",
    "kind": "individual",
    "desc": "American parachutist",

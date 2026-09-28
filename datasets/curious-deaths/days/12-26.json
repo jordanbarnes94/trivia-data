@@ -4,6 +4,9 @@
   {
    "year": 1530,
    "year_label": "1530",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Babur",
    "kind": "individual",
    "desc": "founder of the Mughal Empire and first Emperor of the Mughal dynasty",
@@ -17,6 +20,9 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Moody",
    "kind": "individual",
    "desc": "Irish actor",
@@ -30,6 +36,9 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Webster",
    "kind": "individual",
    "desc": "Scottish geologist",
@@ -43,6 +52,9 @@
   {
    "year": 1909,
    "year_label": "1909",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederic Remington",
    "kind": "individual",
    "desc": "American artist",
@@ -56,6 +68,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "JonBenét Patricia Ramsey",
    "kind": "individual",
    "desc": null,
@@ -71,6 +86,10 @@
   {
    "year": 1716,
    "year_label": "1716",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Gray",
    "kind": "individual",
    "desc": "English poet",
@@ -83,6 +102,10 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mao Zedong",
    "kind": "individual",
    "desc": "Chinese statesman and revolutionary",

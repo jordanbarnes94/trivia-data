@@ -4,6 +4,9 @@
   {
    "year": -323,
    "year_label": "323 BC",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander the Great",
    "kind": "individual",
    "desc": "conqueror and king of Macedonia",
@@ -17,6 +20,9 @@
   {
    "year": 1709,
    "year_label": "1709",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marcello d'Aste",
    "kind": "individual",
    "desc": "Italian Roman Catholic cardinal",
@@ -30,6 +36,9 @@
   {
    "year": 1936,
    "year_label": "1936",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert E. Howard",
    "kind": "individual",
    "desc": "American author and creator of Conan the Barbarian",
@@ -43,6 +52,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thích Quảng Đức",
    "kind": "individual",
    "desc": "Vietnamese Mahayana Buddhist monk",
@@ -56,6 +68,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Wayne",
    "kind": "individual",
    "desc": "American actor",
@@ -71,6 +86,10 @@
   {
    "year": 1741,
    "year_label": "1741",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Joseph Warren",
    "kind": "individual",
    "desc": "American physician and Patriot",
@@ -83,6 +102,10 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Strauss",
    "kind": "individual",
    "desc": "German composer and conductor",
@@ -95,6 +118,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bartolomeo Vanzetti",
    "kind": "individual",
    "desc": "Italian immigrant anarchist",
@@ -107,6 +134,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Saint Francisco Marto",
    "kind": "individual",
    "desc": "Portuguese Marian mysticist",
@@ -119,6 +150,10 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vince Lombardi",
    "kind": "individual",
    "desc": "American football coach",
@@ -131,6 +166,10 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Azaria Chamberlain",
    "kind": "individual",
    "desc": null,

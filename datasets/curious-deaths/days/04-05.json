@@ -4,6 +4,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Camille Desmoulins",
    "kind": "individual",
    "desc": "French journalist and politician",
@@ -17,6 +20,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Georges Danton",
    "kind": "individual",
    "desc": "leading figure in the French Revolution",
@@ -30,6 +36,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kurt Cobain",
    "kind": "individual",
    "desc": "American musician",
@@ -43,6 +52,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Allen Ginsberg",
    "kind": "individual",
    "desc": "American poet and writer",
@@ -56,6 +68,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cozy Powell",
    "kind": "individual",
    "desc": "English drummer",
@@ -71,6 +86,10 @@
   {
    "year": 1588,
    "year_label": "1588",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Hobbes",
    "kind": "individual",
    "desc": "English philosopher",
@@ -83,6 +102,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Havelock",
    "kind": "individual",
    "desc": "KCB, British Army general",
@@ -95,6 +118,10 @@
   {
    "year": 1818,
    "year_label": "1818",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Philip Barton Key II",
    "kind": "individual",
    "desc": "American lawyer who served as U.S. Attorney for the District of Columbia",
@@ -107,6 +134,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bette Davis",
    "kind": "individual",
    "desc": "American actress",
@@ -119,6 +150,10 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Le Mesurier",
    "kind": "individual",
    "desc": "English actor",

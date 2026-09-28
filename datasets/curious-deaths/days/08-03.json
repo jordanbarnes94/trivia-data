@@ -4,6 +4,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lenny Bruce",
    "kind": "individual",
    "desc": "American comedian",
@@ -17,6 +20,9 @@
   {
    "year": 1980,
    "year_label": "1980",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Lourdes Maria da Silva",
    "kind": "individual",
    "desc": null,
@@ -32,6 +38,10 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Maltbie Davenport Babcock",
    "kind": "individual",
    "desc": "American clergyman and writer",
@@ -44,6 +54,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rupert Brooke",
    "kind": "individual",
    "desc": "English poet",
@@ -56,6 +70,10 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ernie Pyle",
    "kind": "individual",
    "desc": "American war correspondent",
@@ -68,6 +86,10 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James W. Rodgers",
    "kind": "individual",
    "desc": "American murderer",

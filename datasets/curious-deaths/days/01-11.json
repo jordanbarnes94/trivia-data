@@ -4,6 +4,9 @@
   {
    "year": 1817,
    "year_label": "1817",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Timothy Dwight IV",
    "kind": "individual",
    "desc": "American academic and educator",
@@ -17,6 +20,9 @@
   {
    "year": 1854,
    "year_label": "1854",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "William Snyder",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lal Bahadur Shastri",
    "kind": "individual",
    "desc": "Prime Minister of India",
@@ -43,6 +52,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jack Soo",
    "kind": "individual",
    "desc": "American actor",
@@ -56,6 +68,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain William S. Todd",
    "kind": "individual",
    "desc": null,
@@ -71,6 +86,10 @@
   {
    "year": 1757,
    "year_label": "1757",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander Hamilton",
    "kind": "individual",
    "desc": "American statesman",
@@ -83,6 +102,10 @@
   {
    "year": 1825,
    "year_label": "1825",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Bayard Taylor",
    "kind": "individual",
    "desc": "American poet, literary critic, translator, travel author and diplomat",
@@ -95,6 +118,10 @@
   {
    "year": 1842,
    "year_label": "1842",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William James",
    "kind": "individual",
    "desc": "American philosopher and psychologist",
@@ -107,6 +134,10 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "C. Y. O'Connor",
    "kind": "individual",
    "desc": "engineer-in-chief of Western Australia",
@@ -119,6 +150,10 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Gloria Ramirez",
    "kind": "individual",
    "desc": null,

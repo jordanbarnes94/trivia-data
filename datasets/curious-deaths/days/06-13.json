@@ -4,6 +4,9 @@
   {
    "year": 1231,
    "year_label": "1231",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anthony of Padua",
    "kind": "individual",
    "desc": "Portuguese Catholic priest and Franciscan friar",
@@ -17,6 +20,9 @@
   {
    "year": 1776,
    "year_label": "1776",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Battie",
    "kind": "individual",
    "desc": "English psychiatrist",
@@ -30,6 +36,9 @@
   {
    "year": 1930,
    "year_label": "1930",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Segrave",
    "kind": "individual",
    "desc": "British land speed and water speed record pioneer",
@@ -43,6 +52,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfredo Rampi",
    "kind": "individual",
    "desc": "Italian child",
@@ -56,6 +68,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Benny Goodman",
    "kind": "individual",
    "desc": "American clarinetist",
@@ -71,6 +86,10 @@
   {
    "year": 1786,
    "year_label": "1786",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Winfield Scott",
    "kind": "individual",
    "desc": "United States Army general",
@@ -83,6 +102,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Arnold",
    "kind": "individual",
    "desc": "English educator and historian",
@@ -95,6 +118,10 @@
   {
    "year": 1865,
    "year_label": "1865",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "W. B. Yeats",
    "kind": "individual",
    "desc": "Irish poet and dramatist",
@@ -107,6 +134,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jorge Chávez",
    "kind": "individual",
    "desc": "Peruvian aviator",
@@ -119,6 +150,10 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tom Gastall",
    "kind": "individual",
    "desc": "American baseball player",

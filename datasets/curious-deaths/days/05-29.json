@@ -4,6 +4,9 @@
   {
    "year": 1453,
    "year_label": "1453",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Constantine XI",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1546,
    "year_label": "1546",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "David Beaton",
    "kind": "individual",
    "desc": "Archbishop of St Andrews, final Scottish Cardinal prior to the Scottish Reformation",
@@ -30,6 +36,9 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Empress Joséphine",
    "kind": "individual",
    "desc": "former wife of Napoleon",
@@ -43,6 +52,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Thomas Buckle",
    "kind": "individual",
    "desc": "English historian and author",
@@ -56,6 +68,9 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Winfield Scott",
    "kind": "individual",
    "desc": "United States Army general",
@@ -69,6 +84,9 @@
   {
    "year": 1877,
    "year_label": "1877",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Lothrop Motley",
    "kind": "individual",
    "desc": "American author and diplomat",
@@ -82,6 +100,9 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "W. S. Gilbert",
    "kind": "individual",
    "desc": "English dramatist and librettist",
@@ -95,6 +116,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Barrymore",
    "kind": "individual",
    "desc": "American actor",
@@ -108,6 +132,9 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Whale",
    "kind": "individual",
    "desc": "English film and theater director and actor",
@@ -121,6 +148,9 @@
   {
    "year": 1972,
    "year_label": "1972",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Moe Berg",
    "kind": "individual",
    "desc": "American baseball player",
@@ -136,6 +166,10 @@
   {
    "year": 1630,
    "year_label": "1630",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles II of England",
    "kind": "individual",
    "desc": null,
@@ -148,6 +182,10 @@
   {
    "year": 1729,
    "year_label": "1729",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Dodd",
    "kind": "individual",
    "desc": "English Anglican clergyman and man of letters",
@@ -160,6 +198,10 @@
   {
    "year": 1736,
    "year_label": "1736",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Patrick Henry",
    "kind": "individual",
    "desc": "American attorney, politician and orator",
@@ -172,6 +214,10 @@
   {
    "year": 1760,
    "year_label": "1760",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis-Michel le Peletier, marquis de Saint-Fargeau",
    "kind": "individual",
    "desc": "French politician",
@@ -184,6 +230,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "G. K. Chesterton",
    "kind": "individual",
    "desc": "English writer, philosopher, lay theologian and critic",
@@ -196,6 +246,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick Harding Turner",
    "kind": "individual",
    "desc": "Scottish sportsman",
@@ -208,6 +262,10 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John F. Kennedy",
    "kind": "individual",
    "desc": "35th president of the United States",

@@ -4,6 +4,9 @@
   {
    "year": 1555,
    "year_label": "1555",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Bradford",
    "kind": "individual",
    "desc": "English Reformer and Protestant martyr",
@@ -17,6 +20,9 @@
   {
    "year": 1766,
    "year_label": "1766",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "François-Jean de la Barre",
    "kind": "individual",
    "desc": "French nobleman",
@@ -30,6 +36,9 @@
   {
    "year": 1863,
    "year_label": "1863",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John F. Reynolds",
    "kind": "individual",
    "desc": "Union general of the American Civil War",
@@ -43,6 +52,9 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Josiah Quincy III",
    "kind": "individual",
    "desc": "Mayor of Boston and President of Harvard University",
@@ -56,6 +68,9 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leandro N. Alem",
    "kind": "individual",
    "desc": "Argentine politician",
@@ -69,6 +84,9 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Buckey O'Neill",
    "kind": "individual",
    "desc": "captain in Theodore Roosevelt's Rough Riders",
@@ -82,6 +100,9 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Jersey Shore shark attacks of 1916",
    "kind": "group",
    "desc": null,
@@ -95,6 +116,9 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Erik Satie",
    "kind": "individual",
    "desc": "French composer and pianist",
@@ -108,6 +132,9 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles L. Kelly",
    "kind": "individual",
    "desc": "United States Army helicopter pilot and medical evacuation unit commander",
@@ -121,6 +148,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Michael Landon",
    "kind": "individual",
    "desc": "American actor",
@@ -136,6 +166,10 @@
   {
    "year": 1534,
    "year_label": "1534",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick II of Denmark",
    "kind": "individual",
    "desc": null,
@@ -148,6 +182,10 @@
   {
    "year": 1804,
    "year_label": "1804",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Sand",
    "kind": "individual",
    "desc": "French novelist",
@@ -160,6 +198,10 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Diana",
    "kind": "individual",
    "desc": "former princess consort of Charles, Prince of Wales",

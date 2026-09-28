@@ -4,6 +4,9 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Francis Marion",
    "kind": "individual",
    "desc": "American military officer",
@@ -17,6 +20,9 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Philip Barton Key II",
    "kind": "individual",
    "desc": "American lawyer who served as U.S. Attorney for the District of Columbia",
@@ -30,6 +36,9 @@
   {
    "year": 1902,
    "year_label": "1902",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Breaker Morant",
    "kind": "individual",
    "desc": "Anglo-Australian military officer and war criminal",
@@ -43,6 +52,9 @@
   {
    "year": 1930,
    "year_label": "1930",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joseph Wright",
    "kind": "individual",
    "desc": "compiler of The English Dialect Dictionary",
@@ -58,6 +70,10 @@
   {
    "year": 1807,
    "year_label": "1807",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Wadsworth Longfellow",
    "kind": "individual",
    "desc": "American poet",
@@ -70,6 +86,10 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Howard Crosby",
    "kind": "individual",
    "desc": "American Presbyterian preacher, scholar and professor",

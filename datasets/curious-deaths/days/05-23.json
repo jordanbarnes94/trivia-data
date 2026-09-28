@@ -4,6 +4,9 @@
   {
    "year": 1498,
    "year_label": "1498",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Girolamo Savonarola",
    "kind": "individual",
    "desc": "Italian Dominican friar",
@@ -17,6 +20,9 @@
   {
    "year": 1868,
    "year_label": "1868",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Kit Carson",
    "kind": "individual",
    "desc": "American frontiersman",
@@ -30,6 +36,9 @@
   {
    "year": 1906,
    "year_label": "1906",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henrik Ibsen",
    "kind": "individual",
    "desc": "Norwegian playwright",
@@ -43,6 +52,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Heinrich Himmler",
    "kind": "individual",
    "desc": "German Nazi officer",
@@ -56,6 +68,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Emil Kapaun",
    "kind": "individual",
    "desc": "United States Army Roman Catholic chaplain and Medal of Honor recipient",
@@ -69,6 +84,9 @@
   {
    "year": 1969,
    "year_label": "1969",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paul Meyer",
    "kind": "individual",
    "desc": "United States Air Force airman",
@@ -82,6 +100,10 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Owen Hart",
    "kind": "individual",
    "desc": "Canadian-American professional wrestler",
@@ -97,6 +119,10 @@
   {
    "year": 1208,
    "year_label": "1208",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Simon de Montfort, 6th Earl of Leicester",
    "kind": "individual",
    "desc": null,
@@ -109,6 +135,10 @@
   {
    "year": 1718,
    "year_label": "1718",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Hunter",
    "kind": "individual",
    "desc": "Scottish anatomist and physician",
@@ -121,6 +151,10 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Hood",
    "kind": "individual",
    "desc": "English poet, author and humorist",
@@ -133,6 +167,10 @@
   {
    "year": 1848,
    "year_label": "1848",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Otto Lilienthal",
    "kind": "individual",
    "desc": "German aviation pioneer",
@@ -145,6 +183,10 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Douglas Fairbanks",
    "kind": "individual",
    "desc": "American actor and filmmaker",
@@ -157,6 +199,10 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hans Frank",
    "kind": "individual",
    "desc": "German politician and lawyer",
@@ -169,6 +215,10 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Margaret Wise Brown",
    "kind": "individual",
    "desc": null,
@@ -181,6 +231,10 @@
   {
    "year": 1944,
    "year_label": "1944",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vivian MacKerrell",
    "kind": "individual",
    "desc": "British actor",

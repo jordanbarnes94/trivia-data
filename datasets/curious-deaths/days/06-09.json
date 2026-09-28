@@ -4,6 +4,9 @@
   {
    "year": 68,
    "year_label": "68",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nero",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -17,6 +20,9 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Dickens",
    "kind": "individual",
    "desc": "English novelist",
@@ -30,6 +36,9 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Max Aitken, 1st Baron Beaverbrook",
    "kind": "individual",
    "desc": null,
@@ -43,6 +52,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Franco Brun",
    "kind": "individual",
    "desc": null,
@@ -56,6 +68,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lee Han-yeol",
    "kind": "individual",
    "desc": "South Korean student activist",
@@ -71,6 +86,10 @@
   {
    "year": 1640,
    "year_label": "1640",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leopold I, Holy Roman Emperor",
    "kind": "individual",
    "desc": null,
@@ -83,6 +102,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johnny Ace",
    "kind": "individual",
    "desc": "American rhythm-and-blues singer and musician",

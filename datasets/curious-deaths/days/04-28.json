@@ -4,6 +4,9 @@
   {
    "year": 1558,
    "year_label": "1558",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Walter Milne",
    "kind": "individual",
    "desc": "last Protestant martyr burned in Scotland before the Scottish Reformation",
@@ -17,6 +20,9 @@
   {
    "year": 1842,
    "year_label": "1842",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Bell",
    "kind": "individual",
    "desc": "Scottish physician, artist and philosophical theologian",
@@ -30,6 +36,9 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sir Andrew Agnew, 7th Baronet",
    "kind": "individual",
    "desc": "Scottish politician",
@@ -43,6 +52,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Benito Mussolini",
    "kind": "individual",
    "desc": "Italian fascist statesman",
@@ -56,6 +68,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Clarabelle Lansing",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Anthony Nightingale",
    "kind": "individual",
    "desc": "victim of the Port Arthur massacre",
@@ -84,6 +102,10 @@
   {
    "year": 32,
    "year_label": "32",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Otho",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -96,6 +118,10 @@
   {
    "year": 1545,
    "year_label": "1545",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Yi Sun-sin",
    "kind": "individual",
    "desc": "Korean naval commander",
@@ -108,6 +134,10 @@
   {
    "year": 1758,
    "year_label": "1758",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Monroe",
    "kind": "individual",
    "desc": "president of the United States",
@@ -120,6 +150,10 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Crisp",
    "kind": "individual",
    "desc": "VC, DSC, Royal Naval Reserve, skipper of armed trawler Nelson",
@@ -132,6 +166,10 @@
   {
    "year": 1906,
    "year_label": "1906",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Kurt Gödel",
    "kind": "individual",
    "desc": null,

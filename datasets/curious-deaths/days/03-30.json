@@ -4,6 +4,9 @@
   {
    "year": 1450,
    "year_label": "1450",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Sejong the Great",
    "kind": "individual",
    "desc": "king of the Joseon Dynasty",
@@ -17,6 +20,9 @@
   {
    "year": 1783,
    "year_label": "1783",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Hunter",
    "kind": "individual",
    "desc": "Scottish anatomist and physician",
@@ -30,6 +36,9 @@
   {
    "year": 1871,
    "year_label": "1871",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lovisa",
    "kind": "individual",
    "desc": "Queen of Sweden and Norway",
@@ -43,6 +52,9 @@
   {
    "year": 1960,
    "year_label": "1960",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James W. Rodgers",
    "kind": "individual",
    "desc": "American murderer",
@@ -58,6 +70,10 @@
   {
    "year": 1770,
    "year_label": "1770",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sir William Erskine, 2nd Baronet",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Paul Verlaine",
    "kind": "individual",
    "desc": "French poet",
@@ -82,6 +102,10 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vincent van Gogh",
    "kind": "individual",
    "desc": "Dutch painter",

@@ -4,6 +4,9 @@
   {
    "year": 1672,
    "year_label": "1672",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "François de La Mothe Le Vayer",
    "kind": "individual",
    "desc": "French writer",
@@ -17,6 +20,9 @@
   {
    "year": 1760,
    "year_label": "1760",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nicolaus Zinzendorf",
    "kind": "individual",
    "desc": "German religious and social reformer and bishop of the Moravian Church",
@@ -30,6 +36,9 @@
   {
    "year": 1805,
    "year_label": "1805",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Friedrich Schiller",
    "kind": "individual",
    "desc": "German writer, philosopher and physician",
@@ -43,6 +52,9 @@
   {
    "year": 1864,
    "year_label": "1864",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "General John Sedgwick",
    "kind": "individual",
    "desc": "Union general of the American Civil War",
@@ -56,6 +68,9 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Sigmund Neuberger",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Albert A. Michelson",
    "kind": "individual",
    "desc": "American physicist",
@@ -82,6 +100,9 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jack Holland",
    "kind": "individual",
    "desc": "American college football player and boxer",
@@ -95,6 +116,9 @@
   {
    "year": 1987,
    "year_label": "1987",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Zygmunt Pawlaczyk",
    "kind": "individual",
    "desc": "the captain of LOT Polish Airlines Flight 5055",
@@ -108,6 +132,9 @@
   {
    "year": 1992,
    "year_label": "1992",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Ramon Prado Jr.",
    "kind": "individual",
    "desc": null,
@@ -123,6 +150,10 @@
   {
    "year": 1738,
    "year_label": "1738",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Wolcot",
    "kind": "individual",
    "desc": "English satirist",
@@ -135,6 +166,10 @@
   {
    "year": 1800,
    "year_label": "1800",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Brown",
    "kind": "individual",
    "desc": "American abolitionist",
@@ -147,6 +182,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "J. M. Barrie",
    "kind": "individual",
    "desc": "Scottish novelist and playwright",
@@ -159,6 +198,10 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anton Cermak",
    "kind": "individual",
    "desc": "Mayor of Chicago",
@@ -171,6 +214,10 @@
   {
    "year": 1921,
    "year_label": "1921",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sophie Scholl",
    "kind": "individual",
    "desc": "member of White Rose anti-Nazi resistance movement, sister of Hans Scholl",

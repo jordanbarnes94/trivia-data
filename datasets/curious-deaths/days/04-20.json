@@ -4,6 +4,9 @@
   {
    "year": 1831,
    "year_label": "1831",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Abernethy",
    "kind": "individual",
    "desc": "English surgeon",
@@ -17,6 +20,9 @@
   {
    "year": 1933,
    "year_label": "1933",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bill Lancaster",
    "kind": "individual",
    "desc": "Australian aviator",
@@ -32,6 +38,10 @@
   {
    "year": 571,
    "year_label": "571",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Muhammad",
    "kind": "individual",
    "desc": "Prophet of God in Islam",
@@ -44,6 +54,10 @@
   {
    "year": 1718,
    "year_label": "1718",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "David Brainerd",
    "kind": "individual",
    "desc": "American missionary to the Native Americans",
@@ -56,6 +70,10 @@
   {
    "year": 1745,
    "year_label": "1745",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nathanael Emmons",
    "kind": "individual",
    "desc": "American Congregational minister and theologian",
@@ -68,6 +86,10 @@
   {
    "year": 1808,
    "year_label": "1808",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Napoleon III",
    "kind": "individual",
    "desc": "Emperor of the French",
@@ -80,6 +102,10 @@
   {
    "year": 1823,
    "year_label": "1823",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jesse L. Reno",
    "kind": "individual",
    "desc": "Union general of the American Civil War",
@@ -92,6 +118,10 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lala",
    "kind": "individual",
    "desc": "VC, Indian World War I Victoria Cross recipient",
@@ -104,6 +134,10 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Adolf Hitler",
    "kind": "individual",
    "desc": "German Nazi statesman",
@@ -116,6 +150,10 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emil Kapaun",
    "kind": "individual",
    "desc": "United States Army Roman Catholic chaplain and Medal of Honor recipient",

@@ -4,6 +4,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Buster Keaton",
    "kind": "individual",
    "desc": "American actor, comedian and filmmaker",
@@ -17,6 +20,9 @@
   {
    "year": 1976,
    "year_label": "1976",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Werner Heisenberg",
    "kind": "individual",
    "desc": "German theoretical physicist",
@@ -30,6 +36,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Heather O'Rourke",
    "kind": "individual",
    "desc": "American child actress",
@@ -45,6 +54,10 @@
   {
    "year": 1506,
    "year_label": "1506",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Buchanan",
    "kind": "individual",
    "desc": "Scottish historian and humanist scholar",
@@ -57,6 +70,10 @@
   {
    "year": 1552,
    "year_label": "1552",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Coke",
    "kind": "individual",
    "desc": "English barrister, judge and politician",
@@ -69,6 +86,10 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Guglielmo Oberdan",
    "kind": "individual",
    "desc": "Italian irredentist",
@@ -81,6 +102,10 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Brandon Lee",
    "kind": "individual",
    "desc": null,

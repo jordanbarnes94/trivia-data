@@ -4,6 +4,9 @@
   {
    "year": 1733,
    "year_label": "1733",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Woolston",
    "kind": "individual",
    "desc": "English theologian",
@@ -17,6 +20,9 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Gadsby",
    "kind": "individual",
    "desc": "English Baptist pastor",
@@ -30,6 +36,9 @@
   {
    "year": 1851,
    "year_label": "1851",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John James Audubon",
    "kind": "individual",
    "desc": "American ornithologist, naturalist and painter",
@@ -43,6 +52,9 @@
   {
    "year": 1857,
    "year_label": "1857",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Edward Alderson",
    "kind": "individual",
    "desc": "English lawyer and judge",
@@ -56,6 +68,9 @@
   {
    "year": 1940,
    "year_label": "1940",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Isaac Babel",
    "kind": "individual",
    "desc": "Russian author",
@@ -69,6 +84,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Gus Grissom",
    "kind": "individual",
    "desc": "American astronaut",
@@ -82,6 +100,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Roger B. Chaffee",
    "kind": "individual",
    "desc": "American astronaut",
@@ -97,6 +118,10 @@
   {
    "year": 1756,
    "year_label": "1756",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wolfgang Amadeus Mozart",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -109,6 +134,10 @@
   {
    "year": 1757,
    "year_label": "1757",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gomes Freire de Andrade",
    "kind": "individual",
    "desc": "Portuguese military officer",
@@ -121,6 +150,10 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lewis Carroll",
    "kind": "individual",
    "desc": "English mathematician and novelist",
@@ -133,6 +166,10 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dmitri Mendeleev",
    "kind": "individual",
    "desc": "Russian chemist",
@@ -145,6 +182,10 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Wilhelm II",
    "kind": "individual",
    "desc": "the last German Emperor",
@@ -157,6 +198,10 @@
   {
    "year": 1916,
    "year_label": "1916",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stjepan Filipović",
    "kind": "individual",
    "desc": "Yugoslav communist",

@@ -4,6 +4,9 @@
   {
    "year": 1143,
    "year_label": "1143",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "John II Komnenos",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick Denison Maurice",
    "kind": "individual",
    "desc": "English Anglican theologian and author",
@@ -30,6 +36,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles I of Austria",
    "kind": "individual",
    "desc": "the last Emperor of Austria",
@@ -43,6 +52,9 @@
   {
    "year": 1984,
    "year_label": "1984",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Marvin Gaye",
    "kind": "individual",
    "desc": "American singer",
@@ -58,6 +70,10 @@
   {
    "year": 1613,
    "year_label": "1613",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles de Saint-Évremond",
    "kind": "individual",
    "desc": "French soldier, author and hedonist",
@@ -70,6 +86,10 @@
   {
    "year": 1647,
    "year_label": "1647",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Wilmot, 2nd Earl of Rochester",
    "kind": "individual",
    "desc": "English poet and courtier",
@@ -82,6 +102,10 @@
   {
    "year": 1815,
    "year_label": "1815",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Otto von Bismarck",
    "kind": "individual",
    "desc": "German statesman",
@@ -94,6 +118,10 @@
   {
    "year": 1846,
    "year_label": "1846",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Jeremiah Haralson",
    "kind": "individual",
    "desc": null,
@@ -106,6 +134,10 @@
   {
    "year": 1866,
    "year_label": "1866",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ferruccio Busoni",
    "kind": "individual",
    "desc": "Italian composer",
@@ -118,6 +150,10 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Billy Whelan",
    "kind": "individual",
    "desc": "Irish footballer",
@@ -130,6 +166,10 @@
   {
    "year": 1965,
    "year_label": "1965",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Park Jong-chul",
    "kind": "individual",
    "desc": "South Korean student activist",

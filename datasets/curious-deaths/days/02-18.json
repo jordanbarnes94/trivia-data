@@ -4,6 +4,9 @@
   {
    "year": 1478,
    "year_label": "1478",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "George Plantagenet, Duke of Clarence",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1535,
    "year_label": "1535",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Heinrich Cornelius Agrippa",
    "kind": "individual",
    "desc": "German polymath and occultist",
@@ -30,6 +36,9 @@
   {
    "year": 1546,
    "year_label": "1546",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Martin Luther",
    "kind": "individual",
    "desc": "German theologian who started the Protestant Reformation",
@@ -43,6 +52,9 @@
   {
    "year": 1564,
    "year_label": "1564",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Michelangelo",
    "kind": "individual",
    "desc": "Italian artist and poet",
@@ -56,6 +68,9 @@
   {
    "year": 1820,
    "year_label": "1820",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lavinia Fisher",
    "kind": "individual",
    "desc": "American alleged serial killer",
@@ -69,6 +84,9 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Bartholomew Gough",
    "kind": "individual",
    "desc": "American temperance orator",
@@ -84,6 +102,10 @@
   {
    "year": 1516,
    "year_label": "1516",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary I",
    "kind": "individual",
    "desc": "of England",
@@ -96,6 +118,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Peabody",
    "kind": "individual",
    "desc": "American financier and philanthropist",
@@ -108,6 +134,10 @@
   {
    "year": 1817,
    "year_label": "1817",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Lewis Armistead",
    "kind": "individual",
    "desc": "Confederate brigadier general of the American Civil War",
@@ -120,6 +150,10 @@
   {
    "year": 1884,
    "year_label": "1884",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "O. O. McIntyre",
    "kind": "individual",
    "desc": "American newspaper columnist",
@@ -132,6 +166,10 @@
   {
    "year": 1895,
    "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Gipp",
    "kind": "individual",
    "desc": "American college football player",
@@ -144,6 +182,10 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Amir-Abbas Hoveyda",
    "kind": "individual",
    "desc": "Prime Minister of Iran",
@@ -156,6 +198,10 @@
   {
    "year": 1920,
    "year_label": "1920",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eddie Slovik",
    "kind": "individual",
    "desc": "American soldier",

@@ -4,6 +4,9 @@
   {
    "year": 1536,
    "year_label": "1536",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Tyndale",
    "kind": "individual",
    "desc": "English scholar and Bible translator",
@@ -17,6 +20,9 @@
   {
    "year": 1660,
    "year_label": "1660",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Paul Scarron",
    "kind": "individual",
    "desc": "French poet, dramatist and novelist",
@@ -30,6 +36,9 @@
   {
    "year": 1892,
    "year_label": "1892",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alfred, Lord Tennyson",
    "kind": "individual",
    "desc": "FRS, Poet Laureate of the United Kingdom",
@@ -43,6 +52,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bette Davis",
    "kind": "individual",
    "desc": "American actress",
@@ -58,6 +70,10 @@
   {
    "year": 1510,
    "year_label": "1510",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Rowland Taylor",
    "kind": "individual",
    "desc": "English Protestant martyr",
@@ -70,6 +86,10 @@
   {
    "year": 1769,
    "year_label": "1769",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Isaac Brock",
    "kind": "individual",
    "desc": "KB, British Army officer",
@@ -82,6 +102,10 @@
   {
    "year": 1785,
    "year_label": "1785",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Ward Burrows II",
    "kind": "individual",
    "desc": "United States naval officer",
@@ -94,6 +118,10 @@
   {
    "year": 1820,
    "year_label": "1820",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Andrew Haswell Green",
    "kind": "individual",
    "desc": "American lawyer, city planner and civic leader",
@@ -106,6 +134,10 @@
   {
    "year": 1930,
    "year_label": "1930",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Hafez al-Assad",
    "kind": "individual",
    "desc": "President of Syria",

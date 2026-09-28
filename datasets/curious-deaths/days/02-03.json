@@ -4,6 +4,9 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Woodrow Wilson",
    "kind": "individual",
    "desc": "president of the United States",
@@ -17,6 +20,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ronald Ryan",
    "kind": "individual",
    "desc": "Australian criminal",
@@ -30,6 +36,9 @@
   {
    "year": 1998,
    "year_label": "1998",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Karla Faye Tucker",
    "kind": "individual",
    "desc": "American double murderer who converted to Christianity in prison",
@@ -45,6 +54,10 @@
   {
    "year": 1795,
    "year_label": "1795",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Antonio José de Sucre",
    "kind": "individual",
    "desc": "Venezuelan independence leader and President of Peru and Bolivia",
@@ -57,6 +70,10 @@
   {
    "year": 1809,
    "year_label": "1809",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Felix Mendelssohn",
    "kind": "individual",
    "desc": "German composer",
@@ -69,6 +86,10 @@
   {
    "year": 1816,
    "year_label": "1816",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Frederick William Robertson",
    "kind": "individual",
    "desc": "English divine",
@@ -81,6 +102,10 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Walter Bagehot",
    "kind": "individual",
    "desc": "British journalist, businessman and essayist",
@@ -93,6 +118,10 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edwin Adams",
    "kind": "individual",
    "desc": "American stage actor",
@@ -105,6 +134,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Gertrude Stein",
    "kind": "individual",
    "desc": "American writer",

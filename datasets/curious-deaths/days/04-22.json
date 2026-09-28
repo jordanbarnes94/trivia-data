@@ -4,6 +4,9 @@
   {
    "year": 1616,
    "year_label": "1616",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Miguel de Cervantes",
    "kind": "individual",
    "desc": "Spanish novelist",
@@ -17,6 +20,9 @@
   {
    "year": 1669,
    "year_label": "1669",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Mather",
    "kind": "individual",
    "desc": "Puritan minister",
@@ -30,6 +36,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Guillaume-Chrétien de Lamoignon de Malesherbes",
    "kind": "individual",
    "desc": "French statesman and government minister, defense counsel of Louis XVI",
@@ -43,6 +52,9 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Crome",
    "kind": "individual",
    "desc": "English landscape artist",
@@ -56,6 +68,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Nixon",
    "kind": "individual",
    "desc": "president of the United States",
@@ -71,6 +86,10 @@
   {
    "year": 1724,
    "year_label": "1724",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Immanuel Kant",
    "kind": "individual",
    "desc": "German philosopher",
@@ -83,6 +102,10 @@
   {
    "year": 1766,
    "year_label": "1766",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Germaine de Staël",
    "kind": "individual",
    "desc": "French woman of letters and political theorist",
@@ -95,6 +118,10 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vladimir Lenin",
    "kind": "individual",
    "desc": "Russian communist statesman and revolutionary",
@@ -107,6 +134,10 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicola Sacco",
    "kind": "individual",
    "desc": "Italian immigrant anarchist",
@@ -119,6 +150,10 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Kathleen Ferrier",
    "kind": "individual",
    "desc": "English contralto singer",

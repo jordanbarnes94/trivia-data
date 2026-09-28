@@ -4,6 +4,9 @@
   {
    "year": 1540,
    "year_label": "1540",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Barnes",
    "kind": "individual",
    "desc": "English reformer and Protestant martyr",
@@ -17,6 +20,9 @@
   {
    "year": 1718,
    "year_label": "1718",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Penn",
    "kind": "individual",
    "desc": "English writer and religious thinker, founder of the Province of Pennsylvania",
@@ -30,6 +36,9 @@
   {
    "year": 1771,
    "year_label": "1771",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Gray",
    "kind": "individual",
    "desc": "English poet",
@@ -43,6 +52,9 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Otto von Bismarck",
    "kind": "individual",
    "desc": "German statesman",
@@ -56,6 +68,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Becker",
    "kind": "individual",
    "desc": "American police officer",
@@ -69,6 +84,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Harold Davidson",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the sinking of the USS Indianapolis (CA-35)",
    "kind": "group",
    "desc": null,
@@ -97,6 +118,10 @@
   {
    "year": 1818,
    "year_label": "1818",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emily Brontë",
    "kind": "individual",
    "desc": "English novelist",
@@ -109,6 +134,10 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "D. N. Aidit",
    "kind": "individual",
    "desc": "Indonesian communist and Communist Party of Indonesia leader",

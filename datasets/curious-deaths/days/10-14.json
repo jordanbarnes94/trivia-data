@@ -4,6 +4,9 @@
   {
    "year": 1817,
    "year_label": "1817",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Philpot Curran",
    "kind": "individual",
    "desc": "Irish orator, politician and wit",
@@ -17,6 +20,9 @@
   {
    "year": 1959,
    "year_label": "1959",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Errol Flynn",
    "kind": "individual",
    "desc": "Australian-born American actor",
@@ -30,6 +36,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bing Crosby",
    "kind": "individual",
    "desc": "American singer and actor",
@@ -43,6 +52,9 @@
   {
    "year": 1990,
    "year_label": "1990",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leonard Bernstein",
    "kind": "individual",
    "desc": "American composer and conductor",
@@ -58,6 +70,10 @@
   {
    "year": 1633,
    "year_label": "1633",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James II of England",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1644,
    "year_label": "1644",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Penn",
    "kind": "individual",
    "desc": "English writer and religious thinker, founder of the Province of Pennsylvania",
@@ -82,6 +102,10 @@
   {
    "year": 1888,
    "year_label": "1888",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Katherine Mansfield",
    "kind": "individual",
    "desc": "New Zealand modernist writer",
@@ -94,6 +118,10 @@
   {
    "year": 1890,
    "year_label": "1890",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dwight D. Eisenhower",
    "kind": "individual",
    "desc": "president of the United States",
@@ -106,6 +134,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "E. E. Cummings",
    "kind": "individual",
    "desc": "American poet",

@@ -4,6 +4,9 @@
   {
    "year": 1530,
    "year_label": "1530",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Wolsey",
    "kind": "individual",
    "desc": "English archbishop, statesman and cardinal",
@@ -17,6 +20,9 @@
   {
    "year": 1628,
    "year_label": "1628",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Felton",
    "kind": "individual",
    "desc": "assassin of George Villiers, 1st Duke of Buckingham",
@@ -30,6 +36,9 @@
   {
    "year": 1780,
    "year_label": "1780",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maria Theresa",
    "kind": "individual",
    "desc": "Archduchess of Austria and Queen of Hungary and Croatia",
@@ -43,6 +52,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Antoine Barnave",
    "kind": "individual",
    "desc": "French politician",
@@ -56,6 +68,9 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Victims of the Thanksgiving Day Disaster",
    "kind": "group",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Lorentzos Mavilis",
    "kind": "individual",
    "desc": "Greek poet",
@@ -82,6 +100,9 @@
   {
    "year": 1941,
    "year_label": "1941",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Zoya Kosmodemyanskaya",
    "kind": "individual",
    "desc": "Soviet partisan",
@@ -95,6 +116,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Natalie Wood",
    "kind": "individual",
    "desc": "American actress",
@@ -108,6 +132,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cary Grant",
    "kind": "individual",
    "desc": "English-American actor",
@@ -123,6 +150,10 @@
   {
    "year": 1799,
    "year_label": "1799",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Amos Bronson Alcott",
    "kind": "individual",
    "desc": "American teacher, writer, philosopher and reformer",
@@ -135,6 +166,10 @@
   {
    "year": 1832,
    "year_label": "1832",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louisa May Alcott",
    "kind": "individual",
    "desc": "American novelist",
@@ -147,6 +182,10 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Empress Dowager Cixi",
    "kind": "individual",
    "desc": "de facto ruler of China",
@@ -159,6 +198,10 @@
   {
    "year": 1898,
    "year_label": "1898",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "C.S. Lewis",
    "kind": "individual",
    "desc": "a British author of The Chronicles of Narnia, literary scholar and Anglican lay theologian",

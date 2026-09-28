@@ -4,6 +4,9 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adam Smith",
    "kind": "individual",
    "desc": "Scottish economist",
@@ -17,6 +20,9 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charlotte Corday",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Stephanie of Hohenzollern-Sigmaringen",
    "kind": "individual",
    "desc": "queen consort of Portugal",
@@ -43,6 +52,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nicholas II of Russia",
    "kind": "individual",
    "desc": "last Emperor of Russia",
@@ -56,6 +68,9 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "W. P. Ker",
    "kind": "individual",
    "desc": "Scottish literary scholar",
@@ -69,6 +84,9 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maury Henry Biddle Paul",
    "kind": "individual",
    "desc": "American journalist and society columnist",
@@ -82,6 +100,9 @@
   {
    "year": 1953,
    "year_label": "1953",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Maude Adams",
    "kind": "individual",
    "desc": "American actress known for playing Peter Pan",
@@ -95,6 +116,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Flight engineer Richard Campbell",
    "kind": "individual",
    "desc": "pilot of TWA Flight 800",
@@ -110,6 +134,10 @@
   {
    "year": 1674,
    "year_label": "1674",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Isaac Watts",
    "kind": "individual",
    "desc": "English Christian minister, hymn writer and theologian",
@@ -122,6 +150,10 @@
   {
    "year": 1763,
    "year_label": "1763",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Jacob Astor",
    "kind": "individual",
    "desc": "German-American multi-millionaire businessman",

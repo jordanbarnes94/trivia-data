@@ -4,6 +4,9 @@
   {
    "year": 1847,
    "year_label": "1847",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Henry Francis Lyte",
    "kind": "individual",
    "desc": "Anglican poet",
@@ -17,6 +20,9 @@
   {
    "year": 1910,
    "year_label": "1910",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leo Tolstoy",
    "kind": "individual",
    "desc": "Russian novelist",
@@ -32,6 +38,10 @@
   {
    "year": 1739,
    "year_label": "1739",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jean-François de La Harpe",
    "kind": "individual",
    "desc": "French playwright, writer and literary critic",
@@ -44,6 +54,10 @@
   {
    "year": 1874,
    "year_label": "1874",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Michael Curley",
    "kind": "individual",
    "desc": "American politician",
@@ -56,6 +70,10 @@
   {
    "year": 1889,
    "year_label": "1889",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Brian Oswald Donn-Byrne",
    "kind": "individual",
    "desc": "Irish novelist",
@@ -68,6 +86,10 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert F. Kennedy",
    "kind": "individual",
    "desc": "American politician",

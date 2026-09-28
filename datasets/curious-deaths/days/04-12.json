@@ -4,6 +4,9 @@
   {
    "year": 1678,
    "year_label": "1678",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Mary Rich, Countess of Warwick",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1704,
    "year_label": "1704",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jacques-Bénigne Bossuet",
    "kind": "individual",
    "desc": "French bishop and theologian",
@@ -30,6 +36,9 @@
   {
    "year": 1782,
    "year_label": "1782",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pietro Metastasio",
    "kind": "individual",
    "desc": "Italian poet and librettist",
@@ -43,6 +52,9 @@
   {
    "year": 1850,
    "year_label": "1850",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Adoniram Judson",
    "kind": "individual",
    "desc": "American Congregationalist and Particular Baptist missionary",
@@ -56,6 +68,9 @@
   {
    "year": 1912,
    "year_label": "1912",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Clara Barton",
    "kind": "individual",
    "desc": "American nurse and founder of the American Red Cross",
@@ -69,6 +84,9 @@
   {
    "year": 1943,
    "year_label": "1943",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Maj. Kenneth D. McCullar",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Franklin D. Roosevelt",
    "kind": "individual",
    "desc": "president of the United States",
@@ -95,6 +116,9 @@
   {
    "year": 1975,
    "year_label": "1975",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Josephine Baker",
    "kind": "individual",
    "desc": "French-American dancer and singer",
@@ -108,6 +132,9 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Abbie Hoffman",
    "kind": "individual",
    "desc": "American political and social activist",
@@ -121,6 +148,9 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "John Lewis",
    "kind": "individual",
    "desc": null,
@@ -136,6 +166,10 @@
   {
    "year": 1880,
    "year_label": "1880",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Eben Byers",
    "kind": "individual",
    "desc": null,
@@ -148,6 +182,10 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Tiny Tim",
    "kind": "individual",
    "desc": "American musician, ukulele player and musical archivist",

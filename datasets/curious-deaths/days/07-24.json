@@ -4,6 +4,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Martin Van Buren",
    "kind": "individual",
    "desc": "president of the United States",
@@ -17,6 +20,9 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ryūnosuke Akutagawa",
    "kind": "individual",
    "desc": "Japanese writer",
@@ -32,6 +38,10 @@
   {
    "year": 1720,
    "year_label": "1720",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louise Ulrica",
    "kind": "individual",
    "desc": "Queen of Sweden",
@@ -44,6 +54,10 @@
   {
    "year": 1725,
    "year_label": "1725",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Newton",
    "kind": "individual",
    "desc": "English Anglican cleric and abolitionist, author of \"Amazing Grace\"",
@@ -56,6 +70,10 @@
   {
    "year": 1750,
    "year_label": "1750",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Philpot Curran",
    "kind": "individual",
    "desc": "Irish orator, politician and wit",
@@ -68,6 +86,10 @@
   {
    "year": 1775,
    "year_label": "1775",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eugène François Vidocq",
    "kind": "individual",
    "desc": "French criminal turned criminalist",
@@ -80,6 +102,10 @@
   {
    "year": 1826,
    "year_label": "1826",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Francisco Solano López",
    "kind": "individual",
    "desc": "2nd president of Paraguay",
@@ -92,6 +118,10 @@
   {
    "year": 1897,
    "year_label": "1897",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Amelia Earhart",
    "kind": "individual",
    "desc": "American aviation pioneer",

@@ -4,6 +4,9 @@
   {
    "year": 1566,
    "year_label": "1566",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nostradamus",
    "kind": "individual",
    "desc": "French seer",
@@ -17,6 +20,9 @@
   {
    "year": 1591,
    "year_label": "1591",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Beesley",
    "kind": "individual",
    "desc": "English Roman Catholic priest and martyr",
@@ -30,6 +36,9 @@
   {
    "year": 1699,
    "year_label": "1699",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Hortense Mancini",
    "kind": "individual",
    "desc": "Duchesse de Mazarin, niece of Cardinal Mazarin and mistress of Charles II of England",
@@ -43,6 +52,9 @@
   {
    "year": 1778,
    "year_label": "1778",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jean-Jacques Rousseau",
    "kind": "individual",
    "desc": "Genevan philosopher, writer and composer",
@@ -56,6 +68,9 @@
   {
    "year": 1893,
    "year_label": "1893",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Georgiana Drew",
    "kind": "individual",
    "desc": "American stage actress, mother of Lionel, Ethel and John Barrymore",
@@ -69,6 +84,9 @@
   {
    "year": 1903,
    "year_label": "1903",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Ed Delahanty",
    "kind": "individual",
    "desc": null,
@@ -82,6 +100,9 @@
   {
    "year": 1931,
    "year_label": "1931",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Peter Kürten",
    "kind": "individual",
    "desc": "German serial killer known as \"The Vampire of Düsseldorf\"",
@@ -95,6 +116,9 @@
   {
    "year": 1937,
    "year_label": "1937",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Amelia Earhart",
    "kind": "individual",
    "desc": "American aviation pioneer",
@@ -108,6 +132,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Mary Reeser",
    "kind": "individual",
    "desc": null,
@@ -121,6 +148,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Ernest Hemingway",
    "kind": "individual",
    "desc": "American author",
@@ -134,6 +164,9 @@
   {
    "year": 1964,
    "year_label": "1964",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Fireball Roberts",
    "kind": "individual",
    "desc": "American stock car racer",
@@ -147,6 +180,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Vladimir Nabokov",
    "kind": "individual",
    "desc": "Russian-American author and entomologist",
@@ -160,6 +196,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Stewart",
    "kind": "individual",
    "desc": "American actor",
@@ -175,6 +214,10 @@
   {
    "year": 1489,
    "year_label": "1489",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Cranmer",
    "kind": "individual",
    "desc": "Archbishop of Canterbury",
@@ -187,6 +230,10 @@
   {
    "year": 1714,
    "year_label": "1714",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Christoph Willibald Gluck",
    "kind": "individual",
    "desc": "composer of Italian and French opera",
@@ -199,6 +246,10 @@
   {
    "year": 1855,
    "year_label": "1855",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Clarence W. Barron",
    "kind": "individual",
    "desc": "American newsman and de facto manager of The Wall Street Journal",
@@ -211,6 +262,10 @@
   {
    "year": 1860,
    "year_label": "1860",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Averell",
    "kind": "individual",
    "desc": "American businessman",
@@ -223,6 +278,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Geoffrey Saxton White",
    "kind": "individual",
    "desc": "VC, Royal Navy officer",
@@ -235,6 +294,10 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Iven Carl Kincheloe Jr.",
    "kind": "individual",
    "desc": "American test pilot",

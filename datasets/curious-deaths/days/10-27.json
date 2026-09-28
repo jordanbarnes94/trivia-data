@@ -4,6 +4,9 @@
   {
    "year": 1553,
    "year_label": "1553",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Michael Servetus",
    "kind": "individual",
    "desc": "Spanish theologian, physician and humanist",
@@ -17,6 +20,9 @@
   {
    "year": 1605,
    "year_label": "1605",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Akbar",
    "kind": "individual",
    "desc": "third Mughal emperor",
@@ -30,6 +36,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jack Youll",
    "kind": "individual",
    "desc": "VC, British Army officer",
@@ -43,6 +52,9 @@
   {
    "year": 1957,
    "year_label": "1957",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tony Morabito",
    "kind": "individual",
    "desc": "founder of the San Francisco 49ers",
@@ -58,6 +70,10 @@
   {
    "year": 1728,
    "year_label": "1728",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Cook",
    "kind": "individual",
    "desc": "British explorer and Royal Navy captain",
@@ -70,6 +86,10 @@
   {
    "year": 1797,
    "year_label": "1797",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Andrew Combe",
    "kind": "individual",
    "desc": "Scottish physician and phrenologist",
@@ -82,6 +102,10 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Theodore Roosevelt",
    "kind": "individual",
    "desc": "president of the United States and Medal of Honor recipient",
@@ -94,6 +118,10 @@
   {
    "year": 1894,
    "year_label": "1894",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Fritz Sauckel",
    "kind": "individual",
    "desc": "German Nazi politician",

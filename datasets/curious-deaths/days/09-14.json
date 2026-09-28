@@ -4,6 +4,9 @@
   {
    "year": 258,
    "year_label": "258",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cyprian",
    "kind": "individual",
    "desc": "Christian bishop of Carthage and martyr",
@@ -17,6 +20,9 @@
   {
    "year": 407,
    "year_label": "407",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Chrysostom",
    "kind": "individual",
    "desc": "Early Church Father and Archbishop of Constantinople",
@@ -30,6 +36,9 @@
   {
    "year": 1759,
    "year_label": "1759",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Louis-Joseph de Montcalm",
    "kind": "individual",
    "desc": "French general",
@@ -43,6 +52,9 @@
   {
    "year": 1836,
    "year_label": "1836",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Aaron Burr",
    "kind": "individual",
    "desc": "vice president of the United States",
@@ -56,6 +68,9 @@
   {
    "year": 1852,
    "year_label": "1852",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Arthur Wellesley",
    "kind": "individual",
    "desc": "1st Duke of Wellington",
@@ -69,6 +84,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Lennox Richardson",
    "kind": "individual",
    "desc": "English merchant",
@@ -82,6 +100,9 @@
   {
    "year": 1862,
    "year_label": "1862",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jesse L. Reno",
    "kind": "individual",
    "desc": "Union general of the American Civil War",
@@ -95,6 +116,9 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William McKinley",
    "kind": "individual",
    "desc": "president of the United States",
@@ -108,6 +132,10 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Isadora Duncan",
    "kind": "individual",
    "desc": "American/French dancer",
@@ -123,6 +151,10 @@
   {
    "year": 1486,
    "year_label": "1486",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Heinrich Cornelius Agrippa",
    "kind": "individual",
    "desc": "German polymath and occultist",
@@ -135,6 +167,10 @@
   {
    "year": 1547,
    "year_label": "1547",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Johan van Oldenbarnevelt",
    "kind": "individual",
    "desc": "Dutch statesman",
@@ -147,6 +183,10 @@
   {
    "year": 1769,
    "year_label": "1769",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alexander von Humboldt",
    "kind": "individual",
    "desc": "German polymath",
@@ -159,6 +199,10 @@
   {
    "year": 1879,
    "year_label": "1879",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Margaret Sanger",
    "kind": "individual",
    "desc": "American birth control activist",
@@ -171,6 +215,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Stanley Ketchel",
    "kind": "individual",
    "desc": "American professional boxer nicknamed \"The Michigan Assassin\"",

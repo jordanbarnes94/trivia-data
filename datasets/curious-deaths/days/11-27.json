@@ -4,6 +4,9 @@
   {
    "year": 1835,
    "year_label": "1835",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James Pratt",
    "kind": "individual",
    "desc": "one of the last two men executed for sodomy in England",
@@ -17,6 +20,9 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Agustín Morales",
    "kind": "individual",
    "desc": "president of Bolivia",
@@ -30,6 +36,9 @@
   {
    "year": 1900,
    "year_label": "1900",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cushman Kellogg Davis",
    "kind": "individual",
    "desc": "United States Senator from Minnesota",
@@ -43,6 +52,9 @@
   {
    "year": 1953,
    "year_label": "1953",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Eugene O'Neill",
    "kind": "individual",
    "desc": "American playwright",
@@ -56,6 +68,9 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Carradine",
    "kind": "individual",
    "desc": "American actor",
@@ -71,6 +86,10 @@
   {
    "year": 1715,
    "year_label": "1715",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Philippe de Noailles",
    "kind": "individual",
    "desc": "duc de Mouchy",
@@ -83,6 +102,10 @@
   {
    "year": 1787,
    "year_label": "1787",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Andrew Reed",
    "kind": "individual",
    "desc": "English Congregational minister and hymnwriter",
@@ -95,6 +118,10 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Ninoy Aquino",
    "kind": "individual",
    "desc": "Filipino politician",
@@ -107,6 +134,10 @@
   {
    "year": 1942,
    "year_label": "1942",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jimi Hendrix",
    "kind": "individual",
    "desc": "American musician, singer, and songwriter",

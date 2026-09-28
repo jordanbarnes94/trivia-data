@@ -4,6 +4,9 @@
   {
    "year": 1827,
    "year_label": "1827",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Legh Richmond",
    "kind": "individual",
    "desc": "Church of England clergyman and writer",
@@ -19,6 +22,10 @@
   {
    "year": 1731,
    "year_label": "1731",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Beilby Porteus",
    "kind": "individual",
    "desc": "Bishop of London and abolitionist",
@@ -31,6 +38,10 @@
   {
    "year": 1737,
    "year_label": "1737",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Gibbon",
    "kind": "individual",
    "desc": "English historian and Member of Parliament",
@@ -43,6 +54,10 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Henry Vanderbilt",
    "kind": "individual",
    "desc": "American multimillionaire",
@@ -55,6 +70,10 @@
   {
    "year": 1839,
    "year_label": "1839",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Miller Beard",
    "kind": "individual",
    "desc": "American neurologist",

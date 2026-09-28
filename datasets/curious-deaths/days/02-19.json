@@ -4,6 +4,9 @@
   {
    "year": 1405,
    "year_label": "1405",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Timur",
    "kind": "individual",
    "desc": "Turco-Mongol conqueror, founder of the Timurid Empire",
@@ -17,6 +20,9 @@
   {
    "year": 1790,
    "year_label": "1790",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas de Mahy, Marquis de Favras",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Frederick Funston",
    "kind": "individual",
    "desc": "United States Army general and Medal of Honor recipient",
@@ -43,6 +52,9 @@
   {
    "year": 1945,
    "year_label": "1945",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Basilone",
    "kind": "individual",
    "desc": "United States Marine Corps Gunnery Sergeant and Medal of Honor recipient",
@@ -56,6 +68,9 @@
   {
    "year": 1951,
    "year_label": "1951",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "André Gide",
    "kind": "individual",
    "desc": "French author",
@@ -69,6 +84,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Derek Jarman",
    "kind": "individual",
    "desc": "English film director, stage designer and author",
@@ -82,6 +100,9 @@
   {
    "year": 1994,
    "year_label": "1994",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Gloria Ramirez",
    "kind": "individual",
    "desc": null,
@@ -97,6 +118,10 @@
   {
    "year": 1473,
    "year_label": "1473",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Nicolaus Copernicus",
    "kind": "individual",
    "desc": "mathematician and astronomer",
@@ -109,6 +134,10 @@
   {
    "year": 1594,
    "year_label": "1594",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Frederick, Prince of Wales",
    "kind": "individual",
    "desc": null,
@@ -121,6 +150,10 @@
   {
    "year": 1717,
    "year_label": "1717",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "David Garrick",
    "kind": "individual",
    "desc": "English actor, playwright, theatre manager and producer",
@@ -133,6 +166,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "José Abad Santos",
    "kind": "individual",
    "desc": "fifth Chief Justice of the Philippines, Acting President of the Commonwealth of the Philippines",

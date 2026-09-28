@@ -4,6 +4,9 @@
   {
    "year": 30,
    "year_label": "30",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jesus",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,10 @@
   {
    "year": 1498,
    "year_label": "1498",
+   "tags": [
+    "Unusual Death",
+    "Famous Last Words"
+   ],
    "name": "Charles VIII of France",
    "kind": "individual",
    "desc": null,
@@ -30,6 +37,9 @@
   {
    "year": 1668,
    "year_label": "1668",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Davenant",
    "kind": "individual",
    "desc": "English poet and playwright",
@@ -43,6 +53,9 @@
   {
    "year": 1891,
    "year_label": "1891",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "P. T. Barnum",
    "kind": "individual",
    "desc": "American showman",
@@ -56,6 +69,9 @@
   {
    "year": 1928,
    "year_label": "1928",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Alexander Bogdanov",
    "kind": "individual",
    "desc": null,
@@ -69,6 +85,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Amir-Abbas Hoveyda",
    "kind": "individual",
    "desc": "Prime Minister of Iran",
@@ -84,6 +103,10 @@
   {
    "year": 1770,
    "year_label": "1770",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Wordsworth",
    "kind": "individual",
    "desc": "English poet",
@@ -96,6 +119,10 @@
   {
    "year": 1780,
    "year_label": "1780",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Ellery Channing",
    "kind": "individual",
    "desc": "American Unitarian preacher and theologian",
@@ -108,6 +135,10 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Lothar Sieber",
    "kind": "individual",
    "desc": null,

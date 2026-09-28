@@ -4,6 +4,9 @@
   {
    "year": 1688,
    "year_label": "1688",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Bunyan",
    "kind": "individual",
    "desc": "English writer and preacher",
@@ -17,6 +20,9 @@
   {
    "year": 1867,
    "year_label": "1867",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Baudelaire",
    "kind": "individual",
    "desc": "French poet",
@@ -30,6 +36,9 @@
   {
    "year": 1997,
    "year_label": "1997",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Diana",
    "kind": "individual",
    "desc": "former princess consort of Charles, Prince of Wales",
@@ -45,6 +54,10 @@
   {
    "year": 12,
    "year_label": "12",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Caligula",
    "kind": "individual",
    "desc": "Roman emperor",
@@ -57,6 +70,10 @@
   {
    "year": 1851,
    "year_label": "1851",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Emmet Odlum",
    "kind": "individual",
    "desc": "American swimming instructor",
@@ -69,6 +86,10 @@
   {
    "year": 1908,
    "year_label": "1908",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Saroyan",
    "kind": "individual",
    "desc": "American author",
@@ -81,6 +102,10 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Robert Nairac",
    "kind": "individual",
    "desc": "GC, British Army intelligence officer",

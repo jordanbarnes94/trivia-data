@@ -4,6 +4,9 @@
   {
    "year": 1536,
    "year_label": "1536",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Erasmus",
    "kind": "individual",
    "desc": "Dutch Catholic priest and humanist scholar",
@@ -17,6 +20,9 @@
   {
    "year": 1804,
    "year_label": "1804",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander Hamilton",
    "kind": "individual",
    "desc": "American statesman",
@@ -30,6 +36,9 @@
   {
    "year": 1853,
    "year_label": "1853",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Samuel Appleton",
    "kind": "individual",
    "desc": "American merchant and philanthropist",
@@ -45,6 +54,10 @@
   {
    "year": 1712,
    "year_label": "1712",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sir Francis Bernard, 1st Baronet",
    "kind": "individual",
    "desc": "British colonial administrator",
@@ -57,6 +70,10 @@
   {
    "year": 1803,
    "year_label": "1803",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas Guthrie",
    "kind": "individual",
    "desc": "Scottish divine and philanthropist",
@@ -69,6 +86,10 @@
   {
    "year": 1813,
    "year_label": "1813",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Claude Bernard",
    "kind": "individual",
    "desc": "French physiologist",
@@ -81,6 +102,10 @@
   {
    "year": 1854,
    "year_label": "1854",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Eastman",
    "kind": "individual",
    "desc": "American entrepreneur",

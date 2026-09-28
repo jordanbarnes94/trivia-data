@@ -4,6 +4,9 @@
   {
    "year": 1858,
    "year_label": "1858",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Karl August Varnhagen von Ense",
    "kind": "individual",
    "desc": "German biographer, diplomat and soldier",
@@ -17,6 +20,9 @@
   {
    "year": 1872,
    "year_label": "1872",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William H. Seward",
    "kind": "individual",
    "desc": "United States Secretary of State",
@@ -30,6 +36,9 @@
   {
    "year": 1911,
    "year_label": "1911",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jack Daniel",
    "kind": "individual",
    "desc": "American alcohol businessman",
@@ -43,6 +52,9 @@
   {
    "year": 1963,
    "year_label": "1963",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Édith Piaf",
    "kind": "individual",
    "desc": "French singer-songwriter",
@@ -58,6 +70,10 @@
   {
    "year": 1332,
    "year_label": "1332",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Charles II of Navarre",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1793,
    "year_label": "1793",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Harriet Newell",
    "kind": "individual",
    "desc": "American Christian missionary and memoirist",
@@ -82,6 +102,10 @@
   {
    "year": 1834,
    "year_label": "1834",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Aleksis Kivi",
    "kind": "individual",
    "desc": "Finnish author and poet",
@@ -94,6 +118,10 @@
   {
    "year": 1851,
    "year_label": "1851",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Robertson Nicoll",
    "kind": "individual",
    "desc": "Scottish minister and writer",

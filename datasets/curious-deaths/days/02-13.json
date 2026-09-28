@@ -4,6 +4,9 @@
   {
    "year": 1728,
    "year_label": "1728",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Cotton Mather",
    "kind": "individual",
    "desc": "New England Puritan minister and author",
@@ -17,6 +20,9 @@
   {
    "year": 1798,
    "year_label": "1798",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Christian Friedrich Schwarz",
    "kind": "individual",
    "desc": "German Lutheran missionary to India",
@@ -30,6 +36,9 @@
   {
    "year": 1818,
    "year_label": "1818",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "George Rogers Clark",
    "kind": "individual",
    "desc": "American surveyor, soldier and militia officer",
@@ -43,6 +52,9 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Isaac Hull",
    "kind": "individual",
    "desc": "United States Navy Commodore",
@@ -56,6 +68,9 @@
   {
    "year": 1883,
    "year_label": "1883",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Wagner",
    "kind": "individual",
    "desc": "German composer",
@@ -69,6 +84,9 @@
   {
    "year": 1925,
    "year_label": "1925",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Floyd Collins",
    "kind": "individual",
    "desc": "American cave explorer",
@@ -82,6 +100,9 @@
   {
    "year": 1948,
    "year_label": "1948",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Nathanael Edgar",
    "kind": "individual",
    "desc": "British police officer",
@@ -95,6 +116,9 @@
   {
    "year": 1974,
    "year_label": "1974",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Murray Hudson",
    "kind": "individual",
    "desc": "GC, New Zealand infantry sergeant",
@@ -110,6 +134,10 @@
   {
    "year": 1740,
    "year_label": "1740",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Sophie Arnould",
    "kind": "individual",
    "desc": "French operatic soprano",
@@ -122,6 +150,10 @@
   {
    "year": 1852,
    "year_label": "1852",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Dietrich von Hülsen-Haeseler",
    "kind": "individual",
    "desc": null,
@@ -134,6 +166,10 @@
   {
    "year": 1881,
    "year_label": "1881",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Zhang Zongchang",
    "kind": "individual",
    "desc": null,
@@ -146,6 +182,10 @@
   {
    "year": 1929,
    "year_label": "1929",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vincent R. Capodanno",
    "kind": "individual",
    "desc": "United States Navy Roman Catholic chaplain and Medal of Honor recipient",

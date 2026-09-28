@@ -4,6 +4,9 @@
   {
    "year": 1978,
    "year_label": "1978",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tony Prangley",
    "kind": "individual",
    "desc": "British commercial diver",
@@ -19,6 +22,10 @@
   {
    "year": 1731,
    "year_label": "1731",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Cowper",
    "kind": "individual",
    "desc": "English poet and hymnodist",
@@ -31,6 +38,10 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles M. Schulz",
    "kind": "individual",
    "desc": "American cartoonist",

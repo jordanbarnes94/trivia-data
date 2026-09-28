@@ -4,6 +4,9 @@
   {
    "year": 1783,
    "year_label": "1783",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leonhard Euler",
    "kind": "individual",
    "desc": "Swiss mathematician and scientist",
@@ -17,6 +20,9 @@
   {
    "year": 1830,
    "year_label": "1830",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Hazlitt",
    "kind": "individual",
    "desc": "English essayist and critic",
@@ -30,6 +36,9 @@
   {
    "year": 1970,
    "year_label": "1970",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jimi Hendrix",
    "kind": "individual",
    "desc": "American musician, singer, and songwriter",
@@ -45,6 +54,10 @@
   {
    "year": 1709,
    "year_label": "1709",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Samuel Johnson",
    "kind": "individual",
    "desc": "English writer",
@@ -57,6 +70,10 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "J. D. Tippit",
    "kind": "individual",
    "desc": "American police officer",

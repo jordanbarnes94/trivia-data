@@ -4,6 +4,9 @@
   {
    "year": 1798,
    "year_label": "1798",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wolfe Tone",
    "kind": "individual",
    "desc": "Irish revolutionary",
@@ -17,6 +20,9 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Franz Schubert",
    "kind": "individual",
    "desc": "Austrian composer",
@@ -30,6 +36,9 @@
   {
    "year": 1915,
    "year_label": "1915",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Joe Hill",
    "kind": "individual",
    "desc": "Swedish-American labor activist",
@@ -45,6 +54,10 @@
   {
    "year": 1600,
    "year_label": "1600",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles I of England",
    "kind": "individual",
    "desc": null,
@@ -57,6 +70,10 @@
   {
    "year": 1752,
    "year_label": "1752",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "George Rogers Clark",
    "kind": "individual",
    "desc": "American surveyor, soldier and militia officer",
@@ -69,6 +86,10 @@
   {
    "year": 1765,
    "year_label": "1765",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alden Bradford",
    "kind": "individual",
    "desc": "American politician, clergyman and author",
@@ -81,6 +102,10 @@
   {
    "year": 1831,
    "year_label": "1831",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James A. Garfield",
    "kind": "individual",
    "desc": "president of the United States",
@@ -93,6 +118,10 @@
   {
    "year": 1904,
    "year_label": "1904",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard A. Loeb",
    "kind": "individual",
    "desc": "American murderer",
@@ -105,6 +134,10 @@
   {
    "year": 1917,
    "year_label": "1917",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Indira Gandhi",
    "kind": "individual",
    "desc": "Indian politician and stateswoman",
@@ -117,6 +150,10 @@
   {
    "year": 1989,
    "year_label": "1989",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Candace Newmaker",
    "kind": "individual",
    "desc": "American child murder victim",

@@ -4,6 +4,9 @@
   {
    "year": 1901,
    "year_label": "1901",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Abdur Rahman Khan",
    "kind": "individual",
    "desc": "Emir of Afghanistan",
@@ -19,6 +22,10 @@
   {
    "year": 1760,
    "year_label": "1760",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Beckford",
    "kind": "individual",
    "desc": "English novelist and art collector",
@@ -31,6 +38,10 @@
   {
    "year": 1781,
    "year_label": "1781",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Lawrence",
    "kind": "individual",
    "desc": "United States naval officer",
@@ -43,6 +54,10 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Paul Morgan",
    "kind": "individual",
    "desc": "Austrian actor and cabaret performer",
@@ -55,6 +70,10 @@
   {
    "year": 1947,
    "year_label": "1947",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jane Dornacker",
    "kind": "individual",
    "desc": "American rock musician and traffic reporter",

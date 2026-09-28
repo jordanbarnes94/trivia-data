@@ -4,6 +4,9 @@
   {
    "year": 1927,
    "year_label": "1927",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Miguel Pro",
    "kind": "individual",
    "desc": "Mexican Jesuit Catholic priest",
@@ -17,6 +20,9 @@
   {
    "year": 1983,
    "year_label": "1983",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Jimmy Ferrozzo",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1990,
    "year_label": "1990",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Roald Dahl",
    "kind": "individual",
    "desc": "British author",
@@ -45,6 +54,10 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Billy the Kid",
    "kind": "individual",
    "desc": "American outlaw and gunfighter",
@@ -57,6 +70,10 @@
   {
    "year": 1887,
    "year_label": "1887",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Boris Karloff",
    "kind": "individual",
    "desc": "English actor",
@@ -69,6 +86,10 @@
   {
    "year": 1935,
    "year_label": "1935",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Vladislav Volkov",
    "kind": "individual",
    "desc": "Soviet cosmonaut",
@@ -81,6 +102,10 @@
   {
    "year": 1962,
    "year_label": "1962",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas J. Grasso",
    "kind": "individual",
    "desc": "American double murderer",

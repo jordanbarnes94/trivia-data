@@ -4,6 +4,9 @@
   {
    "year": 258,
    "year_label": "258",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Saint Lawrence",
    "kind": "individual",
    "desc": "Christian deacon",
@@ -17,6 +20,9 @@
   {
    "year": 1896,
    "year_label": "1896",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Otto Lilienthal",
    "kind": "individual",
    "desc": "German aviation pioneer",
@@ -30,6 +36,9 @@
   {
    "year": 1918,
    "year_label": "1918",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Jean Brillant",
    "kind": "individual",
    "desc": "VC , Canadian Expeditionary Force officer",
@@ -43,6 +52,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James French",
    "kind": "individual",
    "desc": "American murderer",
@@ -58,6 +70,10 @@
   {
    "year": 1810,
    "year_label": "1810",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Camillo Benso, Count of Cavour",
    "kind": "individual",
    "desc": "Italian statesman, Prime Minister of Italy",
@@ -70,6 +86,10 @@
   {
    "year": 1814,
    "year_label": "1814",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "William Lowndes Yancey",
    "kind": "individual",
    "desc": "Confederate journalist, politician, orator and diplomat",
@@ -82,6 +102,10 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jay Cooke",
    "kind": "individual",
    "desc": "American financier",
@@ -94,6 +118,10 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Paul Gégauff",
    "kind": "individual",
    "desc": "French director",

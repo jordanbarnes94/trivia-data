@@ -4,6 +4,9 @@
   {
    "year": 1859,
    "year_label": "1859",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Brown",
    "kind": "individual",
    "desc": "American abolitionist",
@@ -17,6 +20,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Philip Larkin",
    "kind": "individual",
    "desc": "English poet and novelist",
@@ -30,6 +36,9 @@
   {
    "year": 1986,
    "year_label": "1986",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Desi Arnaz",
    "kind": "individual",
    "desc": "Cuban-American bandleader, actor and film and television producer",
@@ -45,6 +54,10 @@
   {
    "year": 1738,
    "year_label": "1738",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Richard Montgomery",
    "kind": "individual",
    "desc": "Irish soldier, major general in the Continental Army",
@@ -57,6 +70,10 @@
   {
    "year": 1825,
    "year_label": "1825",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Emperor Pedro II of Brazil",
    "kind": "individual",
    "desc": null,
@@ -69,6 +86,10 @@
   {
    "year": 1899,
    "year_label": "1899",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John Barbirolli",
    "kind": "individual",
    "desc": "British conductor",

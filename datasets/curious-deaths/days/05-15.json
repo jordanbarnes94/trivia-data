@@ -4,6 +4,9 @@
   {
    "year": 1886,
    "year_label": "1886",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Emily Dickinson",
    "kind": "individual",
    "desc": "American poet",
@@ -17,6 +20,9 @@
   {
    "year": 1932,
    "year_label": "1932",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Tsuyoshi Inukai",
    "kind": "individual",
    "desc": "former Prime Minister of Japan",
@@ -30,6 +36,9 @@
   {
    "year": 1977,
    "year_label": "1977",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Robert Nairac",
    "kind": "individual",
    "desc": "GC, British Army intelligence officer",
@@ -45,6 +54,10 @@
   {
    "year": 1628,
    "year_label": "1628",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Dominique Bouhours",
    "kind": "individual",
    "desc": "French priest and grammarian",
@@ -57,6 +70,10 @@
   {
    "year": 1689,
    "year_label": "1689",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Mary Wortley Montagu",
    "kind": "individual",
    "desc": "English traveler",
@@ -69,6 +86,10 @@
   {
    "year": 1856,
    "year_label": "1856",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "L. Frank Baum",
    "kind": "individual",
    "desc": "American author",

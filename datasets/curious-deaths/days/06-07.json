@@ -4,6 +4,9 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Patrick Brontë",
    "kind": "individual",
    "desc": "Irish Anglican priest and author, father of Charlotte, Branwell, Emily and Anne Brontë",
@@ -17,6 +20,9 @@
   {
    "year": 1876,
    "year_label": "1876",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Josephine",
    "kind": "individual",
    "desc": "Queen of Sweden and Norway",
@@ -30,6 +36,9 @@
   {
    "year": 1967,
    "year_label": "1967",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Dorothy Parker",
    "kind": "individual",
    "desc": "American writer and wit",
@@ -43,6 +52,9 @@
   {
    "year": 1999,
    "year_label": "1999",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Bryan Loudermilk",
    "kind": "individual",
    "desc": null,
@@ -58,6 +70,10 @@
   {
    "year": 1532,
    "year_label": "1532",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Amy Robsart",
    "kind": "individual",
    "desc": null,
@@ -70,6 +86,10 @@
   {
    "year": 1861,
    "year_label": "1861",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alice Moore Hubbard",
    "kind": "individual",
    "desc": "American feminist and writer",
@@ -82,6 +102,10 @@
   {
    "year": 1947,
    "year_label": "1947",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thurman Munson",
    "kind": "individual",
    "desc": "American baseball player",

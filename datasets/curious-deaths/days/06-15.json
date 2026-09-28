@@ -4,6 +4,9 @@
   {
    "year": 1381,
    "year_label": "1381",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Wat Tyler",
    "kind": "individual",
    "desc": "leader of the Peasants' Revolt",
@@ -17,6 +20,9 @@
   {
    "year": 1844,
    "year_label": "1844",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Campbell",
    "kind": "individual",
    "desc": "Scottish poet",
@@ -30,6 +36,9 @@
   {
    "year": 1849,
    "year_label": "1849",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James K. Polk",
    "kind": "individual",
    "desc": "president of the United States",
@@ -43,6 +52,9 @@
   {
    "year": 1961,
    "year_label": "1961",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Giulio Cabianca and 3 others",
    "kind": "group",
    "desc": null,
@@ -58,6 +70,10 @@
   {
    "year": 1330,
    "year_label": "1330",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward the Black Prince",
    "kind": "individual",
    "desc": "heir to the English throne",
@@ -70,6 +86,10 @@
   {
    "year": 1755,
    "year_label": "1755",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Antoine François, comte de Fourcroy",
    "kind": "individual",
    "desc": "French chemist",
@@ -82,6 +102,10 @@
   {
    "year": 1843,
    "year_label": "1843",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edvard Grieg",
    "kind": "individual",
    "desc": "Norwegian composer and pianist",

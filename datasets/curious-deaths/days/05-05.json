@@ -4,6 +4,9 @@
   {
    "year": 1705,
    "year_label": "1705",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Leopold I, Holy Roman Emperor",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1821,
    "year_label": "1821",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Napoleon",
    "kind": "individual",
    "desc": "emperor of the French",
@@ -30,6 +36,9 @@
   {
    "year": 1913,
    "year_label": "1913",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Charles Deen",
    "kind": "individual",
    "desc": "Sri Lankan murderer",
@@ -43,6 +52,9 @@
   {
    "year": 1919,
    "year_label": "1919",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "L. Frank Baum",
    "kind": "individual",
    "desc": "American author",
@@ -56,6 +68,9 @@
   {
    "year": 1968,
    "year_label": "1968",
+   "tags": [
+    "Unusual Death"
+   ],
    "name": "Albert Dekker",
    "kind": "individual",
    "desc": null,
@@ -69,6 +84,9 @@
   {
    "year": 1981,
    "year_label": "1981",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Bobby Sands",
    "kind": "individual",
    "desc": "Provisional Irish Republican Army volunteer and British Member of Parliament",
@@ -84,6 +102,10 @@
   {
    "year": 1501,
    "year_label": "1501",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Anne Boleyn",
    "kind": "individual",
    "desc": "Queen of England",
@@ -96,6 +118,10 @@
   {
    "year": 1818,
    "year_label": "1818",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Karl Marx",
    "kind": "individual",
    "desc": "political theorist",
@@ -108,6 +134,10 @@
   {
    "year": 1873,
    "year_label": "1873",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Leon Czolgosz",
    "kind": "individual",
    "desc": "assassin of U.S. President William McKinley",
@@ -120,6 +150,10 @@
   {
    "year": 1903,
    "year_label": "1903",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Beard",
    "kind": "individual",
    "desc": "American chef and cookbook author",
@@ -132,6 +166,10 @@
   {
    "year": 1930,
    "year_label": "1930",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Michael J. Adams",
    "kind": "individual",
    "desc": "American astronaut",
@@ -144,6 +182,10 @@
   {
    "year": 1946,
    "year_label": "1946",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Eddie Aikau",
    "kind": "individual",
    "desc": "American lifeguard and surfer",
@@ -156,6 +198,10 @@
   {
    "year": 1988,
    "year_label": "1988",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Jessica Dubroff",
    "kind": "individual",
    "desc": "seven-year-old American pilot trainee",

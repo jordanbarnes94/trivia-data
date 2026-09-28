@@ -4,6 +4,9 @@
   {
    "year": 1803,
    "year_label": "1803",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Samuel Hopkins",
    "kind": "individual",
    "desc": "American Congregationalist theologian and abolitionist",
@@ -17,6 +20,9 @@
   {
    "year": 1882,
    "year_label": "1882",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Guglielmo Oberdan",
    "kind": "individual",
    "desc": "Italian irredentist",
@@ -30,6 +36,9 @@
   {
    "year": 1991,
    "year_label": "1991",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Laurie Show",
    "kind": "individual",
    "desc": "American high school student",
@@ -43,6 +52,9 @@
   {
    "year": 1995,
    "year_label": "1995",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Captain Nicholas Tafuri",
    "kind": "individual",
    "desc": "pilot of American Airlines Flight 965",
@@ -56,6 +68,9 @@
   {
    "year": 1996,
    "year_label": "1996",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Carl Sagan",
    "kind": "individual",
    "desc": "American astronomer and scientist",
@@ -71,6 +86,10 @@
   {
    "year": 1537,
    "year_label": "1537",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "John III",
    "kind": "individual",
    "desc": "King of Sweden",
@@ -83,6 +102,10 @@
   {
    "year": 1828,
    "year_label": "1828",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Isaac E. Avery",
    "kind": "individual",
    "desc": "Confederate officer of the American Civil War",
@@ -95,6 +118,10 @@
   {
    "year": 1905,
    "year_label": "1905",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Albert Dekker",
    "kind": "individual",
    "desc": null,

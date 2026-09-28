@@ -4,6 +4,9 @@
   {
    "year": 1100,
    "year_label": "1100",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William II of England",
    "kind": "individual",
    "desc": null,
@@ -17,6 +20,9 @@
   {
    "year": 1788,
    "year_label": "1788",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thomas Gainsborough",
    "kind": "individual",
    "desc": "English painter",
@@ -30,6 +36,9 @@
   {
    "year": 1794,
    "year_label": "1794",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Richard Burke Jr.",
    "kind": "individual",
    "desc": "English barrister and Member of Parliament",
@@ -43,6 +52,9 @@
   {
    "year": 1798,
    "year_label": "1798",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "John Palmer",
    "kind": "individual",
    "desc": "English actor",
@@ -56,6 +68,9 @@
   {
    "year": 1921,
    "year_label": "1921",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Enrico Caruso",
    "kind": "individual",
    "desc": "Italian operatic tenor",
@@ -69,6 +84,9 @@
   {
    "year": 1922,
    "year_label": "1922",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Alexander Graham Bell",
    "kind": "individual",
    "desc": "Scottish-American inventor",
@@ -82,6 +100,9 @@
   {
    "year": 1923,
    "year_label": "1923",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Warren G. Harding",
    "kind": "individual",
    "desc": "president of the United States",
@@ -95,6 +116,9 @@
   {
    "year": 1979,
    "year_label": "1979",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Thurman Munson",
    "kind": "individual",
    "desc": "American baseball player",
@@ -108,6 +132,9 @@
   {
    "year": 1985,
    "year_label": "1985",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Rudolph Przydzial \"Rudy\" Price Jr.",
    "kind": "individual",
    "desc": null,
@@ -123,6 +150,10 @@
   {
    "year": 1772,
    "year_label": "1772",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Louis Antoine, Duke of Enghien",
    "kind": "individual",
    "desc": null,
@@ -135,6 +166,10 @@
   {
    "year": 1823,
    "year_label": "1823",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Edward Augustus Freeman",
    "kind": "individual",
    "desc": "English historian and politician",
@@ -147,6 +182,10 @@
   {
    "year": 1924,
    "year_label": "1924",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "James Baldwin",
    "kind": "individual",
    "desc": "American author and activist",

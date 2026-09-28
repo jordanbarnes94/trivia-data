@@ -4,6 +4,9 @@
   {
    "year": 1642,
    "year_label": "1642",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "William Bedell",
    "kind": "individual",
    "desc": "Anglican Lord Bishop of Kilmore",
@@ -17,6 +20,9 @@
   {
    "year": 1878,
    "year_label": "1878",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "Pope Pius IX",
    "kind": "individual",
    "desc": null,
@@ -30,6 +36,9 @@
   {
    "year": 1966,
    "year_label": "1966",
+   "tags": [
+    "Famous Last Words"
+   ],
    "name": "James A. Gardner",
    "kind": "individual",
    "desc": "United States Army officer and Medal of Honor recipient",
@@ -45,6 +54,10 @@
   {
    "year": 1478,
    "year_label": "1478",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Thomas More",
    "kind": "individual",
    "desc": "Lord High Chancellor of Britain",
@@ -57,6 +70,10 @@
   {
    "year": 1741,
    "year_label": "1741",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Henry Fuseli",
    "kind": "individual",
    "desc": "Swiss painter, draughtsman and writer on art",
@@ -69,6 +86,10 @@
   {
    "year": 1812,
    "year_label": "1812",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Charles Dickens",
    "kind": "individual",
    "desc": "English novelist",
@@ -81,6 +102,10 @@
   {
    "year": 1870,
    "year_label": "1870",
+   "tags": [
+    "Birth",
+    "Famous Last Words"
+   ],
    "name": "Alfred Adler",
    "kind": "individual",
    "desc": "Austrian psychotherapist",

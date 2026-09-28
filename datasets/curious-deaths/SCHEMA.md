@@ -27,6 +27,9 @@ day; a 404 means the fetch went wrong.
 - `date_kind`: `death`, or `last_words` when the list dates the last words and
   the death came more than a year later (a coma, a disappearance). Such entries
   sit on the day of the last words; `died` gives the real death date.
+- `tags`: display tags for the entry, in order: "Birth" (only in `born`
+  entries), then "Unusual Death" and/or "Famous Last Words" by which list the
+  entry comes from. Someone on both lists carries both.
 - `name`: as the list gives it.
 - `kind`: `individual`, or `group` for an event with several victims
   (e.g. "Victims of the Great Molasses Flood"). Groups appear only in `died`.
