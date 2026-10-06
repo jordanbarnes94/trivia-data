@@ -68,6 +68,22 @@
  ],
  "born": [
   {
+   "year": 1754,
+   "year_label": "1754",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Jean-François Pilâtre de Rozier",
+   "kind": "individual",
+   "desc": null,
+   "cause": "the first known fatality in an air crash when his Rozière balloon crashed on 15 June 1785 while he and Pierre Romain attempted to cross the English Channel.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Jean-François_Pilâtre_de_Rozier",
+   "died": "15 June 1785"
+  },
+  {
    "year": 1770,
    "year_label": "1770",
    "tags": [

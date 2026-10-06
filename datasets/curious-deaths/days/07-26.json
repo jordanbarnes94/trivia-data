@@ -30,7 +30,7 @@
    "last_words": "What have I done, or my children, that I should meet such a fate? And from your hands, too, you who have met with friendship and kindness from my people who have received nothing but benefits from my hands.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Atahualpa",
-   "born": null,
+   "born": "c. 1500",
    "died": "26 July 1533"
   },
   {
@@ -64,6 +64,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Ulrika_Eleonora_of_Denmark",
    "born": "11 September 1656",
    "died": "26 July 1693"
+  },
+  {
+   "year": 1753,
+   "year_label": "1753",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Georg Wilhelm Richmann",
+   "kind": "individual",
+   "desc": null,
+   "cause": "built an apparatus to study electricity from lightning. While \"trying to quantify the response of an insulated rod to a nearby storm,\" it produced a ball of lightning that struck him in the forehead and killed him.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann",
+   "born": "11 July 1711",
+   "died": "26 July 1753"
   },
   {
    "year": 1795,
@@ -110,8 +126,24 @@
    "last_words": "Lay me down, and save the flag!",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_A._Mulligan",
-   "born": null,
+   "born": "1829",
    "died": "26 July 1864"
+  },
+  {
+   "year": 1932,
+   "year_label": "1932",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Fred Duesenberg",
+   "kind": "individual",
+   "desc": null,
+   "cause": "killed in a high-speed road accident in a Duesenberg automobile.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fred_Duesenberg",
+   "born": "6 December 1876",
+   "died": "26 July 1932"
   },
   {
    "year": 1934,

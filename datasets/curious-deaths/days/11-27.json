@@ -2,6 +2,22 @@
  "date": "11-27",
  "died": [
   {
+   "year": 1703,
+   "year_label": "1703",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Henry Winstanley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "designed and built the world's first offshore lighthouse on the Eddystone Rocks in Devon, England between 1696 and 1698. Boasting of the safety of his invention, he expressed a desire to shelter inside it \"during the greatest storm there ever was\". During the Great Storm of 1703, the lighthouse was completely destroyed with Winstanley and five other men inside. No trace of them was found.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Winstanley",
+   "born": "31 March 1644",
+   "died": "27 November 1703"
+  },
+  {
    "year": 1835,
    "year_label": "1835",
    "tags": [

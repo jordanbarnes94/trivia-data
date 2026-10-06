@@ -25,8 +25,9 @@ Fetch today's file with:
 ## Datasets
 
 - [`curious-deaths`](datasets/curious-deaths/SCHEMA.md): people and events from
-  Wikipedia's lists of last words and lists of unusual deaths, up to the 20th
-  century, with each person listed on their death day and on their birthday.
+  Wikipedia's lists of last words, lists of unusual deaths and list of inventors
+  killed by their own invention, up to the 20th century, with each person listed
+  on their death day and on their birthday.
 
 ## How it is built
 

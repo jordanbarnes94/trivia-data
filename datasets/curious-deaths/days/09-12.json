@@ -14,7 +14,7 @@
    "last_words": "Lord, have mercy upon me. Wilt thou break a bruised reed?",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
-   "born": null,
+   "born": "1118",
    "died": "12 September 1185"
   },
   {
@@ -80,6 +80,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Park_Benjamin_Sr.",
    "born": "14 August 1809",
    "died": "12 September 1864"
+  },
+  {
+   "year": 1909,
+   "year_label": "1909",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "William Pitt",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a Canadian ferryman who designed the underwater cable ferry as means of improving the former ferry used to connect the Kingston Peninsula to the Kennebecasis Valley in New Brunswick. In 1909, Pitt died after sustaining injuries caused by falling into his ferry's machinery.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Pitt_(engineer)",
+   "born": "29 November 1840",
+   "died": "12 September 1909"
   },
   {
    "year": 1944,

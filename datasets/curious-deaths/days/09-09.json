@@ -30,8 +30,24 @@
    "last_words": "We are as neare to Heaven by sea as by land.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
-   "born": null,
+   "born": "1539",
    "died": "9 September 1583"
+  },
+  {
+   "year": 1867,
+   "year_label": "1867",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Julius H. Kroehl",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a German-American inventor and former Union Navy contractor, is thought to have died of decompression sickness after experimental dives with the Sub Marine Explorer, which he co-designed and constructed with his business partner Ariel Patterson.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Julius_H._Kroehl",
+   "born": "1820",
+   "died": "9 September 1867"
   },
   {
    "year": 1921,

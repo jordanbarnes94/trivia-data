@@ -1,7 +1,7 @@
 # curious-deaths
 
-People and events from Wikipedia's lists of last words and lists of unusual
-deaths, indexed by calendar day, covering up to and including the 20th century. Built 2026-09-28 from the pages below, with birth
+People and events from Wikipedia's lists of last words, lists of unusual
+deaths and list of inventors killed by their own invention, indexed by calendar day, covering up to and including the 20th century. Built 2026-10-06 from the pages below, with birth
 dates from Wikidata (P569). Text is CC BY-SA 4.0, derived from Wikipedia.
 
 ## Query
@@ -29,7 +29,8 @@ day; a 404 means the fetch went wrong.
   sit on the day of the last words; `died` gives the real death date.
 - `tags`: display tags for the entry, in order: "Birth" (only in `born`
   entries), then "Unusual Death" and/or "Famous Last Words" by which list the
-  entry comes from. Someone on both lists carries both.
+  entry comes from. Someone on both lists carries both. Entries from the list
+  of inventors killed by their own invention carry "Unusual Death".
 - `name`: as the list gives it.
 - `kind`: `individual`, or `group` for an event with several victims
   (e.g. "Victims of the Great Molasses Flood"). Groups appear only in `died`.
@@ -37,7 +38,10 @@ day; a 404 means the fetch went wrong.
 - `cause`: the circumstances of death as the list describes them, or null.
 - `last_words`: the recorded last words, or null.
 - `wikipedia`: the person's (or event's) article, or null.
-- `born` (in `died` entries): the birth date, as "D Month YYYY", or null.
+- `born` (in `died` entries): the birth date, or null. Usually "D Month YYYY";
+  where Wikidata knows only the month or the year it is "Month YYYY" or "YYYY",
+  prefixed "c. " when Wikidata marks it approximate ("c. 1494"). Only a full
+  date puts the person in a `born` list.
 - `died`: the death date, as "D Month YYYY". In a `died` entry it differs from
   the file's day only when `date_kind` is `last_words`.
 
@@ -48,12 +52,14 @@ opening text when it agreed with the list's year; `all.json` records which
 source each date came from (`date_source`, `born_source`).
 
 `all.json` is the source of truth: the day files are generated from it, and
-the build fails unless every day file regenerates from it exactly.
+the build fails unless every day file regenerates from it exactly. In
+`all.json` a `born` known only to the month or year omits `d` (and `m`), and
+carries `"circa": true` when approximate.
 
 ## Counts
 
-- 1891 records (26 groups, 16 with a date recovered from Wikidata or the article)
-- 1891 death-day entries, 1528 birthday entries
+- 1919 records (27 groups, 43 with a date recovered from Wikidata or the article)
+- 1919 death-day entries, 1547 birthday entries
 - 366 of 366 days have at least one entry
 
 ## Sources
@@ -68,3 +74,4 @@ the build fails unless every day file regenerates from it exactly.
 - https://en.wikipedia.org/wiki/List_of_unusual_deaths_in_the_early_modern_period
 - https://en.wikipedia.org/wiki/List_of_unusual_deaths_in_the_19th_century
 - https://en.wikipedia.org/wiki/List_of_unusual_deaths_in_the_20th_century
+- https://en.wikipedia.org/wiki/List_of_inventors_killed_by_their_own_invention

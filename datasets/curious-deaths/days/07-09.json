@@ -35,6 +35,22 @@
    "died": "9 July 1850"
   },
   {
+   "year": 1874,
+   "year_label": "1874",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Vincent de Groof",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died after losing control of his ornithopter and crashing.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vincent_de_Groof",
+   "born": "6 December 1830",
+   "died": "9 July 1874"
+  },
+  {
    "year": 1993,
    "year_label": "1993",
    "tags": [
@@ -68,6 +84,22 @@
   }
  ],
  "born": [
+  {
+   "year": 1819,
+   "year_label": "1819",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Cowper Phipps Coles",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a Royal Navy captain who drowned with approximately 480 others in the sinking of HMS Captain, a masted turret ship of his own design.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Cowper_Phipps_Coles",
+   "died": "7 September 1870"
+  },
   {
    "year": 1892,
    "year_label": "1892",

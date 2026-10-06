@@ -30,7 +30,7 @@
    "last_words": "I believe.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Georges_d'Amboise",
-   "born": null,
+   "born": "1460",
    "died": "25 May 1510"
   },
   {
@@ -64,6 +64,38 @@
    "wikipedia": "https://en.wikipedia.org/wiki/George_Fordyce",
    "born": "18 November 1736",
    "died": "25 May 1802"
+  },
+  {
+   "year": 1824,
+   "year_label": "1824",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Thomas Harris",
+   "kind": "individual",
+   "desc": null,
+   "cause": "invented the gas discharge valve, the first such device for emptying a lighter-than-air balloon of gas. He died when the cord attached to the gas discharge valve in his balloon tightened as it was deflated, releasing more gas than intended and crashing the balloon.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Harris_(aviator)",
+   "born": null,
+   "died": "25 May 1824"
+  },
+  {
+   "year": 1962,
+   "year_label": "1962",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "David Ogle",
+   "kind": "individual",
+   "desc": null,
+   "cause": "killed in an auto accident when he lost control while driving the Ogle SX1000 he had designed.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/David_Ogle",
+   "born": "1922",
+   "died": "25 May 1962"
   },
   {
    "year": 1979,

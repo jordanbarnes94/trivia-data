@@ -98,6 +98,38 @@
    "died": "2 October 1892"
   },
   {
+   "year": 1899,
+   "year_label": "1899",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Percy Pilcher",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died after crashing his glider, having been prevented from demonstrating his powered aircraft.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Percy_Pilcher",
+   "born": "16 January 1866",
+   "died": "2 October 1899"
+  },
+  {
+   "year": 1904,
+   "year_label": "1904",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Clarence Madison Dally",
+   "kind": "individual",
+   "desc": null,
+   "cause": "an employee of Thomas Edison tasked with developing a focused X-ray tube, the fluoroscope. It was derived from but had greater luminosity than Wilhelm Röntgen's 1895 design. As a result, Dally was exposed to significant doses of ionizing X-radiation and eventually contracted fatal mediastinal tumors.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Madison_Dally",
+   "born": "1 August 1865",
+   "died": "2 October 1904"
+  },
+  {
    "year": 1911,
    "year_label": "1911",
    "tags": [
@@ -162,6 +194,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Richard_III_of_England",
    "died": "22 August 1485"
+  },
+  {
+   "year": 1817,
+   "year_label": "1817",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Webster Wagner",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died in a train accident, crushed between two of the railway sleeper cars he had invented.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Webster_Wagner",
+   "died": "13 January 1882"
   },
   {
    "year": 1869,

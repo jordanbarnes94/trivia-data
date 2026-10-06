@@ -58,6 +58,22 @@
     "Birth",
     "Unusual Death"
    ],
+   "name": "Georg Wilhelm Richmann",
+   "kind": "individual",
+   "desc": null,
+   "cause": "built an apparatus to study electricity from lightning. While \"trying to quantify the response of an insulated rod to a nearby storm,\" it produced a ball of lightning that struck him in the forehead and killed him.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann",
+   "died": "26 July 1753"
+  },
+  {
+   "year": 1711,
+   "year_label": "1711",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
    "name": "Professor Georg Wilhelm Richmann",
    "kind": "individual",
    "desc": null,

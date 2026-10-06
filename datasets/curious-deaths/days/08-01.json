@@ -94,7 +94,7 @@
    "last_words": "Long live the Korean Empire!",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Park_Seung-hwan",
-   "born": null,
+   "born": "1869",
    "died": "1 August 1907"
   },
   {
@@ -178,6 +178,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Herman_Melville",
    "died": "28 September 1891"
+  },
+  {
+   "year": 1865,
+   "year_label": "1865",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Clarence Madison Dally",
+   "kind": "individual",
+   "desc": null,
+   "cause": "an employee of Thomas Edison tasked with developing a focused X-ray tube, the fluoroscope. It was derived from but had greater luminosity than Wilhelm Röntgen's 1895 design. As a result, Dally was exposed to significant doses of ionizing X-radiation and eventually contracted fatal mediastinal tumors.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Madison_Dally",
+   "died": "2 October 1904"
   },
   {
    "year": 1893,

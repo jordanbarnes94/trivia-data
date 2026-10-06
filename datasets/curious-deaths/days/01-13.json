@@ -14,7 +14,7 @@
    "last_words": "Never heed; the Lord's power is over all weakness and death.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/George_Fox",
-   "born": null,
+   "born": "July 1624",
    "died": "13 January 1691"
   },
   {
@@ -32,6 +32,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/John_Scott,_1st_Earl_of_Eldon",
    "born": "4 June 1751",
    "died": "13 January 1838"
+  },
+  {
+   "year": 1882,
+   "year_label": "1882",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Webster Wagner",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died in a train accident, crushed between two of the railway sleeper cars he had invented.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Webster_Wagner",
+   "born": "2 October 1817",
+   "died": "13 January 1882"
   },
   {
    "year": 1939,

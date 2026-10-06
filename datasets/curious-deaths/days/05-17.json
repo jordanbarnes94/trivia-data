@@ -14,7 +14,7 @@
    "last_words": "Masters, I pray you pray for me, for I have deserved this death.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Smeaton",
-   "born": null,
+   "born": "1512",
    "died": "17 May 1536"
   },
   {
@@ -48,6 +48,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Kondō_Isami",
    "born": "9 November 1834",
    "died": "17 May 1868"
+  },
+  {
+   "year": 1930,
+   "year_label": "1930",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Max Valier",
+   "kind": "individual",
+   "desc": null,
+   "cause": "invented liquid-fuelled rocket engines as a member of the 1920s German rocket society Verein für Raumschiffahrt. On 17 May 1930, an alcohol-fuelled engine exploded on his test bench in Berlin, killing him instantly.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Max_Valier",
+   "born": "9 February 1895",
+   "died": "17 May 1930"
   },
   {
    "year": 1994,
