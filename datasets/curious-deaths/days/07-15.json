@@ -100,6 +100,22 @@
    "died": "7 May 1915"
   },
   {
+   "year": 1913,
+   "year_label": "1913",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Ellis V. Eichman",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died during the maiden test flight of the Aerobat III in Brownsville, Texas.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ellis_V._Eichman",
+   "died": "18 July 1997"
+  },
+  {
    "year": 1956,
    "year_label": "1956",
    "tags": [

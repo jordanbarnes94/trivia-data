@@ -30,7 +30,7 @@
    "last_words": "I were miserable, if I might not die.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Donne",
-   "born": null,
+   "born": "1572",
    "died": "31 March 1631"
   },
   {
@@ -210,6 +210,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_II_of_France",
    "died": "10 July 1559"
+  },
+  {
+   "year": 1644,
+   "year_label": "1644",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Henry Winstanley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "designed and built the world's first offshore lighthouse on the Eddystone Rocks in Devon, England between 1696 and 1698. Boasting of the safety of his invention, he expressed a desire to shelter inside it \"during the greatest storm there ever was\". During the Great Storm of 1703, the lighthouse was completely destroyed with Winstanley and five other men inside. No trace of them was found.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Winstanley",
+   "died": "27 November 1703"
   },
   {
    "year": 1675,

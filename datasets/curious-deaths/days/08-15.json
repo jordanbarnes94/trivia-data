@@ -132,6 +132,22 @@
    "died": "8 August 1859"
   },
   {
+   "year": 1821,
+   "year_label": "1821",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Karl Flach",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a German living in Valparaiso, Chile. He built the submarine Flach (brother of the Peruvian \"Toro\", sunk, raised by the Chilean Navy and then disappeared, both events in the Saltpeter War) at the request of the Chilean government, in response to the bombing of Valparaíso. He died after the submarine failed to surface, along with his son and other sailors.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Karl_Flach",
+   "died": "3 May 1866"
+  },
+  {
    "year": 1879,
    "year_label": "1879",
    "tags": [

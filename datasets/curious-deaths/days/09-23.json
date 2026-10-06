@@ -130,6 +130,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Theodor_Körner_(author)",
    "died": "26 August 1813"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Valerian Abakovsky",
+   "kind": "individual",
+   "desc": null,
+   "cause": "constructed the Aerowagon, an experimental high-speed railcar fitted with an aircraft engine and propeller traction, intended to carry Soviet officials. On 24 July 1921, it derailed at high speed, killing seven of the 22 on board, including Abakovsky.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Valerian_Abakovsky",
+   "died": "24 July 1921"
   }
  ]
 }

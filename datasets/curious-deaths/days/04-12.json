@@ -66,6 +66,22 @@
    "died": "12 April 1850"
   },
   {
+   "year": 1867,
+   "year_label": "1867",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "William Bullock",
+   "kind": "individual",
+   "desc": null,
+   "cause": "invented the web rotary printing press. Several years after its invention, his foot was crushed during the installation of a new machine in Philadelphia. The crushed foot developed gangrene and Bullock died during the amputation.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Bullock_(inventor)",
+   "born": "1813",
+   "died": "12 April 1867"
+  },
+  {
    "year": 1912,
    "year_label": "1912",
    "tags": [

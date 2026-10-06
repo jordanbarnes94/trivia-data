@@ -14,7 +14,7 @@
    "last_words": "I take God to record upon my soul that I would not exchange this scaffold with the palace or mitre of the greatest prelate in Britain. The covenants, the covenants shall yet be Scotland's reviving.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/James_Guthrie_(minister)",
-   "born": null,
+   "born": "1612",
    "died": "1 June 1661"
   },
   {
@@ -32,6 +32,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/James_Buchanan",
    "born": "23 April 1791",
    "died": "1 June 1868"
+  },
+  {
+   "year": 1896,
+   "year_label": "1896",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Sylvester H. Roper",
+   "kind": "individual",
+   "desc": null,
+   "cause": "inventor of the Roper steam velocipede, died of a heart attack or subsequent crash during a public speed trial in 1896. It is unknown whether the crash caused the heart attack, or the heart attack caused the crash.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_H._Roper",
+   "born": "24 November 1823",
+   "died": "1 June 1896"
   },
   {
    "year": 1962,
@@ -98,6 +114,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Brigham_Young",
    "died": "29 August 1877"
+  },
+  {
+   "year": 1849,
+   "year_label": "1849",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Francis Edgar Stanley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "killed while driving a Stanley Steamer automobile. He drove his car into a woodpile while attempting to avoid farm wagons travelling side by side on the road.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Edgar_Stanley",
+   "died": "13 July 1918"
   },
   {
    "year": 1926,

@@ -116,6 +116,22 @@
    "died": "19 September 1881"
   },
   {
+   "year": 1882,
+   "year_label": "1882",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Aurel Vlaicu",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died when his self-constructed airplane, A Vlaicu II, failed during an attempt to cross the Carpathian Mountains.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Aurel_Vlaicu",
+   "died": "13 September 1913"
+  },
+  {
    "year": 1904,
    "year_label": "1904",
    "tags": [

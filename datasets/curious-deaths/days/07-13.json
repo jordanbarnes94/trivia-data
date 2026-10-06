@@ -50,6 +50,22 @@
    "died": "13 July 1900"
   },
   {
+   "year": 1918,
+   "year_label": "1918",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Francis Edgar Stanley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "killed while driving a Stanley Steamer automobile. He drove his car into a woodpile while attempting to avoid farm wagons travelling side by side on the road.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Francis_Edgar_Stanley",
+   "born": "1 June 1849",
+   "died": "13 July 1918"
+  },
+  {
    "year": 1924,
    "year_label": "1924",
    "tags": [

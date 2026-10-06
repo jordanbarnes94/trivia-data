@@ -2,6 +2,22 @@
  "date": "07-24",
  "died": [
   {
+   "year": 1837,
+   "year_label": "1837",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Robert Cocking",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died when his homemade parachute failed. Cocking failed to include the weight of the parachute in his calculations.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Cocking",
+   "born": "1776",
+   "died": "24 July 1837"
+  },
+  {
    "year": 1862,
    "year_label": "1862",
    "tags": [
@@ -16,6 +32,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Martin_Van_Buren",
    "born": "5 December 1782",
    "died": "24 July 1862"
+  },
+  {
+   "year": 1921,
+   "year_label": "1921",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Valerian Abakovsky",
+   "kind": "individual",
+   "desc": null,
+   "cause": "constructed the Aerowagon, an experimental high-speed railcar fitted with an aircraft engine and propeller traction, intended to carry Soviet officials. On 24 July 1921, it derailed at high speed, killing seven of the 22 on board, including Abakovsky.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Valerian_Abakovsky",
+   "born": "23 September 1895",
+   "died": "24 July 1921"
   },
   {
    "year": 1927,

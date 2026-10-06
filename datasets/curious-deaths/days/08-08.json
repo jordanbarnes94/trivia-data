@@ -2,6 +2,22 @@
  "date": "08-08",
  "died": [
   {
+   "year": 1755,
+   "year_label": "1755",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Carlisle Spedding",
+   "kind": "individual",
+   "desc": null,
+   "cause": "mining engineer, inventor and colliery manager, who worked in mines owned by Sir James Lowther. Spedding, along with his elder brother James, introduced many improvements to the mining industry, especially relating to drainage and ventilation, which did much to improve safety for miners. In 1730, Spedding invented a mechanical device, consisting of a pair of geared wheels that forced a flint against a rotating steel disc, giving off a shower of sparks to provide some illumination. This, named the \"Spedding Steel Mill\", was allegedly safer than the use of a naked flame, and until the invention of the Davy and Stephenson safety lamps many decades later, was widely used in mines. Carlisle Spedding was killed in an underground gas explosion on 8 August 1755 in Whitehaven, Cumbria, said to have been caused by one of his steel mills.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": null,
+   "born": null,
+   "died": "8 August 1755"
+  },
+  {
    "year": 1859,
    "year_label": "1859",
    "tags": [

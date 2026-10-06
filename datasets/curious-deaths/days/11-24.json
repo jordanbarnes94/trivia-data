@@ -14,7 +14,7 @@
    "last_words": "Now it is come.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Knox",
-   "born": null,
+   "born": "c. 1514",
    "died": "24 November 1572"
   },
   {
@@ -30,7 +30,7 @@
    "last_words": "Oh Lord! Forgive the errata!",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bradford",
-   "born": null,
+   "born": "1686",
    "died": "24 November 1742"
   },
   {
@@ -46,7 +46,7 @@
    "last_words": "Have pity on the poor Indians; if you can get any influence with the great, endeavor to do them all the good you can.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Brant",
-   "born": null,
+   "born": "1742",
    "died": "24 November 1807"
   },
   {
@@ -196,6 +196,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Henry_Thomas_Buckle",
    "died": "29 May 1862"
+  },
+  {
+   "year": 1823,
+   "year_label": "1823",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Sylvester H. Roper",
+   "kind": "individual",
+   "desc": null,
+   "cause": "inventor of the Roper steam velocipede, died of a heart attack or subsequent crash during a public speed trial in 1896. It is unknown whether the crash caused the heart attack, or the heart attack caused the crash.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_H._Roper",
+   "died": "1 June 1896"
   },
   {
    "year": 1877,

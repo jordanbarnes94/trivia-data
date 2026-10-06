@@ -132,6 +132,22 @@
    "died": "8 October 1803"
   },
   {
+   "year": 1866,
+   "year_label": "1866",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Percy Pilcher",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died after crashing his glider, having been prevented from demonstrating his powered aircraft.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Percy_Pilcher",
+   "died": "2 October 1899"
+  },
+  {
    "year": 1887,
    "year_label": "1887",
    "tags": [

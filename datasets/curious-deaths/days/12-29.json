@@ -100,6 +100,22 @@
    "died": "31 July 1875"
   },
   {
+   "year": 1823,
+   "year_label": "1823",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Horace Lawson Hunley",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a Confederate American marine engineer who built the H. L. Hunley submarine and perished inside it as a member of the second crew to face drownings while testing the experimental vessel. After Hunley's death, the Confederates raised the vessel for another mission that proved fatal for its own crew: the successful sinking of the USS Housatonic during the American Civil War. The feat made the H. L. Hunley the first submarine to sink an enemy warship in wartime.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Horace_Lawson_Hunley",
+   "died": "15 October 1863"
+  },
+  {
    "year": 1881,
    "year_label": "1881",
    "tags": [

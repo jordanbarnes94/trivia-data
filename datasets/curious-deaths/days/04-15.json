@@ -30,7 +30,7 @@
    "last_words": "I die but will return tomorrow as thousand thousands",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Túpac_Katari",
-   "born": null,
+   "born": "1750",
    "died": "15 April 1781"
   },
   {
@@ -64,6 +64,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Father_Damien",
    "born": "3 January 1840",
    "died": "15 April 1889"
+  },
+  {
+   "year": 1912,
+   "year_label": "1912",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Thomas Andrews",
+   "kind": "individual",
+   "desc": null,
+   "cause": "the naval architect of the Titanic, designed his famous vessel while serving as the managing director and head of the drafting department of the shipbuilding company Harland and Wolff in Belfast, Ireland. He was aboard the Titanic during her maiden voyage and perished alongside approximately 1,500 others when the ship hit an iceberg and sank on 14 April 1912. Andrews' body was never recovered.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Andrews",
+   "born": "7 February 1873",
+   "died": "15 April 1912"
   },
   {
    "year": 1919,

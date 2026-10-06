@@ -14,7 +14,7 @@
    "last_words": "And, Master Kyngston, had I but served God as diligently as I have served the king, he would not have given me over in my gray hairs. But this is my just reward for my pains and study, not regarding my service to God, but only my duty to my Prince.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Wolsey",
-   "born": null,
+   "born": "1473",
    "died": "29 November 1530"
   },
   {
@@ -30,7 +30,7 @@
    "last_words": "I am the man.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Felton_(assassin)",
-   "born": null,
+   "born": "c. 1595",
    "died": "29 November 1628"
   },
   {
@@ -194,6 +194,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Empress_Dowager_Cixi",
    "died": "15 November 1908"
+  },
+  {
+   "year": 1840,
+   "year_label": "1840",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "William Pitt",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a Canadian ferryman who designed the underwater cable ferry as means of improving the former ferry used to connect the Kingston Peninsula to the Kennebecasis Valley in New Brunswick. In 1909, Pitt died after sustaining injuries caused by falling into his ferry's machinery.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Pitt_(engineer)",
+   "died": "12 September 1909"
   },
   {
    "year": 1898,

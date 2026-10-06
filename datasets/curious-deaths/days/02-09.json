@@ -14,7 +14,7 @@
    "last_words": "If you love my soul, away with it!",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/John_Hooper_(bishop)",
-   "born": null,
+   "born": "1495",
    "died": "9 February 1555"
   },
   {
@@ -46,7 +46,7 @@
    "last_words": "They sweat in extremes, for fear of the unwarlike; I am dying undisturbed",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Lucilio_Vanini",
-   "born": null,
+   "born": "1585",
    "died": "9 February 1619"
   },
   {
@@ -163,6 +163,22 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Alban_Berg",
    "died": "24 December 1935"
+  },
+  {
+   "year": 1895,
+   "year_label": "1895",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Max Valier",
+   "kind": "individual",
+   "desc": null,
+   "cause": "invented liquid-fuelled rocket engines as a member of the 1920s German rocket society Verein für Raumschiffahrt. On 17 May 1930, an alcohol-fuelled engine exploded on his test bench in Berlin, killing him instantly.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Max_Valier",
+   "died": "17 May 1930"
   },
   {
    "year": 1923,

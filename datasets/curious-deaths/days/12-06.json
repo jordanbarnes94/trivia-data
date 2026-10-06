@@ -146,6 +146,38 @@
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Luigi_Lablache",
    "died": "23 January 1858"
+  },
+  {
+   "year": 1830,
+   "year_label": "1830",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Vincent de Groof",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died after losing control of his ornithopter and crashing.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Vincent_de_Groof",
+   "died": "9 July 1874"
+  },
+  {
+   "year": 1876,
+   "year_label": "1876",
+   "tags": [
+    "Birth",
+    "Unusual Death"
+   ],
+   "name": "Fred Duesenberg",
+   "kind": "individual",
+   "desc": null,
+   "cause": "killed in a high-speed road accident in a Duesenberg automobile.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Fred_Duesenberg",
+   "died": "26 July 1932"
   }
  ]
 }

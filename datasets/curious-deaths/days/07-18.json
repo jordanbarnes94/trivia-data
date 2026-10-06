@@ -96,6 +96,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_Schaeffer",
    "born": "6 November 1967",
    "died": "18 July 1989"
+  },
+  {
+   "year": 1997,
+   "year_label": "1997",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "Ellis V. Eichman",
+   "kind": "individual",
+   "desc": null,
+   "cause": "died during the maiden test flight of the Aerobat III in Brownsville, Texas.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/Ellis_V._Eichman",
+   "born": "15 July 1913",
+   "died": "18 July 1997"
   }
  ],
  "born": [

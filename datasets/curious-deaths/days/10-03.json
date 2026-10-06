@@ -14,7 +14,7 @@
    "last_words": "Through too much fondness of life, I have lived to endure the sight of my friend taken by the enemy before my face.",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
-   "born": null,
+   "born": "c. 82 BC",
    "died": "3 October 42 BC"
   },
   {
@@ -30,7 +30,7 @@
    "last_words": "Will you govern it any better?",
    "date_kind": "death",
    "wikipedia": "https://en.wikipedia.org/wiki/Phocas",
-   "born": null,
+   "born": "547",
    "died": "3 October 610"
   },
   {
@@ -64,6 +64,22 @@
    "wikipedia": "https://en.wikipedia.org/wiki/William_Morris",
    "born": "24 March 1834",
    "died": "3 October 1896"
+  },
+  {
+   "year": 1903,
+   "year_label": "1903",
+   "tags": [
+    "Unusual Death"
+   ],
+   "name": "William Nelson",
+   "kind": "individual",
+   "desc": null,
+   "cause": "a General Electric employee, invented a new way to motorize bicycles. He fell off his prototype bike during a test run.",
+   "last_words": null,
+   "date_kind": "death",
+   "wikipedia": "https://en.wikipedia.org/wiki/William_Nelson_(inventor)",
+   "born": null,
+   "died": "3 October 1903"
   },
   {
    "year": 1910,

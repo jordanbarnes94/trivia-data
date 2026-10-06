@@ -15,8 +15,11 @@
    "m": 2,
    "d": 15
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": -470,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "just before his death by ingestion of poison hemlock which he was forced to drink as a death sentence",
   "last_words": "Crito, we owe a cock to Asclepius. Please, don't forget to pay the debt.",
   "wikipedia": "https://en.wikipedia.org/wiki/Socrates",
@@ -69,8 +72,10 @@
    "m": 10,
    "d": 12
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": -384
+  },
+  "born_source": "wikidata",
   "cause": "to Archias of Thurii; Demosthenes had taken poison to avoid arrest by Archias",
   "last_words": "Now, as soon as you please you may commence the part of Creon in the tragedy, and cast out this body of mine unburied. But, O gracious Neptune, I, for my part, while I am yet alive, arise up and depart out of this sacred place; though Antipater and the Macedonians have not left so much as thy temple unpolluted.",
   "wikipedia": "https://en.wikipedia.org/wiki/Demosthenes",
@@ -152,8 +157,11 @@
    "m": 3,
    "d": 15
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": -100,
+   "m": 7
+  },
+  "born_source": "wikidata",
   "cause": "discovering that his stepson Brutus was among his murderers",
   "last_words": "You too, my child?",
   "wikipedia": "https://en.wikipedia.org/wiki/Julius_Caesar",
@@ -207,8 +215,11 @@
    "m": 10,
    "d": 3
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": -82,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "erroneously believing his comrade Titinius had been captured by Mark Antony's forces at the Battle of Philippi. Cassius then killed himself",
   "last_words": "Through too much fondness of life, I have lived to endure the sight of my friend taken by the enemy before my face.",
   "wikipedia": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
@@ -232,8 +243,11 @@
    "m": 10,
    "d": 23
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": -85,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "after defeat at the Battle of Philippi. He then bade his friends farewell before killing himself",
   "last_words": "By all means must we fly; not with our feet, however, but with our hands.",
   "wikipedia": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
@@ -709,8 +723,11 @@
    "m": 9,
    "d": 28
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 50,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "reciting the Shema Yisrael while being executed by the Romans",
   "last_words": "Hear, O Israel! The Lord is our God! The Lord is One!",
   "wikipedia": "https://en.wikipedia.org/wiki/Rabbi_Akiva",
@@ -763,8 +780,10 @@
    "m": 2,
    "d": 23
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 69
+  },
+  "born_source": "wikidata",
   "cause": "prior to martyrdom by burning and spearing",
   "last_words": "O Lord God Almighty, Father of Thy well-beloved Son, Jesus Christ, by whom we have received knowledge of Thee; God of angels, powers, and every creature that lives before Thee; I thank Thee that Thou hast graciously thought me worthy of this day and hour, that I may receive a portion in the number of Thy martyrs, and drink of Christ's cup, for the resurrection of both soul and body unto life eternal, in the incorruptibleness of the Holy Spirit. Among them may I be admitted this day, as an acceptable sacrifice, as Thou, O true and faithful God, hast prepared, foreshown, and accomplished. Wherefore, I praise Thee for all Thy mercies. I bless Thee. I glorify Thee, with Jesus Christ, Thy beloved Son, the Eternal, to Whom, with Thee and the Holy Spirit, be glory now and forever.",
   "wikipedia": "https://en.wikipedia.org/wiki/Polycarp",
@@ -875,8 +894,10 @@
    "m": 2,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 146
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Hurry, if anything remains for me to do.",
   "wikipedia": "https://en.wikipedia.org/wiki/Septimius_Severus",
@@ -929,8 +950,11 @@
    "m": 9,
    "d": 14
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 200,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "sentenced to death by beheading",
   "last_words": "God be thanked.",
   "wikipedia": "https://en.wikipedia.org/wiki/Cyprian",
@@ -954,8 +978,10 @@
    "m": 1,
    "d": 17
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 251
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "And let my word be kept secret by you, so that no one knows the place but you alone. For in the resurrection of the dead I shall receive my body incorruptible once again from the Savior. Distribute my clothing. To Bishop Athanasius give the one sheepskin and the cloak on which I lie, which he gave to me new, but I have by now worn out. And to Bishop Serapion give the other sheepskin, and you keep the hair garment. And now God preserve you, children, for Antony is leaving and is with you no longer.",
   "wikipedia": "https://en.wikipedia.org/wiki/Anthony_the_Great",
@@ -1008,8 +1034,11 @@
    "m": 8,
    "d": 13
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 240,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "The pious schoolteacher was sentenced to death by Julian the Apostate and was handed over to his pupils to carry out the deed, which they did by binding him to a stake and stabbing him with their pens.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Cassian_of_Imola",
@@ -1062,8 +1091,11 @@
    "m": 4,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 339,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "when Simplician was mentioned as his possible successor",
   "last_words": "Old though he be, he is the best of all.",
   "wikipedia": "https://en.wikipedia.org/wiki/Ambrose",
@@ -1087,8 +1119,10 @@
    "m": 11,
    "d": 8
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 316
+  },
+  "born_source": "wikidata",
   "cause": "to the Devil",
   "last_words": "What dost thou here, thou cruel beast?",
   "wikipedia": "https://en.wikipedia.org/wiki/Martin_of_Tours",
@@ -1112,8 +1146,11 @@
    "m": 9,
    "d": 14
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 349,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "while traveling deeper into exile",
   "last_words": "Glory to God for all things! Amen.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Chrysostom",
@@ -1166,8 +1203,10 @@
    "m": 10,
    "d": 3
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 547
+  },
+  "born_source": "wikidata",
   "cause": "to his successor Heraclius before being executed",
   "last_words": "Will you govern it any better?",
   "wikipedia": "https://en.wikipedia.org/wiki/Phocas",
@@ -1220,8 +1259,11 @@
    "m": 7,
    "d": 6
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 585,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "dying in Oberwesel, Austrasia",
   "last_words": "Here shall my Saviour be known in all the simplicity of his doctrines. Ah! would that I might witness it; but I have seen those things in a vision. But I faint! I am weary! My earthly journey is finished! Receive my blessing. Go! and be kind one to another.",
   "wikipedia": "https://en.wikipedia.org/wiki/Goar_of_Aquitaine",
@@ -1274,8 +1316,11 @@
    "m": 5,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 672,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "to a scribe to whom he was dictating a translation of the Gospel of John",
   "last_words": "You speak truth, all is finished now. Glory to God.",
   "wikipedia": "https://en.wikipedia.org/wiki/Bede",
@@ -1386,8 +1431,10 @@
    "m": 8,
    "d": 5
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 863
+  },
+  "born_source": "wikidata",
   "cause": "The king of West Francia died aged around 18 at Saint-Denis. While mounting his horse to pursue a girl who was running to seek refuge in her father's house, he hit his head on the lintel of a low door and fell, fracturing his skull.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Louis_III_of_France",
@@ -1411,8 +1458,10 @@
    "m": 8,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 811
+  },
+  "born_source": "wikidata",
   "cause": "The Byzantine emperor's belt was entangled between antlers of a deer during a hunt and the animal subsequently dragged him for 16 mi through the woods. Because of this accident, Basil contracted fever and he died shortly afterwards.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Basil_I",
@@ -1436,8 +1485,10 @@
    "m": 10,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 849
+  },
+  "born_source": "wikidata",
   "cause": "to his son, Edward the Elder",
   "last_words": "Thou my dear son, set thee now beside me, and I will deliver thee true instructions. My son, I feel that my hour is coming. My countenance is wan. My days are almost done. We must now part. I shall to another world, and thou shalt be left alone in all my wealth. I pray thee (for thou art my dear child) strive to be a father, and a lord to thy people. Be thou the children's father, and the widow's friend. Comfort thou the poor, and shelter the weak; and, with all thy might, right that which is wrong. And, son, govern thyself, by law; then shall the Lord love thee, and God above all things shall be thy reward. Call thou upon him to advise thee in all thy need, and so shall he help thee, the better to compass that which thou wouldest.",
   "wikipedia": "https://en.wikipedia.org/wiki/Alfred_the_Great",
@@ -1515,8 +1566,10 @@
    "m": 4,
    "d": 19
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 954
+  },
+  "born_source": "wikidata",
   "cause": "refusing to pay ransom before being killed by his Danish captors",
   "last_words": "You urge me in vain. I am not the man to provide Christian flesh for pagan teeth to devour, and it would be so acting if I delivered unto you that which the poor have laid by for their subsistence.",
   "wikipedia": "https://en.wikipedia.org/wiki/Ælfheah_of_Canterbury",
@@ -1540,8 +1593,11 @@
    "m": 11,
    "d": 30
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 988,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "According to Henry of Huntington, the English king was stabbed while on a toilet by an assassin hiding underneath.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Edmund_Ironside",
@@ -1565,8 +1621,11 @@
    "m": 9,
    "d": 11
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1016,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "After the Holy Roman Empire decided to launch a military expedition against Hungary to restore his nephew Solomon to the throne, the Hungarian king was seriously injured when \"his throne broke beneath him\" in his manor at Dömös, later succumbing at a creek near Nagykanizsa.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Béla_I_of_Hungary",
@@ -1644,8 +1703,10 @@
    "m": 1,
    "d": 6
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 998
+  },
+  "born_source": "wikidata",
   "cause": "dying in ascetic solitude on the island of Saint-Cosme near Tours",
   "last_words": "I shall not long hesitate between conscience and the Pope, for I shall soon appear in the presence of God, to be acquitted, I hope; to be condemned, I fear.",
   "wikipedia": "https://en.wikipedia.org/wiki/Berengar_of_Tours",
@@ -1669,8 +1730,10 @@
    "m": 8,
    "d": 2
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1060
+  },
+  "born_source": "wikidata",
   "cause": "to Walter Tirel, who allegedly shot the king in a hunting accident",
   "last_words": "Shoot, Walter, in the devil's name!",
   "wikipedia": "https://en.wikipedia.org/wiki/William_II_of_England",
@@ -1694,8 +1757,11 @@
    "m": 4,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1033,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Yes, if it be His will, I shall obey it willingly. But were He to let me stay with you a little longer till I have resolved a problem about the origin of the soul, I would gladly accept the boon; for I do not know whether anyone will work it out when I am gone. If I could but eat, I think I should pick up a little strength. I feel no pain in any part of my body; only I cannot retain nourishment, and that exhausts me.",
   "wikipedia": "https://en.wikipedia.org/wiki/Anselm_of_Canterbury",
@@ -1719,8 +1785,11 @@
    "m": 9,
    "d": 5
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1060,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I wished to do more harm than I could.",
   "wikipedia": "https://en.wikipedia.org/wiki/Ranulf_Flambard",
@@ -1773,8 +1842,11 @@
    "m": 12,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1068,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "According to Henry of Huntington, while visiting relatives, the English king ate too many lampreys against his physician's advice, causing a pain in his gut which led to his death.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Henry_I_of_England",
@@ -1856,8 +1928,10 @@
    "m": 8,
    "d": 20
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1091
+  },
+  "born_source": "wikidata",
   "cause": "on being told he was dying",
   "last_words": "May God's will be done.",
   "wikipedia": "https://en.wikipedia.org/wiki/Bernard_of_Clairvaux",
@@ -1906,8 +1980,10 @@
    "m": 5,
    "d": 18
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1120
+  },
+  "born_source": "wikidata",
   "cause": "just before being decapitated by his successor Magnus Henriksson",
   "last_words": "Let us complete the Service of Offering, the rest of Holy Mass I will celebrate elsewhere!",
   "wikipedia": "https://en.wikipedia.org/wiki/Eric_the_Holy",
@@ -1931,8 +2007,10 @@
    "m": 5,
    "d": 16
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1101
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "In death at last let me rest with Abelard.",
   "wikipedia": "https://en.wikipedia.org/wiki/Héloïse",
@@ -2010,8 +2088,10 @@
    "m": 9,
    "d": 12
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1118
+  },
+  "born_source": "wikidata",
   "cause": "lynched by his former subjects",
   "last_words": "Lord, have mercy upon me. Wilt thou break a bruised reed?",
   "wikipedia": "https://en.wikipedia.org/wiki/Andronikos_I_Komnenos",
@@ -2064,8 +2144,11 @@
    "m": 6,
    "d": 10
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1122,
+   "m": 12
+  },
+  "born_source": "wikidata",
   "cause": "While leading the German army on the Third Crusade, the Holy Roman Emperor unexpectedly drowned while bathing in the Saleph.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Barbarossa",
@@ -2089,8 +2172,10 @@
    "m": 3,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1138
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "When I am buried, carry my winding-sheet on the point of a spear, and say these words: Behold the spoils which Saladin carries with him! Of all his victories, realms, and riches, nothing remains to him but this.",
   "wikipedia": "https://en.wikipedia.org/wiki/Saladin",
@@ -2259,8 +2344,10 @@
    "m": 5,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1189
+  },
+  "born_source": "wikidata",
   "cause": "before being killed by supporters of King Haakon IV of Norway",
   "last_words": "Don't cut my face.",
   "wikipedia": "https://en.wikipedia.org/wiki/Skule_Bårdsson",
@@ -2284,8 +2371,10 @@
    "m": 1,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1182
+  },
+  "born_source": "wikidata",
   "cause": "The French nobleman died at 60 years of age when, during a rough ride, he fell off his horse and impaled himself on his own sword.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Enguerrand_III,_Lord_of_Coucy",
@@ -2309,8 +2398,10 @@
    "m": 3,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1200
+  },
+  "born_source": "wikidata",
   "cause": "The first-born son of Llywelyn the Great died while attempting to lower himself from the Tower of London in an escape attempt. The rope, made out of sheets and other fabrics, snapped, and his neck was broken in the fall, according to English monk and chronicler, Matthew Paris.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Gruffudd_ap_Llywelyn_ab_Iorwerth",
@@ -2334,8 +2425,10 @@
    "m": 2,
    "d": 20
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1212
+  },
+  "born_source": "wikidata",
   "cause": "The last Abbasid Caliph of Baghdad was executed by his Mongol captors by being rolled up in a rug and then trampled by horses.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Al-Musta'sim",
@@ -2446,8 +2539,10 @@
    "m": 3,
    "d": 7
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1225
+  },
+  "born_source": "wikidata",
   "cause": "as he received his last rites",
   "last_words": "I have written and taught much about this very holy Body, and about the other sacraments in the faith of Christ, and about the Holy Roman Church, to whose correction I expose and submit everything I have written.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
@@ -2554,8 +2649,11 @@
    "m": 3,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1278,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "before beheading for treason against his cousin, Edward II of England",
   "last_words": "King of heaven, do thou have mercy on me, for the king of earth hath forsaken me.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas,_2nd_Earl_of_Lancaster",
@@ -2865,8 +2963,10 @@
    "m": 10,
    "d": 28
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1353
+  },
+  "born_source": "wikidata",
   "cause": "afflicted with the plague in Flensburg harbor",
   "last_words": "We are now to sail home, at once!",
   "wikipedia": "https://en.wikipedia.org/wiki/Margaret_I_of_Denmark",
@@ -2915,8 +3015,11 @@
    "m": 5,
    "d": 30
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1380,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "burned for heresy",
   "last_words": "O Lord God, Father Almighty, have mercy upon me, and be merciful unto mine offences, for thou knowest how sincerely I have loved Thy truth.",
   "wikipedia": "https://en.wikipedia.org/wiki/Jerome_of_Prague",
@@ -2940,8 +3043,11 @@
    "m": 10,
    "d": 11
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1360,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Make my skin into drumheads for the Bohemian cause.",
   "wikipedia": "https://en.wikipedia.org/wiki/Jan_Žižka",
@@ -2965,8 +3071,10 @@
    "m": 2,
    "d": 20
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1360
+  },
+  "born_source": "wikidata",
   "cause": "",
   "last_words": "I die content, after living the prescribed time, and leaving you, my sons, in affluence and health, placed in such a situation as, if you follow my example, will enable you to live honored and respected. I recall nothing in my life with so much pleasure as having given offence to no one, and having tried to serve all men as far as possible. I advise you to act thus, if you would live securely, accepting only those honors as the laws and favor of the state confer upon you; for it is the exercise of power that has been violently-not voluntarily-obtained, that occasions hatred and strife.",
   "wikipedia": "https://en.wikipedia.org/wiki/Giovanni_di_Bicci_de'_Medici",
@@ -2990,8 +3098,11 @@
    "m": 5,
    "d": 30
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1412,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "while she was burning at the stake",
   "last_words": "Hold the cross high so I may see it through the flames!",
   "wikipedia": "https://en.wikipedia.org/wiki/Joan_of_Arc",
@@ -3044,8 +3155,10 @@
    "m": 4,
    "d": 11
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1375
+  },
+  "born_source": "wikidata",
   "cause": "Cardinal, Bishop of Winchester",
   "last_words": "Will not all my riches save me? What, is there no bribing death?",
   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Beaufort",
@@ -3243,8 +3356,10 @@
    "m": 10,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1419
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I know only Jesus the crucified.",
   "wikipedia": "https://en.wikipedia.org/wiki/Wessel_Gansfort",
@@ -3356,8 +3471,10 @@
    "m": 5,
    "d": 20
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1451
+  },
+  "born_source": "wikidata",
   "cause": "quoting Jesus",
   "last_words": "Into Your hands, O Lord, I commend my spirit.",
   "wikipedia": "https://en.wikipedia.org/wiki/Christopher_Columbus",
@@ -3410,8 +3527,10 @@
    "m": 5,
    "d": 25
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1460
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I believe.",
   "wikipedia": "https://en.wikipedia.org/wiki/Georges_d'Amboise",
@@ -3435,8 +3554,11 @@
    "m": 1,
    "d": 15
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1475,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "on hearing a herald call him a \"usurper of the rights of the Crown\" while on the way to his execution by decapitation",
   "last_words": "That is false. I always have served my king loyally and sought to add to his domains.",
   "wikipedia": "https://en.wikipedia.org/wiki/Vasco_Núñez_de_Balboa",
@@ -3518,8 +3640,10 @@
    "m": 6,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1466
+  },
+  "born_source": "wikidata",
   "cause": "to Hernán Cortés (calling him by the name of his interpreter, La Malinche)",
   "last_words": "I confide to your care my beloved children, the most precious jewels I can leave you. The great monarch beyond the ocean will interest himself to see that they come into their inheritance, if you present before him their just claims. I know your master will do this, if for no other reason, then for the kindness I have shown the Spaniards, though it has occasioned my ruin. For all my misfortunes, Malinche, I bear you no ill will.",
   "wikipedia": "https://en.wikipedia.org/wiki/Moctezuma_II",
@@ -3601,8 +3725,10 @@
    "m": 4,
    "d": 30
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1476
+  },
+  "born_source": "wikidata",
   "cause": "mortally wounded at the Battle of the Sesia (1524)",
   "last_words": "At least I may die facing the enemy.",
   "wikipedia": "https://en.wikipedia.org/wiki/Pierre_Terrail,_seigneur_de_Bayard",
@@ -3655,8 +3781,10 @@
    "m": 2,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1504
+  },
+  "born_source": "wikidata",
   "cause": "while being burned at the stake",
   "last_words": "How long, Lord, shall darkness cover this land? How long wilt thou suffer this tyranny of men? Lord Jesus, receive my spirit.",
   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Hamilton_(martyr)",
@@ -3680,8 +3808,10 @@
    "m": 11,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1473
+  },
+  "born_source": "wikidata",
   "cause": "to the Lieutenant of the Tower of London, after falling ill on the way to London under arrest for treason",
   "last_words": "And, Master Kyngston, had I but served God as diligently as I have served the king, he would not have given me over in my gray hairs. But this is my just reward for my pains and study, not regarding my service to God, but only my duty to my Prince.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Wolsey",
@@ -3734,8 +3864,10 @@
    "m": 8,
    "d": 19
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1495
+  },
+  "born_source": "wikidata",
   "cause": "While he awaited burning for heresy, the friars and people present argued over who was responsible for Bilney's death; the friars threatened to withhold alms from the people if they were blamed",
   "last_words": "I pray you, good people, be not the worse to these men on my account, as though they were the authors of my death.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Bilney",
@@ -3813,8 +3945,11 @@
    "m": 8,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1450,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "when a servant told him he had thirty pounds left",
   "last_words": "That is enough to last till I get to Heaven.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Warham",
@@ -3838,8 +3973,10 @@
    "m": 1,
    "d": 31
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1474
+  },
+  "born_source": "wikidata",
   "cause": "quoting Jesus",
   "last_words": "Father, into Thy hands I commend my spirit.",
   "wikipedia": "https://en.wikipedia.org/wiki/Ludovica_Albertoni",
@@ -3892,8 +4029,11 @@
    "m": 7,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1500,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by strangling",
   "last_words": "What have I done, or my children, that I should meet such a fate? And from your hands, too, you who have met with friendship and kindness from my people who have received nothing but benefits from my hands.",
   "wikipedia": "https://en.wikipedia.org/wiki/Atahualpa",
@@ -4004,8 +4144,10 @@
    "m": 5,
    "d": 17
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1512
+  },
+  "born_source": "wikidata",
   "cause": "prior to beheading for alleged treason and adultery",
   "last_words": "Masters, I pray you pray for me, for I have deserved this death.",
   "wikipedia": "https://en.wikipedia.org/wiki/Mark_Smeaton",
@@ -4087,8 +4229,10 @@
    "m": 10,
    "d": 6
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1494
+  },
+  "born_source": "wikidata",
   "cause": "before being strangled and burned at the stake for heresy",
   "last_words": "Lord, open the King of England's eyes.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Tyndale",
@@ -4112,8 +4256,10 @@
    "m": 11,
    "d": 13
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1489
+  },
+  "born_source": "wikidata",
   "cause": "The 47-year-old merchant and MP was killed in London by a wheellock pistol, making his death the first political assassination performed by a firearm.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Pakington",
@@ -4216,8 +4362,11 @@
    "m": 7,
    "d": 28
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1485,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "prior to beheading for treason and heresy",
   "last_words": "I die in the traditional faith.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Cromwell",
@@ -4241,8 +4390,10 @@
    "m": 7,
    "d": 30
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1495
+  },
+  "born_source": "wikidata",
   "cause": "while being burned at the stake for heresy",
   "last_words": "I trust in no good works that ever I did, but only in the death of Christ. I do not doubt but through Him to inherit the kingdom of Heaven. But imagine not that I speak against good works, for they are to be done, and verily they that do them not shall never enter into the kingdom of God.",
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Barnes_(martyr)",
@@ -4324,8 +4475,11 @@
    "m": 5,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1500,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "naming his successor",
   "last_words": "Luis de Moscoso.",
   "wikipedia": "https://en.wikipedia.org/wiki/Hernando_de_Soto",
@@ -4436,8 +4590,10 @@
    "m": 3,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1513
+  },
+  "born_source": "wikidata",
   "cause": "kissing one of his executioners on the cheek after the man asked for his forgiveness",
   "last_words": "Lo! here is a token that I forgive thee; my heart, do thine office.",
   "wikipedia": "https://en.wikipedia.org/wiki/George_Wishart",
@@ -4461,8 +4617,10 @@
    "m": 5,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1494
+  },
+  "born_source": "wikidata",
   "cause": "during his assassination",
   "last_words": "I am a priest; I am a priest! Fie! Fie! All is gone.",
   "wikipedia": "https://en.wikipedia.org/wiki/David_Beaton",
@@ -4486,8 +4644,10 @@
    "m": 7,
    "d": 16
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1521
+  },
+  "born_source": "wikidata",
   "cause": "when offered letter of pardon before being burned at the stake for heresy",
   "last_words": "I came not hither to deny my Lord and Master.",
   "wikipedia": "https://en.wikipedia.org/wiki/Anne_Askew",
@@ -4598,8 +4758,10 @@
    "m": 4,
    "d": 9
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1494
+  },
+  "born_source": "wikidata",
   "cause": "",
   "last_words": "Bring down the curtain, the farce is played out.",
   "wikipedia": "https://en.wikipedia.org/wiki/François_Rabelais",
@@ -4681,8 +4843,11 @@
    "m": 2,
    "d": 12
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1537,
+   "m": 10
+  },
+  "born_source": "wikidata",
   "cause": "quoting Jesus prior to her beheading",
   "last_words": "Lord, into Thy hands I commend my spirit.",
   "wikipedia": "https://en.wikipedia.org/wiki/Lady_Jane_Grey",
@@ -4735,8 +4900,11 @@
    "m": 2,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1500,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "prior to burning at the stake for heresy",
   "last_words": "Lord, receive my spirit.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Rogers_(Bible_editor_and_martyr)",
@@ -4760,8 +4928,10 @@
    "m": 2,
    "d": 8
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1519
+  },
+  "born_source": "wikidata",
   "cause": "kissing the stake at which he was to be burned",
   "last_words": "Welcome the cross of Christ! welcome everlasting life!",
   "wikipedia": "https://en.wikipedia.org/wiki/Laurence_Saunders",
@@ -4785,8 +4955,10 @@
    "m": 2,
    "d": 9
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1495
+  },
+  "born_source": "wikidata",
   "cause": "refusing a pardon prior to burning at the stake for heresy",
   "last_words": "If you love my soul, away with it!",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Hooper_(bishop)",
@@ -4864,8 +5036,10 @@
    "m": 7,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1510
+  },
+  "born_source": "wikidata",
   "cause": "to John Leaf, a fellow martyr, prior to being burned at the stake",
   "last_words": "Be of good comfort, brother, for we shall have a merry supper with the Lord this night: if there be any way to heaven on horseback or in fiery chariots, this is it.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Bradford",
@@ -4889,8 +5063,11 @@
    "m": 10,
    "d": 16
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1485,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "to Nicholas Ridley while they were burning at the stake for heresy",
   "last_words": "Be of good comfort, Master Ridley, and play the man; we shall this day light such a candle by God's grace in England as (I trust) shall never be put out.",
   "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Latimer",
@@ -4914,8 +5091,10 @@
    "m": 10,
    "d": 16
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1500
+  },
+  "born_source": "wikidata",
   "cause": "While burning at the stake for heresy, only his lower limbs burned away",
   "last_words": "Let the flames come near me. I cannot burn! I cannot burn!",
   "wikipedia": "https://en.wikipedia.org/wiki/Nicholas_Ridley_(martyr)",
@@ -4997,8 +5176,11 @@
    "m": 10,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1492,
+   "m": 4
+  },
+  "born_source": "wikidata",
   "cause": "after receiving the last rites The influential Italian author and libertine is said to have died of suffocation from laughing too much at an obscene joke during a meal in Venice. Another version states that he fell from a chair from too much laughter, fracturing his skull.",
   "last_words": "Now I'm oiled. Keep me from the rats.",
   "wikipedia": "https://en.wikipedia.org/wiki/Pietro_Aretino",
@@ -5052,8 +5234,10 @@
    "m": 4,
    "d": 28
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1476
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Lord, have mercy upon me! Pray, people, while there is time.",
   "wikipedia": "https://en.wikipedia.org/wiki/Walter_Milne",
@@ -5222,8 +5406,10 @@
    "m": 2,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1540
+  },
+  "born_source": "wikidata",
   "cause": "addressing the window of Holyrood Palace before being hanged for hiding under the bed of Mary, Queen of Scots",
   "last_words": "Farewell, thou who art so beautiful and so cruel; who killest me and whom I cannot cease to love.",
   "wikipedia": "https://en.wikipedia.org/wiki/Pierre_de_Bocosel_de_Chastelard",
@@ -5359,8 +5545,10 @@
    "m": 12,
    "d": 30
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1515
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I desire to die and be with Christ.",
   "wikipedia": "https://en.wikipedia.org/wiki/Roger_Ascham",
@@ -5409,8 +5597,11 @@
    "m": 1,
    "d": 23
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1531,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "Hearing the rumours of a plot against him, Regent Moray was on his way out of Linlithgow, a haven of supporters of his half-sister Mary in a civil war. His planned route was blocked, and he was forced to ride through a narrow crowded street by the house of Archbishop John Hamilton, the baptist of Mary's son, infant King James VI. Archbishop's nephew James Hamilton shot Moray with a gun from an upstairs window covered with linen sheets, and escaped on a horse bypassing the crowded streets. James Stewart is considered to be the first head of government to be assassinated with a firearm.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/James_Stewart,_1st_Earl_of_Moray",
@@ -5492,8 +5683,11 @@
    "m": 11,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1514,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Now it is come.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Knox",
@@ -5691,8 +5885,10 @@
    "m": 9,
    "d": 9
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1539
+  },
+  "born_source": "wikidata",
   "cause": "prior to sinking of HMS Squirrel with all hands",
   "last_words": "We are as neare to Heaven by sea as by land.",
   "wikipedia": "https://en.wikipedia.org/wiki/Humphrey_Gilbert",
@@ -5916,8 +6112,10 @@
    "m": 7,
    "d": 2
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1562
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution",
   "last_words": "Absit mihi gloriari nisi in Cruce Domini Nostri Jesu Christi [Far from me to glory except in the cross of Jesus Christ]. Good people, I beseech God to send all felicity.",
   "wikipedia": "https://en.wikipedia.org/wiki/George_Beesley",
@@ -5999,8 +6197,10 @@
    "m": 3,
    "d": 13
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1535
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "A bishop ought to die on his legs.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Woolton",
@@ -6053,8 +6253,10 @@
    "m": 12,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1548
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Life or death is welcome to me; and I desire not to live, but so far as I may be serviceable to God and His church.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Whitaker_(theologian)",
@@ -6107,8 +6309,11 @@
    "m": 2,
    "d": 17
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1548,
+   "m": 1
+  },
+  "born_source": "wikidata",
   "cause": "prior to burning at the stake for heresy",
   "last_words": "I die a martyr and willingly - my soul shall mount up to heaven in this chariot of smoke.",
   "wikipedia": "https://en.wikipedia.org/wiki/Giordano_Bruno",
@@ -6249,8 +6454,10 @@
    "m": 11,
    "d": 8
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1573
+  },
+  "born_source": "wikidata",
   "cause": "Catesby and Thomas Percy were shot by armed men led by Sir Richard Walsh",
   "last_words": "Stand by me, Tom, and we will die together.",
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Catesby",
@@ -6332,8 +6539,10 @@
    "m": 5,
    "d": 27
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1578
+  },
+  "born_source": "wikidata",
   "cause": "receiving conditional absolution prior to his execution due to his insistence that he had no accomplices",
   "last_words": "I receive absolution upon this condition.",
   "wikipedia": "https://en.wikipedia.org/wiki/François_Ravaillac",
@@ -6415,8 +6624,10 @@
    "m": 3,
    "d": 10
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1579
+  },
+  "born_source": "wikidata",
   "cause": "hanged, drawn and quartered at Glasgow Cross because of having preached the Catholic religion, then illegal in Scotland, and for refusing to pledge allegiance to King James VI of Scotland",
   "last_words": "If there be here any hidden Catholics, let them pray for me, but the prayers of heretics I will not have.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Ogilvie_(saint)",
@@ -6440,8 +6651,10 @@
    "m": 6,
    "d": 3
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1567
+  },
+  "born_source": "wikidata",
   "cause": "to his foes prior to his death at the Battle of Tennōji",
   "last_words": "I am Sanada Nobushige, no doubt an adversary quite worthy of you, but I am exhausted and can fight no longer. Go on, take my head as your trophy.",
   "wikipedia": "https://en.wikipedia.org/wiki/Sanada_Yukimura",
@@ -6494,8 +6707,10 @@
    "m": 3,
    "d": 2
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1560
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Come Lord Jesu, come quickly, finish in me the work that Thou has begun; into Thy hands, O Lord, I commend my spirit, for Thou has redeemed me. O God of truth, save me Thy servant, who hopes and confides in Thee alone; let Thy mercy, O Lord, be shewn unto me; in Thee have I trusted, O Lord, let me not be confounded for ever.",
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Abbot_(bishop)",
@@ -6548,8 +6763,10 @@
    "m": 2,
    "d": 9
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1585
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by strangling and burning for atheism and blasphemy",
   "last_words": "They sweat in extremes, for fear of the unwarlike; I am dying undisturbed",
   "wikipedia": "https://en.wikipedia.org/wiki/Lucilio_Vanini",
@@ -6689,8 +6906,10 @@
    "m": 10,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1570
+  },
+  "born_source": "wikidata",
   "cause": "when his confessor chastised him for his attention to his appearance prior to his execution by beheading",
   "last_words": "All my life I have carried myself gracefully.",
   "wikipedia": "https://en.wikipedia.org/wiki/Rodrigo_Calderón,_Count_of_Oliva",
@@ -6773,8 +6992,10 @@
    "m": 7,
    "d": 20
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1587
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Blessed be God, though I change my place, I shall not change my company; for I have walked with God while living, and now I go to rest with God.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Preston_(priest)",
@@ -6827,8 +7048,10 @@
    "m": 10,
    "d": 16
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1555
+  },
+  "born_source": "wikidata",
   "cause": "listening on his deathbed to his confessor describing the glories of heaven",
   "last_words": "Hold your tongue; your wretched style only makes me out of conceit with them.",
   "wikipedia": "https://en.wikipedia.org/wiki/François_de_Malherbe",
@@ -6852,8 +7075,11 @@
    "m": 11,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1595,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "referring to the killing of Buckingham before being executed by hanging",
   "last_words": "I am the man.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Felton_(assassin)",
@@ -6935,8 +7161,10 @@
    "m": 3,
    "d": 31
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1572
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I were miserable, if I might not die.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Donne",
@@ -6960,8 +7188,10 @@
    "m": 7,
    "d": 27
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1554
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Now, God be with you, my dear children; I have breakfasted with you, and shall sup with my Lord Jesus Christ this night.",
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Bruce_of_Kinnaird",
@@ -7101,8 +7331,10 @@
    "m": 1,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1596
+  },
+  "born_source": "wikidata",
   "cause": "The Swiss political leader was assassinated by a person dressed in a bear costume wielding an axe. Legend states that the axe was the same one that Jenatsch had once used to kill a rival.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Jörg_Jenatsch",
@@ -7184,8 +7416,11 @@
    "m": 6,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1594,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "mortally wounded at the Battle of Chalgrove Field six days before his death",
   "last_words": "O Lord, save my country! O Lord, be merciful to-",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Hampden",
@@ -7408,8 +7643,10 @@
    "m": 8,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1606
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by beheading for treason",
   "last_words": "Lord Jesus, receive me!",
   "wikipedia": "https://en.wikipedia.org/wiki/Eusebius_Andrews_(Royalist)",
@@ -7578,8 +7815,10 @@
    "m": 3,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1600
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I bless the Lord that he gave me counsel.",
   "wikipedia": "https://en.wikipedia.org/wiki/Samuel_Rutherford",
@@ -7603,8 +7842,11 @@
    "m": 5,
    "d": 27
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1607,
+   "m": 3
+  },
+  "born_source": "wikidata",
   "cause": "before execution by beheading",
   "last_words": "I die not only a Protestant, but with a heart-hatred of popery, prelacy, and all superstition. Lord Jesus, receive me into Thy glory.",
   "wikipedia": "https://en.wikipedia.org/wiki/Archibald_Campbell,_1st_Marquess_of_Argyll",
@@ -7628,8 +7870,10 @@
    "m": 6,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1612
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by hanging for high treason",
   "last_words": "I take God to record upon my soul that I would not exchange this scaffold with the palace or mitre of the greatest prelate in Britain. The covenants, the covenants shall yet be Scotland's reviving.",
   "wikipedia": "https://en.wikipedia.org/wiki/James_Guthrie_(minister)",
@@ -7682,8 +7926,11 @@
    "m": 6,
    "d": 14
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1613,
+   "m": 3
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by beheading for treason",
   "last_words": "It is a bad cause which cannot bear the words of a dying man.",
   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Vane_the_Younger",
@@ -7765,8 +8012,10 @@
    "m": 7,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1611
+  },
+  "born_source": "wikidata",
   "cause": "before execution by hanging",
   "last_words": "Abba, Father, accept this, Thy poor sinful servant, coming unto Thee through the merits of Jesus Christ. O pray, pray! praise, praise!",
   "wikipedia": "https://en.wikipedia.org/wiki/Archibald_Johnston",
@@ -7819,8 +8068,11 @@
    "m": 12,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1641,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by hanging",
   "last_words": "And now I begin my intercourse with God, which shall never be broken off. Farewell, father and mother, friends and relations; farewell, the world and all delights; farewell, sun, moon and stars! Welcome, God and Father; welcome, sweet Jesus Christ, the mediator of the new covenant; welcome, blessed Spirit of grace, the God of all consolation; welcome, glory; welcome, eternal life; and welcome, death.",
   "wikipedia": "https://en.wikipedia.org/wiki/Hugh_Mackail",
@@ -7902,8 +8154,11 @@
    "m": 4,
    "d": 7
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1606,
+   "m": 2
+  },
+  "born_source": "wikidata",
   "cause": "setting aside the manuscript of a new poem",
   "last_words": "I shall have to ask leave to desist, when I am interrupted by so great an experiment as dying.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Davenant",
@@ -7927,8 +8182,10 @@
    "m": 4,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1596
+  },
+  "born_source": "wikidata",
   "cause": "when asked about his health",
   "last_words": "Far from well, yet far better than mine iniquities deserve.",
   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Mather",
@@ -7952,8 +8209,10 @@
    "m": 4,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1631
+  },
+  "born_source": "wikidata",
   "cause": "The majordomo of Prince Louis II de Bourbon-Condè was responsible for a banquet for 2,000 people hosted in honour of King Louis XIV at the Château de Chantilly, where he died. According to a letter by Madame de Sévigné, Vatel was so distraught about the lateness of the seafood delivery and about other mishaps, that he committed suicide with his sword, and his body was discovered when someone came to tell him of the arrival of the fish.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/François_Vatel",
@@ -8180,8 +8439,11 @@
    "m": 5,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1630,
+   "m": 10
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I have seen the glories of the world.",
   "wikipedia": "https://en.wikipedia.org/wiki/Isaac_Barrow",
@@ -8437,8 +8699,10 @@
    "m": 8,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1616
+  },
+  "born_source": "wikidata",
   "cause": "when his secretary had written \"I am still in the land of the living\" in a letter in his name",
   "last_words": "Stop. Change that to say, 'I am yet in the land of the dying, but I hope soon to be in the land of the living.'",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Owen_(theologian)",
@@ -8491,8 +8755,10 @@
    "m": 1,
    "d": 18
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1637
+  },
+  "born_source": "wikidata",
   "cause": "quoting from his own translation of the \"Dies irae\"",
   "last_words": "My God, my Father, and my Friend, / Do not forsake me in the end.",
   "wikipedia": "https://en.wikipedia.org/wiki/Wentworth_Dillon,_4th_Earl_of_Roscommon",
@@ -8719,8 +8985,11 @@
    "m": 1,
    "d": 13
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1624,
+   "m": 7
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Never heed; the Lord's power is over all weakness and death.",
   "wikipedia": "https://en.wikipedia.org/wiki/George_Fox",
@@ -8744,8 +9013,11 @@
    "m": 6,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1627,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I know that it will be well with me.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Flavel",
@@ -8827,8 +9099,10 @@
    "m": 9,
    "d": 19
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1611
+  },
+  "born_source": "wikidata",
   "cause": "before being pressed to death during the Salem witch trials",
   "last_words": "More weight.",
   "wikipedia": "https://en.wikipedia.org/wiki/Giles_Corey",
@@ -8852,8 +9126,10 @@
    "m": 12,
    "d": 17
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1642
+  },
+  "born_source": "wikidata",
   "cause": "Quoting the Latin inscription on a Roman piece of amber trapping a bee; 'closed in her nectar, she receives the reward for all her labours'",
   "last_words": "Nectare clausa suo, / Dignum tantorum pretium tulit illa laborum.",
   "wikipedia": "https://en.wikipedia.org/wiki/Louise-Anastasia_Serment",
@@ -8906,8 +9182,10 @@
    "m": 8,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1655
+  },
+  "born_source": "wikidata",
   "cause": "mortally wounded at the Battle of Landen",
   "last_words": "Oh, that this were for Ireland.",
   "wikipedia": "https://en.wikipedia.org/wiki/Patrick_Sarsfield,_1st_Earl_of_Lucan",
@@ -8931,8 +9209,10 @@
    "m": 7,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1648
+  },
+  "born_source": "wikidata",
   "cause": "According to the French cleric, Martin Gaudereau",
   "last_words": "Bring me wine.",
   "wikipedia": "https://en.wikipedia.org/wiki/Suleiman_I_of_Persia",
@@ -9218,13 +9498,44 @@
    "m": 10,
    "d": 23
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1669
+  },
+  "born_source": "wikidata",
   "cause": "The 33-year-old barmaid at the White Lion Inn was mauled to death by a tiger in Malmesbury, Wiltshire. She was the first person to be killed by a tiger in British history.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Hannah_Twynnoy",
   "sources": [
    "List of unusual deaths in the early modern period"
+  ]
+ },
+ {
+  "name": "Henry Winstanley",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1703,
+   "m": 11,
+   "d": 27
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1703,
+   "m": 11,
+   "d": 27
+  },
+  "born": {
+   "y": 1644,
+   "m": 3,
+   "d": 31
+  },
+  "born_source": "wikidata",
+  "cause": "designed and built the world's first offshore lighthouse on the Eddystone Rocks in Devon, England between 1696 and 1698. Boasting of the safety of his invention, he expressed a desire to shelter inside it \"during the greatest storm there ever was\". During the Great Storm of 1703, the lighthouse was completely destroyed with Winstanley and five other men inside. No trace of them was found.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Henry_Winstanley",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -9388,8 +9699,10 @@
    "m": 4,
    "d": 29
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1677
+  },
+  "born_source": "wikidata",
   "cause": "to his friend Robert Wilks",
   "last_words": "Dear Bob, I have nothing to leave thee to perpetuate my memory but two helpless girls. Look upon them sometimes, and think of him who was to the last moment of his life thine, George Farquhar.",
   "wikipedia": "https://en.wikipedia.org/wiki/George_Farquhar",
@@ -9471,8 +9784,11 @@
    "m": 3,
    "d": 19
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1637,
+   "m": 7
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "God's will be done.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Ken",
@@ -9670,8 +9986,10 @@
    "m": 1,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1640
+  },
+  "born_source": "wikidata",
   "cause": "to his wife. He had married a much younger woman less than twelve days before his death",
   "last_words": "Promise me you will never again marry an old man.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Wycherley",
@@ -10039,8 +10357,10 @@
    "m": 1,
    "d": 27
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1668
+  },
+  "born_source": "wikidata",
   "cause": "dying while imprisoned for blasphemy",
   "last_words": "This is a struggle which all men must go through, and which I bear not only with patience, but with willingness.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Woolston",
@@ -10064,8 +10384,10 @@
    "m": 8,
    "d": 16
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1653
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "O God-if there be a God-I desire Thee to have mercy on me.",
   "wikipedia": "https://en.wikipedia.org/wiki/Matthew_Tindal",
@@ -10176,8 +10498,10 @@
    "m": 3,
    "d": 25
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1670
+  },
+  "born_source": "wikidata",
   "cause": "to a bowl of wine he was no longer able to drink",
   "last_words": "It would be hard indeed if we two dear friends should part after so many years, without one sweet kiss.",
   "wikipedia": "https://en.wikipedia.org/wiki/Turlough_O'Carolan",
@@ -10230,8 +10554,10 @@
    "m": 11,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1686
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Oh Lord! Forgive the errata!",
   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bradford",
@@ -10371,8 +10697,10 @@
    "m": 4,
    "d": 9
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1667
+  },
+  "born_source": "wikidata",
   "cause": "quoting a line of Horace when executed by beheading as a Jacobite rebel",
   "last_words": "Dulce et decorum est pro patria mori.",
   "wikipedia": "https://en.wikipedia.org/wiki/Simon_Fraser,_11th_Lord_Lovat",
@@ -10541,8 +10869,10 @@
    "m": 4,
    "d": 6
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1720
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by hanging",
   "last_words": "For the sake of decency, gentlemen, don't hang me high.",
   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Blandy",
@@ -10609,6 +10939,35 @@
   ]
  },
  {
+  "name": "Georg Wilhelm Richmann",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1753,
+   "m": 7,
+   "d": 26
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1753,
+   "m": 7,
+   "d": 26
+  },
+  "born": {
+   "y": 1711,
+   "m": 7,
+   "d": 11
+  },
+  "born_source": "wikidata",
+  "cause": "built an apparatus to study electricity from lightning. While \"trying to quantify the response of an insulated rod to a nearby storm,\" it produced a ball of lightning that struck him in the forehead and killed him.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Richmann",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Professor Georg Wilhelm Richmann",
   "kind": "individual",
   "desc": null,
@@ -10638,6 +10997,31 @@
   ]
  },
  {
+  "name": "Carlisle Spedding",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1755,
+   "m": 8,
+   "d": 8
+  },
+  "date_kind": "death",
+  "date_source": "list",
+  "died": {
+   "y": 1755,
+   "m": 8,
+   "d": 8
+  },
+  "born": null,
+  "born_source": null,
+  "cause": "mining engineer, inventor and colliery manager, who worked in mines owned by Sir James Lowther. Spedding, along with his elder brother James, introduced many improvements to the mining industry, especially relating to drainage and ventilation, which did much to improve safety for miners. In 1730, Spedding invented a mechanical device, consisting of a pair of geared wheels that forced a flint against a rotating steel disc, giving off a shower of sparks to provide some illumination. This, named the \"Spedding Steel Mill\", was allegedly safer than the use of a naked flame, and until the invention of the Davy and Stephenson safety lamps many decades later, was widely used in mines. Carlisle Spedding was killed in an underground gas explosion on 8 August 1755 in Whitehaven, Cumbria, said to have been caused by one of his steel mills.",
+  "last_words": null,
+  "wikipedia": null,
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Henry Hall",
   "kind": "individual",
   "desc": null,
@@ -10653,8 +11037,10 @@
    "m": 12,
    "d": 8
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1661
+  },
+  "born_source": "wikidata",
   "cause": "The 94-year-old British lighthouse keeper died several days after fighting a fire at Rudyerd's Tower, during which molten lead from the roof fell down his throat. His autopsy revealed that \"the diaphragmatic upper mouth of the stomach greatly inflamed and ulcerated, and the tuncia in the lower part of the stomach burnt; and from the great cavity of it took out a great piece of lead ... which weighed exactly seven ounces, five drachms and eighteen grains\". The piece of lead is currently in the collection of the National Museum of Scotland.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Henry_Hall_(lighthouse_keeper)",
@@ -10823,8 +11209,10 @@
    "m": 12,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1689
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Peace.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Webster_(theologian)",
@@ -10877,8 +11265,10 @@
    "m": 8,
    "d": 16
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1704
+  },
+  "born_source": "wikidata",
   "cause": "when asked if he had anything to say before hanging",
   "last_words": "No.",
   "wikipedia": "https://en.wikipedia.org/wiki/Eugene_Aram",
@@ -11337,8 +11727,10 @@
    "m": 10,
    "d": 5
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1712
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "He has indeed been a precious Christ to me; and now I feel him to be my rock, my strength, my rest, my hope, my joy, my all in all.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Rutherforth",
@@ -11456,6 +11848,31 @@
   "wikipedia": "https://en.wikipedia.org/wiki/John_Day_(carpenter)",
   "sources": [
    "List of unusual deaths in the early modern period"
+  ]
+ },
+ {
+  "name": "John Day",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1774,
+   "m": 6,
+   "d": 22
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1774,
+   "m": 6,
+   "d": 22
+  },
+  "born": null,
+  "born_source": null,
+  "cause": "an English carpenter and wheelwright who died during a test of his experimental diving chamber.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/John_Day_(carpenter)",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -11793,8 +12210,10 @@
    "m": 11,
    "d": 11
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1717
+  },
+  "born_source": "wikidata",
   "cause": "quoting Job 19:25",
   "last_words": "I know that my Redeemer liveth.",
   "wikipedia": "https://en.wikipedia.org/wiki/Anne_Steele",
@@ -11992,8 +12411,10 @@
    "m": 4,
    "d": 15
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1750
+  },
+  "born_source": "wikidata",
   "cause": "prior to his execution by quartering",
   "last_words": "I die but will return tomorrow as thousand thousands",
   "wikipedia": "https://en.wikipedia.org/wiki/Túpac_Katari",
@@ -12317,6 +12738,35 @@
   ]
  },
  {
+  "name": "Jean-François Pilâtre de Rozier",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1785,
+   "m": 6,
+   "d": 15
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1785,
+   "m": 6,
+   "d": 15
+  },
+  "born": {
+   "y": 1754,
+   "m": 3,
+   "d": 30
+  },
+  "born_source": "wikidata",
+  "cause": "the first known fatality in an air crash when his Rozière balloon crashed on 15 June 1785 while he and Pierre Romain attempted to cross the English Channel.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Jean-François_Pilâtre_de_Rozier",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Frederick the Great",
   "kind": "individual",
   "desc": "king of Prussia",
@@ -12506,8 +12956,10 @@
    "m": 8,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1720
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I will lie down on the couch; I can sleep, and after that I shall be entirely recovered.",
   "wikipedia": "https://en.wikipedia.org/wiki/Elizabeth_Pierrepont,_Duchess_of_Kingston-upon-Hull",
@@ -12734,8 +13186,11 @@
    "m": 7,
    "d": 17
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1723,
+   "m": 6
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I believe we shall adjourn this meeting to another place.",
   "wikipedia": "https://en.wikipedia.org/wiki/Adam_Smith",
@@ -14119,8 +14574,10 @@
    "m": 8,
    "d": 2
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1742
+  },
+  "born_source": "wikidata",
   "cause": "performing on stage in The Stranger",
   "last_words": "There is another and a better world.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Palmer_(actor)",
@@ -14260,8 +14717,10 @@
    "m": 2,
    "d": 2
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1787
+  },
+  "born_source": "wikidata",
   "cause": "refusing to leave the rigging of USS Constellation during a battle with French frigate La Vengeance. The mainmast toppled and Jarvis was swept over the side. He was 13 years old",
   "last_words": "My post is here. I can't leave it until ordered.",
   "wikipedia": "https://en.wikipedia.org/wiki/James_C._Jarvis",
@@ -14803,8 +15262,10 @@
    "m": 3,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1752
+  },
+  "born_source": "wikidata",
   "cause": "to a carpenter he had summoned to measure him for his coffin; final recorded words",
   "last_words": "I shall not live more than two days, therefore make haste.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Woodville",
@@ -15002,8 +15463,10 @@
    "m": 11,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1742
+  },
+  "born_source": "wikidata",
   "cause": "to his adopted nephew John Norton",
   "last_words": "Have pity on the poor Indians; if you can get any influence with the great, endeavor to do them all the good you can.",
   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Brant",
@@ -15462,8 +15925,10 @@
    "m": 5,
    "d": 18
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1769
+  },
+  "born_source": "wikidata",
   "cause": "prior to hanging",
   "last_words": "I thank God for having enabled me to meet my fate with so much fortitude and resignation.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Bellingham",
@@ -15545,8 +16010,10 @@
    "m": 12,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1727
+  },
+  "born_source": "wikidata",
   "cause": "quoting Shakespeare (Measure for Measure, Act 3, Scene 1)",
   "last_words": "Reason thus with life, / If I do lose thee, I do lose a thing / That none but fools would keep.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Moody_(actor)",
@@ -16581,8 +17048,10 @@
    "m": 2,
    "d": 18
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1793
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by hanging",
   "last_words": "If any of you have a message for the devil, give it to me, for I am about to meet him!",
   "wikipedia": "https://en.wikipedia.org/wiki/Lavinia_Fisher",
@@ -16780,8 +17249,10 @@
    "m": 4,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1788
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution for refusal to convert from Christianity to Islam and become an Ottoman officer",
   "last_words": "I was born a Greek, I shall die a Greek.",
   "wikipedia": "https://en.wikipedia.org/wiki/Athanasios_Diakos",
@@ -16834,8 +17305,11 @@
    "m": 1,
    "d": 24
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1750,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "ordering that his mistress be killed to save her from enemy soldiers of Mahmud II. Vasiliky was captured but pardoned and lived until 1834",
   "last_words": "Go my friend, dispatch poor Vasiliky, that these dogs may not profane her beauteous form.",
   "wikipedia": "https://en.wikipedia.org/wiki/Ali_Pasha_of_Ioannina",
@@ -16975,8 +17449,11 @@
    "m": 8,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1788,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "killed in action in attack on Karpenisi",
   "last_words": "To die for liberty is a pleasure and not a pain.",
   "wikipedia": "https://en.wikipedia.org/wiki/Markos_Botsaris",
@@ -17040,6 +17517,31 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Lord_Byron",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "Thomas Harris",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1824,
+   "m": 5,
+   "d": 25
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1824,
+   "m": 5,
+   "d": 25
+  },
+  "born": null,
+  "born_source": null,
+  "cause": "invented the gas discharge valve, the first such device for emptying a lighter-than-air balloon of gas. He died when the cord attached to the gas discharge valve in his balloon tightened as it was deflated, releasing more gas than intended and crashing the balloon.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Harris_(aviator)",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -17494,8 +17996,10 @@
    "m": 11,
    "d": 13
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1799
+  },
+  "born_source": "wikidata",
   "cause": "prior to fatal leap from Genesee Falls",
   "last_words": "Napoleon was a great man and a great general. He conquered armies and he conquered nations. But he couldn't jump the Genesee Falls. Wellington was a great man and a great soldier. He conquered armies and he conquered Napoleon, but he couldn't jump the Genesee Falls. That was left for me to do, and I can do it and will!",
   "wikipedia": "https://en.wikipedia.org/wiki/Sam_Patch",
@@ -17635,8 +18139,10 @@
    "m": 4,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1748
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Is this death?",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Quick_(actor)",
@@ -17743,8 +18249,10 @@
    "m": 8,
    "d": 13
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1808
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by hanging for the non-fatal stabbing of a soldier during the Merthyr Rising. Another man confessed to the stabbing on his deathbed in 1874",
   "last_words": "Oh God, what an injustice.",
   "wikipedia": "https://en.wikipedia.org/wiki/Dic_Penderyn",
@@ -18087,8 +18595,10 @@
    "m": 6,
    "d": 2
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1806
+  },
+  "born_source": "wikidata",
   "cause": "dying after fight against James Burke",
   "last_words": "If I should die, it will not be for the beating I received, but from mortification. I would rather have died than been beaten in that fight.",
   "wikipedia": "https://en.wikipedia.org/wiki/Simon_Byrne",
@@ -18402,8 +18912,10 @@
    "m": 11,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1770
+  },
+  "born_source": "wikidata",
   "cause": "asking his wife to watch by his bedside during the night",
   "last_words": "It is likely you may never need to do it again.",
   "wikipedia": "https://en.wikipedia.org/wiki/James_Hogg",
@@ -18452,8 +18964,10 @@
    "m": 12,
    "d": 28
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1793
+  },
+  "born_source": "wikidata",
   "cause": "addressing his troops just before being shot and killed in a Seminole ambush which resulted in his unit's destruction",
   "last_words": "We have now got through all danger – keep up good heart, and when we get to Fort King, I'll give you three days for Christmas.",
   "wikipedia": "https://en.wikipedia.org/wiki/Francis_L._Dade",
@@ -18478,8 +18992,10 @@
    "m": 3,
    "d": 6
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1800
+  },
+  "born_source": "wikidata",
   "cause": "Texian soldier and rebel, killed in action at the Battle of the Alamo; husband of Alamo survivor Susanna Dickinson",
   "last_words": "Great God, Sue! The Mexicans are inside our walls! All is lost! If they spare you, love our child.",
   "wikipedia": "https://en.wikipedia.org/wiki/Almaron_Dickinson",
@@ -18688,6 +19204,33 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Pushkin",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "Robert Cocking",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1837,
+   "m": 7,
+   "d": 24
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1837,
+   "m": 7,
+   "d": 24
+  },
+  "born": {
+   "y": 1776
+  },
+  "born_source": "wikidata",
+  "cause": "died when his homemade parachute failed. Cocking failed to include the weight of the parachute in his calculations.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Robert_Cocking",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -19283,8 +19826,10 @@
    "m": 12,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1773
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Examine it for yourself.",
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Webster_(geologist)",
@@ -20494,8 +21039,10 @@
    "m": 1,
    "d": 10
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1797
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "I feel that I must come like the poor publican, like the thief on the cross, and like Mary Magdalene. I must come to the foot of the cross and be saved just in the same manner as they.",
   "wikipedia": "https://en.wikipedia.org/wiki/Benjamin_Parsons",
@@ -20548,8 +21095,10 @@
    "m": 1,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1794
+  },
+  "born_source": "wikidata",
   "cause": "announcing the first lines of a hymn to his congregation. He then fell dead as they sang the second line",
   "last_words": "Thee while the first Archangel sings, He hides his face behind his wings.",
   "wikipedia": "https://en.wikipedia.org/wiki/Joseph_Beaumont_(1794-1855)",
@@ -20631,8 +21180,11 @@
    "m": 9,
    "d": 25
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1826,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "prior to his throat being cut by a member of the Yakama",
   "last_words": "Do not kill me! I did not come to fight you!",
   "wikipedia": "https://en.wikipedia.org/wiki/Andrew_Bolon",
@@ -20739,8 +21291,10 @@
    "m": 5,
    "d": 28
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1775
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Don't disturb me. I am too full. O! what a glorious sight.",
   "wikipedia": "https://en.wikipedia.org/wiki/John_Bryan_(Wesleyan_Methodist_minister)",
@@ -20764,8 +21318,10 @@
    "m": 1,
    "d": 27
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1787
+  },
+  "born_source": "wikidata",
   "cause": "when asked how he felt",
   "last_words": "The worse, the better for me.",
   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Alderson_(judge)",
@@ -22293,8 +22849,10 @@
    "m": 8,
    "d": 30
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1836
+  },
+  "born_source": "wikidata",
   "cause": "shot in the throat by police",
   "last_words": "Tell them I died game.",
   "wikipedia": "https://en.wikipedia.org/wiki/Fred_Lowry",
@@ -22329,6 +22887,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Rowland_Kirkland",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "Horace Lawson Hunley",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1863,
+   "m": 10,
+   "d": 15
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1863,
+   "m": 10,
+   "d": 15
+  },
+  "born": {
+   "y": 1823,
+   "m": 12,
+   "d": 29
+  },
+  "born_source": "wikidata",
+  "cause": "a Confederate American marine engineer who built the H. L. Hunley submarine and perished inside it as a member of the second crew to face drownings while testing the experimental vessel. After Hunley's death, the Confederates raised the vessel for another mission that proved fatal for its own crew: the successful sinking of the USS Housatonic during the American Civil War. The feat made the H. L. Hunley the first submarine to sink an enemy warship in wartime.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Horace_Lawson_Hunley",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -22522,8 +23109,10 @@
    "m": 7,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1829
+  },
+  "born_source": "wikidata",
   "cause": "mortally wounded at the Second Battle of Kernstown",
   "last_words": "Lay me down, and save the flag!",
   "wikipedia": "https://en.wikipedia.org/wiki/James_A._Mulligan",
@@ -22692,8 +23281,10 @@
    "m": 7,
    "d": 7
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1820
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by hanging after conviction for taking part in the conspiracy to assassinate Abraham Lincoln",
   "last_words": "Please don't let me fall.",
   "wikipedia": "https://en.wikipedia.org/wiki/Mary_Surratt",
@@ -22876,6 +23467,35 @@
   ]
  },
  {
+  "name": "Karl Flach",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1866,
+   "m": 5,
+   "d": 3
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1866,
+   "m": 5,
+   "d": 3
+  },
+  "born": {
+   "y": 1821,
+   "m": 8,
+   "d": 15
+  },
+  "born_source": "wikidata",
+  "cause": "a German living in Valparaiso, Chile. He built the submarine Flach (brother of the Peruvian \"Toro\", sunk, raised by the Chilean Navy and then disappeared, both events in the Saltpeter War) at the request of the Chilean government, in response to the bombing of Valparaíso. He died after the submarine failed to surface, along with his son and other sailors.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Karl_Flach",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Winfield Scott",
   "kind": "individual",
   "desc": "United States Army general",
@@ -22920,13 +23540,42 @@
    "m": 12,
    "d": 21
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1833
+  },
+  "born_source": "wikidata",
   "cause": "prior to death in the Fetterman Fight",
   "last_words": "Give me 80 men and I'll ride through the whole Sioux nation.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_J._Fetterman",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "William Bullock",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1867,
+   "m": 4,
+   "d": 12
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1867,
+   "m": 4,
+   "d": 12
+  },
+  "born": {
+   "y": 1813
+  },
+  "born_source": "wikidata",
+  "cause": "invented the web rotary printing press. Several years after its invention, his foot was crushed during the installation of a new machine in Philadelphia. The crushed foot developed gangrene and Bullock died during the amputation.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/William_Bullock_(inventor)",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -23014,6 +23663,33 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Baudelaire",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "Julius H. Kroehl",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1867,
+   "m": 9,
+   "d": 9
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1867,
+   "m": 9,
+   "d": 9
+  },
+  "born": {
+   "y": 1820
+  },
+  "born_source": "wikidata",
+  "cause": "a German-American inventor and former Union Navy contractor, is thought to have died of decompression sickness after experimental dives with the Sub Marine Explorer, which he co-designed and constructed with his business partner Ariel Patterson.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Julius_H._Kroehl",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -23235,8 +23911,10 @@
    "m": 7,
    "d": 19
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1842
+  },
+  "born_source": "wikidata",
   "cause": "referencing his failure to kill a stray cat over previous days, as he died of tuberculosis",
   "last_words": "I'll bet that cat is here.",
   "wikipedia": "https://en.wikipedia.org/wiki/Okita_Sōji",
@@ -23387,6 +24065,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Dickens",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "Cowper Phipps Coles",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1870,
+   "m": 9,
+   "d": 7
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1870,
+   "m": 9,
+   "d": 7
+  },
+  "born": {
+   "y": 1819,
+   "m": 7,
+   "d": 9
+  },
+  "born_source": "wikidata",
+  "cause": "a Royal Navy captain who drowned with approximately 480 others in the sinking of HMS Captain, a masted turret ship of his own design.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Cowper_Phipps_Coles",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -24021,6 +24728,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Charles_Sumner",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "Vincent de Groof",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1874,
+   "m": 7,
+   "d": 9
+  },
+  "date_kind": "death",
+  "date_source": "article",
+  "died": {
+   "y": 1874,
+   "m": 7,
+   "d": 9
+  },
+  "born": {
+   "y": 1830,
+   "m": 12,
+   "d": 6
+  },
+  "born_source": "article",
+  "cause": "died after losing control of his ornithopter and crashing.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Vincent_de_Groof",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -25071,8 +25807,11 @@
    "m": 11,
    "d": 11
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1854,
+   "m": 12
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by hanging",
   "last_words": "I suppose it had to come to this. Such is life.",
   "wikipedia": "https://en.wikipedia.org/wiki/Ned_Kelly",
@@ -25125,8 +25864,10 @@
    "m": 12,
    "d": 23
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1848
+  },
+  "born_source": "wikidata",
   "cause": "shot dead in an ambush",
   "last_words": "I wish...I wish...",
   "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Bowdre",
@@ -25335,6 +26076,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/James_A._Garfield",
   "sources": [
    "List of last words (19th century)"
+  ]
+ },
+ {
+  "name": "Webster Wagner",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1882,
+   "m": 1,
+   "d": 13
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1882,
+   "m": 1,
+   "d": 13
+  },
+  "born": {
+   "y": 1817,
+   "m": 10,
+   "d": 2
+  },
+  "born_source": "wikidata",
+  "cause": "died in a train accident, crushed between two of the railway sleeper cars he had invented.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Webster_Wagner",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -26385,8 +27155,10 @@
    "m": 11,
    "d": 11
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1858
+  },
+  "born_source": "wikidata",
   "cause": "prior to hanging after Haymarket affair",
   "last_words": "This is the happiest moment of my life!",
   "wikipedia": "https://en.wikipedia.org/wiki/Adolph_Fischer",
@@ -26754,8 +27526,10 @@
    "m": 4,
    "d": 25
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1830
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "A little while and I will be gone from among you. Whither I cannot tell. From nowhere we came, into nowhere we go. What is life? It is a flash of a firefly in the night. It is the breath of a buffalo in the wintertime. It is the little shadow which runs across the grass and loses itself in the sunset.",
   "wikipedia": "https://en.wikipedia.org/wiki/Crowfoot",
@@ -26837,8 +27611,11 @@
    "m": 12,
    "d": 15
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1831,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "during unsuccessful attempt by police to arrest him",
   "last_words": "I am not going. Do with me what you like. I am not going. Come on! Come on! Take action! Let's go!",
   "wikipedia": "https://en.wikipedia.org/wiki/Sitting_Bull",
@@ -27655,6 +28432,35 @@
   ]
  },
  {
+  "name": "Sylvester H. Roper",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1896,
+   "m": 6,
+   "d": 1
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1896,
+   "m": 6,
+   "d": 1
+  },
+  "born": {
+   "y": 1823,
+   "m": 11,
+   "d": 24
+  },
+  "born_source": "wikidata",
+  "cause": "inventor of the Roper steam velocipede, died of a heart attack or subsequent crash during a public speed trial in 1896. It is unknown whether the crash caused the heart attack, or the heart attack caused the crash.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Sylvester_H._Roper",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Leandro N. Alem",
   "kind": "individual",
   "desc": "Argentine politician",
@@ -27705,11 +28511,12 @@
    "d": 23
   },
   "born_source": "wikidata",
-  "cause": "fatally injured in glider crash",
+  "cause": "fatally injured in glider crash died from injuries sustained in a crash of his hang glider.",
   "last_words": "Sacrifices must be made.",
   "wikipedia": "https://en.wikipedia.org/wiki/Otto_Lilienthal",
   "sources": [
-   "List of last words (19th century)"
+   "List of last words (19th century)",
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -28291,6 +29098,35 @@
   ]
  },
  {
+  "name": "Percy Pilcher",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1899,
+   "m": 10,
+   "d": 2
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1899,
+   "m": 10,
+   "d": 2
+  },
+  "born": {
+   "y": 1866,
+   "m": 1,
+   "d": 16
+  },
+  "born_source": "wikidata",
+  "cause": "died after crashing his glider, having been prevented from demonstrating his powered aircraft.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Percy_Pilcher",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Dwight L. Moody",
   "kind": "individual",
   "desc": "American evangelist and publisher",
@@ -28733,8 +29569,10 @@
    "m": 10,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1840
+  },
+  "born_source": "wikidata",
   "cause": "to Habibullah Khan",
   "last_words": "My last words to you, my son and successor, are: Never trust the Russians.",
   "wikipedia": "https://en.wikipedia.org/wiki/Abdur_Rahman_Khan",
@@ -29079,6 +29917,31 @@
   ]
  },
  {
+  "name": "William Nelson",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1903,
+   "m": 10,
+   "d": 3
+  },
+  "date_kind": "death",
+  "date_source": "article",
+  "died": {
+   "y": 1903,
+   "m": 10,
+   "d": 3
+  },
+  "born": null,
+  "born_source": null,
+  "cause": "a General Electric employee, invented a new way to motorize bicycles. He fell off his prototype bike during a test run.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/William_Nelson_(inventor)",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Andrew Haswell Green",
   "kind": "individual",
   "desc": "American lawyer, city planner and civic leader",
@@ -29163,6 +30026,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Anton_Chekhov",
   "sources": [
    "List of last words (20th century)"
+  ]
+ },
+ {
+  "name": "Clarence Madison Dally",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1904,
+   "m": 10,
+   "d": 2
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1904,
+   "m": 10,
+   "d": 2
+  },
+  "born": {
+   "y": 1865,
+   "m": 8,
+   "d": 1
+  },
+  "born_source": "wikidata",
+  "cause": "an employee of Thomas Edison tasked with developing a focused X-ray tube, the fluoroscope. It was derived from but had greater luminosity than Wilhelm Röntgen's 1895 design. As a result, Dally was exposed to significant doses of ionizing X-radiation and eventually contracted fatal mediastinal tumors.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Clarence_Madison_Dally",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -29492,8 +30384,10 @@
    "m": 8,
    "d": 1
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1869
+  },
+  "born_source": "wikidata",
   "cause": "before committing suicide with his pistol",
   "last_words": "Long live the Korean Empire!",
   "wikipedia": "https://en.wikipedia.org/wiki/Park_Seung-hwan",
@@ -29749,8 +30643,10 @@
    "m": 12,
    "d": 19
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1864
+  },
+  "born_source": "wikidata",
   "cause": "said to his friend before committing suicide with a shotgun",
   "last_words": "Watch me do a trick.",
   "wikipedia": "https://en.wikipedia.org/wiki/Reddy_Foster",
@@ -29872,6 +30768,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Frederick_Holder",
   "sources": [
    "List of last words (20th century)"
+  ]
+ },
+ {
+  "name": "William Pitt",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1909,
+   "m": 9,
+   "d": 12
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1909,
+   "m": 9,
+   "d": 12
+  },
+  "born": {
+   "y": 1840,
+   "m": 11,
+   "d": 29
+  },
+  "born_source": "wikidata",
+  "cause": "a Canadian ferryman who designed the underwater cable ferry as means of improving the former ferry used to connect the Kingston Peninsula to the Kennebecasis Valley in New Brunswick. In 1909, Pitt died after sustaining injuries caused by falling into his ferry's machinery.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/William_Pitt_(engineer)",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -30472,12 +31397,13 @@
    "d": 16
   },
   "born_source": "wikidata",
-  "cause": "prior to leaping from Eiffel Tower in fatal test of \"parachute suit\" The 33-year-old tailor and inventor leaped from the Eiffel Tower wearing a parachute made from cloth, his own invention, and fell 57 m to his death. He was asked by friends and authorities to use a dummy for the feat, but declined, saying \"I intend to prove the worth of my invention\". His impact crater was 15 cm deep.",
+  "cause": "prior to leaping from Eiffel Tower in fatal test of \"parachute suit\" The 33-year-old tailor and inventor leaped from the Eiffel Tower wearing a parachute made from cloth, his own invention, and fell 57 m to his death. He was asked by friends and authorities to use a dummy for the feat, but declined, saying \"I intend to prove the worth of my invention\". His impact crater was 15 cm deep. a tailor, fell to his death from the first deck of the Eiffel Tower during the initial test of a coat parachute which he invented. Reichelt promised the authorities he would use a dummy, but instead he confidently strapped himself into the garment at the last moment and made his leap in front of a camera crew.",
   "last_words": "See you soon.",
   "wikipedia": "https://en.wikipedia.org/wiki/Franz_Reichelt",
   "sources": [
    "List of last words (20th century)",
-   "List of unusual deaths in the 20th century"
+   "List of unusual deaths in the 20th century",
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -30565,6 +31491,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Clara_Barton",
   "sources": [
    "List of last words (20th century)"
+  ]
+ },
+ {
+  "name": "Thomas Andrews",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1912,
+   "m": 4,
+   "d": 15
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1912,
+   "m": 4,
+   "d": 15
+  },
+  "born": {
+   "y": 1873,
+   "m": 2,
+   "d": 7
+  },
+  "born_source": "wikidata",
+  "cause": "the naval architect of the Titanic, designed his famous vessel while serving as the managing director and head of the drafting department of the shipbuilding company Harland and Wolff in Belfast, Ireland. He was aboard the Titanic during her maiden voyage and perished alongside approximately 1,500 others when the ship hit an iceberg and sank on 14 April 1912. Andrews' body was never recovered.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Andrews",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -30724,8 +31679,11 @@
    "m": 3,
    "d": 10
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1821,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Swing low, sweet chariot.",
   "wikipedia": "https://en.wikipedia.org/wiki/Harriet_Tubman",
@@ -30897,6 +31855,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Richard_Corfield",
   "sources": [
    "List of last words (20th century)"
+  ]
+ },
+ {
+  "name": "Aurel Vlaicu",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1913,
+   "m": 9,
+   "d": 13
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1913,
+   "m": 9,
+   "d": 13
+  },
+  "born": {
+   "y": 1882,
+   "m": 11,
+   "d": 19
+  },
+  "born_source": "wikidata",
+  "cause": "died when his self-constructed airplane, A Vlaicu II, failed during an attempt to cross the Carpathian Mountains.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Aurel_Vlaicu",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -31350,8 +32337,11 @@
    "m": 3,
    "d": 14
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1882,
+   "m": 3
+  },
+  "born_source": "wikidata",
   "cause": "mortally wounded during World War I",
   "last_words": "Goodbye, God bless you all.",
   "wikipedia": "https://en.wikipedia.org/wiki/William_Richard_Cotter",
@@ -31929,6 +32919,35 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Lloyd_W._Williams",
   "sources": [
    "List of last words (20th century)"
+  ]
+ },
+ {
+  "name": "Francis Edgar Stanley",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1918,
+   "m": 7,
+   "d": 13
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1918,
+   "m": 7,
+   "d": 13
+  },
+  "born": {
+   "y": 1849,
+   "m": 6,
+   "d": 1
+  },
+  "born_source": "wikidata",
+  "cause": "killed while driving a Stanley Steamer automobile. He drove his car into a woodpile while attempting to avoid farm wagons travelling side by side on the road.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Francis_Edgar_Stanley",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -32608,13 +33627,44 @@
    "m": 2,
    "d": 5
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1872
+  },
+  "born_source": "wikidata",
   "cause": "In an attempt to ascertain the existence of an afterlife, the 48-year-old spiritualist committed suicide by inert gas asphyxiation. Two spiritualists later claimed to have talked with his ghost.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Lynn_Bradford",
   "sources": [
    "List of unusual deaths in the 20th century"
+  ]
+ },
+ {
+  "name": "Valerian Abakovsky",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1921,
+   "m": 7,
+   "d": 24
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1921,
+   "m": 7,
+   "d": 24
+  },
+  "born": {
+   "y": 1895,
+   "m": 9,
+   "d": 23
+  },
+  "born_source": "wikidata",
+  "cause": "constructed the Aerowagon, an experimental high-speed railcar fitted with an aircraft engine and propeller traction, intended to carry Soviet officials. On 24 July 1921, it derailed at high speed, killing seven of the 22 on board, including Abakovsky.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Valerian_Abakovsky",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -33060,8 +34110,10 @@
    "m": 6,
    "d": 4
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1901
+  },
+  "born_source": "wikidata",
   "cause": "The 22-year-old Irish jockey died of a heart attack mid-race in Elmont, New York, and collapsed on the horse, which nonetheless crossed the finish line first, still carrying his body.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Frank_Hayes_(jockey)",
@@ -33508,8 +34560,10 @@
    "m": 4,
    "d": 9
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1857
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Well, we fooled 'em for a long time, didn't we?",
   "wikipedia": "https://en.wikipedia.org/wiki/Zip_the_Pinhead",
@@ -33562,8 +34616,10 @@
    "m": 4,
    "d": 26
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1858
+  },
+  "born_source": "wikidata",
   "cause": "The American stunt performer died after a botched amputation of the infected leg which he had broken after slipping on an orange peel. He had gone over Niagara Falls in a barrel 15 years earlier.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Bobby_Leach",
@@ -33913,11 +34969,12 @@
    "d": 22
   },
   "born_source": "wikidata",
-  "cause": "The 54-year-old Soviet polymath and pioneer of blood transfusion died after exchanging his blood with his student who suffered from malaria and tuberculosis, presumably due to hemolytic transfusion reaction. Bogdanov's hypotheses were that the younger man's blood would rejuvenate his own aging body, and that his own blood, which he believed was resistant to tuberculosis, would treat the student's disease. The student injected with his blood made a complete recovery.",
+  "cause": "The 54-year-old Soviet polymath and pioneer of blood transfusion died after exchanging his blood with his student who suffered from malaria and tuberculosis, presumably due to hemolytic transfusion reaction. Bogdanov's hypotheses were that the younger man's blood would rejuvenate his own aging body, and that his own blood, which he believed was resistant to tuberculosis, would treat the student's disease. The student injected with his blood made a complete recovery. a Russian polymath, Bolshevik revolutionary and pioneer haemotologist who founded the first Institute of Blood Transfusion in 1926. He died from acute hemolytic transfusion reaction after carrying out an experimental mutual blood transfusion between himself and a 21-year-old student with an inactive case of tuberculosis. Bogdanov's hypotheses were that the younger man's blood would rejuvenate his own aging body, and that his own blood, which he believed was resistant to tuberculosis, would treat the student's disease.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Bogdanov",
   "sources": [
-   "List of unusual deaths in the 20th century"
+   "List of unusual deaths in the 20th century",
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -34203,6 +35260,35 @@
   ]
  },
  {
+  "name": "Max Valier",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1930,
+   "m": 5,
+   "d": 17
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1930,
+   "m": 5,
+   "d": 17
+  },
+  "born": {
+   "y": 1895,
+   "m": 2,
+   "d": 9
+  },
+  "born_source": "wikidata",
+  "cause": "invented liquid-fuelled rocket engines as a member of the 1920s German rocket society Verein für Raumschiffahrt. On 17 May 1930, an alcohol-fuelled engine exploded on his test bench in Berlin, killing him instantly.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Max_Valier",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Henry Segrave",
   "kind": "individual",
   "desc": "British land speed and water speed record pioneer",
@@ -34287,6 +35373,31 @@
   "wikipedia": "https://en.wikipedia.org/wiki/Carl_Panzram",
   "sources": [
    "List of last words (20th century)"
+  ]
+ },
+ {
+  "name": "Victims of the 1930 crash of the British R101 airship",
+  "kind": "group",
+  "desc": null,
+  "date": {
+   "y": 1930,
+   "m": 10,
+   "d": 5
+  },
+  "date_kind": "death",
+  "date_source": "article",
+  "died": {
+   "y": 1930,
+   "m": 10,
+   "d": 5
+  },
+  "born": null,
+  "born_source": null,
+  "cause": "Victims of the 1930 crash of the British R101 airship included designers Vincent Crane Richmond and Michael Rope, along with Secretary of State for Air Lord Thomson who proposed the voyage, Air Vice Marshal Sir Sefton Brancker, responsible for its safety certification, and Director of Airship Development Reginald Colmore, who had managed its construction and overruled a safety inspection that recommended rebuilding.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/R101",
+  "sources": [
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -34830,6 +35941,35 @@
   ]
  },
  {
+  "name": "Fred Duesenberg",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1932,
+   "m": 7,
+   "d": 26
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1932,
+   "m": 7,
+   "d": 26
+  },
+  "born": {
+   "y": 1876,
+   "m": 12,
+   "d": 6
+  },
+  "born_source": "wikidata",
+  "cause": "killed in a high-speed road accident in a Duesenberg automobile.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Fred_Duesenberg",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Zhang Zongchang",
   "kind": "individual",
   "desc": null,
@@ -34932,8 +36072,10 @@
    "m": 2,
    "d": 22
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1873
+  },
+  "born_source": "wikidata",
   "cause": "Five people, called the \"Murder Trust,\" planned to kill Malloy for life insurance. Over the course of two months, they added antifreeze, turpentine, horse liniment, and finally rat poison in his alcohol, but Malloy drank it with no problems whatsoever. They then tried feeding him wood alcohol, expired oysters, and then a sandwich made of expired sardines and shrapnel, none of which had the desired effect. The group then tried to freeze him to death, and when that failed they ran him over twice with a taxi, from which Malloy recovered. Finally, they connected a hose to a coal gas jet and placed it in his mouth, which caused his death from carbon monoxide poisoning. Malloy was given nicknames such as \"Mike the Durable\", \"Iron Mike\", and \"The Irish Rasputin\".",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Michael_Malloy",
@@ -35044,8 +36186,10 @@
    "m": 5,
    "d": 9
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1909
+  },
+  "born_source": "wikidata",
   "cause": "while leaving ring after loss to Tony Marullo; he then collapsed from a cerebral hemorrhage",
   "last_words": "I butted him.",
   "wikipedia": "https://en.wikipedia.org/wiki/Jack_Holland_(boxer)",
@@ -36243,8 +37387,10 @@
    "m": 11,
    "d": 10
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1881
+  },
+  "born_source": "wikidata",
   "cause": null,
   "last_words": "Peace be upon you.",
   "wikipedia": "https://en.wikipedia.org/wiki/Mustafa_Kemal_Atatürk",
@@ -38183,11 +39329,12 @@
    "d": 18
   },
   "born_source": "wikidata",
-  "cause": "The 55-year-old American chemical engineer, best known for inventing leaded gasoline and chlorofluorocarbon gas, contracted polio in 1941, which left him severely disabled, leading him to devise an elaborate system of ropes and pulleys to lift himself out of bed. In 1944, he became entangled in the device and died of strangulation.",
+  "cause": "The 55-year-old American chemical engineer, best known for inventing leaded gasoline and chlorofluorocarbon gas, contracted polio in 1941, which left him severely disabled, leading him to devise an elaborate system of ropes and pulleys to lift himself out of bed. In 1944, he became entangled in the device and died of strangulation. an American engineer and chemist who contracted polio at age 51, leaving him severely disabled. He devised an elaborate system of ropes and pulleys to help others lift him from bed. He became entangled in the ropes and died of strangulation at the age of 55. However, he is better known for two of his other inventions: the tetraethyl lead (TEL) additive to gasoline, and chlorofluorocarbons (CFCs).",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Thomas_Midgley_Jr.",
   "sources": [
-   "List of unusual deaths in the 20th century"
+   "List of unusual deaths in the 20th century",
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -39607,8 +40754,11 @@
    "m": 4,
    "d": 8
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1908,
+   "circa": true
+  },
+  "born_source": "wikidata",
   "cause": "in a note to Abdul Rahman Hassan Azzam written shortly before his death during the Battle of Qastal",
   "last_words": "To the General Secretary of the Arab League in Cairo: I lay full blame on your shoulders for leaving my soldiers, in the zenith of victory, without aid or weaponry. Abd al-Qadir al-Husayni.",
   "wikipedia": "https://en.wikipedia.org/wiki/Abd_al-Qadir_al-Husayni",
@@ -42242,6 +43392,33 @@
   ]
  },
  {
+  "name": "David Ogle",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1962,
+   "m": 5,
+   "d": 25
+  },
+  "date_kind": "death",
+  "date_source": "article",
+  "died": {
+   "y": 1962,
+   "m": 5,
+   "d": 25
+  },
+  "born": {
+   "y": 1922
+  },
+  "born_source": "wikidata",
+  "cause": "killed in an auto accident when he lost control while driving the Ogle SX1000 he had designed.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/David_Ogle",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Adolf Eichmann",
   "kind": "individual",
   "desc": "German-Austrian SS-Obersturmbannführer",
@@ -42485,8 +43662,10 @@
    "m": 6,
    "d": 11
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1897
+  },
+  "born_source": "wikidata",
   "cause": "prior to self-immolation",
   "last_words": "vi \"Nam mô A Di Đà Phật\" homage to Amitābha",
   "wikipedia": "https://en.wikipedia.org/wiki/Thích_Quảng_Đức",
@@ -45183,8 +46362,10 @@
    "m": 6,
    "d": 6
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1944
+  },
+  "born_source": "wikidata",
   "cause": "who committed suicide by burning herself",
   "last_words": "You have destroyed the beauty of the world!",
   "wikipedia": "https://en.wikipedia.org/wiki/Huguette_Gaulin",
@@ -46652,8 +47833,10 @@
    "m": 1,
    "d": 25
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1954
+  },
+  "born_source": "wikidata",
   "cause": "The Ford plant worker became the first person known to be killed by a robot when a factory robot's arm struck him in the head.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Robert_Williams_(robot_fatality)",
@@ -47998,8 +49181,10 @@
    "m": 9,
    "d": 5
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1938
+  },
+  "born_source": "wikidata",
   "cause": "prior to fatal pond jump in rocket-powered car",
   "last_words": "Everything is fine, I'm ready to go.",
   "wikipedia": "https://en.wikipedia.org/wiki/Ken_Carter_(stuntman)",
@@ -48023,8 +49208,10 @@
    "m": 9,
    "d": 15
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1923
+  },
+  "born_source": "wikidata",
   "cause": "The 61-year-old tennis linesman died after a ball served by player Stefan Edberg at the US Open struck him in the groin and he fell out of his chair, striking his head on the hardcourt surface.",
   "last_words": null,
   "wikipedia": "https://en.wikipedia.org/wiki/Dick_Wertheim",
@@ -48474,11 +49661,12 @@
    "d": 19
   },
   "born_source": "wikidata",
-  "cause": "prior to fatal barrel drop from ceiling of Houston Astrodome",
+  "cause": "prior to fatal barrel drop from ceiling of Houston Astrodome a Czech professional stuntman living in Canada who developed a shock-absorbent barrel. He died following a demonstration involving the barrel being dropped from the roof of the Houston Astrodome. He was fatally injured when his barrel hit the rim of the water tank meant to cushion his fall.",
   "last_words": "I'm ready. It feels good. It's a go.",
   "wikipedia": "https://en.wikipedia.org/wiki/Karel_Soucek",
   "sources": [
-   "List of last words (20th century)"
+   "List of last words (20th century)",
+   "List of inventors killed by their own invention"
   ]
  },
  {
@@ -49198,8 +50386,10 @@
    "m": 5,
    "d": 20
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1961
+  },
+  "born_source": "wikidata",
   "cause": "prior to execution by gas chamber",
   "last_words": "I guess no one's going to call.",
   "wikipedia": "https://en.wikipedia.org/wiki/Edward_Earl_Johnson",
@@ -52363,6 +53553,35 @@
   ]
  },
  {
+  "name": "Ellis V. Eichman",
+  "kind": "individual",
+  "desc": null,
+  "date": {
+   "y": 1997,
+   "m": 7,
+   "d": 18
+  },
+  "date_kind": "death",
+  "date_source": "wikidata",
+  "died": {
+   "y": 1997,
+   "m": 7,
+   "d": 18
+  },
+  "born": {
+   "y": 1913,
+   "m": 7,
+   "d": 15
+  },
+  "born_source": "wikidata",
+  "cause": "died during the maiden test flight of the Aerobat III in Brownsville, Texas.",
+  "last_words": null,
+  "wikipedia": "https://en.wikipedia.org/wiki/Ellis_V._Eichman",
+  "sources": [
+   "List of inventors killed by their own invention"
+  ]
+ },
+ {
   "name": "Diana",
   "kind": "individual",
   "desc": "former princess consort of Charles, Prince of Wales",
@@ -53300,8 +54519,10 @@
    "m": 6,
    "d": 6
   },
-  "born": null,
-  "born_source": null,
+  "born": {
+   "y": 1962
+  },
+  "born_source": "wikidata",
   "cause": "right before his execution",
   "last_words": "I want to tell you, Keith, and the Ponsano family that I always regretted what I've done. It was my own doing. After this is over with, I hope you can find the peace to move on.",
   "wikipedia": "https://en.wikipedia.org/wiki/Feltus_Taylor",
